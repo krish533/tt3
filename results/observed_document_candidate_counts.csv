@@ -1,0 +1,481 @@
+Institution,Year,sentences,candidates
+Albert Einstein/Yeshiva,1985,49,4
+Albert Einstein/Yeshiva,2015,77,6
+Albert Einstein/Yeshiva,2018,81,6
+Arizona State University,2001,41,0
+Arizona State University,2003,55,0
+Arizona State University,2007,86,0
+Arizona State University,2018,89,7
+Arizona State University,2025,110,2
+Auburn University,2012,82,15
+Ball State University,2008,39,0
+Ball State University,2013,282,16
+Baylor College of Medicine,1995,10,0
+Baylor College of Medicine,2001,227,9
+Boston University,2000,45,1
+Boston University,2017,80,3
+Brandeis University,1990,59,5
+Brandeis University,2004,103,2
+Brandeis University,2020,129,8
+Brigham Young University,1991,186,6
+Brigham Young University,2019,96,1
+Brown University,1981,67,2
+Brown University,2005,105,3
+Brown University,2021,97,6
+California Institute of Technology,1944,23,5
+California Institute of Technology,1945,26,2
+California Institute of Technology,1947,13,3
+California Institute of Technology,1962,3,0
+California Institute of Technology,1968,38,3
+California Institute of Technology,1998,56,7
+California Institute of Technology,2003,61,4
+California Institute of Technology,2007,77,3
+California Institute of Technology,2023,207,2
+Carnegie Mellon University,1985,70,7
+Case Western Reserve University,2003,81,2
+Clemson University,1991,67,6
+Clemson University,2009,157,6
+Clemson University,2016,167,7
+Clemson University,2025,161,7
+Colorado State University,2000,123,8
+Colorado State University,2007,63,3
+Columbia University,1989,142,2
+Creighton University,2002,307,12
+Creighton University,2019,106,11
+Dartmouth College,1996,31,0
+Dartmouth College,2009,32,0
+Dartmouth College,2016,194,16
+Dartmouth College,2019,196,17
+Drexel University,2004,109,12
+Drexel University,2005,109,12
+Drexel University,2018,113,13
+Duke University,1990,93,11
+Duke University,1997,96,10
+Duke University,2016,129,8
+Duke University,2022,145,8
+East Carolina University,2012,92,10
+East Carolina University,2013,82,11
+East Carolina University,2021,100,13
+Emory University,1990,36,1
+Emory University,2002,173,5
+Emory University,2011,128,5
+Emory University,2015,128,5
+Florida Atlantic University,1998,54,8
+Florida Atlantic University,2001,411,19
+Florida Atlantic University,2011,419,18
+Florida Atlantic University,2013,336,18
+Florida Atlantic University,2020,327,19
+Florida State University,1991,139,9
+George Mason University,2008,114,14
+Georgetown University,2006,203,13
+Georgetown University,2019,165,10
+Georgia Institute of Technology,1996,59,4
+Georgia Institute of Technology,1997,105,0
+Georgia Institute of Technology,2002,4029,3
+Georgia Institute of Technology,2014,108,5
+Harvard University,1998,21,1
+Harvard University,2008,133,10
+Harvard University,2010,138,9
+Illinois Institute of Technology,2000,86,1
+Illinois Institute of Technology,2013,105,4
+Illinois Institute of Technology,2021,112,2
+Illinois State University,1990,56,1
+Illinois State University,1999,120,4
+Illinois State University,2016,88,5
+Illinois State University,2024,89,4
+Indiana University,1997,98,2
+Indiana University,2008,90,1
+Indiana University,2014,102,2
+Indiana University,2020,105,2
+Indiana University,2024,87,2
+Iowa State University,1982,24,3
+Iowa State University,2000,7,0
+Johns Hopkins University,1992,123,4
+Johns Hopkins University,2001,138,4
+Johns Hopkins University,2011,137,4
+Kansas State University,2002,166,3
+Kent State University,2007,33,2
+Kent State University,2015,33,2
+Kent State University,2016,45,2
+Lehigh University,2001,118,4
+Lehigh University,2002,236,8
+Louisiana State University,2008,113,8
+Louisiana State University,2014,113,8
+Louisiana State University,2015,143,10
+Louisiana State University,2016,288,20
+Louisiana State University,2018,159,10
+Louisiana State University,2021,307,20
+Louisiana State University,2023,147,10
+Louisiana State University,2024,146,10
+Loyola University Medical Center,2006,27,3
+Loyola University Medical Center,2009,32,1
+Medical College of Ohio,2009,31,1
+Medical College of Ohio,2012,31,3
+Medical College of Ohio,2017,31,1
+Medical College of Ohio,2023,20,0
+Medical College of Ohio,2024,30,3
+Medical University of South Carolina,2005,91,2
+Medical University of South Carolina,2008,83,6
+Medical University of South Carolina,2016,84,5
+Miami University,2018,66,3
+Miami University,2022,64,3
+Michigan State University,1998,825,9
+Michigan State University,2001,15,2
+Michigan State University,2017,31,5
+Michigan Technological University,2010,36,3
+Michigan Technological University,2011,42,3
+Mississippi State University,1994,140,11
+Mississippi State University,2001,154,3
+Mississippi State University,2003,165,3
+Montana State University,1997,33,0
+Montana State University,2017,74,16
+New Jersey Institute of Technology,1985,84,1
+New Jersey Institute of Technology,2003,99,14
+New Jersey Institute of Technology,2024,113,16
+New Jersey Institute of Technology,2025,41,1
+New Mexico State University,1993,56,1
+New Mexico State University,2013,6226,2
+New Mexico State University,2019,184,7
+New Mexico State University,2024,193,9
+New York Medical College,1998,105,3
+New York University,1983,91,8
+New York University,2012,635,33
+New York University,2021,816,48
+North Carolina State University,1997,116,8
+North Carolina State University,2002,98,7
+North Carolina State University,2003,130,9
+North Carolina State University,2011,85,15
+North Dakota State University,2010,124,7
+North Dakota State University,2016,63,3
+North Dakota State University,2017,50,4
+Northeastern University,1995,165,15
+Northeastern University,2023,61,16
+Northern Illinois University,1997,183,12
+Northern Illinois University,2007,97,8
+Ohio State University,1989,122,6
+Ohio State University,2018,176,10
+Ohio State University,2024,166,10
+Ohio University,1995,56,4
+Oklahoma State University,2010,104,3
+Oklahoma State University,2019,191,12
+Oregon Health Sciences University,2013,778,8
+Oregon Health Sciences University,2024,20,0
+Oregon State University,2001,234,2
+Oregon State University,2003,83,2
+Oregon State University,2023,121,7
+Penn State University,1998,39,1
+Penn State University,2005,31,0
+Penn State University,2013,60,0
+Portland State University,1997,21,0
+Portland State University,2015,92,2
+Portland State University,2025,172,3
+Princeton University,2001,94,2
+Princeton University,2017,24,1
+Purdue University,2000,149,16
+Purdue University,2007,89,4
+Purdue University,2011,92,4
+Purdue University,2013,104,6
+Purdue University,2015,45,2
+Purdue University,2016,46,2
+Purdue University,2017,57,2
+Purdue University,2025,115,4
+Rice University,1999,92,9
+Rice University,2023,103,4
+Rutgers the State University of NJ,1996,84,6
+Rutgers the State University of NJ,2000,166,2
+Rutgers the State University of NJ,2008,26,2
+Rutgers the State University of NJ,2013,143,7
+Rutgers the State University of NJ,2021,103,9
+SUNY,1988,47,5
+SUNY,2016,253,16
+SUNY,2017,9,1
+SUNY,2021,56,2
+Southern Illinois University,1992,44,2
+Southern Illinois University,1998,104,8
+Southern Illinois University,2005,106,3
+Southern Illinois University,2016,92,0
+Southern Illinois University,2018,1005,1
+Southern Illinois University,2022,1082,2
+St. Louis University,1999,103,8
+St. Louis University,2009,109,8
+St. Louis University,2022,71,4
+St. Louis University,2024,78,3
+Stanford University,1980,224,2
+Stanford University,1989,194,2
+Stanford University,1994,169,5
+Stanford University,1996,182,5
+Stanford University,1998,188,4
+Stanford University,1999,197,5
+Stanford University,2013,134,7
+Stanford University,2023,177,9
+Stevens Institute of Technology,2000,234,10
+Stevens Institute of Technology,2014,114,15
+Stevens Institute of Technology,2018,122,15
+Stevens Institute of Technology,2025,1393,1
+Syracuse University,1992,43,1
+Syracuse University,2024,45,1
+Temple University,1985,53,2
+Temple University,2011,51,2
+Temple University,2022,53,2
+Texas A&M University System,1991,72,2
+Texas A&M University System,2001,19,0
+Texas A&M University System,2006,223,4
+Texas A&M University System,2009,224,5
+Texas A&M University System,2012,232,8
+Texas A&M University System,2019,136,8
+Texas A&M University System,2022,65,3
+Texas A&M University System,2023,91,8
+Texas A&M University System,2025,67,3
+Thomas Jefferson University,1998,131,10
+Thomas Jefferson University,2000,9,0
+Thomas Jefferson University,2006,107,8
+Tufts University,2005,72,7
+Tulane University,1985,91,4
+Tulane University,2001,108,4
+University of Akron,1996,85,3
+University of Akron,2002,116,1
+University of Akron,2015,69,3
+University of Alabama in Birmingham (UAB),1980,37,3
+University of Alabama in Birmingham (UAB),2013,29,4
+University of Alabama in Huntsville (UAH),1991,22,3
+University of Alabama in Huntsville (UAH),2018,38,6
+University of Arizona,1983,15,2
+University of Arizona,1985,46,3
+University of Arizona,1987,112,11
+University of Arizona,1996,44,5
+University of Arizona,1999,104,3
+University of Arizona,2001,120,4
+University of Arizona,2010,122,5
+University of Arizona,2014,108,7
+University of Arizona,2017,89,7
+University of Arizona,2018,184,14
+University of Arkansas,1945,32,6
+University of Arkansas,1967,33,4
+University of Arkansas,1986,46,5
+University of Arkansas,2001,89,7
+University of Arkansas,2011,86,8
+University of Arkansas,2015,85,8
+University of Arkansas,2016,95,8
+University of California System,1985,25,3
+University of California System,1990,23,3
+University of California System,1997,53,1
+University of California System,2024,50,1
+University of Central Florida,2013,44,2
+University of Central Florida,2024,28,3
+University of Chicago,2002,143,4
+University of Chicago,2018,15,2
+University of Cincinnati,2009,49,3
+University of Cincinnati,2019,50,3
+University of Colorado,2011,167,1
+University of Connecticut,2015,99,5
+University of Dayton,1996,304,10
+University of Dayton,2015,71,7
+University of Delaware,1993,41,0
+University of Delaware,2008,41,0
+University of Delaware,2021,76,3
+University of Denver,2008,58,2
+University of Denver,2023,81,4
+University of Florida,2013,486,22
+University of Georgia,1982,63,1
+University of Georgia,1995,96,1
+University of Hawaii,1985,46,7
+University of Hawaii,2014,45,7
+University of Hawaii,2020,74,4
+University of Houston,1997,80,1
+University of Houston,2007,110,2
+University of Houston,2015,538,3
+University of Houston,2017,600,2
+University of Houston,2023,666,2
+University of Idaho,1998,85,5
+University of Idaho,2016,106,2
+University of Idaho,2022,116,2
+University of Illinois At Chicago,2017,393,3
+University of Illinois At Chicago,2018,390,3
+University of Illinois At Chicago,2020,403,2
+University of Illinois At Chicago,2021,375,2
+University of Illinois At Chicago,2023,382,2
+University of Illinois Urbana Champaign,2006,44,2
+University of Illinois Urbana Champaign,2023,378,1
+University of Iowa,2015,265,12
+University of Iowa,2016,265,12
+University of Iowa,2017,263,19
+University of Iowa,2018,264,20
+University of Iowa,2019,284,19
+University of Iowa,2020,283,19
+University of Iowa,2021,284,19
+University of Iowa,2022,283,19
+University of Iowa,2023,284,19
+University of Kansas,1998,47,6
+University of Kansas,2001,110,14
+University of Kentucky,1988,109,3
+University of Kentucky,1993,132,3
+University of Kentucky,2005,141,3
+University of Louisville,1998,74,3
+University of Louisville,2005,128,3
+University of Maine,2002,260,14
+University of Maryland Baltimore,1990,48,4
+University of Maryland Baltimore,2005,260,20
+University of Maryland Baltimore,2006,246,17
+University of Maryland Baltimore,2016,234,17
+University of Maryland Baltimore,2019,234,15
+University of Maryland Baltimore County,2002,385,21
+University of Maryland Baltimore County,2022,115,6
+University of Maryland College Park,2018,108,7
+University of Massachusetts Amherst,1997,196,14
+University of Massachusetts Amherst,2004,154,13
+University of Massachusetts Medical Center,1997,196,14
+University of Massachusetts Medical Center,2004,157,14
+University of Miami,2014,2056,11
+University of Miami,2016,87,0
+University of Michigan,2007,98,1
+University of Michigan,2021,101,1
+University of Minnesota,2010,41,2
+University of Minnesota,2015,52,3
+University of Minnesota,2022,103,7
+University of Missouri System,1996,106,12
+University of Missouri System,2010,105,14
+University of Missouri System,2019,103,13
+University of Missouri System,2021,186,24
+University of Missouri System,2025,191,24
+University of Montana,1999,54,5
+University of Montana,2007,54,7
+University of Nebraska,2003,2140,15
+University of Nebraska,2018,693,5
+University of Nebraska,2019,34,1
+University of Nebraska,2025,3619,19
+University of New Hampshire,2007,123,4
+University of New Hampshire,2014,123,4
+University of New Mexico,1999,157,2
+University of New Mexico,2010,140,2
+University of New Mexico,2022,131,1
+University of New Orleans,2012,111,3
+University of New Orleans,2014,100,1
+University of New Orleans,2023,102,2
+University of North Carolina Chapel Hill,2013,62,4
+University of North Dakota,1992,50,4
+University of North Dakota,2005,131,14
+University of North Dakota,2013,69,4
+University of North Texas,2001,67,5
+University of North Texas,2005,42,6
+University of North Texas,2015,75,3
+University of North Texas,2018,113,6
+University of Notre Dame,2003,109,4
+University of Notre Dame,2015,112,3
+University of Notre Dame,2021,142,3
+University of Oklahoma,1999,142,5
+University of Oklahoma,2004,140,4
+University of Oklahoma,2017,150,4
+University of Oregon,2015,14,1
+University of Pennsylvania,1993,751,5
+University of Pennsylvania,2005,745,3
+University of Pennsylvania,2015,1278,8
+University of Pennsylvania,2023,145,30
+University of Pittsburgh,1978,49,2
+University of Pittsburgh,2005,46,3
+University of Pittsburgh,2021,93,0
+University of Rhode Island,1986,280,9
+University of Rhode Island,2013,2932,13
+University of Rhode Island,2021,130,9
+University of Rochester,1997,118,2
+University of Rochester,2013,114,2
+University of South Alabama,1984,32,4
+University of South Alabama,2005,83,8
+University of South Alabama,2020,155,11
+University of South Alabama,2022,97,9
+University of South Carolina,1994,186,2
+University of South Carolina,2005,113,4
+University of South Carolina,2021,96,7
+University of South Carolina,2025,105,1
+University of South Florida,2012,116,11
+University of South Florida,2020,118,11
+University of South Florida,2023,125,11
+University of South Florida,2025,123,10
+University of Southern California,2001,286,13
+University of Tennessee,2003,132,25
+University of Texas Hlth Sci Ctr San Antonio,1978,46,0
+University of Texas Hlth Sci Ctr San Antonio,2013,55,1
+University of Texas Hlth Sci Ctr San Antonio,2014,128,6
+University of Texas Hlth Sci Ctr San Antonio,2015,186,4
+University of Texas Hlth Sci Ctr San Antonio,2016,120,2
+University of Texas Hlth Sci Ctr San Antonio,2017,124,2
+University of Texas Hlth Sci Ctr San Antonio,2018,123,2
+University of Texas Hlth Sci Ctr San Antonio,2021,74,1
+University of Texas Houston Hlth. Sci. Ctr_,1978,46,0
+University of Texas Houston Hlth. Sci. Ctr_,2012,82,1
+University of Texas Houston Hlth. Sci. Ctr_,2013,55,1
+University of Texas Houston Hlth. Sci. Ctr_,2014,128,6
+University of Texas Houston Hlth. Sci. Ctr_,2015,125,2
+University of Texas Houston Hlth. Sci. Ctr_,2016,119,2
+University of Texas Houston Hlth. Sci. Ctr_,2017,124,2
+University of Texas Houston Hlth. Sci. Ctr_,2021,83,2
+University of Texas Medical Branch (Galveston),1978,46,0
+University of Texas Medical Branch (Galveston),2012,106,2
+University of Texas Medical Branch (Galveston),2013,55,1
+University of Texas Medical Branch (Galveston),2014,125,6
+University of Texas Medical Branch (Galveston),2015,128,2
+University of Texas Medical Branch (Galveston),2016,120,2
+University of Texas Medical Branch (Galveston),2017,124,2
+University of Texas Medical Branch (Galveston),2018,123,2
+University of Texas Medical Branch (Galveston),2019,111,1
+University of Texas Southwestern Med. Ctr_,1978,46,0
+University of Texas Southwestern Med. Ctr_,2013,56,1
+University of Texas Southwestern Med. Ctr_,2014,127,6
+University of Texas Southwestern Med. Ctr_,2015,128,2
+University of Texas Southwestern Med. Ctr_,2016,225,2
+University of Texas Southwestern Med. Ctr_,2017,124,2
+University of Texas Southwestern Med. Ctr_,2018,123,2
+University of Texas Southwestern Med. Ctr_,2022,107,1
+University of Texas Southwestern Med. Ctr_,2025,113,1
+University of Texas at Austin,1978,2002,1
+University of Texas at Austin,2011,107,6
+University of Texas at Austin,2013,40,2
+University of Texas at Austin,2015,81,3
+University of Texas at Austin,2016,79,3
+University of Texas at Austin,2017,81,3
+University of Texas at Austin,2018,78,3
+University of Texas at Austin,2021,74,1
+University of Tulsa,2003,58,6
+University of Tulsa,2017,60,7
+University of Utah,1999,43,5
+University of Utah,2013,100,14
+University of Vermont,2013,182,7
+University of Virginia,1993,50,2
+University of Virginia,2000,51,2
+University of Virginia,2016,18,0
+University of Virginia,2021,54,1
+University of Washington,2003,140,2
+University of Washington,2015,236,6
+University of Washington,2025,226,4
+University of Wisconsin-Madison,2005,140,5
+University of Wisconsin-Madison,2008,30,0
+University of Wisconsin-Madison,2022,28,0
+Utah State University,1999,49,2
+Utah State University,2002,70,5
+Utah State University,2016,69,3
+Vanderbilt University,2011,69,0
+Vanderbilt University,2016,92,2
+Virginia Commonwealth University,1999,108,1
+Virginia Commonwealth University,2003,94,4
+Virginia Commonwealth University,2021,156,16
+Virginia Tech,1990,114,5
+Virginia Tech,2008,74,2
+Virginia Tech,2013,71,2
+Virginia Tech,2015,85,3
+Virginia Tech,2021,86,5
+Wake Forest University,1993,45,4
+Wake Forest University,1999,57,4
+Wake Forest University,2017,248,2
+Wake Forest University,2021,67,2
+Wake Forest University,2025,118,2
+Washington State University,2014,189,8
+Washington State University,2016,254,10
+Washington State University,2023,289,9
+Washington University in St. Louis,2014,327,4
+Washington University in St. Louis,2023,319,6
+Wayne State University,1998,159,12
+West Virginia University,1999,55,4
+West Virginia University,2006,57,2
+West Virginia University,2016,60,2
+West Virginia University,2019,84,5
+Yale University,1998,70,5
+Yale University,2023,75,7
