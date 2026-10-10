@@ -1,0 +1,90 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,booktabs,hyperref}
+\title{Who Owns Academic Knowledge?\\The Evolution of Intellectual Property Rights in American Universities}
+\author{Krishna Sharma\\Working-paper research design}
+\date{October 10, 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+We propose a clause-level longitudinal analysis of intellectual-property policies at U.S. universities, distinguishing changes in the vocabulary of academic knowledge from changes in substantive ownership claims and protections for creators. The canonical Paper 1 institutional panel spans 1944--2025 with 150 universities and 480 directly observed policy records; unlike the larger institution-year panel, these observations are actual policy records rather than carried-forward values. We specify reproducible extraction, source-document verification, legal coding, and historical within-institution comparisons. The first complete corpus screen identifies 2,779 candidate sentences in 449 of 480 observed policy records. These are screening counts, not verified ownership claims.
+\end{abstract}
+\noindent\textbf{Keywords:} University intellectual property; property rights; ownership; legal text analysis; institutional change.\\
+\noindent\textbf{JEL:} K11, O34, I23, D23.
+
+\section{Introduction}
+What does a university claim to own when its researchers produce inventions, software, scholarly works, data, or course materials? A reference to a new type of asset in an intellectual-property policy does not necessarily establish ownership. Broad ownership language can coexist with specific exceptions, and detailed definitions can clarify already existing rights rather than enlarge them. This paper distinguishes definitional change from the allocation of property and control rights.
+
+The unit of analysis is a legally operative clause read in the context of its full source document. This question is distinct from the companion papers on policy communication and technology-transfer performance: we neither construct another communication index nor regress patents or licensing outcomes on one.
+
+\section{Legal and Conceptual Framework}
+A university policy operates alongside relevant intellectual-property law, contracts, employment relationships and sponsored-research agreements. Bayh--Dole does not amount to statutory assignment of all academic outputs to universities. We classify five features separately: the knowledge category named; the presumptive rights-holder; whether rights require assignment; any institutional funding or resource-use triggers; and explicit exclusions or retained creator rights.
+
+A policy's stated claim is not necessarily enforceable in every factual setting. Accordingly, our descriptive outcome is the written allocation proposed by the institution, not an adjudication of legal validity.
+
+\section{Data}
+The canonical source is the Paper 1 cleaned sentence dataset at \url{https://github.com/krish533/Tech-transfer-1}, file \texttt{P1\_replication\_package/data/raw/policy\_sentences\_cleaned\_combined.csv}. The primary panel's verified construction asserts 150 institutions, 4,277 institution-year observations, and 480 directly observed policy records, over 1944--2025. Many panel years are carried forward and are not separate policies. This paper excludes 1925. Source-document counts and coverage must be independently checked after the full file is ingested. Earlier WP3 draft totals cannot be assumed to hold in this harmonized sample.
+
+\section{Reproducible Measurement}
+The accompanying script screens policy sentences for intersections of asset terminology (inventions, software, data, scholarly works, teaching materials, biological materials, and AI-related products) and rule terminology (ownership, assignment, exceptions, creator retention, resource triggers and open-ended claims). These are \emph{candidate passages}, not validated ownership claims.
+
+Human coders must examine the surrounding paragraphs in source PDFs and classify rights-holder, the type and conditionality of a claim, creator rights, scope of exceptions, and any ambiguity. The codebook will track each clause's institution, date, document and quoted provision. A random positive and negative review sample and independent double coding are necessary before substantive tabulations.
+
+\section{Descriptive Estimands}
+Let $R_{ivk}$ denote a verified university ownership claim for asset class $k$ at institution $i$ in observed policy vintage $v$, and $E_{ivk}$ an explicit creator-right exception. We seek empirical frequencies and within-university changes in these provisions. A revision measure is
+\[
+\Delta R_{ik}=R_{i,v_2,k}-R_{i,v_1,k}, \qquad v_2>v_1.
+\]
+We will distinguish cases where a policy adds new definitional vocabulary without changing $R$ or $E$. Descriptive trends should report their archival denominators, institution weights, and composition sensitivity. No simple pre/post trend will be described as a causal effect of Bayh--Dole.
+
+\section{Hypotheses}
+\noindent\textbf{H1:} The range of named IP categories can expand without a corresponding expansion of university ownership claims.
+
+\noindent\textbf{H2:} University claims and creator-right exceptions may evolve asymmetrically.
+
+\noindent\textbf{H3:} General prospective ownership clauses may cover later technologies without their explicit enumeration.
+
+\noindent\textbf{H4:} Ownership triggers and exceptions differ by institution and knowledge category.
+
+\section{Screening Findings and Contextual Validation}
+The full upstream database contains 480 directly observed institution--year policy groups at 150 institutions (1944--2025). Automated screening yields 2,779 candidate ownership-related sentences in 449 groups. These are lexical retrieval counts rather than legally validated ownership claims.
+
+\begin{table}[ht]\centering
+\caption{Observed candidate screening by decade; rates are not ownership measures}
+\begin{tabular}{rrrrr}\toprule
+Decade & Groups & Institutions & Candidates & Per 1,000 sentences \\ \midrule
+1940s & 4 & 2 & 16 & 170.2 \\
+1960s & 3 & 2 & 7 & 94.6 \\
+1970s & 6 & 6 & 3 & 1.3 \\
+1980s & 24 & 21 & 99 & 47.8 \\
+1990s & 76 & 66 & 368 & 43.3 \\
+2000s & 105 & 86 & 598 & 32.1 \\
+2010s & 172 & 100 & 1,056 & 28.9 \\
+2020s & 90 & 70 & 632 & 33.1 \\ \bottomrule
+\end{tabular}\end{table}
+
+Among the universities, 129 have multiple observed policy years. Coverage in the 1940s--1970s is very thin and institutional composition changes across decades.
+
+\subsection{Concrete contextual examples}
+A Wake Forest 1999 clause conditions university ownership of employee and student inventions on work-related circumstances. A Creighton 2019 clause claims university ownership of specified trade secrets developed in university work, whereas an Illinois State 2024 clause lists academic works owned by creators. These are illustrative examples, not representative legal classifications.
+
+Lexical false positives include Georgia Tech 2002 language about conditions on old examinations, Purdue 2000 sponsor-reporting provisions, and a Texas institution 2014 clause on licensing costs; all contain open-ended phrases without establishing future ownership. An NYU 2012 reference to patents not owned by NYU also does not establish creator retention.
+
+\subsection{Validation remaining}
+Automated retrieval does not adjudicate ownership or legal enforceability. Complete surrounding paragraphs, historical amendments, independent positive/negative sample coding, reliability checks, and within-institution legal comparisons are required before any claim about shifts in ownership boundaries. The code and source checksum are in the replication repository.
+\section{Discussion}
+The main interpretive distinction is between the scope of named objects and the allocation of control. More verbose definitions need not mean stronger institutional claims. Conversely, short, open-ended clauses may have potentially broad application. Identifying the actual direction of change requires contextual legal interpretation and historical comparisons of properly dated policy versions.
+
+\section{Conclusion}
+This project establishes an auditable approach to studying the changing boundaries of university IP ownership, on the original Paper 1 institutional population but with a legally independent research question. Substantive conclusions await validated document coding.
+
+\begin{thebibliography}{9}
+\bibitem{mowery} Mowery, D. C., Nelson, R. R., Sampat, B. N., and Ziedonis, A. A. (2001). The growth of patenting and licensing by U.S. universities. \emph{Research Policy} 30, 99--119.
+\bibitem{sampat} Sampat, B. N. (2006). Patenting and U.S. academic research in the 20th century. \emph{Research Policy} 35, 772--789.
+\bibitem{lach} Lach, S. and Schankerman, M. (2008). Incentives and invention in universities. \emph{RAND Journal of Economics} 39, 403--433.
+\bibitem{nrc} National Research Council (2011). \emph{Managing University Intellectual Property in the Public Interest}. National Academies Press.
+\bibitem{hart} Hart, O. (1995). \emph{Firms, Contracts, and Financial Structure}. Oxford University Press.
+\bibitem{grimmer} Grimmer, J. and Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. \emph{Political Analysis} 21, 267--297.
+\end{thebibliography}
+\end{document}
