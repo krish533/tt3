@@ -8,7 +8,7 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-We propose a clause-level longitudinal analysis of intellectual-property policies at U.S. universities, distinguishing changes in the vocabulary of academic knowledge from changes in substantive ownership claims and protections for creators. The canonical Paper 1 institutional panel spans 1944--2025 with 150 universities and 480 directly observed policy records; unlike the larger institution-year panel, these observations are actual policy records rather than carried-forward values. We specify reproducible extraction, source-document verification, legal coding, and historical within-institution comparisons. This is a research-design manuscript: full-data results and legal conclusions remain pending.
+We propose a clause-level longitudinal analysis of intellectual-property policies at U.S. universities, distinguishing changes in the vocabulary of academic knowledge from changes in substantive ownership claims and protections for creators. The canonical Paper 1 institutional panel spans 1944--2025 with 150 universities and 480 directly observed policy records; unlike the larger institution-year panel, these observations are actual policy records rather than carried-forward values. We specify reproducible extraction, source-document verification, legal coding, and historical within-institution comparisons. The first complete corpus screen identifies 2,779 candidate sentences in 449 of 480 observed policy records. These are screening counts, not verified ownership claims.
 \end{abstract}
 \noindent\textbf{Keywords:} University intellectual property; property rights; ownership; legal text analysis; institutional change.\\
 \noindent\textbf{JEL:} K11, O34, I23, D23.
@@ -47,8 +47,25 @@ We will distinguish cases where a policy adds new definitional vocabulary withou
 
 \noindent\textbf{H4:} Ownership triggers and exceptions differ by institution and knowledge category.
 
-\section{Results Status}
-\textbf{Results intentionally pending.} The 29.5 MB canonical sentence file was located in the original GitHub repository, but could not be transferred into the present analysis runtime. The extractor was tested with synthetic cases only. Full-data clause counts, legal classification, figures and tests are not yet available; no empirical conclusions are claimed.
+\section{First-Pass Corpus Screening Results}
+The canonical Paper 1 raw sentence dataset was processed using a GitHub Actions runner. The screening extracted 2,779 candidate asset-and-rule sentences distributed across 449 of 480 observed institution--year policy text groups. The data cover 150 institutions, with observed years from 1944 to 2025. Table~\ref{tab:screening} reports these actual execution outputs.
+
+\begin{table}[ht]
+\centering
+\caption{Observed corpus and automated clause screening (not legal validation)}
+\label{tab:screening}
+\begin{tabular}{lr}\toprule
+Measure & Count \\ \midrule
+Institutions & 150 \\
+Observed institution--year policy groups & 480 \\
+Groups with candidate passages & 449 \\
+Asset-and-rule candidate sentences & 2,779 \\
+Earliest year & 1944 \\
+Latest year & 2025 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+The observed candidate rate is a property of the detection rules, not an estimate of how frequently universities assert ownership. Clauses with retained faculty rights and exceptions can also match. The sentence-level screen may miss provisions whose operative language spans multiple sentences. We therefore cannot yet conclude whether written university ownership rights increased or whether creator rights contracted over time. The source file checksum (SHA-256) is recorded at \url{https://github.com/krish533/tt3}. Document-level coding and independent legal validation remain necessary.
 
 \section{Discussion}
 The main interpretive distinction is between the scope of named objects and the allocation of control. More verbose definitions need not mean stronger institutional claims. Conversely, short, open-ended clauses may have potentially broad application. Identifying the actual direction of change requires contextual legal interpretation and historical comparisons of properly dated policy versions.
