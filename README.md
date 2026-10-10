@@ -17,3 +17,8 @@ pdflatex -interaction=nonstopmode manuscript/main.tex
 **Status:** Synthetic-fixture test passes; LaTeX compiles. Full-data execution is **not completed** because the GitHub connector would not transfer the 29.5 MB raw CSV into the execution container. All legal coding and substantive findings remain pending.
 
 The algorithm produces *candidates for human review*, NOT verified ownership outcomes. Before publication, check original paragraphs/source documents, verify institutional IDs and policy vintages, perform manual double coding plus negative-sample recall checks, and compare actual within-institution revisions. See manuscript for full protocol.
+
+## October 10, 2026 full data results and scope
+GitHub Actions successfully downloaded the 29.5 MB upstream CSV. The first-pass screen returned **2,779 candidates in 449 of 480 directly observed records**, from 150 universities (1944–2025). A follow-up script `code/analyze_screening.py` calculates historical coverage, decade denominators, and deterministic manual-review samples. **The data contain unambiguous lexical false positives**; the script flags are not verified legal ownership labels. No nationwide ownership-expansion or creator-right contraction finding has been established.
+
+The manuscript now includes observed decade-level counts and specific contextual examples, and `docs/legal_coding_protocol.md` specifies the remaining full-text adjudication and double-coding requirements. The draft is **not journal-submission-ready** until those steps are completed.
