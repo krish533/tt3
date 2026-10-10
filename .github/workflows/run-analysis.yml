@@ -25,6 +25,8 @@ jobs:
           sha256sum input/policy_sentences_cleaned_combined.csv > results/source_sha256.txt
       - name: Run actual sentence extraction
         run: python code/extract_ownership.py input/policy_sentences_cleaned_combined.csv --outdir results
+      - name: Analyze historical screening denominators
+        run: python code/analyze_screening.py --outdir results
       - name: Summarize screened records
         run: |
           python - <<'PY'
@@ -43,5 +45,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add results/source_sha256.txt results/observed_document_candidate_counts.csv results/screening_summary.json
+          git add results/source_sha256.txt results/observed_document_candidate_counts.csv results/screening_summary.json results/screening_by_decade.csv results/institution_historical_coverage.csv
           git diff --cached --quiet || (git commit -m "Record full corpus screening outputs" && git push)
