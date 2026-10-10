@@ -47,26 +47,32 @@ We will distinguish cases where a policy adds new definitional vocabulary withou
 
 \noindent\textbf{H4:} Ownership triggers and exceptions differ by institution and knowledge category.
 
-\section{First-Pass Corpus Screening Results}
-The canonical Paper 1 raw sentence dataset was processed using a GitHub Actions runner. The screening extracted 2,779 candidate asset-and-rule sentences distributed across 449 of 480 observed institution--year policy text groups. The data cover 150 institutions, with observed years from 1944 to 2025. Table~\ref{tab:screening} reports these actual execution outputs.
+\section{Screening Findings and Contextual Validation}
+The full upstream database contains 480 directly observed institution--year policy groups at 150 institutions (1944--2025). Automated screening yields 2,779 candidate ownership-related sentences in 449 groups. These are lexical retrieval counts rather than legally validated ownership claims.
 
-\begin{table}[ht]
-\centering
-\caption{Observed corpus and automated clause screening (not legal validation)}
-\label{tab:screening}
-\begin{tabular}{lr}\toprule
-Measure & Count \\ \midrule
-Institutions & 150 \\
-Observed institution--year policy groups & 480 \\
-Groups with candidate passages & 449 \\
-Asset-and-rule candidate sentences & 2,779 \\
-Earliest year & 1944 \\
-Latest year & 2025 \\ \bottomrule
-\end{tabular}
-\end{table}
+\begin{table}[ht]\centering
+\caption{Observed candidate screening by decade; rates are not ownership measures}
+\begin{tabular}{rrrrr}\toprule
+Decade & Groups & Institutions & Candidates & Per 1,000 sentences \\ \midrule
+1940s & 4 & 2 & 16 & 170.2 \\
+1960s & 3 & 2 & 7 & 94.6 \\
+1970s & 6 & 6 & 3 & 1.3 \\
+1980s & 24 & 21 & 99 & 47.8 \\
+1990s & 76 & 66 & 368 & 43.3 \\
+2000s & 105 & 86 & 598 & 32.1 \\
+2010s & 172 & 100 & 1,056 & 28.9 \\
+2020s & 90 & 70 & 632 & 33.1 \\ \bottomrule
+\end{tabular}\end{table}
 
-The observed candidate rate is a property of the detection rules, not an estimate of how frequently universities assert ownership. Clauses with retained faculty rights and exceptions can also match. The sentence-level screen may miss provisions whose operative language spans multiple sentences. We therefore cannot yet conclude whether written university ownership rights increased or whether creator rights contracted over time. The source file checksum (SHA-256) is recorded at \url{https://github.com/krish533/tt3}. Document-level coding and independent legal validation remain necessary.
+Among the universities, 129 have multiple observed policy years. Coverage in the 1940s--1970s is very thin and institutional composition changes across decades.
 
+\subsection{Concrete contextual examples}
+A Wake Forest 1999 clause conditions university ownership of employee and student inventions on work-related circumstances. A Creighton 2019 clause claims university ownership of specified trade secrets developed in university work, whereas an Illinois State 2024 clause lists academic works owned by creators. These are illustrative examples, not representative legal classifications.
+
+Lexical false positives include Georgia Tech 2002 language about conditions on old examinations, Purdue 2000 sponsor-reporting provisions, and a Texas institution 2014 clause on licensing costs; all contain open-ended phrases without establishing future ownership. An NYU 2012 reference to patents not owned by NYU also does not establish creator retention.
+
+\subsection{Validation remaining}
+Automated retrieval does not adjudicate ownership or legal enforceability. Complete surrounding paragraphs, historical amendments, independent positive/negative sample coding, reliability checks, and within-institution legal comparisons are required before any claim about shifts in ownership boundaries. The code and source checksum are in the replication repository.
 \section{Discussion}
 The main interpretive distinction is between the scope of named objects and the allocation of control. More verbose definitions need not mean stronger institutional claims. Conversely, short, open-ended clauses may have potentially broad application. Identifying the actual direction of change requires contextual legal interpretation and historical comparisons of properly dated policy versions.
 
