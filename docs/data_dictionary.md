@@ -25,3 +25,5 @@ All upstream population identifiers are preserved. `Year` is an upstream vintage
 Knowledge flags may overlap. `emerging_technologies` includes AI and older mask-work/semiconductor terms; it is only a search dictionary. `patentable_inventions` also matches generic invention/patent wording and cannot establish patentability. Broad publication/book/article expressions can retrieve references rather than scholarly-work rules. These tradeoffs are disclosed; none of the flags are validated outcome labels.
 
 Missing legal labels mean unknown, never no ownership. No source text is changed to repair duplicates or date discrepancies. Sensitivity files identify alternative populations explicitly. Each analysis uses direct observations; the carried-forward panel is read only to reconcile identifiers and counts.
+
+`validation_supplement_manifest.csv` is a separate category/operation enrichment sample. Rows are sentence–stratum memberships, may overlap, and report within-stratum probabilities only; do not pool them unweighted with the main probability sample.

@@ -2,7 +2,7 @@
 import json,hashlib
 from pathlib import Path
 import pandas as pd
-from classify_provisions import ASSETS
+from classify_provisions import ASSETS,OPERATIONS
 ROOT=Path(__file__).resolve().parents[1]
 def main():
  readings=json.loads((ROOT/'data/illustrative_legal_readings.json').read_text())
@@ -25,6 +25,19 @@ def main():
  dict(institution='University of Delaware',earlier='1993-labelled corpus',later='2008-labelled corpus',dimension='Observed cleaned text',earlier_reading='Same normalized sentence set',later_reading='Same normalized sentence set',status='lexical_stability_only',obstacle='Archival representation is not operative law')]).to_csv(ROOT/'results/ownership_transition_review.csv',index=False)
  sample=pd.read_csv(ROOT/'results/validation_sample_manifest.csv');f=features.loc[sample.sentence_id]
  pd.DataFrame([dict(category=c,sample_flagged_sentences=int(f[c].sum()),reference_standard_labels=0) for c in ASSETS]).to_csv(ROOT/'results/validation_category_coverage.csv',index=False)
+ # Separate enrichment sample for rare categories and clause types. Overlapping
+ # stratum memberships are retained, not assigned an invented pooled weight.
+ supplements=[]
+ for j,col in enumerate(list(ASSETS)+list(OPERATIONS)):
+  pool=features[features[col]]
+  chosen=pool.sample(n=min(12,len(pool)),random_state=4031+j).reset_index()
+  chosen=chosen[['sentence_id','Institution','Year','File','Sentence_Number']]
+  chosen['lexical_stratum']=col;chosen['stratum_population']=len(pool)
+  chosen['stratum_sample']=len(chosen);chosen['within_stratum_inclusion_probability']=len(chosen)/len(pool) if len(pool) else 0
+  supplements.append(chosen)
+ supplement=pd.concat(supplements,ignore_index=True)
+ supplement.to_csv(ROOT/'results/validation_supplement_manifest.csv',index=False)
  report=dict(probability_sample_sentences=len(sample),sample_institutions=sample.Institution.nunique(),purposive_readings=len(readings),purposive_sentence_links=len(rows),independent_human_annotators=0,reference_standard_labels=0,precision=None,recall=None,agreement=None,reason='No independent reference standard; purposive AI-assisted readings diagnose errors without estimating accuracy.')
+ report.update(supplement_stratum_draws=len(supplement),supplement_unique_sentences=supplement.sentence_id.nunique(),supplement_institutions=supplement.Institution.nunique(),supplement_strata=supplement.lexical_stratum.nunique())
  (ROOT/'results/validation_status.json').write_text(json.dumps(report,indent=2)+'\n');print(report)
 if __name__=='__main__':main()

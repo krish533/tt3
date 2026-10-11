@@ -35,3 +35,5 @@ No independent human annotator was available. The template remains blank. Twelve
 ## Historical comparisons
 
 Match campus, policy authority, object, actor, trigger and scope before comparing adjacent observed vintages. Endpoints do not establish exact revision dates. Classify expansion, contraction, unchanged rule, mixed change, terminology-only, or unresolvable. Use common fact patterns: the same nonemployee student using ordinary course resources, for example. Different actors are not an ordered transition. Lexical matrices remain separate from ownership matrices. No institution-year has a completed exhaustive legal adjudication in this release; population legal outcomes remain unidentified.
+
+A separate enrichment manifest draws up to 12 flagged sentences per knowledge-category and operation dictionary (seed 4031 plus stratum index). It covers rare flagged categories and clause types that the probability sample misses. Overlapping stratum membership is preserved; its within-stratum probabilities must not be treated as pooled population weights. It supplies review material, not completed validation.

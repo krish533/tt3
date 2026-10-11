@@ -8,5 +8,9 @@
   "precision": null,
   "recall": null,
   "agreement": null,
-  "reason": "No independent reference standard; purposive AI-assisted readings diagnose errors without estimating accuracy."
+  "reason": "No independent reference standard; purposive AI-assisted readings diagnose errors without estimating accuracy.",
+  "supplement_stratum_draws": 240,
+  "supplement_unique_sentences": 236,
+  "supplement_institutions": 80,
+  "supplement_strata": 20
 }

@@ -1,0 +1,241 @@
+sentence_id,Institution,Year,File,Sentence_Number,lexical_stratum,stratum_population,stratum_sample,within_stratum_inclusion_probability
+p1r003720,East Carolina University,2021,120v_EastCarolinaUniversity_IPPolicy_2021_ocr.txt,3,patentable_inventions,15554,12,0.0007715057220007715
+p1r003674,Florida Atlantic University,1998,120v_FloridaAtlanticUniversity_IPPolicy_1998.txt,11,patentable_inventions,15554,12,0.0007715057220007715
+p1r015254,New Jersey Institute of Technology,1985,120v_NewJerseyInstituteofTechnology_IPPolicy_1985_ocr.txt,74,patentable_inventions,15554,12,0.0007715057220007715
+p1r016170,North Carolina State University,1997,120v_NorthCarolinaStateUniversity_IPPolicy_1997.txt,12,patentable_inventions,15554,12,0.0007715057220007715
+p1r081425,University of Virginia,2021,32s_UniversityofVirginia_IPPolicy,11,patentable_inventions,15554,12,0.0007715057220007715
+p1r003201,Drexel University,2004,120v_DrexelUniversity_IPPolicy_2004.txt,43,patentable_inventions,15554,12,0.0007715057220007715
+p1r044275,University of Iowa,2022,120v_UniversityofIowa_IPpolicy_2022_ocr.txt,81,patentable_inventions,15554,12,0.0007715057220007715
+p1r026173,Purdue University,2000,120v_PurdueUniversity_IPPolicy_2000_ocr.txt,82,patentable_inventions,15554,12,0.0007715057220007715
+p1r065788,University of Texas Houston Hlth. Sci. Ctr_,2014,120v_UniversityofTexasHoustonHealth.Sci.Ctr._IPPolicy_2014_ocr.txt,109,patentable_inventions,15554,12,0.0007715057220007715
+p1r085289,University of Pennsylvania,2023,UniversityofPennsylvania_IPPolicy_2023.txt,25,patentable_inventions,15554,12,0.0007715057220007715
+p1r061147,University of South Florida,2020,120v_UniversityofSouthFlorida_IPPolicy_2020_ocr.txt,80,patentable_inventions,15554,12,0.0007715057220007715
+p1r016977,Northern Illinois University,1997,120v_NorthernIllinoisUniversity_1997.txt,26,patentable_inventions,15554,12,0.0007715057220007715
+p1r012207,Louisiana State University,2021,120v_LouisianaStateUniversity_IPPolicy_2021_1.txt,42,software,2053,12,0.0058451047247929854
+p1r066126,University of Texas Houston Hlth. Sci. Ctr_,2021,120v_UniversityofTexasHoustonHealth.Sci.Ctr._IPPolicy_2021.txt,22,software,2053,12,0.0058451047247929854
+p1r014968,Mississippi State University,2003,120v_MississippiStateUniversity_IPPolicy_2003_ocr.txt,31,software,2053,12,0.0058451047247929854
+p1r080775,University of Texas at Austin,2011,32s_UniversityOfTexasAtAustin_IPPolicy,20,software,2053,12,0.0058451047247929854
+p1r001830,Brandeis University,2020,120v_BrandeisUniversity_IPPolicy_2020.txt,42,software,2053,12,0.0058451047247929854
+p1r046299,University of Maryland Baltimore,2019,120v_UniversityofMarylandBaltimore_IPPolicy_2019_ocr.txt,105,software,2053,12,0.0058451047247929854
+p1r059570,University of Rhode Island,2021,120v_UniversityofRhodeIsland_IPPolicy_2021_ocr.txt,7,software,2053,12,0.0058451047247929854
+p1r011867,Louisiana State University,2014,120v_LouisianaStateUniversity_IPPolicy_2014.txt,96,software,2053,12,0.0058451047247929854
+p1r001833,Brandeis University,2020,120v_BrandeisUniversity_IPPolicy_2020.txt,46,software,2053,12,0.0058451047247929854
+p1r026183,Purdue University,2000,120v_PurdueUniversity_IPPolicy_2000_ocr.txt,92,software,2053,12,0.0058451047247929854
+p1r003444,Drexel University,2018,120v_DrexelUniversity_IPPolicy_2018.txt,79,software,2053,12,0.0058451047247929854
+p1r000895,Ball State University,2013,120v_BallStateUniversity_IPPolicy_2013.txt,178,software,2053,12,0.0058451047247929854
+p1r051664,University of New Hampshire,2007,120v_UniversityofNewHampshire_IPPolicy_2007.txt,30,algorithms,35,12,0.34285714285714286
+p1r075990,New York University,2012,32s_NewYorkUniversity_IPPolicy,420,algorithms,35,12,0.34285714285714286
+p1r035393,University of Arizona,2018,120v_UniversityofArizona_IPPolicy_2018_2_ocr.txt,89,algorithms,35,12,0.34285714285714286
+p1r000417,Arizona State University,2018,120v_ArizonaStateUniversity_IPPolicy_2018.txt,84,algorithms,35,12,0.34285714285714286
+p1r005736,Georgia Institute of Technology,2014,120v_GeorgiaInstituteofTechnology_IPPolicy_2014.txt,13,algorithms,35,12,0.34285714285714286
+p1r018316,Oregon Health Sciences University,2013,120v_OregonHealthSciencesUniversity_IPPolicy_2013.txt,169,algorithms,35,12,0.34285714285714286
+p1r076999,New York University,2021,32s_NewYorkUniversity_IPPolicy,794,algorithms,35,12,0.34285714285714286
+p1r052583,University of New Hampshire,2014,120v_UniversityofNewHampshire_IPPolicy_2014_ocr.txt,34,algorithms,35,12,0.34285714285714286
+p1r061086,University of South Florida,2020,120v_UniversityofSouthFlorida_IPPolicy_2020_ocr.txt,17,algorithms,35,12,0.34285714285714286
+p1r013272,Medical University of South Carolina,2005,120v_MedicalUniversityofSouthCarolina_IPPolicy_2005_ocr.txt,20,algorithms,35,12,0.34285714285714286
+p1r046555,University of Maryland Baltimore County,2022,120v_UniversityofMarylandBaltimoreCounty_IPPolicy_2022_ocr.txt,128,algorithms,35,12,0.34285714285714286
+p1r018501,Oregon Health Sciences University,2013,120v_OregonHealthSciencesUniversity_IPPolicy_2013.txt,362,algorithms,35,12,0.34285714285714286
+p1r005266,Florida Atlantic University,2020,120v_FloridaAtlanticUniversity_IPPolicy_2020.txt,30,research_datasets,661,12,0.018154311649016642
+p1r036129,University of Connecticut,2015,120v_UniversityofConnecticut_IPPolicy_2015_ocr.txt,123,research_datasets,661,12,0.018154311649016642
+p1r031626,Stevens Institute of Technology,2025,120v_StevensInstituteofTechnology_FacultyHandbook_2025_ocr.txt,1174,research_datasets,661,12,0.018154311649016642
+p1r075693,New York University,2012,32s_NewYorkUniversity_IPPolicy,123,research_datasets,661,12,0.018154311649016642
+p1r013952,Michigan State University,1998,120v_MichiganStateUniversity_IPPolicy_1998.txt,19,research_datasets,661,12,0.018154311649016642
+p1r029085,Southern Illinois University,2022,120v_SouthernIllinoisUnivrsity_PolicyBargain_2022_ocr.txt,399,research_datasets,661,12,0.018154311649016642
+p1r067518,University of Texas Southwestern Med. Ctr_,2015,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2015_ocr.txt,102,research_datasets,661,12,0.018154311649016642
+p1r046555,University of Maryland Baltimore County,2022,120v_UniversityofMarylandBaltimoreCounty_IPPolicy_2022_ocr.txt,128,research_datasets,661,12,0.018154311649016642
+p1r059596,University of Rhode Island,2021,120v_UniversityofRhodeIsland_IPPolicy_2021_ocr.txt,34,research_datasets,661,12,0.018154311649016642
+p1r044743,University of Louisville,1998,120v_UniversityofLouisville_IPPolicy_1998.txt,17,research_datasets,661,12,0.018154311649016642
+p1r076840,New York University,2021,32s_NewYorkUniversity_IPPolicy,635,research_datasets,661,12,0.018154311649016642
+p1r064722,University of Texas Hlth Sci Ctr San Antonio,2015,120v_UniversityofTexasHealthScienceCenterSanAntonio_IPPolicy_2015(1)_ocr.txt,47,research_datasets,661,12,0.018154311649016642
+p1r004537,Florida Atlantic University,2011,120v_FloridaAtlanticUniversity_IPPolicy_2011.txt,319,scholarly_publications,3990,12,0.0030075187969924814
+p1r002651,Creighton University,2019,120v_CreightonUniversity_IPPolicy_2019.txt,33,scholarly_publications,3990,12,0.0030075187969924814
+p1r002050,Clemson University,2016,120v_ClemsonUniversity_IPPolicy_2016.txt,50,scholarly_publications,3990,12,0.0030075187969924814
+p1r018672,Oregon Health Sciences University,2013,120v_OregonHealthSciencesUniversity_IPPolicy_2013.txt,536,scholarly_publications,3990,12,0.0030075187969924814
+p1r075162,Johns Hopkins University,1992,32s_JohnsHopkinsUniversity_IPPolicy,81,scholarly_publications,3990,12,0.0030075187969924814
+p1r005828,Georgia Institute of Technology,2014,120v_GeorgiaInstituteofTechnology_IPPolicy_2014.txt,122,scholarly_publications,3990,12,0.0030075187969924814
+p1r030588,Stevens Institute of Technology,2025,120v_StevensInstituteofTechnology_FacultyHandbook_2025_ocr.txt,84,scholarly_publications,3990,12,0.0030075187969924814
+p1r002837,Colorado State University,2000,120v_ColoradoStateUniversity_IPPolicy_2000.txt,111,scholarly_publications,3990,12,0.0030075187969924814
+p1r015528,New Mexico State University,1993,120v_NewMexicoStateUniversity_IPPolicy_1993.txt,7,scholarly_publications,3990,12,0.0030075187969924814
+p1r058766,University of North Texas,2015,120v_UniversityofNorthTexas_IPPolicy_2015_ocr.txt,28,scholarly_publications,3990,12,0.0030075187969924814
+p1r016454,North Carolina State University,2011,120v_NorthCarolinaStateUniversity_IPPolicy_2011.txt,65,scholarly_publications,3990,12,0.0030075187969924814
+p1r053890,University of Nebraska,2003,120v_UniversityofNebraska_IPPolicy_2003.txt,1237,scholarly_publications,3990,12,0.0030075187969924814
+p1r011156,Kansas State University,2002,120v_KansasStateUniversity_IPPolicy_2002.txt,27,teaching_materials,742,12,0.016172506738544475
+p1r003102,Creighton University,2002,120v_CreightonUniversity_IPPolicy_2002.txt,274,teaching_materials,742,12,0.016172506738544475
+p1r043740,University of Iowa,2023,120v_UniversityofIowa_IPpolicy_2023_ocr.txt,164,teaching_materials,742,12,0.016172506738544475
+p1r018994,Oregon State University,2001,120v_OregonStateUniversity_IPPolicy_2001_ocr.txt,72,teaching_materials,742,12,0.016172506738544475
+p1r075551,New York University,1983,32s_NewYorkUniversity_IPPolicy,72,teaching_materials,742,12,0.016172506738544475
+p1r035641,University of Arkansas,2011,120s_UniversityofArkansas_IPPolicy_2011.txt,60,teaching_materials,742,12,0.016172506738544475
+p1r035461,University of Arkansas,2001,120s_UniversityofArkansas_IPPolicy_2001.txt,69,teaching_materials,742,12,0.016172506738544475
+p1r038239,University of Houston,2017,120v_UniversityofHoustonSystem_IPPolicy_2017_ocr.txt,134,teaching_materials,742,12,0.016172506738544475
+p1r012458,Louisiana State University,2016,120v_LouisianaStateUniversity_IPPolicy_2016_2.txt,129,teaching_materials,742,12,0.016172506738544475
+p1r047622,University of Massachusetts Medical Center,2004,120v_UniversityofMassachusettsSystem_IPPolicy_2004_ocr.txt,10,teaching_materials,742,12,0.016172506738544475
+p1r076971,New York University,2021,32s_NewYorkUniversity_IPPolicy,766,teaching_materials,742,12,0.016172506738544475
+p1r003003,Creighton University,2002,120v_CreightonUniversity_IPPolicy_2002.txt,162,teaching_materials,742,12,0.016172506738544475
+p1r084753,University of Pennsylvania,2015,UniversityofPennsylvania_IPPolicy_2015.txt,767,biological_materials,346,12,0.03468208092485549
+p1r018312,Oregon Health Sciences University,2013,120v_OregonHealthSciencesUniversity_IPPolicy_2013.txt,165,biological_materials,346,12,0.03468208092485549
+p1r040510,University of Illinois At Chicago,2017,120v_UniversityofIllinoisatChicago_IPPolicy_2017_ocr.txt,158,biological_materials,346,12,0.03468208092485549
+p1r032954,Texas A&M University System,2012,120v_TexasA&M_IPPolicy_2012_ocr.txt,240,biological_materials,346,12,0.03468208092485549
+p1r036376,University of Dayton,1996,120v_UniversityofDayton_IPPolicy_1996.txt,246,biological_materials,346,12,0.03468208092485549
+p1r075990,New York University,2012,32s_NewYorkUniversity_IPPolicy,420,biological_materials,346,12,0.03468208092485549
+p1r083831,University of Pennsylvania,2005,UniversityofPennsylvania_IPPolicy_2005.txt,590,biological_materials,346,12,0.03468208092485549
+p1r012053,Louisiana State University,2016,120v_LouisianaStateUniversity_IPPolicy_2016_1.txt,24,biological_materials,346,12,0.03468208092485549
+p1r000752,Ball State University,2013,120v_BallStateUniversity_IPPolicy_2013.txt,33,biological_materials,346,12,0.03468208092485549
+p1r068065,University of Texas Southwestern Med. Ctr_,2025,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2025_ocr.txt,112,biological_materials,346,12,0.03468208092485549
+p1r074416,Emory University,2015,32s_EmoryUniversity_IPPolicy,123,biological_materials,346,12,0.03468208092485549
+p1r071030,Washington State University,2014,120v_WashingtonStateUniversity_IPPolicy_2014_ocr.txt,55,biological_materials,346,12,0.03468208092485549
+p1r046456,University of Maryland Baltimore,2019,120v_UniversityofMarylandBaltimore_IPPolicy_2019_ocr.txt,345,tangible_research_property,637,12,0.018838304552590265
+p1r060032,University of Rochester,1997,120v_UniversityofRochester_IPPolicy_1997.txt,63,tangible_research_property,637,12,0.018838304552590265
+p1r010498,Illinois State University,2016,120v_IllinoisStateUniversity_IPPolicy_2016.txt,58,tangible_research_property,637,12,0.018838304552590265
+p1r026262,Purdue University,2000,120v_PurdueUniversity_IPPolicy_2000_ocr.txt,192,tangible_research_property,637,12,0.018838304552590265
+p1r036819,University of Colorado,2011,120v_UniversityofColorado_IPPolicy_2011_ocr.txt,167,tangible_research_property,637,12,0.018838304552590265
+p1r026248,Purdue University,2000,120v_PurdueUniversity_IPPolicy_2000_ocr.txt,178,tangible_research_property,637,12,0.018838304552590265
+p1r060034,University of Rochester,1997,120v_UniversityofRochester_IPPolicy_1997.txt,65,tangible_research_property,637,12,0.018838304552590265
+p1r058564,University of North Dakota,2005,120s_UniversityofNorthDakota_IPPolicy_2005.txt,25,tangible_research_property,637,12,0.018838304552590265
+p1r084624,University of Pennsylvania,2015,UniversityofPennsylvania_IPPolicy_2015.txt,638,tangible_research_property,637,12,0.018838304552590265
+p1r076224,New York University,2021,32s_NewYorkUniversity_IPPolicy,19,tangible_research_property,637,12,0.018838304552590265
+p1r047440,University of Massachusetts Medical Center,1997,120v_UniversityofMassachusettsSystem_IPPolicy_1997_ocr.txt,25,tangible_research_property,637,12,0.018838304552590265
+p1r083685,University of Pennsylvania,2005,UniversityofPennsylvania_IPPolicy_2005.txt,444,tangible_research_property,637,12,0.018838304552590265
+p1r046943,University of Maryland Baltimore County,2002,120v_UniversityofMarylandBaltimoreCounty_IPPolicy_2002_ocr.txt,428,emerging_technologies,217,12,0.055299539170506916
+p1r019192,Oregon State University,2023,120v_OregonStateUniversity_IPPolicy_2023_ocr.txt,10,emerging_technologies,217,12,0.055299539170506916
+p1r052647,University of New Hampshire,2014,120v_UniversityofNewHampshire_IPPolicy_2014_ocr.txt,103,emerging_technologies,217,12,0.055299539170506916
+p1r036354,University of Dayton,1996,120v_UniversityofDayton_IPPolicy_1996.txt,224,emerging_technologies,217,12,0.055299539170506916
+p1r060010,University of Rochester,1997,120v_UniversityofRochester_IPPolicy_1997.txt,37,emerging_technologies,217,12,0.055299539170506916
+p1r030224,Stevens Institute of Technology,2000,120v_StevensInstituteofTechnology_IPPolicy_2000_ocr.txt,178,emerging_technologies,217,12,0.055299539170506916
+p1r014948,Mississippi State University,2003,120v_MississippiStateUniversity_IPPolicy_2003_ocr.txt,3,emerging_technologies,217,12,0.055299539170506916
+p1r033039,Texas A&M University System,2006,120v_TexasA&M_IPPolicy_2006_ocr.txt,17,emerging_technologies,217,12,0.055299539170506916
+p1r035393,University of Arizona,2018,120v_UniversityofArizona_IPPolicy_2018_2_ocr.txt,89,emerging_technologies,217,12,0.055299539170506916
+p1r060220,University of Rochester,2013,120v_UniversityofRochester_IPPolicy_2013_ocr.txt,37,emerging_technologies,217,12,0.055299539170506916
+p1r059774,University of Rhode Island,1986,120v_UniversityofRhodeIsland_IPPolicy_1986.txt,95,emerging_technologies,217,12,0.055299539170506916
+p1r060022,University of Rochester,1997,120v_UniversityofRochester_IPPolicy_1997.txt,51,emerging_technologies,217,12,0.055299539170506916
+p1r044469,University of Iowa,2022,120v_UniversityofIowa_IPpolicy_2022_ocr.txt,288,ownership_wording,9417,12,0.0012742911755336094
+p1r046579,University of Maryland College Park,2018,120v_UniversityofMarylandCollegePark_IPPolicy_2018_ocr.txt,5,ownership_wording,9417,12,0.0012742911755336094
+p1r001824,Brandeis University,2020,120v_BrandeisUniversity_IPPolicy_2020.txt,34,ownership_wording,9417,12,0.0012742911755336094
+p1r067751,University of Texas Southwestern Med. Ctr_,2018,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2018_ocr.txt,56,ownership_wording,9417,12,0.0012742911755336094
+p1r084908,University of Pennsylvania,2015,UniversityofPennsylvania_IPPolicy_2015.txt,922,ownership_wording,9417,12,0.0012742911755336094
+p1r011672,Lehigh University,2002,120v_LehighUniversity_IPPolicy_2002_1.txt,13,ownership_wording,9417,12,0.0012742911755336094
+p1r043442,University of Iowa,2020,120v_UniversityofIowa_IPpolicy_2020_ocr.txt,149,ownership_wording,9417,12,0.0012742911755336094
+p1r032685,Texas A&M University System,2009,120v_TexasA&M_IPPolicy_2009_ocr.txt,186,ownership_wording,9417,12,0.0012742911755336094
+p1r067551,University of Texas Southwestern Med. Ctr_,2015,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2015_ocr.txt,187,ownership_wording,9417,12,0.0012742911755336094
+p1r001676,Brigham Young University,1991,120v_BrighamYoungUniversity_IPPolicy_1991.txt,65,ownership_wording,9417,12,0.0012742911755336094
+p1r069252,University of Washington,2025,120v_UniversityofWashington_IPPolicy_2025_ocr.txt,110,ownership_wording,9417,12,0.0012742911755336094
+p1r082248,Washington University in St. Louis,2023,32s_WashingtonUniversityinSt.Louis_IPPolicy,292,ownership_wording,9417,12,0.0012742911755336094
+p1r070642,Wake Forest University,2017,120v_WakeForestUniversity_IPPolicy_2017_1_ocr.txt,34,present_assignment_wording,117,12,0.10256410256410256
+p1r030406,Stevens Institute of Technology,2018,120v_StevensInstituteofTechnology_IPPolicy_2018_ocr.txt,127,present_assignment_wording,117,12,0.10256410256410256
+p1r067750,University of Texas Southwestern Med. Ctr_,2018,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2018_ocr.txt,55,present_assignment_wording,117,12,0.10256410256410256
+p1r070307,Virginia Tech,2013,120v_VirginiaTech_IPPolicy_2013_ocr.txt,24,present_assignment_wording,117,12,0.10256410256410256
+p1r001921,Brandeis University,2020,120v_BrandeisUniversity_IPPolicy_2020.txt,145,present_assignment_wording,117,12,0.10256410256410256
+p1r052614,University of New Hampshire,2014,120v_UniversityofNewHampshire_IPPolicy_2014_ocr.txt,67,present_assignment_wording,117,12,0.10256410256410256
+p1r058952,University of Oklahoma,2004,120v_UniversityofOklahoma_IPPolicy_2004_ocr.txt,9,present_assignment_wording,117,12,0.10256410256410256
+p1r065485,University of Texas Houston Hlth. Sci. Ctr_,2012,120v_UniversityofTexasHoustonHealth.Sci.Ctr._IPPolicy_2012_ocr.txt,12,present_assignment_wording,117,12,0.10256410256410256
+p1r070225,Virginia Tech,2015,120v_VirginiaTech_IPPolicy_2015_ocr_2.txt,27,present_assignment_wording,117,12,0.10256410256410256
+p1r052613,University of New Hampshire,2014,120v_UniversityofNewHampshire_IPPolicy_2014_ocr.txt,66,present_assignment_wording,117,12,0.10256410256410256
+p1r034418,University of Alabama in Birmingham (UAB),2013,120v_UniversityofAlabamainBirmingham_IPPolicy_2013.txt,17,present_assignment_wording,117,12,0.10256410256410256
+p1r039549,University of Idaho,2016,120v_UniversityofIdaho_IPPolicy_2016_ocr.txt,91,present_assignment_wording,117,12,0.10256410256410256
+p1r043197,University of Iowa,2019,120v_UniversityofIowa_IPpolicy_2019_ocr.txt,195,assignment_obligation_wording,2400,12,0.005
+p1r048502,University of Missouri System,2021,120v_UniversityofMissouriSystem_IPPolicy_2021.txt,54,assignment_obligation_wording,2400,12,0.005
+p1r027225,Southern Illinois University,1998,120v_SouthernIllinoisUnivrsity_IPPolicy_1998_ocr.txt,39,assignment_obligation_wording,2400,12,0.005
+p1r042343,University of Iowa,2016,120v_UniversityofIowa_IPpolicy_2016_ocr.txt,133,assignment_obligation_wording,2400,12,0.005
+p1r039798,University of Illinois At Chicago,2020,120v_UniversityofIllinoisatChicago_IPPolicy_2020_ocr.txt,226,assignment_obligation_wording,2400,12,0.005
+p1r082005,Washington University in St. Louis,2023,32s_WashingtonUniversityinSt.Louis_IPPolicy,49,assignment_obligation_wording,2400,12,0.005
+p1r034594,University of Arizona,1985,120v_UniversityofArizona_IPPolicy_1985_ocr.txt,24,assignment_obligation_wording,2400,12,0.005
+p1r048367,University of Missouri System,2010,120v_UniversityofMissouriSystem_IPPolicy_2010.txt,18,assignment_obligation_wording,2400,12,0.005
+p1r026805,Rutgers the State University of NJ,1996,120v_Rutgers_IPPolicy_1996_ocr.txt,24,assignment_obligation_wording,2400,12,0.005
+p1r044932,University of Louisville,2005,120v_UniversityofLouisville_IPPolicy_2005.txt,23,assignment_obligation_wording,2400,12,0.005
+p1r034781,University of Arizona,1999,120v_UniversityofArizona_IPPolicy_1999_ocr.txt,45,assignment_obligation_wording,2400,12,0.005
+p1r029109,Southern Illinois University,2022,120v_SouthernIllinoisUnivrsity_PolicyBargain_2022_ocr.txt,430,assignment_obligation_wording,2400,12,0.005
+p1r055427,University of New Orleans,2014,120v_UniversityofNewOrleans_IPPolicy_2014_ocr.txt,76,creator_retention_wording,967,12,0.012409513960703205
+p1r064401,University of Tennessee,2003,120v_UniversityofTennessee_IPPolicy_2003_ocr.txt,41,creator_retention_wording,967,12,0.012409513960703205
+p1r005794,Georgia Institute of Technology,2014,120v_GeorgiaInstituteofTechnology_IPPolicy_2014.txt,79,creator_retention_wording,967,12,0.012409513960703205
+p1r035420,University of Arkansas,2001,120s_UniversityofArkansas_IPPolicy_2001.txt,24,creator_retention_wording,967,12,0.012409513960703205
+p1r067636,University of Texas Southwestern Med. Ctr_,2017,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2017_ocr.txt,77,creator_retention_wording,967,12,0.012409513960703205
+p1r057095,University of Nebraska,2025,120v_UniversityofNebraska_BoardofRegents_2025_ocr.txt,1788,creator_retention_wording,967,12,0.012409513960703205
+p1r002613,Clemson University,2025,120v_ClemsonUniversity_IPPolicy_2025.txt,153,creator_retention_wording,967,12,0.012409513960703205
+p1r060500,University of South Alabama,2022,120v_UniversityofSouthAlabama_PatentPolicy_2022.txt,25,creator_retention_wording,967,12,0.012409513960703205
+p1r016143,North Carolina State University,2002,120v_NorthCarolinaStateUniversity_IPPolicy_2002.txt,84,creator_retention_wording,967,12,0.012409513960703205
+p1r055207,University of New Orleans,2012,120v_UniversityofNewOrleans_IPPolicy_2012.txt,97,creator_retention_wording,967,12,0.012409513960703205
+p1r072412,California Institute of Technology,2007,32_CaliforniaInstituteofTechnology_CopyrightPolicy,19,creator_retention_wording,967,12,0.012409513960703205
+p1r064285,University of South Florida,2023,120v_UniversityofSouthFlorida_IPPolicy_2023_ocr.txt,55,creator_retention_wording,967,12,0.012409513960703205
+p1r033913,Tulane University,1985,120v_TulaneUniversity_IPPolicy_1985.txt,57,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r005750,Georgia Institute of Technology,2014,120v_GeorgiaInstituteofTechnology_IPPolicy_2014.txt,30,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r066336,University of Texas Medical Branch (Galveston),2014,120v_UniversityofTexasMedicalBranch(Galveston)_IPPolicy_2014_ocr.txt,94,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r086780,Stanford University,1989,32v_Stanford_PolicyHandbook_1989_ocr.txt,100,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r080928,University of Texas at Austin,2015,32s_UniversityOfTexasAtAustin_IPPolicy,26,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r066702,University of Texas Medical Branch (Galveston),2017,120v_UniversityofTexasMedicalBranch(Galveston)_IPPolicy_2017_ocr.txt,91,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r042404,University of Iowa,2016,120v_UniversityofIowa_IPpolicy_2016_ocr.txt,205,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r066830,University of Texas Medical Branch (Galveston),2018,120v_UniversityofTexasMedicalBranch(Galveston)_IPPolicy_2018_ocr.txt,102,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r057141,University of Nebraska,2025,120v_UniversityofNebraska_BoardofRegents_2025_ocr.txt,1835,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r046752,University of Maryland Baltimore County,2002,120v_UniversityofMarylandBaltimoreCounty_IPPolicy_2002_ocr.txt,121,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r046068,University of Maryland Baltimore,2005,120v_UniversityofMarylandBaltimore_IPPolicy_2005.txt,107,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r017288,Northern Illinois University,2007,120v_NorthernIllinoisUniversity_2007.txt,34,nonexclusive_license_wording,578,12,0.020761245674740483
+p1r034601,University of Arizona,1985,120v_UniversityofArizona_IPPolicy_1985_ocr.txt,31,exclusive_license_wording,87,12,0.13793103448275862
+p1r060258,University of Rochester,2013,120v_UniversityofRochester_IPPolicy_2013_ocr.txt,77,exclusive_license_wording,87,12,0.13793103448275862
+p1r072557,California Institute of Technology,1945,32_CaliforniaInstituteofTechnology_PatentPolicy,18,exclusive_license_wording,87,12,0.13793103448275862
+p1r034838,University of Arizona,1999,120v_UniversityofArizona_IPPolicy_1999_ocr.txt,102,exclusive_license_wording,87,12,0.13793103448275862
+p1r018127,Oregon State University,2003,120v_OregonStateUniversity_IPPolicy_2003.txt,60,exclusive_license_wording,87,12,0.13793103448275862
+p1r085733,Stanford University,1994,32v_Stanford_IPPolicy_1994_ocr.txt,100,exclusive_license_wording,87,12,0.13793103448275862
+p1r072226,Brown University,2005,32s_BrownUniversity_IPPolicy,35,exclusive_license_wording,87,12,0.13793103448275862
+p1r035336,University of Arizona,2018,120v_UniversityofArizona_IPPolicy_2018_2_ocr.txt,31,exclusive_license_wording,87,12,0.13793103448275862
+p1r086290,Stanford University,1999,32v_Stanford_IPPolicy_1999_ocr.txt,118,exclusive_license_wording,87,12,0.13793103448275862
+p1r082295,Yale University,1998,32s_YaleUniversity_IPPolicy,20,exclusive_license_wording,87,12,0.13793103448275862
+p1r066232,University of Texas Houston Hlth. Sci. Ctr_,1978,120v_UniversityofTexasHoustonHealth.Sci.Ctr._PatentPolicy_1978_ocr.txt,46,exclusive_license_wording,87,12,0.13793103448275862
+p1r035769,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,18,exclusive_license_wording,87,12,0.13793103448275862
+p1r073358,Dartmouth College,2019,32s_DartmouthCollege_IPPolicy,61,exception_wording,4871,12,0.002463559843974543
+p1r049772,University of Miami,2014,120v_UniversityofMiami_FacultyManual_2014.txt,1083,exception_wording,4871,12,0.002463559843974543
+p1r055132,University of New Orleans,2012,120v_UniversityofNewOrleans_IPPolicy_2012.txt,20,exception_wording,4871,12,0.002463559843974543
+p1r084616,University of Pennsylvania,2015,UniversityofPennsylvania_IPPolicy_2015.txt,630,exception_wording,4871,12,0.002463559843974543
+p1r002039,Clemson University,2016,120v_ClemsonUniversity_IPPolicy_2016.txt,35,exception_wording,4871,12,0.002463559843974543
+p1r002654,Creighton University,2019,120v_CreightonUniversity_IPPolicy_2019.txt,36,exception_wording,4871,12,0.002463559843974543
+p1r040937,University of Illinois At Chicago,2023,120v_UniversityofIllinoisatChicago_IPPolicy_2023_ocr.txt,183,exception_wording,4871,12,0.002463559843974543
+p1r012930,Louisiana State University,2023,120v_LouisianaStateUniversity_IPPolicy_2023.txt,95,exception_wording,4871,12,0.002463559843974543
+p1r076958,New York University,2021,32s_NewYorkUniversity_IPPolicy,753,exception_wording,4871,12,0.002463559843974543
+p1r080322,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1569,exception_wording,4871,12,0.002463559843974543
+p1r017294,Northern Illinois University,2007,120v_NorthernIllinoisUniversity_2007.txt,41,exception_wording,4871,12,0.002463559843974543
+p1r064511,University of Texas Hlth Sci Ctr San Antonio,2013,120v_UniversityofTexasHealthScienceCenterSanAntonio_IPPolicy_2013_ocr.txt,41,exception_wording,4871,12,0.002463559843974543
+p1r048161,University of Missouri System,2025,120v_UniversityOfMissouri_PatentPolicy_2025_ocr.txt,129,waiver_wording,988,12,0.012145748987854251
+p1r006620,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,650,waiver_wording,988,12,0.012145748987854251
+p1r052638,University of New Hampshire,2014,120v_UniversityofNewHampshire_IPPolicy_2014_ocr.txt,91,waiver_wording,988,12,0.012145748987854251
+p1r035638,University of Arkansas,2011,120s_UniversityofArkansas_IPPolicy_2011.txt,57,waiver_wording,988,12,0.012145748987854251
+p1r014361,Michigan State University,1998,120v_MichiganStateUniversity_IPPolicy_1998.txt,438,waiver_wording,988,12,0.012145748987854251
+p1r001483,Brandeis University,2004,120v_BrandeisUniversity_IPPolicy_2004.txt,75,waiver_wording,988,12,0.012145748987854251
+p1r048172,University of Missouri System,2025,120v_UniversityOfMissouri_PatentPolicy_2025_ocr.txt,143,waiver_wording,988,12,0.012145748987854251
+p1r046013,University of Maryland Baltimore,2005,120v_UniversityofMarylandBaltimore_IPPolicy_2005.txt,47,waiver_wording,988,12,0.012145748987854251
+p1r034221,Tulane University,2001,120v_TulaneUniversity_IPPolicy_2001.txt,88,waiver_wording,988,12,0.012145748987854251
+p1r004341,Florida Atlantic University,2011,120v_FloridaAtlanticUniversity_IPPolicy_2011.txt,114,waiver_wording,988,12,0.012145748987854251
+p1r045688,University of Maryland Baltimore,2006,120v_UniversityofMarylandBaltimore_IPPolicy_2006_ocr.txt,335,waiver_wording,988,12,0.012145748987854251
+p1r081732,Washington University in St. Louis,2014,32s_WashingtonUniversityinSt.Louis_IPPolicy,103,waiver_wording,988,12,0.012145748987854251
+p1r035252,University of Arizona,2010,120v_UniversityofArizona_TechTransferPolicy_2010_ocr.txt,21,procedure_wording,10945,12,0.0010963910461397899
+p1r010059,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,2041,procedure_wording,10945,12,0.0010963910461397899
+p1r058755,University of North Texas,2015,120v_UniversityofNorthTexas_IPPolicy_2015_ocr.txt,17,procedure_wording,10945,12,0.0010963910461397899
+p1r052323,University of Nebraska,2025,120v_UniversityofNebraska_IPPolicy_2025_ocr.txt,671,procedure_wording,10945,12,0.0010963910461397899
+p1r054338,University of Nebraska,2003,120v_UniversityofNebraska_IPPolicy_2003.txt,1719,procedure_wording,10945,12,0.0010963910461397899
+p1r058058,University of Nebraska,2025,120v_UniversityofNebraska_BoardofRegents_2025_ocr.txt,2932,procedure_wording,10945,12,0.0010963910461397899
+p1r057582,University of Nebraska,2025,120v_UniversityofNebraska_BoardofRegents_2025_ocr.txt,2333,procedure_wording,10945,12,0.0010963910461397899
+p1r063112,University of Rhode Island,2013,120v_UniversityofRhodeIsland_IPPolicy_2013_ocr.txt,2026,procedure_wording,10945,12,0.0010963910461397899
+p1r035355,University of Arizona,2018,120v_UniversityofArizona_IPPolicy_2018_2_ocr.txt,51,procedure_wording,10945,12,0.0010963910461397899
+p1r037227,University of Hawaii,2020,120v_UniversityofHawaii_IPPolicy_2020_ocr.txt,53,procedure_wording,10945,12,0.0010963910461397899
+p1r007284,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,1334,procedure_wording,10945,12,0.0010963910461397899
+p1r012340,Louisiana State University,2016,120v_LouisianaStateUniversity_IPPolicy_2016_2.txt,4,procedure_wording,10945,12,0.0010963910461397899
+p1r085368,University of Pennsylvania,2023,UniversityofPennsylvania_IPPolicy_2023.txt,104,definition_wording,6978,12,0.0017196904557179708
+p1r019192,Oregon State University,2023,120v_OregonStateUniversity_IPPolicy_2023_ocr.txt,10,definition_wording,6978,12,0.0017196904557179708
+p1r058652,University of North Dakota,2005,120s_UniversityofNorthDakota_IPPolicy_2005.txt,116,definition_wording,6978,12,0.0017196904557179708
+p1r026494,Purdue University,2017,120v_PurdueUniversity_IPPolicy_2017_ocr.txt,49,definition_wording,6978,12,0.0017196904557179708
+p1r051920,University of Nebraska,2025,120v_UniversityofNebraska_IPPolicy_2025_ocr.txt,201,definition_wording,6978,12,0.0017196904557179708
+p1r004663,Florida Atlantic University,2013,120v_FloridaAtlanticUniversity_IPPolicy_2013.txt,17,definition_wording,6978,12,0.0017196904557179708
+p1r007436,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,1509,definition_wording,6978,12,0.0017196904557179708
+p1r002539,Clemson University,2025,120v_ClemsonUniversity_IPPolicy_2025.txt,78,definition_wording,6978,12,0.0017196904557179708
+p1r072079,West Virginia University,2016,120v_WestVirginiaUniversity_IPPolicy_2016_ocr.txt,19,definition_wording,6978,12,0.0017196904557179708
+p1r082225,Washington University in St. Louis,2023,32s_WashingtonUniversityinSt.Louis_IPPolicy,269,definition_wording,6978,12,0.0017196904557179708
+p1r055500,University of New Orleans,2023,120v_UniversityofNewOrleans_IPPolicy_2023_ocr.txt,51,definition_wording,6978,12,0.0017196904557179708
+p1r075453,Johns Hopkins University,2011,32s_JohnsHopkinsUniversity_IPPolicy,111,definition_wording,6978,12,0.0017196904557179708
+p1r054247,University of Nebraska,2003,120v_UniversityofNebraska_IPPolicy_2003.txt,1608,negation_wording,16315,12,0.0007355194606190622
+p1r040575,University of Illinois At Chicago,2017,120v_UniversityofIllinoisatChicago_IPPolicy_2017_ocr.txt,242,negation_wording,16315,12,0.0007355194606190622
+p1r007890,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,1978,negation_wording,16315,12,0.0007355194606190622
+p1r067188,University of Texas Southwestern Med. Ctr_,2013,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2013_ocr.txt,36,negation_wording,16315,12,0.0007355194606190622
+p1r038731,University of Houston,2023,120v_UniversityofHoustonSystem_IPPolicy_2023_ocr.txt,22,negation_wording,16315,12,0.0007355194606190622
+p1r008762,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,651,negation_wording,16315,12,0.0007355194606190622
+p1r054465,University of Nebraska,2003,120v_UniversityofNebraska_IPPolicy_2003.txt,1847,negation_wording,16315,12,0.0007355194606190622
+p1r068703,University of Washington,2003,120v_UniversityofWashington_IPPolicy_2003.txt,37,negation_wording,16315,12,0.0007355194606190622
+p1r056199,University of Nebraska,2025,120v_UniversityofNebraska_BoardofRegents_2025_ocr.txt,803,negation_wording,16315,12,0.0007355194606190622
+p1r067573,University of Texas Southwestern Med. Ctr_,2015,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2015_ocr.txt,255,negation_wording,16315,12,0.0007355194606190622
+p1r067346,University of Texas Southwestern Med. Ctr_,2014,120v_UniversityofTexasSouthwesternMed.Ctr_IPPolicy_2014_ocr.txt,256,negation_wording,16315,12,0.0007355194606190622
+p1r028073,Southern Illinois University,2018,120v_SouthernIllinoisUnivrsity_PolicyBargain_2018_ocr.txt,613,negation_wording,16315,12,0.0007355194606190622

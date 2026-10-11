@@ -72,6 +72,12 @@ class TestFrozenResearchPackage(unittest.TestCase):
         self.assertTrue(e.enforceability.eq('not_adjudicated').all())
         template=pd.read_csv(self.root/'results/validation_annotation_template.csv')
         self.assertTrue(template.annotator_id.isna().all())
+    def test_rare_category_enrichment(self):
+        from classify_provisions import ASSETS,OPERATIONS
+        s=pd.read_csv(self.root/'results/validation_supplement_manifest.csv')
+        self.assertEqual(set(s.lexical_stratum),set(ASSETS)|set(OPERATIONS))
+        self.assertFalse(s.duplicated(['sentence_id','lexical_stratum']).any())
+        self.assertTrue(s.within_stratum_inclusion_probability.between(0,1,inclusive='right').all())
     def test_actual_missed_provisions_remain_visible(self):
         e=pd.read_csv(self.root/'results/illustrative_legal_evidence.csv').set_index('sentence_id')
         for sid in ['p1r002641','p1r010577','p1r070766']:

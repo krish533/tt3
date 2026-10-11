@@ -33,6 +33,7 @@
   "results/validation_annotation_template.csv": "4c11bf8c4f9af7ee0d3b646894665b26eb067355e87b94ea5c87a33e2a0df403",
   "results/validation_category_coverage.csv": "ffc3c7edda9c9e75aa5c1ad28efa8c3c9f275d637564a834be69ba36aead3115",
   "results/validation_sample_manifest.csv": "5c638d83f17c4fe99afe1bf1f5b945a41a842e81f7ecc4f31a7dc7e4ea54d457",
-  "results/validation_status.json": "125efda35a149db5421bc960a8691ac8d45a07c45d25e14d06854f860164824d",
+  "results/validation_status.json": "0aca81a4de73f603db8da2672d7adcd832a16d657467b1fafd1adfde8d06b145",
+  "results/validation_supplement_manifest.csv": "4ae25fc5e584fb48ad7541c679dd70e1aab783df7a0513b8c83ec5b5b05f22c6",
   "results/word_export_audit.json": "3c0afc9da8395db79f442fb3679c66deea6a7930dacfea3898fecf62e1581143"
 }
