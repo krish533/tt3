@@ -41,3 +41,9 @@ The journal accepts RTF as a Word submission format. The RTF export preserves th
 ## Remaining risks and release decision
 
 The broad empirical question is not complete. The essential missing evidence is authenticated historical context and independent qualified coding of comparable rights relationships. Paid services were not purchased, and lack of a subscription was not treated as license to fabricate validation. Missing author declarations and Word pagination also prevent a submission-ready designation. The adversarial review concludes that the archive audit and provisional manuscript are useful but that a referee could reasonably reject the legal-historical contribution as incomplete. The release preserves that conclusion explicitly.
+
+## Execution verification
+
+A clean Git checkout at `d2cb7f1` fetched the two immutable source files over verified TLS, reproduced the pipeline, passed 13 tests and matched all 37 recorded output checksums without tracked-file changes. A macOS certificate-store issue found during this test was fixed by using the pinned certifi CA bundle; certificate checking was never disabled. The test reused the installed pinned Python environment rather than provisioning a new virtual environment. The Overleaf import ZIP compiled independently without network access. All 18 pages of the final PDF were visually reviewed, with no unresolved references or overfull boxes. RTF decoded text contains 6,479 whitespace-delimited words; the manuscript reports an approximate 6,500-word total. These checks verify implementation and artifacts, not legal accuracy.
+
+The public GitHub Actions replication workflow also completed successfully for `d2cb7f1`: https://github.com/krish533/tt3/actions/runs/38116847669 (checked 11 October 2026). This independently exercised the pinned installation and analysis workflow on the configured Ubuntu/Python 3.14 runner.

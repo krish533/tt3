@@ -1,0 +1,10 @@
+{
+  "python": "3.14.1 (v3.14.1:57e0d177c26, Dec  2 2025, 08:45:31) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "platform": "macOS-15.7.2-arm64-arm-64bit-Mach-O",
+  "packages": {
+    "pandas": "3.0.1",
+    "numpy": "2.4.3",
+    "matplotlib": "3.11.0",
+    "requests": "2.33.0"
+  }
+}

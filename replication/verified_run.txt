@@ -1,0 +1,99 @@
+Verified policy_sentences_cleaned_combined.csv 92a7d153f630de78c973fc0b8915c5860b0a87320194781c73eca9601b3d3aec
+Verified policy_level_indices_institution_year.csv 694c21acc07d2a50ed27199d0e7ec01bb6974f08f843cbce2d7da4318f864198
+Observed institution/year text groups: 480 Candidate sentences: 2779
+ decade  documents  institutions  sentences  candidates  per_1000_sentences
+   1940          4             2         94          16          170.212766
+   1960          3             2         74           7           94.594595
+   1970          6             6       2235           3            1.342282
+   1980         24            21       2069          99           47.849203
+   1990         76            66       8501         368           43.289025
+   2000        105            86      18609         598           32.134988
+   2010        172           100      36483        1056           28.944988
+   2020         90            70      19094         632           33.099403
+Institutions with multiple observed vintages: 129
+{
+  "raw_rows": 87160,
+  "included_rows": 87159,
+  "excluded_rows": 1,
+  "institutions": 150,
+  "observed_records": 480,
+  "document_keys": 518,
+  "unique_filenames": 475,
+  "panel_rows": 4277,
+  "carried_forward_rows": 3797,
+  "candidate_sentences": 2779,
+  "candidate_records": 449,
+  "duplicate_raw_rows": 0,
+  "duplicate_sentence_keys": 1831,
+  "collision_rows": 3662,
+  "duplicate_normalized_sentences_within_document": 2703,
+  "identical_text_document_groups": 15,
+  "multi_file_records": 29,
+  "within_institution_pairs": 330,
+  "institutions_with_pairs": 129,
+  "identical_sentence_set_pairs": 1,
+  "bundle_size_changed_pairs": 35,
+  "filename_year_mismatches": 1,
+  "validation_sample_size": 178,
+  "validation_completed": false,
+  "minimum_sentence_characters": 48,
+  "missing_values": {
+    "Institution": 0,
+    "Year": 0,
+    "File": 0,
+    "Sentence_Number": 0,
+    "Sentence_Cleaned": 0,
+    "Cleaned_Char_Count": 0,
+    "STATE": 0,
+    "Private": 0,
+    "Carnegie R1": 0,
+    "MEDSCHOOL": 0,
+    "Urbanicity (cat)": 2768,
+    "Land-Grant Institution": 0,
+    "Stem program": 0,
+    "Type": 0,
+    "Med": 0,
+    "LG": 0,
+    "source_row": 0,
+    "sentence_id": 0
+  }
+}
+{'expanded_review_sentences': 25168, 'original_candidates': 2779, 'additional_review_sentences': 22722, 'legal_accuracy_estimated': False}
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/krishnasharma/.cache/fontconfig
+	/Users/krishnasharma/.fontconfig
+Matplotlib is building the font cache; this may take a moment.
+                                      sensitivity  sentences  candidates  per_1000  observed_records  institutions
+                                primary_unchanged      87159        2779 31.884258               480           150
+     deduplicate_normalized_sentences_within_file      84456        2768 32.774462               480           150
+exclude_sentence_identifier_collision_institution      82858        2767 33.394482               476           149
+                             observed_1980_onward      84756        2753 32.481476               467           150
+Embedded URL occurrences 295 unique 212 policy-link candidates 39
+{'probability_sample_sentences': 178, 'sample_institutions': 68, 'purposive_readings': 12, 'purposive_sentence_links': 15, 'independent_human_annotators': 0, 'reference_standard_labels': 0, 'precision': None, 'recall': None, 'agreement': None, 'reason': 'No independent reference standard; purposive AI-assisted readings diagnose errors without estimating accuracy.', 'supplement_stratum_draws': 240, 'supplement_unique_sentences': 236, 'supplement_institutions': 80, 'supplement_strata': 20}
+Bibliography records: 48
+{'bibliography_entries': 48, 'cited_entries': 48, 'unresolved_citations': [], 'uncited_entries': [], 'abstract_words': 147, 'tables': 6, 'figures': 1, 'legal_population_accuracy_estimated': False, 'submission_ready': False}
+Overleaf mirror and ZIP generated
+<clean-checkout>/deliverables/paper3-word.rtf
+test_actual_missed_provisions_remain_visible (test_pipeline.TestFrozenResearchPackage.test_actual_missed_provisions_remain_visible) ... ok
+test_all_category_transitions_reconcile (test_pipeline.TestFrozenResearchPackage.test_all_category_transitions_reconcile) ... ok
+test_bibliography_corrections_and_resolution (test_pipeline.TestFrozenResearchPackage.test_bibliography_corrections_and_resolution) ... ok
+test_context_not_promoted_to_exact_vintage (test_pipeline.TestFrozenResearchPackage.test_context_not_promoted_to_exact_vintage) ... ok
+test_no_interpolated_vintages (test_pipeline.TestFrozenResearchPackage.test_no_interpolated_vintages) ... ok
+test_overleaf_mirror (test_pipeline.TestFrozenResearchPackage.test_overleaf_mirror) ... ok
+test_population_denominators (test_pipeline.TestFrozenResearchPackage.test_population_denominators) ... ok
+test_rare_category_enrichment (test_pipeline.TestFrozenResearchPackage.test_rare_category_enrichment) ... ok
+test_sampling_weights_and_negative_cases (test_pipeline.TestFrozenResearchPackage.test_sampling_weights_and_negative_cases) ... ok
+test_source_checksums (test_pipeline.TestFrozenResearchPackage.test_source_checksums) ... ok
+test_unique_row_ids_despite_sentence_collisions (test_pipeline.TestFrozenResearchPackage.test_unique_row_ids_despite_sentence_collisions) ... ok
+test_validation_not_fabricated (test_pipeline.TestFrozenResearchPackage.test_validation_not_fabricated) ... ok
+test_historical_filter_and_candidates (test_pipeline.TestPipeline.test_historical_filter_and_candidates) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.158s
+
+OK
+Overleaf mirror verified
+Observed institution/year text groups: 2 Candidate sentences: 2
+Replication completed. Legal validation remains incomplete; see docs/submission_readiness.md.

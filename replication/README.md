@@ -28,3 +28,7 @@ Edit only `manuscript/main.tex`, generated-table code, or the accepted reference
 ## Sharing and audit
 
 The package redistributes derived identifiers, flags, counts and short analytical paraphrases, not the upstream full corpus or downloaded policies. Public accessibility does not establish unrestricted republication rights. Original-text validation samples and reconstructed context are rebuilt locally. `results/table_figure_audit.csv` and `results/manuscript_claim_audit.csv` connect manuscript claims to outputs. `docs/data_dictionary.md` distinguishes the units. `docs/submission_readiness.md` and `docs/adversarial_review.md` record unresolved research and publication requirements.
+
+## Verified execution
+
+A fresh Git checkout at `d2cb7f1` downloaded the pinned inputs and completed the pipeline with 13 tests passing. All 37 recorded deterministic output hashes matched, and the checkout remained clean. This used the existing pinned Python environment, not a newly provisioned virtual environment. The exported Overleaf ZIP also compiled independently using only the cached TeX bundle. See `verified_run.txt`, `execution_environment.json`, and `results/release_verification.json`. Run `python3 code/package_release.py --check` to check recorded output hashes; `python3 code/package_release.py` refreshes the replication ZIP after approved changes.
