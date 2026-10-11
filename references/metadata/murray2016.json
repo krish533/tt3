@@ -1,0 +1,124 @@
+{
+  "DOI": "10.1257/pol.20140062",
+  "title": [
+    "Of Mice and Academics: Examining the Effect of Openness on Innovation"
+  ],
+  "author": [
+    {
+      "given": "Fiona",
+      "family": "Murray",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Sloan School of Management, Massachusetts Institute of Technology, 100 Main Street, Cambridge, MA 02142 (e-mail: )"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Philippe",
+      "family": "Aghion",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Economics, Harvard University 1805 Cambridge Street, Cambridge, MA 02138 and National Bureau of Economic Research (NBER) (e-mail: )"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mathias",
+      "family": "Dewatripont",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "National Bank of Belgium, European Center for Advanced Research in Economics and Statistics (ECARES), Universite Libre de Bruxelles, Av. F.D. Roosevelt, 50, CP 114/04, 1050 Brussels, Belgium and Center for Economic and Policy Research (CEPR) (e-mail: )"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Julian",
+      "family": "Kolev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Cox School of Business, Southern Methodist University; 6212 Bishop Blvd, Dallas, TX 75275 (e-mail: )"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Scott",
+      "family": "Stern",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Sloan School of Management, Massachusetts Institute of Technology 100 Main Street, Cambridge, MA 02142, and NBER (e-mail: )"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "American Economic Journal: Economic Policy"
+  ],
+  "publisher": "American Economic Association",
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        1
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        2,
+        1
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "8",
+  "issue": "1",
+  "page": "212-252",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1257/pol.20140062",
+  "resource": {
+    "primary": {
+      "URL": "https://pubs.aeaweb.org/doi/10.1257/pol.20140062"
+    }
+  }
+}

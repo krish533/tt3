@@ -1,0 +1,95 @@
+{
+  "DOI": "10.1126/science.1115813",
+  "title": [
+    "View from the Bench: Patents and Material Transfers"
+  ],
+  "author": [
+    {
+      "given": "John P.",
+      "family": "Walsh",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Sociology, University of Illinois at Chicago, Chicago, IL 60607 USA."
+        },
+        {
+          "name": "University of Tokyo, Tokyo, Japan."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Charlene",
+      "family": "Cho",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Sociology, University of Illinois at Chicago, Chicago, IL 60607 USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Wesley M.",
+      "family": "Cohen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Duke University, Durham, NC 27708, and the National Bureau of Economic Research, Cambridge, MA 02138, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Science"
+  ],
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "published": {
+    "date-parts": [
+      [
+        2005,
+        9,
+        23
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2005,
+        9,
+        23
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "309",
+  "issue": "5743",
+  "page": "2002-2003",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1126/science.1115813",
+  "resource": {
+    "primary": {
+      "URL": "https://www.science.org/doi/10.1126/science.1115813"
+    }
+  }
+}

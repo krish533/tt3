@@ -1,0 +1,90 @@
+{
+  "DOI": "10.1016/s0048-7333(99)00100-6",
+  "title": [
+    "The growth of patenting and licensing by U.S. universities: an assessment of the effects of the Bayh–Dole act of 1980"
+  ],
+  "author": [
+    {
+      "given": "David C",
+      "family": "Mowery",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Richard R",
+      "family": "Nelson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bhaven N",
+      "family": "Sampat",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Arvids A",
+      "family": "Ziedonis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Research Policy"
+  ],
+  "publisher": "Elsevier BV",
+  "published": {
+    "date-parts": [
+      [
+        2001,
+        1
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2001,
+        1
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "30",
+  "issue": "1",
+  "page": "99-119",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1016/s0048-7333(99)00100-6",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048733399001006"
+    }
+  }
+}

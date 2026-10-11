@@ -1,0 +1,66 @@
+{
+  "DOI": "10.1086/261404",
+  "title": [
+    "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration"
+  ],
+  "author": [
+    {
+      "given": "Sanford J.",
+      "family": "Grossman",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Oliver D.",
+      "family": "Hart",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Journal of Political Economy"
+  ],
+  "publisher": "University of Chicago Press",
+  "published": {
+    "date-parts": [
+      [
+        1986,
+        8
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        1986,
+        8
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "94",
+  "issue": "4",
+  "page": "691-719",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1086/261404",
+  "resource": {
+    "primary": {
+      "URL": "https://www.journals.uchicago.edu/doi/10.1086/261404"
+    }
+  }
+}

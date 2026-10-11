@@ -1,0 +1,481 @@
+Institution,Year,patentable_inventions,software,algorithms,research_datasets,scholarly_publications,teaching_materials,biological_materials,tangible_research_property,emerging_technologies,named_categories
+Albert Einstein/Yeshiva,1985,True,False,False,False,True,False,False,False,False,2
+Albert Einstein/Yeshiva,2015,True,True,False,True,True,False,False,True,False,5
+Albert Einstein/Yeshiva,2018,True,False,False,True,True,False,False,True,False,4
+Arizona State University,2001,True,False,False,True,False,False,False,False,False,2
+Arizona State University,2003,True,True,False,False,False,False,False,False,False,2
+Arizona State University,2007,True,False,False,False,False,False,False,False,False,1
+Arizona State University,2018,True,True,True,False,True,True,True,True,True,8
+Arizona State University,2025,True,False,False,True,True,True,False,False,False,4
+Auburn University,2012,True,True,False,False,True,False,False,False,False,3
+Ball State University,2008,True,True,False,False,True,False,True,True,False,5
+Ball State University,2013,True,True,False,True,True,True,True,True,True,8
+Baylor College of Medicine,1995,True,False,False,False,False,False,False,False,False,1
+Baylor College of Medicine,2001,True,True,False,True,True,False,True,False,False,5
+Boston University,2000,True,False,False,False,False,False,False,False,False,1
+Boston University,2017,True,True,False,True,True,True,True,True,True,8
+Brandeis University,1990,True,False,False,False,True,False,False,False,False,2
+Brandeis University,2004,True,True,False,False,True,True,False,True,False,5
+Brandeis University,2020,True,True,False,True,True,True,True,True,False,7
+Brigham Young University,1991,True,True,False,False,True,True,False,False,False,4
+Brigham Young University,2019,True,False,False,False,True,True,False,False,False,3
+Brown University,1981,True,True,False,False,True,False,False,False,False,3
+Brown University,2005,True,True,False,True,True,True,False,False,False,5
+Brown University,2021,True,False,False,False,False,False,False,False,False,1
+California Institute of Technology,1944,True,False,False,False,True,False,False,False,False,2
+California Institute of Technology,1945,True,False,False,False,True,False,False,False,False,2
+California Institute of Technology,1947,True,False,False,False,False,False,False,False,False,1
+California Institute of Technology,1962,False,False,False,False,True,True,False,False,False,2
+California Institute of Technology,1968,True,False,False,False,True,False,False,False,False,2
+California Institute of Technology,1998,True,True,False,True,True,False,False,False,False,4
+California Institute of Technology,2003,True,True,False,True,True,False,False,False,False,4
+California Institute of Technology,2007,True,True,False,True,True,False,False,False,False,4
+California Institute of Technology,2023,True,True,False,True,True,False,True,False,False,5
+Carnegie Mellon University,1985,True,True,False,False,True,True,False,False,False,4
+Case Western Reserve University,2003,True,True,False,True,True,False,False,False,False,4
+Clemson University,1991,True,False,False,False,True,False,False,False,False,2
+Clemson University,2009,True,True,False,True,True,True,False,False,True,6
+Clemson University,2016,True,True,False,True,True,True,False,False,True,6
+Clemson University,2025,True,True,False,True,True,True,False,False,True,6
+Colorado State University,2000,True,True,False,True,True,True,True,False,False,6
+Colorado State University,2007,True,False,False,False,True,False,True,False,False,3
+Columbia University,1989,True,True,False,False,True,False,False,False,False,3
+Creighton University,2002,True,True,False,False,True,True,True,False,False,5
+Creighton University,2019,True,True,False,False,True,True,True,False,False,5
+Dartmouth College,1996,True,False,False,False,False,False,False,False,False,1
+Dartmouth College,2009,True,False,False,False,False,False,False,False,False,1
+Dartmouth College,2016,True,True,False,True,True,True,True,True,False,7
+Dartmouth College,2019,True,True,False,True,True,True,True,True,False,7
+Drexel University,2004,True,False,False,False,True,False,False,False,False,2
+Drexel University,2005,True,False,False,False,True,False,False,False,False,2
+Drexel University,2018,True,True,False,False,True,True,True,True,False,6
+Duke University,1990,True,False,False,False,True,False,False,False,False,2
+Duke University,1997,True,False,False,False,True,False,False,False,False,2
+Duke University,2016,True,True,False,False,True,False,False,False,False,3
+Duke University,2022,True,False,False,False,True,False,False,False,False,2
+East Carolina University,2012,True,True,False,False,True,False,True,False,False,4
+East Carolina University,2013,True,True,False,False,True,False,True,False,False,4
+East Carolina University,2021,True,True,False,False,True,False,True,True,False,5
+Emory University,1990,True,False,False,False,False,False,False,False,False,1
+Emory University,2002,True,True,False,False,True,False,True,False,False,4
+Emory University,2011,True,True,False,True,True,False,True,False,False,5
+Emory University,2015,True,True,False,True,True,False,True,False,False,5
+Florida Atlantic University,1998,True,False,False,False,True,False,False,False,False,2
+Florida Atlantic University,2001,True,True,False,True,True,True,True,False,False,6
+Florida Atlantic University,2011,True,True,False,True,True,True,True,False,False,6
+Florida Atlantic University,2013,True,True,False,True,True,True,True,False,False,6
+Florida Atlantic University,2020,True,True,False,True,True,True,True,True,True,8
+Florida State University,1991,True,True,False,False,True,True,False,False,False,4
+George Mason University,2008,True,True,False,False,True,False,False,False,False,3
+Georgetown University,2006,True,True,False,False,True,True,False,False,False,4
+Georgetown University,2019,True,True,False,True,True,True,True,True,False,7
+Georgia Institute of Technology,1996,True,True,False,False,True,False,False,False,False,3
+Georgia Institute of Technology,1997,True,True,False,False,True,True,False,False,True,5
+Georgia Institute of Technology,2002,True,True,False,True,True,True,True,False,True,7
+Georgia Institute of Technology,2014,True,True,True,False,True,True,False,False,False,5
+Harvard University,1998,True,False,False,False,False,False,False,False,False,1
+Harvard University,2008,True,True,False,True,True,False,True,True,False,6
+Harvard University,2010,True,True,False,True,True,False,True,True,False,6
+Illinois Institute of Technology,2000,True,True,False,True,True,False,False,False,False,4
+Illinois Institute of Technology,2013,True,True,False,True,True,True,False,False,False,5
+Illinois Institute of Technology,2021,True,True,False,True,True,True,False,False,False,5
+Illinois State University,1990,True,True,False,False,True,False,False,False,False,3
+Illinois State University,1999,True,True,False,False,True,True,True,False,True,6
+Illinois State University,2016,True,True,False,False,True,True,True,True,True,7
+Illinois State University,2024,True,True,False,False,True,True,True,True,True,7
+Indiana University,1997,True,True,False,False,True,True,False,False,False,4
+Indiana University,2008,True,True,False,False,True,True,False,False,False,4
+Indiana University,2014,True,True,False,False,True,True,False,False,False,4
+Indiana University,2020,True,True,False,False,True,True,False,False,False,4
+Indiana University,2024,True,True,False,True,True,False,True,True,False,6
+Iowa State University,1982,True,False,False,False,True,False,False,False,False,2
+Iowa State University,2000,True,False,False,False,False,False,False,False,False,1
+Johns Hopkins University,1992,True,True,False,True,True,False,True,True,False,6
+Johns Hopkins University,2001,True,True,False,True,True,False,True,True,False,6
+Johns Hopkins University,2011,True,True,False,True,True,False,True,True,False,6
+Kansas State University,2002,True,True,True,True,True,True,True,False,False,7
+Kent State University,2007,True,False,False,False,True,False,False,False,False,2
+Kent State University,2015,True,False,False,False,True,False,False,False,False,2
+Kent State University,2016,True,False,False,False,True,False,False,False,False,2
+Lehigh University,2001,True,True,False,True,True,True,False,True,False,6
+Lehigh University,2002,True,True,False,True,True,True,False,True,False,6
+Louisiana State University,2008,True,True,False,True,True,True,True,True,True,8
+Louisiana State University,2014,True,True,False,True,True,True,True,True,True,8
+Louisiana State University,2015,True,True,False,True,True,True,True,True,True,8
+Louisiana State University,2016,True,True,False,True,True,True,True,True,True,8
+Louisiana State University,2018,True,True,False,True,True,True,True,True,True,8
+Louisiana State University,2021,True,True,False,True,True,True,True,True,True,8
+Louisiana State University,2023,True,True,False,True,True,True,True,True,True,8
+Louisiana State University,2024,True,True,False,True,True,True,True,True,True,8
+Loyola University Medical Center,2006,True,False,False,False,False,False,False,False,False,1
+Loyola University Medical Center,2009,True,False,False,False,False,False,False,False,False,1
+Medical College of Ohio,2009,True,False,False,False,True,False,False,False,False,2
+Medical College of Ohio,2012,True,False,False,False,False,False,False,False,False,1
+Medical College of Ohio,2017,True,False,False,False,True,False,False,False,False,2
+Medical College of Ohio,2023,False,False,False,False,True,True,False,False,False,2
+Medical College of Ohio,2024,True,False,False,False,True,False,False,False,False,2
+Medical University of South Carolina,2005,True,True,True,False,True,False,True,False,False,5
+Medical University of South Carolina,2008,True,True,True,False,True,True,True,False,True,7
+Medical University of South Carolina,2016,True,True,True,False,True,True,True,False,True,7
+Miami University,2018,True,True,False,False,True,False,False,False,False,3
+Miami University,2022,True,True,False,False,True,False,False,False,False,3
+Michigan State University,1998,True,True,False,True,True,False,True,False,False,5
+Michigan State University,2001,True,False,False,False,True,False,False,False,False,2
+Michigan State University,2017,True,False,False,False,True,False,False,False,False,2
+Michigan Technological University,2010,True,True,False,False,True,False,False,False,False,3
+Michigan Technological University,2011,True,True,False,False,True,False,False,False,False,3
+Mississippi State University,1994,True,True,False,False,True,False,True,True,True,6
+Mississippi State University,2001,True,True,False,False,True,True,False,False,True,5
+Mississippi State University,2003,True,True,False,False,True,True,False,False,True,5
+Montana State University,1997,True,True,False,False,True,False,False,False,False,3
+Montana State University,2017,True,True,False,False,True,True,False,False,False,4
+New Jersey Institute of Technology,1985,True,True,False,False,True,False,False,False,False,3
+New Jersey Institute of Technology,2003,True,False,False,False,True,False,False,False,False,2
+New Jersey Institute of Technology,2024,True,False,False,False,True,False,False,False,False,2
+New Jersey Institute of Technology,2025,True,False,False,False,True,False,False,False,False,2
+New Mexico State University,1993,True,True,False,False,True,True,False,False,False,4
+New Mexico State University,2013,True,True,False,True,True,True,True,False,False,6
+New Mexico State University,2019,True,True,False,True,True,True,False,False,True,6
+New Mexico State University,2024,True,True,False,True,True,True,False,False,True,6
+New York Medical College,1998,True,True,False,True,True,False,True,True,False,6
+New York University,1983,True,True,False,False,True,True,False,False,False,4
+New York University,2012,True,True,True,True,True,True,True,True,True,9
+New York University,2021,True,True,True,True,True,True,True,True,True,9
+North Carolina State University,1997,True,True,False,False,True,False,False,False,False,3
+North Carolina State University,2002,True,False,False,False,True,False,False,False,False,2
+North Carolina State University,2003,True,False,False,True,True,False,False,False,False,3
+North Carolina State University,2011,True,True,False,False,True,False,True,True,False,5
+North Dakota State University,2010,True,True,False,True,True,True,True,True,False,7
+North Dakota State University,2016,True,True,False,True,True,True,True,False,True,7
+North Dakota State University,2017,True,True,False,True,True,True,True,False,True,7
+Northeastern University,1995,True,True,False,True,True,True,False,False,False,5
+Northeastern University,2023,True,False,False,False,True,False,False,False,False,2
+Northern Illinois University,1997,True,True,False,True,True,True,True,True,False,7
+Northern Illinois University,2007,True,True,False,True,True,True,True,True,False,7
+Ohio State University,1989,True,True,False,False,True,False,True,False,True,5
+Ohio State University,2018,True,True,False,False,True,True,True,True,False,6
+Ohio State University,2024,True,True,False,False,True,True,True,True,False,6
+Ohio University,1995,True,True,False,True,True,False,False,True,False,5
+Oklahoma State University,2010,True,False,False,False,True,False,False,False,False,2
+Oklahoma State University,2019,True,True,False,True,True,True,False,False,True,6
+Oregon Health Sciences University,2013,True,True,True,True,True,True,True,False,False,7
+Oregon Health Sciences University,2024,False,False,False,True,False,False,False,False,False,1
+Oregon State University,2001,True,True,False,True,True,True,False,False,False,5
+Oregon State University,2003,True,True,False,False,True,True,False,False,False,4
+Oregon State University,2023,True,True,False,True,True,True,True,True,True,8
+Penn State University,1998,True,True,False,False,True,True,False,False,True,5
+Penn State University,2005,True,False,False,False,True,False,False,False,False,2
+Penn State University,2013,True,True,False,False,True,True,False,False,False,4
+Portland State University,1997,True,False,False,False,False,False,False,False,False,1
+Portland State University,2015,True,False,False,False,True,False,False,False,False,2
+Portland State University,2025,True,False,False,False,True,False,False,False,False,2
+Princeton University,2001,True,True,False,False,True,True,False,False,False,4
+Princeton University,2017,True,True,False,False,True,False,False,False,False,3
+Purdue University,2000,True,True,False,True,True,True,True,True,False,7
+Purdue University,2007,True,True,False,True,True,True,True,True,False,7
+Purdue University,2011,True,True,False,True,True,True,True,True,False,7
+Purdue University,2013,True,True,False,True,True,True,True,True,False,7
+Purdue University,2015,True,True,False,True,True,False,True,True,False,6
+Purdue University,2016,True,True,False,True,True,False,True,True,False,6
+Purdue University,2017,True,True,False,True,True,False,True,True,False,6
+Purdue University,2025,True,True,False,True,True,False,True,True,False,6
+Rice University,1999,True,True,True,False,True,False,False,False,False,4
+Rice University,2023,True,True,False,True,True,True,True,True,False,7
+Rutgers the State University of NJ,1996,True,False,False,False,True,False,False,False,False,2
+Rutgers the State University of NJ,2000,True,False,False,False,True,False,False,False,False,2
+Rutgers the State University of NJ,2008,True,True,False,False,True,False,False,False,False,3
+Rutgers the State University of NJ,2013,True,True,False,False,True,True,False,False,False,4
+Rutgers the State University of NJ,2021,True,False,False,False,True,False,False,False,False,2
+SUNY,1988,True,False,False,False,True,False,False,False,False,2
+SUNY,2016,True,True,False,False,True,True,False,True,False,5
+SUNY,2017,True,True,False,False,False,False,False,False,False,2
+SUNY,2021,True,True,False,False,True,True,False,True,False,5
+Southern Illinois University,1992,True,True,False,False,True,False,False,False,False,3
+Southern Illinois University,1998,True,False,False,True,True,False,True,False,False,4
+Southern Illinois University,2005,True,True,False,True,True,True,True,False,True,7
+Southern Illinois University,2016,True,True,False,True,True,True,False,False,False,5
+Southern Illinois University,2018,True,True,False,False,True,True,False,False,False,4
+Southern Illinois University,2022,True,False,False,True,True,True,False,False,False,4
+St. Louis University,1999,True,False,False,True,True,False,True,False,False,4
+St. Louis University,2009,True,False,False,True,True,False,True,False,False,4
+St. Louis University,2022,True,True,False,True,True,True,True,False,False,6
+St. Louis University,2024,True,True,False,True,True,True,True,True,False,7
+Stanford University,1980,True,False,False,False,True,False,False,False,False,2
+Stanford University,1989,True,False,False,False,True,False,False,False,False,2
+Stanford University,1994,True,False,False,False,True,False,False,False,False,2
+Stanford University,1996,True,False,False,False,True,False,False,False,False,2
+Stanford University,1998,True,False,False,False,True,False,False,False,False,2
+Stanford University,1999,True,False,False,False,True,False,False,False,False,2
+Stanford University,2013,True,True,False,False,True,False,False,False,False,3
+Stanford University,2023,True,False,False,False,True,False,False,False,False,2
+Stevens Institute of Technology,2000,True,True,False,False,True,False,True,True,True,6
+Stevens Institute of Technology,2014,True,False,False,False,True,False,False,False,False,2
+Stevens Institute of Technology,2018,True,False,False,False,True,False,False,False,False,2
+Stevens Institute of Technology,2025,True,True,False,True,True,True,False,False,False,5
+Syracuse University,1992,True,True,False,False,True,False,False,True,False,4
+Syracuse University,2024,True,True,False,False,True,False,False,True,False,4
+Temple University,1985,True,True,False,False,True,False,False,False,False,3
+Temple University,2011,True,True,False,False,True,False,False,False,False,3
+Temple University,2022,True,True,False,False,True,False,False,False,False,3
+Texas A&M University System,1991,True,True,False,False,True,False,True,False,False,4
+Texas A&M University System,2001,True,False,False,False,True,False,False,False,False,2
+Texas A&M University System,2006,True,True,False,True,True,True,True,True,True,8
+Texas A&M University System,2009,True,True,False,True,True,True,True,True,True,8
+Texas A&M University System,2012,True,True,False,True,True,True,True,True,True,8
+Texas A&M University System,2019,True,True,False,True,True,True,True,True,True,8
+Texas A&M University System,2022,True,True,False,False,True,True,False,True,False,5
+Texas A&M University System,2023,True,True,False,True,True,True,True,True,True,8
+Texas A&M University System,2025,True,True,False,False,True,True,False,True,False,5
+Thomas Jefferson University,1998,True,True,False,True,True,False,True,True,False,6
+Thomas Jefferson University,2000,True,False,False,False,False,False,False,False,False,1
+Thomas Jefferson University,2006,True,False,False,False,True,False,False,True,False,3
+Tufts University,2005,True,True,False,False,True,False,False,True,True,5
+Tulane University,1985,True,True,False,False,True,False,False,False,False,3
+Tulane University,2001,True,True,False,False,True,False,True,True,True,6
+University of Akron,1996,True,False,False,False,True,False,False,False,False,2
+University of Akron,2002,True,False,False,False,False,False,False,False,False,1
+University of Akron,2015,True,False,False,False,True,False,False,False,False,2
+University of Alabama in Birmingham (UAB),1980,True,False,False,False,False,False,False,False,False,1
+University of Alabama in Birmingham (UAB),2013,True,False,False,False,False,False,False,False,False,1
+University of Alabama in Huntsville (UAH),1991,True,False,False,False,False,False,False,False,False,1
+University of Alabama in Huntsville (UAH),2018,True,False,False,False,False,False,False,False,False,1
+University of Arizona,1983,True,False,False,False,False,False,False,False,False,1
+University of Arizona,1985,True,False,False,False,True,False,False,False,False,2
+University of Arizona,1987,True,False,False,False,True,False,False,False,False,2
+University of Arizona,1996,True,False,False,False,True,False,False,False,False,2
+University of Arizona,1999,True,True,False,True,True,True,False,False,True,6
+University of Arizona,2001,True,True,False,True,True,True,False,False,True,6
+University of Arizona,2010,True,True,False,False,True,True,True,True,False,6
+University of Arizona,2014,True,True,False,False,True,True,True,True,False,6
+University of Arizona,2017,True,True,True,False,True,True,True,True,True,8
+University of Arizona,2018,True,True,True,False,True,True,True,True,True,8
+University of Arkansas,1945,True,False,False,False,False,False,False,False,False,1
+University of Arkansas,1967,True,False,False,False,False,False,False,False,False,1
+University of Arkansas,1986,True,True,False,True,True,True,True,False,False,6
+University of Arkansas,2001,True,True,False,True,True,True,True,True,False,7
+University of Arkansas,2011,True,True,False,True,True,True,True,True,False,7
+University of Arkansas,2015,True,True,False,True,True,True,True,True,False,7
+University of Arkansas,2016,True,True,False,True,True,True,True,True,False,7
+University of California System,1985,True,False,False,False,False,False,False,False,False,1
+University of California System,1990,True,False,False,False,False,False,False,False,False,1
+University of California System,1997,True,False,False,False,False,False,False,False,False,1
+University of California System,2024,True,True,False,False,True,True,True,False,False,5
+University of Central Florida,2013,True,False,False,False,True,False,False,False,False,2
+University of Central Florida,2024,True,False,False,False,True,False,False,False,False,2
+University of Chicago,2002,True,True,False,True,False,False,True,False,False,4
+University of Chicago,2018,True,True,False,False,True,False,False,False,False,3
+University of Cincinnati,2009,True,False,False,False,True,False,False,False,False,2
+University of Cincinnati,2019,True,False,False,False,True,False,False,False,False,2
+University of Colorado,2011,True,True,False,False,True,True,True,True,True,7
+University of Connecticut,2015,True,True,False,True,True,False,True,False,False,5
+University of Dayton,1996,True,True,False,True,True,False,True,True,True,7
+University of Dayton,2015,True,True,False,False,True,True,False,False,False,4
+University of Delaware,1993,False,False,False,False,True,False,False,False,False,1
+University of Delaware,2008,False,False,False,False,True,False,False,False,False,1
+University of Delaware,2021,True,True,True,False,True,False,False,True,False,5
+University of Denver,2008,True,False,False,False,True,False,False,False,False,2
+University of Denver,2023,True,True,False,True,True,True,True,False,True,7
+University of Florida,2013,True,True,False,True,True,True,True,False,False,6
+University of Georgia,1982,True,False,False,False,True,False,False,False,False,2
+University of Georgia,1995,True,True,False,True,True,True,False,False,True,6
+University of Hawaii,1985,True,False,False,False,True,False,False,False,False,2
+University of Hawaii,2014,True,False,False,False,True,False,False,False,False,2
+University of Hawaii,2020,True,False,False,False,True,True,False,False,False,3
+University of Houston,1997,True,True,False,False,True,False,False,False,False,3
+University of Houston,2007,True,True,False,False,True,True,False,False,False,4
+University of Houston,2015,True,True,False,True,True,True,False,False,False,5
+University of Houston,2017,True,True,False,True,True,True,False,False,False,5
+University of Houston,2023,True,True,False,True,True,True,False,False,False,5
+University of Idaho,1998,True,True,False,True,True,True,False,False,True,6
+University of Idaho,2016,True,True,False,True,True,True,False,False,False,5
+University of Idaho,2022,True,True,False,True,True,True,False,False,True,6
+University of Illinois At Chicago,2017,True,True,False,False,True,True,True,False,True,6
+University of Illinois At Chicago,2018,True,True,False,False,True,True,True,False,True,6
+University of Illinois At Chicago,2020,True,True,False,True,True,True,True,False,True,7
+University of Illinois At Chicago,2021,True,True,False,True,True,True,True,False,True,7
+University of Illinois At Chicago,2023,True,True,False,True,True,True,True,False,True,7
+University of Illinois Urbana Champaign,2006,True,True,False,False,True,True,False,False,False,4
+University of Illinois Urbana Champaign,2023,True,True,False,True,True,True,True,False,True,7
+University of Iowa,2015,True,True,False,False,True,True,True,False,False,5
+University of Iowa,2016,True,True,False,False,True,True,True,False,False,5
+University of Iowa,2017,True,True,False,False,True,True,False,False,False,4
+University of Iowa,2018,True,True,False,False,True,True,False,False,False,4
+University of Iowa,2019,True,True,False,False,True,True,False,False,False,4
+University of Iowa,2020,True,True,False,False,True,True,False,False,False,4
+University of Iowa,2021,True,True,False,False,True,True,False,False,False,4
+University of Iowa,2022,True,True,False,False,True,True,False,False,False,4
+University of Iowa,2023,True,True,False,False,True,True,False,False,False,4
+University of Kansas,1998,True,True,False,False,True,True,False,False,False,4
+University of Kansas,2001,True,True,False,True,True,True,True,True,False,7
+University of Kentucky,1988,True,True,False,True,True,True,True,True,False,7
+University of Kentucky,1993,True,True,False,True,True,True,True,True,False,7
+University of Kentucky,2005,True,True,False,False,True,True,True,False,True,6
+University of Louisville,1998,True,True,False,True,True,False,True,False,True,6
+University of Louisville,2005,True,True,False,False,True,True,True,False,True,6
+University of Maine,2002,True,True,False,True,True,True,True,True,False,7
+University of Maryland Baltimore,1990,True,False,False,False,True,False,False,False,False,2
+University of Maryland Baltimore,2005,True,True,False,True,True,True,True,True,True,8
+University of Maryland Baltimore,2006,True,True,False,False,True,True,True,True,True,7
+University of Maryland Baltimore,2016,True,True,False,False,True,True,True,True,True,7
+University of Maryland Baltimore,2019,True,True,False,False,True,True,True,True,True,7
+University of Maryland Baltimore County,2002,True,True,False,True,True,True,True,True,True,8
+University of Maryland Baltimore County,2022,True,True,True,True,True,True,True,True,False,8
+University of Maryland College Park,2018,True,True,True,True,True,True,True,True,False,8
+University of Massachusetts Amherst,1997,True,True,False,False,True,True,True,True,False,6
+University of Massachusetts Amherst,2004,True,True,False,False,True,True,True,True,False,6
+University of Massachusetts Medical Center,1997,True,True,False,False,True,True,True,True,False,6
+University of Massachusetts Medical Center,2004,True,True,False,False,True,True,True,True,False,6
+University of Miami,2014,True,True,False,True,True,True,False,False,False,5
+University of Miami,2016,True,True,False,True,True,True,True,False,False,6
+University of Michigan,2007,True,True,False,False,True,False,True,False,True,5
+University of Michigan,2021,True,True,False,False,True,False,True,False,True,5
+University of Minnesota,2010,True,True,False,False,True,False,False,False,False,3
+University of Minnesota,2015,True,True,False,False,True,False,False,False,False,3
+University of Minnesota,2022,True,True,False,True,True,False,False,False,False,4
+University of Missouri System,1996,True,False,False,False,True,False,False,False,False,2
+University of Missouri System,2010,True,True,False,False,True,False,False,False,False,3
+University of Missouri System,2019,True,True,False,False,True,False,False,False,False,3
+University of Missouri System,2021,True,True,False,False,True,False,True,True,False,5
+University of Missouri System,2025,True,True,False,False,True,False,False,True,False,4
+University of Montana,1999,True,False,False,False,True,False,False,False,False,2
+University of Montana,2007,True,False,False,False,True,False,False,False,False,2
+University of Nebraska,2003,True,True,False,False,True,True,False,True,True,6
+University of Nebraska,2018,True,False,False,False,True,False,False,False,False,2
+University of Nebraska,2019,True,False,False,False,False,False,False,False,False,1
+University of Nebraska,2025,True,True,False,True,True,True,False,True,True,7
+University of New Hampshire,2007,True,True,True,True,True,True,True,True,True,9
+University of New Hampshire,2014,True,True,True,True,True,True,True,True,True,9
+University of New Mexico,1999,True,True,False,True,True,False,False,False,True,5
+University of New Mexico,2010,True,True,False,True,True,False,False,False,True,5
+University of New Mexico,2022,True,True,False,True,True,False,False,False,True,5
+University of New Orleans,2012,True,True,False,True,True,True,True,False,True,7
+University of New Orleans,2014,True,True,False,False,True,True,True,False,True,6
+University of New Orleans,2023,True,True,False,True,True,True,True,False,True,7
+University of North Carolina Chapel Hill,2013,True,True,False,False,True,False,True,False,False,4
+University of North Dakota,1992,True,False,False,False,True,False,False,False,False,2
+University of North Dakota,2005,True,True,False,True,True,True,True,True,False,7
+University of North Dakota,2013,True,False,False,False,True,False,False,False,False,2
+University of North Texas,2001,True,False,False,False,False,False,False,False,False,1
+University of North Texas,2005,True,True,False,False,True,True,True,False,False,5
+University of North Texas,2015,True,True,False,True,True,True,True,False,False,6
+University of North Texas,2018,True,True,False,True,True,True,True,False,False,6
+University of Notre Dame,2003,True,True,False,False,True,False,False,False,False,3
+University of Notre Dame,2015,True,True,False,False,True,False,False,False,False,3
+University of Notre Dame,2021,True,True,False,False,True,False,False,False,False,3
+University of Oklahoma,1999,True,True,False,False,True,True,False,False,False,4
+University of Oklahoma,2004,True,True,False,False,True,True,False,False,False,4
+University of Oklahoma,2017,True,True,False,False,True,True,False,False,False,4
+University of Oregon,2015,True,False,False,False,True,False,False,False,False,2
+University of Pennsylvania,1993,True,True,False,False,True,False,True,True,False,5
+University of Pennsylvania,2005,True,False,False,False,True,False,True,True,False,4
+University of Pennsylvania,2015,True,False,False,False,True,False,True,True,False,4
+University of Pennsylvania,2023,True,False,False,False,True,False,True,True,False,4
+University of Pittsburgh,1978,True,False,False,False,True,False,False,False,False,2
+University of Pittsburgh,2005,True,False,False,False,True,False,False,False,False,2
+University of Pittsburgh,2021,True,True,False,True,True,True,False,False,False,5
+University of Rhode Island,1986,True,True,False,True,True,True,True,False,True,7
+University of Rhode Island,2013,True,True,False,True,True,True,True,True,False,7
+University of Rhode Island,2021,True,True,False,True,True,True,True,True,False,7
+University of Rochester,1997,True,True,False,False,True,False,True,True,True,6
+University of Rochester,2013,True,True,False,False,True,False,True,True,True,6
+University of South Alabama,1984,True,False,False,False,True,False,False,False,False,2
+University of South Alabama,2005,True,True,False,True,True,False,False,True,False,5
+University of South Alabama,2020,True,True,False,True,True,True,False,True,False,6
+University of South Alabama,2022,True,True,False,True,True,False,False,True,False,5
+University of South Carolina,1994,True,True,False,False,True,True,False,False,False,4
+University of South Carolina,2005,True,True,False,False,True,False,True,False,True,5
+University of South Carolina,2021,True,True,False,False,True,False,False,False,False,3
+University of South Carolina,2025,True,True,False,False,True,False,False,False,False,3
+University of South Florida,2012,True,True,False,True,True,False,True,False,False,5
+University of South Florida,2020,True,True,True,True,True,False,True,False,False,6
+University of South Florida,2023,True,True,True,True,True,False,True,False,False,6
+University of South Florida,2025,True,True,True,True,True,False,True,False,False,6
+University of Southern California,2001,True,True,False,False,True,True,True,True,False,6
+University of Tennessee,2003,True,True,False,False,True,True,False,False,False,4
+University of Texas Hlth Sci Ctr San Antonio,1978,True,False,False,False,True,False,False,False,False,2
+University of Texas Hlth Sci Ctr San Antonio,2013,True,False,False,False,True,False,False,False,False,2
+University of Texas Hlth Sci Ctr San Antonio,2014,True,True,False,True,True,True,False,False,False,5
+University of Texas Hlth Sci Ctr San Antonio,2015,True,True,False,True,True,True,False,False,False,5
+University of Texas Hlth Sci Ctr San Antonio,2016,True,True,False,True,True,True,False,False,False,5
+University of Texas Hlth Sci Ctr San Antonio,2017,True,True,False,True,True,True,False,False,False,5
+University of Texas Hlth Sci Ctr San Antonio,2018,True,True,False,True,True,True,False,False,False,5
+University of Texas Hlth Sci Ctr San Antonio,2021,True,True,False,True,True,False,True,False,False,5
+University of Texas Houston Hlth. Sci. Ctr_,1978,True,False,False,False,True,False,False,False,False,2
+University of Texas Houston Hlth. Sci. Ctr_,2012,True,True,False,True,True,True,False,False,False,5
+University of Texas Houston Hlth. Sci. Ctr_,2013,True,False,False,False,True,False,False,False,False,2
+University of Texas Houston Hlth. Sci. Ctr_,2014,True,True,False,True,True,True,False,False,False,5
+University of Texas Houston Hlth. Sci. Ctr_,2015,True,True,False,True,True,True,False,False,False,5
+University of Texas Houston Hlth. Sci. Ctr_,2016,True,True,False,True,True,True,False,False,False,5
+University of Texas Houston Hlth. Sci. Ctr_,2017,True,True,False,True,True,True,False,False,False,5
+University of Texas Houston Hlth. Sci. Ctr_,2021,True,True,False,True,True,True,False,False,False,5
+University of Texas Medical Branch (Galveston),1978,True,False,False,False,True,False,False,False,False,2
+University of Texas Medical Branch (Galveston),2012,True,True,False,True,True,True,False,False,False,5
+University of Texas Medical Branch (Galveston),2013,True,False,False,False,True,False,False,False,False,2
+University of Texas Medical Branch (Galveston),2014,True,True,False,True,True,True,False,False,False,5
+University of Texas Medical Branch (Galveston),2015,True,True,False,True,True,True,False,False,False,5
+University of Texas Medical Branch (Galveston),2016,True,True,False,True,True,True,False,False,False,5
+University of Texas Medical Branch (Galveston),2017,True,True,False,True,True,True,False,False,False,5
+University of Texas Medical Branch (Galveston),2018,True,True,False,True,True,True,False,False,False,5
+University of Texas Medical Branch (Galveston),2019,True,True,False,True,True,True,False,False,False,5
+University of Texas Southwestern Med. Ctr_,1978,True,False,False,False,True,False,False,False,False,2
+University of Texas Southwestern Med. Ctr_,2013,True,False,False,False,True,False,False,False,False,2
+University of Texas Southwestern Med. Ctr_,2014,True,True,False,True,True,True,False,False,False,5
+University of Texas Southwestern Med. Ctr_,2015,True,True,False,True,True,True,False,False,False,5
+University of Texas Southwestern Med. Ctr_,2016,True,True,False,True,True,True,True,False,False,6
+University of Texas Southwestern Med. Ctr_,2017,True,True,False,True,True,True,False,False,False,5
+University of Texas Southwestern Med. Ctr_,2018,True,True,False,True,True,True,False,False,False,5
+University of Texas Southwestern Med. Ctr_,2022,True,True,False,True,True,False,True,False,False,5
+University of Texas Southwestern Med. Ctr_,2025,True,True,False,True,True,False,True,False,False,5
+University of Texas at Austin,1978,True,False,False,False,True,True,False,False,False,3
+University of Texas at Austin,2011,True,True,False,True,True,True,False,False,False,5
+University of Texas at Austin,2013,True,False,False,False,True,False,False,False,False,2
+University of Texas at Austin,2015,True,True,False,True,True,True,False,False,False,5
+University of Texas at Austin,2016,True,True,False,True,True,True,False,False,False,5
+University of Texas at Austin,2017,True,True,False,True,True,True,False,False,False,5
+University of Texas at Austin,2018,True,True,False,True,True,True,False,False,False,5
+University of Texas at Austin,2021,True,True,False,True,True,False,True,False,False,5
+University of Tulsa,2003,True,True,True,False,True,True,False,False,False,5
+University of Tulsa,2017,True,True,True,False,True,True,False,False,False,5
+University of Utah,1999,True,True,False,False,False,False,False,False,False,2
+University of Utah,2013,True,True,False,False,False,False,True,False,True,4
+University of Vermont,2013,True,True,False,False,True,True,True,True,True,7
+University of Virginia,1993,True,False,False,False,True,False,False,False,False,2
+University of Virginia,2000,True,False,False,False,True,False,False,False,False,2
+University of Virginia,2016,True,False,False,True,True,False,False,False,False,3
+University of Virginia,2021,True,False,False,False,False,False,False,False,False,1
+University of Washington,2003,True,True,False,False,True,False,False,False,False,3
+University of Washington,2015,True,True,False,True,True,False,False,False,False,4
+University of Washington,2025,True,True,False,True,True,False,False,False,True,5
+University of Wisconsin-Madison,2005,True,True,False,False,True,False,True,False,True,5
+University of Wisconsin-Madison,2008,True,True,False,False,False,False,False,False,False,2
+University of Wisconsin-Madison,2022,True,True,False,False,False,False,False,False,False,2
+Utah State University,1999,True,False,False,False,True,True,False,False,False,3
+Utah State University,2002,True,False,False,False,True,True,False,False,False,3
+Utah State University,2016,True,True,False,True,True,True,True,True,False,7
+Vanderbilt University,2011,True,True,False,True,True,False,False,False,False,4
+Vanderbilt University,2016,True,True,False,True,True,False,True,False,False,5
+Virginia Commonwealth University,1999,True,True,False,False,True,False,False,False,False,3
+Virginia Commonwealth University,2003,True,True,False,True,True,True,False,False,False,5
+Virginia Commonwealth University,2021,True,True,False,True,True,True,False,False,False,5
+Virginia Tech,1990,True,True,False,False,True,True,False,False,False,4
+Virginia Tech,2008,True,True,False,False,True,False,False,False,False,3
+Virginia Tech,2013,True,True,False,False,True,False,False,False,False,3
+Virginia Tech,2015,True,True,False,False,True,False,False,False,False,3
+Virginia Tech,2021,True,True,False,True,True,False,False,False,False,4
+Wake Forest University,1993,True,False,False,False,False,False,False,False,False,1
+Wake Forest University,1999,True,True,False,False,False,False,False,False,False,2
+Wake Forest University,2017,True,True,False,False,True,True,True,True,False,6
+Wake Forest University,2021,True,True,False,False,True,False,False,False,False,3
+Wake Forest University,2025,True,False,False,False,True,True,True,True,False,5
+Washington State University,2014,True,True,False,False,True,True,True,True,False,6
+Washington State University,2016,True,True,False,False,True,True,True,True,False,6
+Washington State University,2023,True,True,False,False,True,True,True,False,False,5
+Washington University in St. Louis,2014,True,True,False,False,True,False,True,True,True,6
+Washington University in St. Louis,2023,True,True,False,False,True,False,True,True,True,6
+Wayne State University,1998,True,True,False,False,True,False,True,False,False,4
+West Virginia University,1999,True,True,False,False,False,False,False,False,False,2
+West Virginia University,2006,True,True,False,False,True,False,False,False,False,3
+West Virginia University,2016,True,True,False,False,True,False,False,False,False,3
+West Virginia University,2019,True,True,True,True,True,True,False,True,False,7
+Yale University,1998,True,False,False,False,False,False,False,False,False,1
+Yale University,2023,True,True,False,False,False,False,True,False,False,3

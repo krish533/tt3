@@ -1,0 +1,54 @@
+{
+  "DOI": "10.1016/j.respol.2003.09.008",
+  "title": [
+    "The market economy, and the scientific commons"
+  ],
+  "author": [
+    {
+      "given": "Richard R.",
+      "family": "Nelson",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Research Policy"
+  ],
+  "publisher": "Elsevier BV",
+  "published": {
+    "date-parts": [
+      [
+        2004,
+        4
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2004,
+        4
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "33",
+  "issue": "3",
+  "page": "455-471",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1016/j.respol.2003.09.008",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048733303001513"
+    }
+  }
+}

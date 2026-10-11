@@ -1,49 +1,29 @@
-name: WP3 full corpus descriptive extraction
+name: Reproduce Paper 3 archive audit
 on:
   workflow_dispatch:
   push:
-    paths:
-      - '.github/workflows/run-analysis.yml'
-      - 'code/extract_ownership.py'
-      - 'tests/test_pipeline.py'
+    paths: ['code/**', 'tests/**', 'data/**', 'manuscript/**', 'references/**', 'requirements.txt', '.github/workflows/run-analysis.yml']
 permissions:
-  contents: write
+  contents: read
 jobs:
-  extract:
+  reproduce:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      - run: pip install pandas
-      - run: python -m unittest discover -s tests -v
-      - name: Download frozen upstream sentence file
-        run: |
-          mkdir -p input results
-          curl --fail --location --retry 3 "https://raw.githubusercontent.com/krish533/Tech-transfer-1/main/P1_replication_package/data/raw/policy_sentences_cleaned_combined.csv" -o input/policy_sentences_cleaned_combined.csv
-          sha256sum input/policy_sentences_cleaned_combined.csv > results/source_sha256.txt
-      - name: Run actual sentence extraction
-        run: python code/extract_ownership.py input/policy_sentences_cleaned_combined.csv --outdir results
-      - name: Analyze historical screening denominators
-        run: python code/analyze_screening.py --outdir results
-      - name: Summarize screened records
-        run: |
-          python - <<'PY'
-          import pandas as pd, json
-          x=pd.read_csv('results/observed_document_candidate_counts.csv')
-          y=pd.read_csv('results/ownership_clause_manual_review_queue.csv')
-          summary=dict(institution_year_groups=len(x),institutions=int(x.Institution.nunique()),earliest_year=int(x.Year.min()),latest_year=int(x.Year.max()),candidate_sentences=len(y),candidate_groups=int((x.candidates>0).sum()))
-          open('results/screening_summary.json','w').write(json.dumps(summary,indent=2))
-          print(summary)
-          PY
+          python-version: '3.14'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python code/replicate.py
+      - name: Verify mirror
+        run: python code/sync_overleaf.py --check
       - uses: actions/upload-artifact@v4
         with:
-          name: wp3-full-corpus-screening
-          path: results/
-      - name: Commit compact descriptive outputs
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add results/source_sha256.txt results/observed_document_candidate_counts.csv results/screening_summary.json results/screening_by_decade.csv results/institution_historical_coverage.csv
-          git diff --cached --quiet || (git commit -m "Record full corpus screening outputs" && git push)
+          name: paper3-compact-replication
+          path: |
+            results/corpus_audit.json
+            results/*transition*.csv
+            results/manuscript_audit.json
+            results/validation_status.json
+            deliverables/paper3-overleaf.zip

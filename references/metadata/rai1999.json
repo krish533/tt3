@@ -1,0 +1,46 @@
+{
+  "DOI": "10.2139/ssrn.172032",
+  "title": [
+    "Regulating Scientific Research: Intellectual Property Rights and the Norms of Science"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6786-3108",
+      "authenticated-orcid": true,
+      "given": "Arti Kaur",
+      "family": "Rai",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": null,
+  "publisher": "Elsevier BV",
+  "published": {
+    "date-parts": [
+      [
+        1999
+      ]
+    ]
+  },
+  "published-print": null,
+  "published-online": null,
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "article-number": null,
+  "type": "posted-content",
+  "ISBN": null,
+  "URL": "https://doi.org/10.2139/ssrn.172032",
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=172032"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "DOI": "10.1126/science.280.5364.698",
+  "title": [
+    "Can Patents Deter Innovation? The Anticommons in Biomedical Research"
+  ],
+  "author": [
+    {
+      "given": "Michael A.",
+      "family": "Heller",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "The authors are at the University of Michigan Law School, Ann Arbor, MI 48109–1215, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rebecca S.",
+      "family": "Eisenberg",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The authors are at the University of Michigan Law School, Ann Arbor, MI 48109–1215, USA."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Science"
+  ],
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "published": {
+    "date-parts": [
+      [
+        1998,
+        5
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        1998,
+        5
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "280",
+  "issue": "5364",
+  "page": "698-701",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1126/science.280.5364.698",
+  "resource": {
+    "primary": {
+      "URL": "https://www.science.org/doi/10.1126/science.280.5364.698"
+    }
+  }
+}

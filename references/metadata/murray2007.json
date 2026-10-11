@@ -1,0 +1,66 @@
+{
+  "DOI": "10.1016/j.jebo.2006.05.017",
+  "title": [
+    "Do formal intellectual property rights hinder the free flow of scientific knowledge?"
+  ],
+  "author": [
+    {
+      "given": "Fiona",
+      "family": "Murray",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Scott",
+      "family": "Stern",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Journal of Economic Behavior &amp; Organization"
+  ],
+  "publisher": "Elsevier BV",
+  "published": {
+    "date-parts": [
+      [
+        2007,
+        8
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2007,
+        8
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "63",
+  "issue": "4",
+  "page": "648-687",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1016/j.jebo.2006.05.017",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167268107000182"
+    }
+  }
+}

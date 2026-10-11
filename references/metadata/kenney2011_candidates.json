@@ -1,0 +1,237 @@
+[
+  {
+    "DOI": "10.2139/ssrn.1847184",
+    "title": [
+      "Does Inventor Ownership Encourage University Research-Derived Entrepreneurship? A Six University Comparison"
+    ],
+    "author": [
+      {
+        "given": "Martin",
+        "family": "Kenney",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Donald",
+        "family": "Patton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.1016/j.respol.2011.05.012",
+    "title": [
+      "Does inventor ownership encourage university research-derived entrepreneurship? A six university comparison"
+    ],
+    "author": [
+      {
+        "given": "Martin",
+        "family": "Kenney",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Donald",
+        "family": "Patton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Research Policy"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "volume": "40",
+    "issue": "8",
+    "page": "1100-1112"
+  },
+  {
+    "DOI": "10.1186/s13731-016-0037-9",
+    "title": [
+      "Does university entrepreneurship work in Japan?: a comparison of industry-university research funding and technology transfer activities between the UK and Japan"
+    ],
+    "author": [
+      {
+        "given": "Tatsuya",
+        "family": "Ito",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Takashi",
+        "family": "Kaneta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sue",
+        "family": "Sundstrom",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Innovation and Entrepreneurship"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          12
+        ]
+      ]
+    },
+    "volume": "5",
+    "issue": "1",
+    "page": null
+  },
+  {
+    "DOI": "10.2139/ssrn.4653065",
+    "title": [
+      "Does Taxpayer Assistance Encourage Entrepreneurship?"
+    ],
+    "author": [
+      {
+        "given": "Daphne",
+        "family": "Armstrong",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephen",
+        "family": "Glaeser",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.7208/chicago/9780226178486.003.0007",
+    "title": [
+      "Chapter 7. University Patenting in Europe"
+    ],
+    "author": [
+      {
+        "given": "David",
+        "family": "Audretsch",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Devrim",
+        "family": "G\u00f6ktepe-Hult\u00e9n",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "The Chicago Handbook of University Technology Transfer and Academic Entrepreneurship"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "188-217"
+  }
+]

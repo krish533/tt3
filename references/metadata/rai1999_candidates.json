@@ -1,0 +1,171 @@
+[
+  {
+    "DOI": "10.2139/ssrn.172032",
+    "title": [
+      "Regulating Scientific Research: Intellectual Property Rights and the Norms of Science"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6786-3108",
+        "authenticated-orcid": true,
+        "given": "Arti Kaur",
+        "family": "Rai",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.2139/ssrn.240955",
+    "title": [
+      "Facilitating Scientific Research: Intellectual Property Rights and the Norms of Science - a Response to Rai and Eisenberg"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5415-2753",
+        "authenticated-orcid": true,
+        "given": "F. Scott",
+        "family": "Kieff",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.4337/9781783472420.00013",
+    "title": [
+      "Overlaps and conflict norms in human rights law: Approaches of European courts to address intersections with intellectual property rights"
+    ],
+    "author": [
+      {
+        "given": "Henning",
+        "family": "Grosse Ruse-Khan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Research Handbook on Human Rights and Intellectual Property"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          27
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.2139/ssrn.981423",
+    "title": [
+      "Culture as Property: Intellectual Property, Local Norms and Global Rights"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3134-5867",
+        "authenticated-orcid": true,
+        "given": "Olufunmilayo",
+        "family": "Arewa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.4337/9781788977821.00024",
+    "title": [
+      "Jurisdictional overlaps in international intellectual property: challenges arising from the proliferation of preferential trade agreements regulating intellectual property rights"
+    ],
+    "author": [
+      {
+        "given": "Xavier",
+        "family": "Seuba",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Research Handbook on Intellectual Property and Investment Law"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          2
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  }
+]

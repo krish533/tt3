@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/krish533/Tech-transfer-1",
+  "commit": "25a9472b34334825b6d6c6a334f5b88eb00695b5",
+  "files": [
+    {
+      "path": "P1_replication_package/data/raw/policy_sentences_cleaned_combined.csv",
+      "local_name": "policy_sentences_cleaned_combined.csv",
+      "sha256": "92a7d153f630de78c973fc0b8915c5860b0a87320194781c73eca9601b3d3aec"
+    },
+    {
+      "path": "P1_replication_package/data/derived/policy_level_indices_institution_year.csv",
+      "local_name": "policy_level_indices_institution_year.csv",
+      "sha256": "694c21acc07d2a50ed27199d0e7ec01bb6974f08f843cbce2d7da4318f864198"
+    }
+  ]
+}

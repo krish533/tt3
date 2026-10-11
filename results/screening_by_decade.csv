@@ -1,0 +1,9 @@
+decade,documents,institutions,sentences,candidates,per_1000_sentences,inventions_matched_sentences,software_matched_sentences,data_matched_sentences,scholarly_matched_sentences,teaching_matched_sentences,tangible_matched_sentences,ai_matched_sentences,university_claim_matched_sentences,assignment_matched_sentences,creator_retention_matched_sentences,exception_matched_sentences,resources_matched_sentences,future_scope_matched_sentences,approval_matched_sentences
+1940,4,2,94,16,170.2127659574468,16,0,0,0,0,0,0,0,12,0,2,0,2,0
+1960,3,2,74,7,94.5945945945946,7,0,0,0,0,0,0,0,6,0,1,0,0,0
+1970,6,6,2235,3,1.342281879194631,2,0,0,1,0,0,0,0,0,0,1,2,0,0
+1980,24,21,2069,99,47.849202513291445,83,15,1,7,1,0,0,8,34,3,41,16,4,0
+1990,76,66,8501,368,43.28902482060934,309,36,10,39,1,4,0,36,129,9,154,58,21,0
+2000,105,86,18609,598,32.13498844645064,463,96,17,72,27,15,0,80,144,17,242,154,54,6
+2010,172,100,36483,1056,28.944988076638435,839,161,72,86,50,38,0,100,236,42,487,220,123,3
+2020,90,70,19094,632,33.09940295380748,533,69,34,47,18,43,0,68,142,15,253,163,91,8

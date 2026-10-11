@@ -1,0 +1,125 @@
+[
+  {
+    "DOI": "10.1142/9789814719766_0001",
+    "title": [
+      "Institutions, Institutional Change and Economic Performance in Emerging Markets"
+    ],
+    "author": [
+      {
+        "given": "Lakshmi",
+        "family": "Iyer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Institutions, Institutional Change and Economic Performance in Emerging Markets"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          10
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "3-50"
+  },
+  {
+    "DOI": "10.1017/cbo9780511808678.014",
+    "title": [
+      "Institutions, economic theory, and economic performance"
+    ],
+    "author": null,
+    "container-title": [
+      "Institutions, Institutional Change and Economic Performance"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1990,
+          10,
+          26
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "107-117"
+  },
+  {
+    "DOI": "10.1017/cbo9780511808678.003",
+    "title": [
+      "An introduction to institutions and institutional change"
+    ],
+    "author": null,
+    "container-title": [
+      "Institutions, Institutional Change and Economic Performance"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1990,
+          10,
+          26
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "3-10"
+  },
+  {
+    "DOI": "10.1017/cbo9780511808678.012",
+    "title": [
+      "Stability and institutional change"
+    ],
+    "author": null,
+    "container-title": [
+      "Institutions, Institutional Change and Economic Performance"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1990,
+          10,
+          26
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "83-91"
+  },
+  {
+    "DOI": "10.1017/cbo9780511808678.013",
+    "title": [
+      "The path of institutional change"
+    ],
+    "author": null,
+    "container-title": [
+      "Institutions, Institutional Change and Economic Performance"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1990,
+          10,
+          26
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "92-104"
+  }
+]

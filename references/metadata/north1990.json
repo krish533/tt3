@@ -1,0 +1,66 @@
+{
+  "DOI": "10.1017/cbo9780511808678",
+  "title": [
+    "Institutions, Institutional Change and Economic Performance"
+  ],
+  "author": [
+    {
+      "given": "Douglass C.",
+      "family": "North",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [],
+  "publisher": "Cambridge University Press",
+  "published": {
+    "date-parts": [
+      [
+        1990,
+        10,
+        26
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        1990,
+        10,
+        26
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2012,
+        6,
+        5
+      ]
+    ]
+  },
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "article-number": null,
+  "type": "monograph",
+  "ISBN": [
+    "9780521397346",
+    "9780521394161",
+    "9780511808678"
+  ],
+  "URL": "https://doi.org/10.1017/cbo9780511808678",
+  "resource": {
+    "primary": {
+      "URL": "https://www.cambridge.org/core/product/identifier/9780511808678/type/book"
+    }
+  }
+}

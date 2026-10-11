@@ -1,0 +1,223 @@
+[
+  {
+    "DOI": "10.4324/9781315092621-4",
+    "title": [
+      "Removing the \u2018Fuel of Interest\u2019 from the \u2018Fire of Genius\u2019: Law and the Employee-Inventor, 1830\u20131930"
+    ],
+    "author": [
+      {
+        "given": "Catherine L.",
+        "family": "Fisk",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Intellectual Property Law and History"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          5
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "109-180"
+  },
+  {
+    "DOI": "10.2307/1600261",
+    "title": [
+      "Removing the 'Fuel of Interest' from the 'Fire of Genius': Law and the Employee-Inventor, 1830-1930"
+    ],
+    "author": [
+      {
+        "given": "Catherine L.",
+        "family": "Fisk",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "The University of Chicago Law Review"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "volume": "65",
+    "issue": "4",
+    "page": "1127"
+  },
+  {
+    "DOI": "10.2139/ssrn.3081168",
+    "title": [
+      "Dissertation Executive Summary: Fuel of Interest and Fire of Genius: Essays on the Economic History of Innovation"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4715-9858",
+        "authenticated-orcid": true,
+        "given": "Michael",
+        "family": "Andrews",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.17077/etd.4bvhcbxx",
+    "title": [
+      "Fuel of interest and fire of genius"
+    ],
+    "author": [
+      {
+        "given": "Michael Jeffrey",
+        "family": "Andrews",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicolas",
+        "family": "Ziebarth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joel",
+        "family": "Mokyr",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martin",
+        "family": "Gervais",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alice",
+        "family": "Schoonbroodt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julia",
+        "family": "Garlick",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": null,
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.4337/9781781001622.00018",
+    "title": [
+      "The innovative worker: genius, accidental inventor or thief?"
+    ],
+    "author": [
+      {
+        "given": "Marilyn",
+        "family": "Pittard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Business Innovation and the Law"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          30
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  }
+]

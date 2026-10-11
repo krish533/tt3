@@ -1,0 +1,16 @@
+.upstream/
+input/
+build/
+.venv/
+__pycache__/
+*.pyc
+results/ownership_clause_manual_review_queue.csv
+results/review_sample_*.csv
+results/context/
+results/validation_sample_text.csv
+results/sentence_index.csv
+*.aux
+*.log
+*.out
+*.blg
+*.bbl

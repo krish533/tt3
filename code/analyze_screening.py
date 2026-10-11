@@ -6,7 +6,10 @@ import pandas as pd
 FLAGS="inventions software data scholarly teaching tangible ai university_claim assignment creator_retention exception resources future_scope approval".split()
 def analyze(queue,counts,outdir):
  x=pd.read_csv(queue); d=pd.read_csv(counts); p=Path(outdir);p.mkdir(parents=True,exist_ok=True)
- for c in FLAGS:x[c]=x[c].astype(bool)
+ for c in FLAGS:
+  values=x[c].astype(str).str.lower()
+  if not values.isin(['true','false','1','0']).all(): raise ValueError('Invalid boolean flag: '+c)
+  x[c]=values.isin(['true','1'])
  x["decade"]=(x.Year//10*10).astype(int);d["decade"]=(d.Year//10*10).astype(int)
  tab=d.groupby("decade").agg(documents=("Institution","size"),institutions=("Institution","nunique"),sentences=("sentences","sum"),candidates=("candidates","sum")).reset_index()
  tab["per_1000_sentences"]=(1000*tab.candidates/tab.sentences)

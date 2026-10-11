@@ -1,0 +1,66 @@
+{
+  "DOI": "10.1177/0306312708098605",
+  "title": [
+    "Why Did Universities Start Patenting?"
+  ],
+  "author": [
+    {
+      "given": "Elizabeth",
+      "family": "Popp Berman",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Sociology, University at Albany, SUNY,\rAlbany, NY 12222, USA,"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Social Studies of Science"
+  ],
+  "publisher": "SAGE Publications",
+  "published": {
+    "date-parts": [
+      [
+        2008,
+        12
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2008,
+        12
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2008,
+        12,
+        1
+      ]
+    ]
+  },
+  "volume": "38",
+  "issue": "6",
+  "page": "835-871",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1177/0306312708098605",
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/10.1177/0306312708098605"
+    }
+  }
+}

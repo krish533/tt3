@@ -1,0 +1,56 @@
+{
+  "DOI": "10.2139/ssrn.1847184",
+  "title": [
+    "Does Inventor Ownership Encourage University Research-Derived Entrepreneurship? A Six University Comparison"
+  ],
+  "author": [
+    {
+      "given": "Martin",
+      "family": "Kenney",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Donald",
+      "family": "Patton",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": null,
+  "publisher": "Elsevier BV",
+  "published": {
+    "date-parts": [
+      [
+        2011
+      ]
+    ]
+  },
+  "published-print": null,
+  "published-online": null,
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "article-number": null,
+  "type": "posted-content",
+  "ISBN": null,
+  "URL": "https://doi.org/10.2139/ssrn.1847184",
+  "resource": {
+    "primary": {
+      "URL": "https://www.ssrn.com/abstract=1847184"
+    }
+  }
+}

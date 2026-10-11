@@ -1,0 +1,13 @@
+{
+  "figures/archival_coverage.pdf": "493bd5194c808f2eda0955a93df70e2b7dbac1981fba79e2ebec957519b8d0dd",
+  "figures/archival_coverage.png": "5e277df041830ff56af5f050494444e81e3177e5721d63934e5edcf089408c26",
+  "main.tex": "894d1ab2f370a53c07ce6a89dd42dd7c9ca05a32060b1e662207015c9d3bc2ff",
+  "numbers.tex": "e4c2b7c81f92bdaeb8d49e540682f66eb46141aca1ade20d9c0d5e06a360a1db",
+  "references/references.bib": "eda3e07e348a49aa8864331230705696cb5ff7ac9a2a0c486cdabf1b10ad6934",
+  "references/references.tex": "bb70616c3e5bf296c5dcedb8cecc9b201983337a864b4c5bbaab9a8b0114c58f",
+  "tables/decades.tex": "23529e978b796e453f62e6921d408a7789345e4c698245234c187eebffd7b2d6",
+  "tables/population.tex": "bf04069ebae947241de17080755697ae286a09497eb884fddc91bfd503f71e30",
+  "tables/sensitivity.tex": "ab57e162ff2c3f1b2539fc6dd07d06f23caff0ced9e9765df2b209def46e3d03",
+  "tables/transitions.tex": "cbcfde39ef81a5daebeff24d508255a157f2edf4339a42f76ddf89eade5a067e",
+  "tables/weighted.tex": "abe4c56beaced46a30099007e736d0ff0c660636e3605959c8158e8b7352bce8"
+}

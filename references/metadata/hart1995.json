@@ -1,0 +1,70 @@
+{
+  "DOI": "10.1093/0198288816.001.0001",
+  "title": [
+    "Firms, Contracts, and Financial Structure"
+  ],
+  "author": [
+    {
+      "given": "Oliver",
+      "family": "Hart",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Harvard University"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [],
+  "publisher": "Oxford University PressOxford",
+  "published": {
+    "date-parts": [
+      [
+        1995,
+        10,
+        5
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        1995,
+        10,
+        5
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2003,
+        11,
+        1
+      ]
+    ]
+  },
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "article-number": null,
+  "type": "edited-book",
+  "ISBN": [
+    "0198288816",
+    "9780198288817",
+    "9780191596353"
+  ],
+  "URL": "https://doi.org/10.1093/0198288816.001.0001",
+  "resource": {
+    "primary": {
+      "URL": "https://academic.oup.com/book/3631"
+    }
+  }
+}

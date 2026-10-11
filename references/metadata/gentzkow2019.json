@@ -1,0 +1,92 @@
+{
+  "DOI": "10.1257/jel.20181020",
+  "title": [
+    "Text as Data"
+  ],
+  "author": [
+    {
+      "given": "Matthew",
+      "family": "Gentzkow",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Stanford University."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bryan",
+      "family": "Kelly",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Yale University and AQR Capital Management."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matt",
+      "family": "Taddy",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Chicago Booth School of Business."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Journal of Economic Literature"
+  ],
+  "publisher": "American Economic Association",
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        9,
+        1
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        9,
+        1
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "57",
+  "issue": "3",
+  "page": "535-574",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1257/jel.20181020",
+  "resource": {
+    "primary": {
+      "URL": "https://pubs.aeaweb.org/doi/10.1257/jel.20181020"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "DOI": "10.1016/j.jebo.2006.05.013",
+  "title": [
+    "The role of patents for bridging the science to market gap"
+  ],
+  "author": [
+    {
+      "given": "Thomas",
+      "family": "Hellmann",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Journal of Economic Behavior &amp; Organization"
+  ],
+  "publisher": "Elsevier BV",
+  "published": {
+    "date-parts": [
+      [
+        2007,
+        8
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2007,
+        8
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "63",
+  "issue": "4",
+  "page": "624-647",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1016/j.jebo.2006.05.013",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167268107000145"
+    }
+  }
+}

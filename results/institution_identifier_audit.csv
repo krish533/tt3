@@ -1,0 +1,151 @@
+Institution,first_year,last_year,observed_years,sentences,trimmed_identifier,whitespace_issue,normalized_identifier,normalization_collision
+Albert Einstein/Yeshiva,1985,2018,3,207,Albert Einstein/Yeshiva,False,albert einstein/yeshiva,False
+Arizona State University,2001,2025,5,381,Arizona State University,False,arizona state university,False
+Auburn University,2012,2012,1,82,Auburn University,False,auburn university,False
+Ball State University,2008,2013,2,321,Ball State University,False,ball state university,False
+Baylor College of Medicine,1995,2001,2,237,Baylor College of Medicine,False,baylor college of medicine,False
+Boston University,2000,2017,2,125,Boston University,False,boston university,False
+Brandeis University,1990,2020,3,291,Brandeis University,False,brandeis university,False
+Brigham Young University,1991,2019,2,282,Brigham Young University,False,brigham young university,False
+Brown University,1981,2021,3,269,Brown University,False,brown university,False
+California Institute of Technology,1944,2023,9,504,California Institute of Technology,False,california institute of technology,False
+Carnegie Mellon University,1985,1985,1,70,Carnegie Mellon University,False,carnegie mellon university,False
+Case Western Reserve University,2003,2003,1,81,Case Western Reserve University,False,case western reserve university,False
+Clemson University,1991,2025,4,552,Clemson University,False,clemson university,False
+Colorado State University,2000,2007,2,186,Colorado State University,False,colorado state university,False
+Columbia University,1989,1989,1,142,Columbia University,False,columbia university,False
+Creighton University,2002,2019,2,413,Creighton University,False,creighton university,False
+Dartmouth College,1996,2019,4,453,Dartmouth College,False,dartmouth college,False
+Drexel University,2004,2018,3,331,Drexel University,False,drexel university,False
+Duke University,1990,2022,4,463,Duke University,False,duke university,False
+East Carolina University,2012,2021,3,274,East Carolina University,False,east carolina university,False
+Emory University,1990,2015,4,465,Emory University,False,emory university,False
+Florida Atlantic University,1998,2020,5,1547,Florida Atlantic University,False,florida atlantic university,False
+Florida State University,1991,1991,1,139,Florida State University,False,florida state university,False
+George Mason University,2008,2008,1,114,George Mason University,False,george mason university,False
+Georgetown University,2006,2019,2,368,Georgetown University,False,georgetown university,False
+Georgia Institute of Technology,1996,2014,4,4301,Georgia Institute of Technology,False,georgia institute of technology,False
+Harvard University,1998,2010,3,292,Harvard University,False,harvard university,False
+Illinois Institute of Technology,2000,2021,3,303,Illinois Institute of Technology,False,illinois institute of technology,False
+Illinois State University,1990,2024,4,353,Illinois State University,False,illinois state university,False
+Indiana University,1997,2024,5,482,Indiana University,False,indiana university,False
+Iowa State University,1982,2000,2,31,Iowa State University,False,iowa state university,False
+Johns Hopkins University,1992,2011,3,398,Johns Hopkins University,False,johns hopkins university,False
+Kansas State University,2002,2002,1,166,Kansas State University,False,kansas state university,False
+Kent State University,2007,2016,3,111,Kent State University,False,kent state university,False
+Lehigh University,2001,2002,2,354,Lehigh University,False,lehigh university,False
+Louisiana State University,2008,2024,8,1416,Louisiana State University,False,louisiana state university,False
+Loyola University Medical Center,2006,2009,2,59,Loyola University Medical Center,False,loyola university medical center,False
+Medical College of Ohio,2009,2024,5,143,Medical College of Ohio,False,medical college of ohio,False
+Medical University of South Carolina,2005,2016,3,258,Medical University of South Carolina,False,medical university of south carolina,False
+Miami University,2018,2022,2,130,Miami University,False,miami university,False
+Michigan State University,1998,2017,3,871,Michigan State University,False,michigan state university,False
+Michigan Technological University,2010,2011,2,78,Michigan Technological University,False,michigan technological university,False
+Mississippi State University,1994,2003,3,459,Mississippi State University,False,mississippi state university,False
+Montana State University,1997,2017,2,107,Montana State University,False,montana state university,False
+New Jersey Institute of Technology,1985,2025,4,337,New Jersey Institute of Technology,False,new jersey institute of technology,False
+New Mexico State University,1993,2024,4,6659,New Mexico State University,False,new mexico state university,False
+New York Medical College,1998,1998,1,105,New York Medical College,False,new york medical college,False
+New York University,1983,2021,3,1542,New York University,False,new york university,False
+North Carolina State University,1997,2011,4,429,North Carolina State University,False,north carolina state university,False
+North Dakota State University,2010,2017,3,237,North Dakota State University,False,north dakota state university,False
+Northeastern University,1995,2023,2,226,Northeastern University,False,northeastern university,False
+Northern Illinois University,1997,2007,2,280,Northern Illinois University,False,northern illinois university,False
+Ohio State University,1989,2024,3,464,Ohio State University,False,ohio state university,False
+Ohio University,1995,1995,1,56,Ohio University,False,ohio university,False
+Oklahoma State University,2010,2019,2,295,Oklahoma State University,False,oklahoma state university,False
+Oregon Health Sciences University,2013,2024,2,798,Oregon Health Sciences University,False,oregon health sciences university,False
+Oregon State University,2001,2023,3,438,Oregon State University,False,oregon state university,False
+Penn State University,1998,2013,3,130,Penn State University,False,penn state university,False
+Portland State University,1997,2025,3,285,Portland State University,False,portland state university,False
+Princeton University,2001,2017,2,118,Princeton University,False,princeton university,False
+Purdue University,2000,2025,8,697,Purdue University,False,purdue university,False
+Rice University,1999,2023,2,195,Rice University,False,rice university,False
+Rutgers the State University of NJ,1996,2021,5,522,Rutgers the State University of NJ,False,rutgers the state university of nj,False
+SUNY,1988,2021,4,365,SUNY,False,suny,False
+Southern Illinois University,1992,2022,6,2433,Southern Illinois University,False,southern illinois university,False
+St. Louis University,1999,2024,4,361,St. Louis University,False,st. louis university,False
+Stanford University,1980,2023,8,1465,Stanford University,False,stanford university,False
+Stevens Institute of Technology,2000,2025,4,1863,Stevens Institute of Technology,False,stevens institute of technology,False
+Syracuse University,1992,2024,2,88,Syracuse University,False,syracuse university,False
+Temple University,1985,2022,3,157,Temple University,False,temple university,False
+Texas A&M University System,1991,2025,9,1129,Texas A&M University System,False,texas a&m university system,False
+Thomas Jefferson University,1998,2006,3,247,Thomas Jefferson University,False,thomas jefferson university,False
+Tufts University,2005,2005,1,72,Tufts University,False,tufts university,False
+Tulane University,1985,2001,2,199,Tulane University,False,tulane university,False
+University of Akron,1996,2015,3,270,University of Akron,False,university of akron,False
+University of Alabama in Birmingham (UAB),1980,2013,2,66,University of Alabama in Birmingham (UAB),False,university of alabama in birmingham (uab),False
+University of Alabama in Huntsville (UAH),1991,2018,2,60,University of Alabama in Huntsville (UAH),False,university of alabama in huntsville (uah),False
+University of Arizona,1983,2018,10,944,University of Arizona,False,university of arizona,False
+University of Arkansas,1945,2016,7,466,University of Arkansas,False,university of arkansas,False
+University of California System,1985,2024,4,151,University of California System,False,university of california system,False
+University of Central Florida,2013,2024,2,72,University of Central Florida,False,university of central florida,False
+University of Chicago,2002,2018,2,158,University of Chicago,False,university of chicago,False
+University of Cincinnati,2009,2019,2,99,University of Cincinnati,False,university of cincinnati,False
+University of Colorado,2011,2011,1,167,University of Colorado,False,university of colorado,False
+University of Connecticut,2015,2015,1,99,University of Connecticut,False,university of connecticut,False
+University of Dayton,1996,2015,2,375,University of Dayton,False,university of dayton,False
+University of Delaware,1993,2021,3,158,University of Delaware,False,university of delaware,False
+University of Denver,2008,2023,2,139,University of Denver,False,university of denver,False
+University of Florida,2013,2013,1,486,University of Florida,False,university of florida,False
+University of Georgia,1982,1995,2,159,University of Georgia,False,university of georgia,False
+University of Hawaii,1985,2020,3,165,University of Hawaii,False,university of hawaii,False
+University of Houston,1997,2023,5,1994,University of Houston,False,university of houston,False
+University of Idaho,1998,2022,3,307,University of Idaho,False,university of idaho,False
+University of Illinois At Chicago,2017,2023,5,1943,University of Illinois At Chicago,False,university of illinois at chicago,False
+University of Illinois Urbana Champaign,2006,2023,2,422,University of Illinois Urbana Champaign,False,university of illinois urbana champaign,False
+University of Iowa,2015,2023,9,2475,University of Iowa,False,university of iowa,False
+University of Kansas,1998,2001,2,157,University of Kansas,False,university of kansas,False
+University of Kentucky,1988,2005,3,382,University of Kentucky,False,university of kentucky,False
+University of Louisville,1998,2005,2,202,University of Louisville,False,university of louisville,False
+University of Maine,2002,2002,1,260,University of Maine,False,university of maine,False
+University of Maryland Baltimore,1990,2019,5,1022,University of Maryland Baltimore,False,university of maryland baltimore,False
+University of Maryland Baltimore County,2002,2022,2,500,University of Maryland Baltimore County,False,university of maryland baltimore county,False
+University of Maryland College Park,2018,2018,1,108,University of Maryland College Park,False,university of maryland college park,False
+University of Massachusetts Amherst,1997,2004,2,350,University of Massachusetts Amherst,False,university of massachusetts amherst,False
+University of Massachusetts Medical Center,1997,2004,2,353,University of Massachusetts Medical Center,False,university of massachusetts medical center,False
+University of Miami,2014,2016,2,2143,University of Miami,False,university of miami,False
+University of Michigan,2007,2021,2,199,University of Michigan,False,university of michigan,False
+University of Minnesota,2010,2022,3,196,University of Minnesota,False,university of minnesota,False
+University of Missouri System,1996,2025,5,691,University of Missouri System,False,university of missouri system,False
+University of Montana,1999,2007,2,108,University of Montana,False,university of montana,False
+University of Nebraska,2003,2025,4,6486,University of Nebraska,False,university of nebraska,False
+University of New Hampshire,2007,2014,2,246,University of New Hampshire,False,university of new hampshire,False
+University of New Mexico,1999,2022,3,428,University of New Mexico,False,university of new mexico,False
+University of New Orleans,2012,2023,3,313,University of New Orleans,False,university of new orleans,False
+University of North Carolina Chapel Hill,2013,2013,1,62,University of North Carolina Chapel Hill,False,university of north carolina chapel hill,False
+University of North Dakota,1992,2013,3,250,University of North Dakota,False,university of north dakota,False
+University of North Texas,2001,2018,4,297,University of North Texas,False,university of north texas,False
+University of Notre Dame,2003,2021,3,363,University of Notre Dame,False,university of notre dame,False
+University of Oklahoma,1999,2017,3,432,University of Oklahoma,False,university of oklahoma,False
+University of Oregon,2015,2015,1,14,University of Oregon,False,university of oregon,False
+University of Pennsylvania,1993,2023,4,2919,University of Pennsylvania,False,university of pennsylvania,False
+University of Pittsburgh,1978,2021,3,188,University of Pittsburgh,False,university of pittsburgh,False
+University of Rhode Island,1986,2021,3,3342,University of Rhode Island,False,university of rhode island,False
+University of Rochester,1997,2013,2,232,University of Rochester,False,university of rochester,False
+University of South Alabama,1984,2022,4,367,University of South Alabama,False,university of south alabama,False
+University of South Carolina,1994,2025,4,500,University of South Carolina,False,university of south carolina,False
+University of South Florida,2012,2025,4,482,University of South Florida,False,university of south florida,False
+University of Southern California,2001,2001,1,286,University of Southern California,False,university of southern california,False
+University of Tennessee,2003,2003,1,132,University of Tennessee,False,university of tennessee,False
+University of Texas Hlth Sci Ctr San Antonio,1978,2021,8,856,University of Texas Hlth Sci Ctr San Antonio,False,university of texas hlth sci ctr san antonio,False
+University of Texas Houston Hlth. Sci. Ctr_,1978,2021,8,762,University of Texas Houston Hlth. Sci. Ctr_,False,university of texas houston hlth. sci. ctr_,False
+University of Texas Medical Branch (Galveston),1978,2019,9,938,University of Texas Medical Branch (Galveston),False,university of texas medical branch (galveston),False
+University of Texas Southwestern Med. Ctr_,1978,2025,9,1049,University of Texas Southwestern Med. Ctr_,False,university of texas southwestern med. ctr_,False
+University of Texas at Austin,1978,2021,8,2542,University of Texas at Austin,False,university of texas at austin,False
+University of Tulsa,2003,2017,2,118,University of Tulsa,False,university of tulsa,False
+University of Utah,1999,2013,2,143,University of Utah,False,university of utah,False
+University of Vermont,2013,2013,1,182,University of Vermont,False,university of vermont,False
+University of Virginia,1993,2021,4,173,University of Virginia,False,university of virginia,False
+University of Washington,2003,2025,3,602,University of Washington,False,university of washington,False
+University of Wisconsin-Madison,2005,2022,3,198,University of Wisconsin-Madison,False,university of wisconsin-madison,False
+Utah State University,1999,2016,3,188,Utah State University,False,utah state university,False
+Vanderbilt University,2011,2016,2,161,Vanderbilt University,False,vanderbilt university,False
+Virginia Commonwealth University,1999,2021,3,358,Virginia Commonwealth University,False,virginia commonwealth university,False
+Virginia Tech,1990,2021,5,430,Virginia Tech,False,virginia tech,False
+Wake Forest University,1993,2025,5,535,Wake Forest University,False,wake forest university,False
+Washington State University,2014,2023,3,732,Washington State University,False,washington state university,False
+Washington University in St. Louis,2014,2023,2,646,Washington University in St. Louis,False,washington university in st. louis,False
+Wayne State University,1998,1998,1,159,Wayne State University,False,wayne state university,False
+West Virginia University,1999,2019,4,256,West Virginia University,False,west virginia university,False
+Yale University,1998,2023,2,145,Yale University,False,yale university,False

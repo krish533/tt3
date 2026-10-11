@@ -1,0 +1,216 @@
+[
+  {
+    "DOI": "10.1016/j.irle.2019.105883",
+    "title": [
+      "How do patent incentives affect university researchers?"
+    ],
+    "author": [
+      {
+        "given": "Lisa Larrimore",
+        "family": "Ouellette",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew",
+        "family": "Tutt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "International Review of Law and Economics"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    },
+    "volume": "61",
+    "issue": null,
+    "page": "105883"
+  },
+  {
+    "DOI": "10.2139/ssrn.3164596",
+    "title": [
+      "How Insider Trading Opportunities Affect Incentives to Patent"
+    ],
+    "author": [
+      {
+        "given": "Katrin",
+        "family": "Hussinger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Keusch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Frank",
+        "family": "Moers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.14711/thesis-991012656868803412",
+    "title": [
+      "How do patent promotion policies affect patent quantity, patent quality and R&amp;D input?"
+    ],
+    "author": [
+      {
+        "given": "Paul Pang",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": null,
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.2139/ssrn.2724360",
+    "title": [
+      "How Do Managerial Incentives Affect the Maturity Structure of Corporate Public Debt?"
+    ],
+    "author": [
+      {
+        "given": "Takanori",
+        "family": "Tanaka",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.2139/ssrn.4217987",
+    "title": [
+      "How Patent Rights Affect University Science"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2736-1917",
+        "authenticated-orcid": true,
+        "given": "Laurent",
+        "family": "Berg\u00e9",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thorsten",
+        "family": "Doherr",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Katrin",
+        "family": "Hussinger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  }
+]

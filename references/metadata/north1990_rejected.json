@@ -1,0 +1,66 @@
+{
+  "DOI": "10.1142/9789814719766_0001",
+  "title": [
+    "Institutions, Institutional Change and Economic Performance in Emerging Markets"
+  ],
+  "author": [
+    {
+      "given": "Lakshmi",
+      "family": "Iyer",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Institutions, Institutional Change and Economic Performance in Emerging Markets"
+  ],
+  "publisher": "WORLD SCIENTIFIC",
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        10
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        5
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        10
+      ]
+    ]
+  },
+  "volume": null,
+  "issue": null,
+  "page": "3-50",
+  "article-number": null,
+  "type": "book-chapter",
+  "ISBN": [
+    "9789814719759",
+    "9789814719766"
+  ],
+  "URL": "https://doi.org/10.1142/9789814719766_0001",
+  "resource": {
+    "primary": {
+      "URL": "http://www.worldscientific.com/doi/abs/10.1142/9789814719766_0001"
+    }
+  }
+}

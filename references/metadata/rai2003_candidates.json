@@ -1,0 +1,213 @@
+[
+  {
+    "DOI": "10.2139/ssrn.348343",
+    "title": [
+      "Bayh-Dole Reform and the Progress of Biomedicine"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6786-3108",
+        "authenticated-orcid": true,
+        "given": "Arti Kaur",
+        "family": "Rai",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca S.",
+        "family": "Eisenberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.1511/2003.1.52",
+    "title": [
+      "Bayh-Dole Reform and the Progress of Biomedicine"
+    ],
+    "author": [
+      {
+        "given": "Arti",
+        "family": "Rai",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca",
+        "family": "Eisenberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "American Scientist"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "volume": "91",
+    "issue": "1",
+    "page": "52"
+  },
+  {
+    "DOI": "10.1511/2003.11.52",
+    "title": [
+      "Bayh-Dole Reform and the Progress of Biomedicine"
+    ],
+    "author": [
+      {
+        "given": "Arti",
+        "family": "Rai",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca",
+        "family": "Eisenberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "American Scientist"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "volume": "91",
+    "issue": "1",
+    "page": "52"
+  },
+  {
+    "DOI": "10.1511/2003.11.842",
+    "title": [
+      "Bayh-Dole Reform and the Progress of Biomedicine"
+    ],
+    "author": [
+      {
+        "given": "Arti",
+        "family": "Rai",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca",
+        "family": "Eisenberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "American Scientist"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "volume": "91",
+    "issue": "1",
+    "page": "52"
+  },
+  {
+    "DOI": "10.2139/ssrn.5040065",
+    "title": [
+      "The Bayh-Dole Act: A Legislative Tragedy Or A Successful Strategy For The Progress Of Science?"
+    ],
+    "author": [
+      {
+        "given": "Deji",
+        "family": "Jayeoba",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  }
+]

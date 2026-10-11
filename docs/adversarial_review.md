@@ -1,0 +1,21 @@
+# Adversarial referee audit
+
+This is an AI-assisted internal review, not an independent referee report. The relevant standard is whether the evidence supports the proposed legal-historical contribution, not whether the document looks complete.
+
+**Does the article answer its original ownership-evolution question?** Only partially. The archive identifies language changes and the selected source readings establish distinct allocation mechanisms. It does not identify a population distribution of legally meaningful expansion or contraction. The title retains the research question; the abstract, front-page status, results and conclusion state the limitation. A referee could reasonably reject the article as an incomplete empirical study. More prose or additional regressions would not cure that defect.
+
+**Is the contribution distinct from Papers 1 and 2?** Yes in object and design: property-right relationships, legal operations, source authentication and within-institution comparability replace communication indices and commercialization outcomes. It shares the original corpus and therefore must disclose that dependence. The article does not claim the distinction between ownership and control is new; Halilem et al. and Jamali are acknowledged as close prior work.
+
+**Are the denominators valid?** The original counts reproduce; carried-forward years never become independent documents. The 518 filename groups and multi-file institution-years show why 480 records must not be described as 480 authenticated unique instruments. Sentence collisions and repeated system text are documented, not silently removed. University bootstrap intervals remain conditional on a nonrandom archive and do not solve dependence among campuses using the same system policy.
+
+**Are definitions confused with ownership?** No legal outcome is inferred from asset flags. Actual examples include creator-protected software, qualified university claims and nonexclusive licenses. The broader regex queue remains provisional. Its larger size is not evidence of better accuracy. Headings do not determine operation: a definitions section may contain a rule.
+
+**Do examples establish changes?** Not yet. Wake Forest's retrieved earlier reprint bears a later amendment date; its 2017 record pools campus files, and a companion copyright policy remains missing. Caltech's historical reproduction differs in modal wording. Delaware's duplicate text is archival stability, not authenticated legal stability. These defects are retained in the transition review rather than converted into expansion indicators.
+
+**Does validation meet empirical legal standards?** No. Twelve purposive AI-assisted readings are not independent expert coding. The probability sample includes negatives and known inclusion probabilities, but rare categories require enrichment and no reference standard exists. No precision, recall, agreement or legally validated population bounds tighter than [0,1] are reported.
+
+**Do citations support the argument?** Metadata errors, wrong versions, missing page endpoints, a reversed author name and HTML entities were corrected. Original legal records anchor the doctrinal distinctions; Roche is not misrepresented as deciding all assignment-language issues. Most scholarly discussion remains at the level supported by accessible abstracts or primary summaries. Full-text support checking, especially for close competing studies, remains a submission requirement. Forty-eight citations are not forty-eight independently reviewed full texts.
+
+**Can another researcher reproduce the outputs?** The population, screen, lexical transitions, samples, tables and bibliography are generated from pinned inputs and explicit accepted metadata. Semantic readings are disclosed research inputs, not algorithmically proven conclusions. Source checksums protect them against changed downloaded bytes. Optional live retrieval is outside the deterministic analysis path. External Word pagination, remote CI status and source disappearance remain separate practical risks.
+
+**Editorial verdict:** useful, transparent research package and evidence-limited manuscript; not a completed, validated article on the evolution of university ownership. The final release must preserve this distinction.

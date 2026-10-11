@@ -1,0 +1,54 @@
+{
+  "DOI": "10.1016/j.respol.2007.02.019",
+  "title": [
+    "From divergent meanings to common practices: The early institutionalization of technology transfer in the life sciences at Stanford University"
+  ],
+  "author": [
+    {
+      "given": "Jeannette A.",
+      "family": "Colyvas",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Research Policy"
+  ],
+  "publisher": "Elsevier BV",
+  "published": {
+    "date-parts": [
+      [
+        2007,
+        5
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2007,
+        5
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "36",
+  "issue": "4",
+  "page": "456-476",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1016/j.respol.2007.02.019",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048733307000509"
+    }
+  }
+}

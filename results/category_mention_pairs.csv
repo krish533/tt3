@@ -1,0 +1,2971 @@
+Institution,from_year,to_year,category,before,after,change
+Albert Einstein/Yeshiva,1985,2015,patentable_inventions,1,1,0
+Albert Einstein/Yeshiva,1985,2015,software,0,1,1
+Albert Einstein/Yeshiva,1985,2015,algorithms,0,0,0
+Albert Einstein/Yeshiva,1985,2015,research_datasets,0,1,1
+Albert Einstein/Yeshiva,1985,2015,scholarly_publications,1,1,0
+Albert Einstein/Yeshiva,1985,2015,teaching_materials,0,0,0
+Albert Einstein/Yeshiva,1985,2015,biological_materials,0,0,0
+Albert Einstein/Yeshiva,1985,2015,tangible_research_property,0,1,1
+Albert Einstein/Yeshiva,1985,2015,emerging_technologies,0,0,0
+Albert Einstein/Yeshiva,2015,2018,patentable_inventions,1,1,0
+Albert Einstein/Yeshiva,2015,2018,software,1,0,-1
+Albert Einstein/Yeshiva,2015,2018,algorithms,0,0,0
+Albert Einstein/Yeshiva,2015,2018,research_datasets,1,1,0
+Albert Einstein/Yeshiva,2015,2018,scholarly_publications,1,1,0
+Albert Einstein/Yeshiva,2015,2018,teaching_materials,0,0,0
+Albert Einstein/Yeshiva,2015,2018,biological_materials,0,0,0
+Albert Einstein/Yeshiva,2015,2018,tangible_research_property,1,1,0
+Albert Einstein/Yeshiva,2015,2018,emerging_technologies,0,0,0
+Arizona State University,2001,2003,patentable_inventions,1,1,0
+Arizona State University,2001,2003,software,0,1,1
+Arizona State University,2001,2003,algorithms,0,0,0
+Arizona State University,2001,2003,research_datasets,1,0,-1
+Arizona State University,2001,2003,scholarly_publications,0,0,0
+Arizona State University,2001,2003,teaching_materials,0,0,0
+Arizona State University,2001,2003,biological_materials,0,0,0
+Arizona State University,2001,2003,tangible_research_property,0,0,0
+Arizona State University,2001,2003,emerging_technologies,0,0,0
+Arizona State University,2003,2007,patentable_inventions,1,1,0
+Arizona State University,2003,2007,software,1,0,-1
+Arizona State University,2003,2007,algorithms,0,0,0
+Arizona State University,2003,2007,research_datasets,0,0,0
+Arizona State University,2003,2007,scholarly_publications,0,0,0
+Arizona State University,2003,2007,teaching_materials,0,0,0
+Arizona State University,2003,2007,biological_materials,0,0,0
+Arizona State University,2003,2007,tangible_research_property,0,0,0
+Arizona State University,2003,2007,emerging_technologies,0,0,0
+Arizona State University,2007,2018,patentable_inventions,1,1,0
+Arizona State University,2007,2018,software,0,1,1
+Arizona State University,2007,2018,algorithms,0,1,1
+Arizona State University,2007,2018,research_datasets,0,0,0
+Arizona State University,2007,2018,scholarly_publications,0,1,1
+Arizona State University,2007,2018,teaching_materials,0,1,1
+Arizona State University,2007,2018,biological_materials,0,1,1
+Arizona State University,2007,2018,tangible_research_property,0,1,1
+Arizona State University,2007,2018,emerging_technologies,0,1,1
+Arizona State University,2018,2025,patentable_inventions,1,1,0
+Arizona State University,2018,2025,software,1,0,-1
+Arizona State University,2018,2025,algorithms,1,0,-1
+Arizona State University,2018,2025,research_datasets,0,1,1
+Arizona State University,2018,2025,scholarly_publications,1,1,0
+Arizona State University,2018,2025,teaching_materials,1,1,0
+Arizona State University,2018,2025,biological_materials,1,0,-1
+Arizona State University,2018,2025,tangible_research_property,1,0,-1
+Arizona State University,2018,2025,emerging_technologies,1,0,-1
+Ball State University,2008,2013,patentable_inventions,1,1,0
+Ball State University,2008,2013,software,1,1,0
+Ball State University,2008,2013,algorithms,0,0,0
+Ball State University,2008,2013,research_datasets,0,1,1
+Ball State University,2008,2013,scholarly_publications,1,1,0
+Ball State University,2008,2013,teaching_materials,0,1,1
+Ball State University,2008,2013,biological_materials,1,1,0
+Ball State University,2008,2013,tangible_research_property,1,1,0
+Ball State University,2008,2013,emerging_technologies,0,1,1
+Baylor College of Medicine,1995,2001,patentable_inventions,1,1,0
+Baylor College of Medicine,1995,2001,software,0,1,1
+Baylor College of Medicine,1995,2001,algorithms,0,0,0
+Baylor College of Medicine,1995,2001,research_datasets,0,1,1
+Baylor College of Medicine,1995,2001,scholarly_publications,0,1,1
+Baylor College of Medicine,1995,2001,teaching_materials,0,0,0
+Baylor College of Medicine,1995,2001,biological_materials,0,1,1
+Baylor College of Medicine,1995,2001,tangible_research_property,0,0,0
+Baylor College of Medicine,1995,2001,emerging_technologies,0,0,0
+Boston University,2000,2017,patentable_inventions,1,1,0
+Boston University,2000,2017,software,0,1,1
+Boston University,2000,2017,algorithms,0,0,0
+Boston University,2000,2017,research_datasets,0,1,1
+Boston University,2000,2017,scholarly_publications,0,1,1
+Boston University,2000,2017,teaching_materials,0,1,1
+Boston University,2000,2017,biological_materials,0,1,1
+Boston University,2000,2017,tangible_research_property,0,1,1
+Boston University,2000,2017,emerging_technologies,0,1,1
+Brandeis University,1990,2004,patentable_inventions,1,1,0
+Brandeis University,1990,2004,software,0,1,1
+Brandeis University,1990,2004,algorithms,0,0,0
+Brandeis University,1990,2004,research_datasets,0,0,0
+Brandeis University,1990,2004,scholarly_publications,1,1,0
+Brandeis University,1990,2004,teaching_materials,0,1,1
+Brandeis University,1990,2004,biological_materials,0,0,0
+Brandeis University,1990,2004,tangible_research_property,0,1,1
+Brandeis University,1990,2004,emerging_technologies,0,0,0
+Brandeis University,2004,2020,patentable_inventions,1,1,0
+Brandeis University,2004,2020,software,1,1,0
+Brandeis University,2004,2020,algorithms,0,0,0
+Brandeis University,2004,2020,research_datasets,0,1,1
+Brandeis University,2004,2020,scholarly_publications,1,1,0
+Brandeis University,2004,2020,teaching_materials,1,1,0
+Brandeis University,2004,2020,biological_materials,0,1,1
+Brandeis University,2004,2020,tangible_research_property,1,1,0
+Brandeis University,2004,2020,emerging_technologies,0,0,0
+Brigham Young University,1991,2019,patentable_inventions,1,1,0
+Brigham Young University,1991,2019,software,1,0,-1
+Brigham Young University,1991,2019,algorithms,0,0,0
+Brigham Young University,1991,2019,research_datasets,0,0,0
+Brigham Young University,1991,2019,scholarly_publications,1,1,0
+Brigham Young University,1991,2019,teaching_materials,1,1,0
+Brigham Young University,1991,2019,biological_materials,0,0,0
+Brigham Young University,1991,2019,tangible_research_property,0,0,0
+Brigham Young University,1991,2019,emerging_technologies,0,0,0
+Brown University,1981,2005,patentable_inventions,1,1,0
+Brown University,1981,2005,software,1,1,0
+Brown University,1981,2005,algorithms,0,0,0
+Brown University,1981,2005,research_datasets,0,1,1
+Brown University,1981,2005,scholarly_publications,1,1,0
+Brown University,1981,2005,teaching_materials,0,1,1
+Brown University,1981,2005,biological_materials,0,0,0
+Brown University,1981,2005,tangible_research_property,0,0,0
+Brown University,1981,2005,emerging_technologies,0,0,0
+Brown University,2005,2021,patentable_inventions,1,1,0
+Brown University,2005,2021,software,1,0,-1
+Brown University,2005,2021,algorithms,0,0,0
+Brown University,2005,2021,research_datasets,1,0,-1
+Brown University,2005,2021,scholarly_publications,1,0,-1
+Brown University,2005,2021,teaching_materials,1,0,-1
+Brown University,2005,2021,biological_materials,0,0,0
+Brown University,2005,2021,tangible_research_property,0,0,0
+Brown University,2005,2021,emerging_technologies,0,0,0
+California Institute of Technology,1944,1945,patentable_inventions,1,1,0
+California Institute of Technology,1944,1945,software,0,0,0
+California Institute of Technology,1944,1945,algorithms,0,0,0
+California Institute of Technology,1944,1945,research_datasets,0,0,0
+California Institute of Technology,1944,1945,scholarly_publications,1,1,0
+California Institute of Technology,1944,1945,teaching_materials,0,0,0
+California Institute of Technology,1944,1945,biological_materials,0,0,0
+California Institute of Technology,1944,1945,tangible_research_property,0,0,0
+California Institute of Technology,1944,1945,emerging_technologies,0,0,0
+California Institute of Technology,1945,1947,patentable_inventions,1,1,0
+California Institute of Technology,1945,1947,software,0,0,0
+California Institute of Technology,1945,1947,algorithms,0,0,0
+California Institute of Technology,1945,1947,research_datasets,0,0,0
+California Institute of Technology,1945,1947,scholarly_publications,1,0,-1
+California Institute of Technology,1945,1947,teaching_materials,0,0,0
+California Institute of Technology,1945,1947,biological_materials,0,0,0
+California Institute of Technology,1945,1947,tangible_research_property,0,0,0
+California Institute of Technology,1945,1947,emerging_technologies,0,0,0
+California Institute of Technology,1947,1962,patentable_inventions,1,0,-1
+California Institute of Technology,1947,1962,software,0,0,0
+California Institute of Technology,1947,1962,algorithms,0,0,0
+California Institute of Technology,1947,1962,research_datasets,0,0,0
+California Institute of Technology,1947,1962,scholarly_publications,0,1,1
+California Institute of Technology,1947,1962,teaching_materials,0,1,1
+California Institute of Technology,1947,1962,biological_materials,0,0,0
+California Institute of Technology,1947,1962,tangible_research_property,0,0,0
+California Institute of Technology,1947,1962,emerging_technologies,0,0,0
+California Institute of Technology,1962,1968,patentable_inventions,0,1,1
+California Institute of Technology,1962,1968,software,0,0,0
+California Institute of Technology,1962,1968,algorithms,0,0,0
+California Institute of Technology,1962,1968,research_datasets,0,0,0
+California Institute of Technology,1962,1968,scholarly_publications,1,1,0
+California Institute of Technology,1962,1968,teaching_materials,1,0,-1
+California Institute of Technology,1962,1968,biological_materials,0,0,0
+California Institute of Technology,1962,1968,tangible_research_property,0,0,0
+California Institute of Technology,1962,1968,emerging_technologies,0,0,0
+California Institute of Technology,1968,1998,patentable_inventions,1,1,0
+California Institute of Technology,1968,1998,software,0,1,1
+California Institute of Technology,1968,1998,algorithms,0,0,0
+California Institute of Technology,1968,1998,research_datasets,0,1,1
+California Institute of Technology,1968,1998,scholarly_publications,1,1,0
+California Institute of Technology,1968,1998,teaching_materials,0,0,0
+California Institute of Technology,1968,1998,biological_materials,0,0,0
+California Institute of Technology,1968,1998,tangible_research_property,0,0,0
+California Institute of Technology,1968,1998,emerging_technologies,0,0,0
+California Institute of Technology,1998,2003,patentable_inventions,1,1,0
+California Institute of Technology,1998,2003,software,1,1,0
+California Institute of Technology,1998,2003,algorithms,0,0,0
+California Institute of Technology,1998,2003,research_datasets,1,1,0
+California Institute of Technology,1998,2003,scholarly_publications,1,1,0
+California Institute of Technology,1998,2003,teaching_materials,0,0,0
+California Institute of Technology,1998,2003,biological_materials,0,0,0
+California Institute of Technology,1998,2003,tangible_research_property,0,0,0
+California Institute of Technology,1998,2003,emerging_technologies,0,0,0
+California Institute of Technology,2003,2007,patentable_inventions,1,1,0
+California Institute of Technology,2003,2007,software,1,1,0
+California Institute of Technology,2003,2007,algorithms,0,0,0
+California Institute of Technology,2003,2007,research_datasets,1,1,0
+California Institute of Technology,2003,2007,scholarly_publications,1,1,0
+California Institute of Technology,2003,2007,teaching_materials,0,0,0
+California Institute of Technology,2003,2007,biological_materials,0,0,0
+California Institute of Technology,2003,2007,tangible_research_property,0,0,0
+California Institute of Technology,2003,2007,emerging_technologies,0,0,0
+California Institute of Technology,2007,2023,patentable_inventions,1,1,0
+California Institute of Technology,2007,2023,software,1,1,0
+California Institute of Technology,2007,2023,algorithms,0,0,0
+California Institute of Technology,2007,2023,research_datasets,1,1,0
+California Institute of Technology,2007,2023,scholarly_publications,1,1,0
+California Institute of Technology,2007,2023,teaching_materials,0,0,0
+California Institute of Technology,2007,2023,biological_materials,0,1,1
+California Institute of Technology,2007,2023,tangible_research_property,0,0,0
+California Institute of Technology,2007,2023,emerging_technologies,0,0,0
+Clemson University,1991,2009,patentable_inventions,1,1,0
+Clemson University,1991,2009,software,0,1,1
+Clemson University,1991,2009,algorithms,0,0,0
+Clemson University,1991,2009,research_datasets,0,1,1
+Clemson University,1991,2009,scholarly_publications,1,1,0
+Clemson University,1991,2009,teaching_materials,0,1,1
+Clemson University,1991,2009,biological_materials,0,0,0
+Clemson University,1991,2009,tangible_research_property,0,0,0
+Clemson University,1991,2009,emerging_technologies,0,1,1
+Clemson University,2009,2016,patentable_inventions,1,1,0
+Clemson University,2009,2016,software,1,1,0
+Clemson University,2009,2016,algorithms,0,0,0
+Clemson University,2009,2016,research_datasets,1,1,0
+Clemson University,2009,2016,scholarly_publications,1,1,0
+Clemson University,2009,2016,teaching_materials,1,1,0
+Clemson University,2009,2016,biological_materials,0,0,0
+Clemson University,2009,2016,tangible_research_property,0,0,0
+Clemson University,2009,2016,emerging_technologies,1,1,0
+Clemson University,2016,2025,patentable_inventions,1,1,0
+Clemson University,2016,2025,software,1,1,0
+Clemson University,2016,2025,algorithms,0,0,0
+Clemson University,2016,2025,research_datasets,1,1,0
+Clemson University,2016,2025,scholarly_publications,1,1,0
+Clemson University,2016,2025,teaching_materials,1,1,0
+Clemson University,2016,2025,biological_materials,0,0,0
+Clemson University,2016,2025,tangible_research_property,0,0,0
+Clemson University,2016,2025,emerging_technologies,1,1,0
+Colorado State University,2000,2007,patentable_inventions,1,1,0
+Colorado State University,2000,2007,software,1,0,-1
+Colorado State University,2000,2007,algorithms,0,0,0
+Colorado State University,2000,2007,research_datasets,1,0,-1
+Colorado State University,2000,2007,scholarly_publications,1,1,0
+Colorado State University,2000,2007,teaching_materials,1,0,-1
+Colorado State University,2000,2007,biological_materials,1,1,0
+Colorado State University,2000,2007,tangible_research_property,0,0,0
+Colorado State University,2000,2007,emerging_technologies,0,0,0
+Creighton University,2002,2019,patentable_inventions,1,1,0
+Creighton University,2002,2019,software,1,1,0
+Creighton University,2002,2019,algorithms,0,0,0
+Creighton University,2002,2019,research_datasets,0,0,0
+Creighton University,2002,2019,scholarly_publications,1,1,0
+Creighton University,2002,2019,teaching_materials,1,1,0
+Creighton University,2002,2019,biological_materials,1,1,0
+Creighton University,2002,2019,tangible_research_property,0,0,0
+Creighton University,2002,2019,emerging_technologies,0,0,0
+Dartmouth College,1996,2009,patentable_inventions,1,1,0
+Dartmouth College,1996,2009,software,0,0,0
+Dartmouth College,1996,2009,algorithms,0,0,0
+Dartmouth College,1996,2009,research_datasets,0,0,0
+Dartmouth College,1996,2009,scholarly_publications,0,0,0
+Dartmouth College,1996,2009,teaching_materials,0,0,0
+Dartmouth College,1996,2009,biological_materials,0,0,0
+Dartmouth College,1996,2009,tangible_research_property,0,0,0
+Dartmouth College,1996,2009,emerging_technologies,0,0,0
+Dartmouth College,2009,2016,patentable_inventions,1,1,0
+Dartmouth College,2009,2016,software,0,1,1
+Dartmouth College,2009,2016,algorithms,0,0,0
+Dartmouth College,2009,2016,research_datasets,0,1,1
+Dartmouth College,2009,2016,scholarly_publications,0,1,1
+Dartmouth College,2009,2016,teaching_materials,0,1,1
+Dartmouth College,2009,2016,biological_materials,0,1,1
+Dartmouth College,2009,2016,tangible_research_property,0,1,1
+Dartmouth College,2009,2016,emerging_technologies,0,0,0
+Dartmouth College,2016,2019,patentable_inventions,1,1,0
+Dartmouth College,2016,2019,software,1,1,0
+Dartmouth College,2016,2019,algorithms,0,0,0
+Dartmouth College,2016,2019,research_datasets,1,1,0
+Dartmouth College,2016,2019,scholarly_publications,1,1,0
+Dartmouth College,2016,2019,teaching_materials,1,1,0
+Dartmouth College,2016,2019,biological_materials,1,1,0
+Dartmouth College,2016,2019,tangible_research_property,1,1,0
+Dartmouth College,2016,2019,emerging_technologies,0,0,0
+Drexel University,2004,2005,patentable_inventions,1,1,0
+Drexel University,2004,2005,software,0,0,0
+Drexel University,2004,2005,algorithms,0,0,0
+Drexel University,2004,2005,research_datasets,0,0,0
+Drexel University,2004,2005,scholarly_publications,1,1,0
+Drexel University,2004,2005,teaching_materials,0,0,0
+Drexel University,2004,2005,biological_materials,0,0,0
+Drexel University,2004,2005,tangible_research_property,0,0,0
+Drexel University,2004,2005,emerging_technologies,0,0,0
+Drexel University,2005,2018,patentable_inventions,1,1,0
+Drexel University,2005,2018,software,0,1,1
+Drexel University,2005,2018,algorithms,0,0,0
+Drexel University,2005,2018,research_datasets,0,0,0
+Drexel University,2005,2018,scholarly_publications,1,1,0
+Drexel University,2005,2018,teaching_materials,0,1,1
+Drexel University,2005,2018,biological_materials,0,1,1
+Drexel University,2005,2018,tangible_research_property,0,1,1
+Drexel University,2005,2018,emerging_technologies,0,0,0
+Duke University,1990,1997,patentable_inventions,1,1,0
+Duke University,1990,1997,software,0,0,0
+Duke University,1990,1997,algorithms,0,0,0
+Duke University,1990,1997,research_datasets,0,0,0
+Duke University,1990,1997,scholarly_publications,1,1,0
+Duke University,1990,1997,teaching_materials,0,0,0
+Duke University,1990,1997,biological_materials,0,0,0
+Duke University,1990,1997,tangible_research_property,0,0,0
+Duke University,1990,1997,emerging_technologies,0,0,0
+Duke University,1997,2016,patentable_inventions,1,1,0
+Duke University,1997,2016,software,0,1,1
+Duke University,1997,2016,algorithms,0,0,0
+Duke University,1997,2016,research_datasets,0,0,0
+Duke University,1997,2016,scholarly_publications,1,1,0
+Duke University,1997,2016,teaching_materials,0,0,0
+Duke University,1997,2016,biological_materials,0,0,0
+Duke University,1997,2016,tangible_research_property,0,0,0
+Duke University,1997,2016,emerging_technologies,0,0,0
+Duke University,2016,2022,patentable_inventions,1,1,0
+Duke University,2016,2022,software,1,0,-1
+Duke University,2016,2022,algorithms,0,0,0
+Duke University,2016,2022,research_datasets,0,0,0
+Duke University,2016,2022,scholarly_publications,1,1,0
+Duke University,2016,2022,teaching_materials,0,0,0
+Duke University,2016,2022,biological_materials,0,0,0
+Duke University,2016,2022,tangible_research_property,0,0,0
+Duke University,2016,2022,emerging_technologies,0,0,0
+East Carolina University,2012,2013,patentable_inventions,1,1,0
+East Carolina University,2012,2013,software,1,1,0
+East Carolina University,2012,2013,algorithms,0,0,0
+East Carolina University,2012,2013,research_datasets,0,0,0
+East Carolina University,2012,2013,scholarly_publications,1,1,0
+East Carolina University,2012,2013,teaching_materials,0,0,0
+East Carolina University,2012,2013,biological_materials,1,1,0
+East Carolina University,2012,2013,tangible_research_property,0,0,0
+East Carolina University,2012,2013,emerging_technologies,0,0,0
+East Carolina University,2013,2021,patentable_inventions,1,1,0
+East Carolina University,2013,2021,software,1,1,0
+East Carolina University,2013,2021,algorithms,0,0,0
+East Carolina University,2013,2021,research_datasets,0,0,0
+East Carolina University,2013,2021,scholarly_publications,1,1,0
+East Carolina University,2013,2021,teaching_materials,0,0,0
+East Carolina University,2013,2021,biological_materials,1,1,0
+East Carolina University,2013,2021,tangible_research_property,0,1,1
+East Carolina University,2013,2021,emerging_technologies,0,0,0
+Emory University,1990,2002,patentable_inventions,1,1,0
+Emory University,1990,2002,software,0,1,1
+Emory University,1990,2002,algorithms,0,0,0
+Emory University,1990,2002,research_datasets,0,0,0
+Emory University,1990,2002,scholarly_publications,0,1,1
+Emory University,1990,2002,teaching_materials,0,0,0
+Emory University,1990,2002,biological_materials,0,1,1
+Emory University,1990,2002,tangible_research_property,0,0,0
+Emory University,1990,2002,emerging_technologies,0,0,0
+Emory University,2002,2011,patentable_inventions,1,1,0
+Emory University,2002,2011,software,1,1,0
+Emory University,2002,2011,algorithms,0,0,0
+Emory University,2002,2011,research_datasets,0,1,1
+Emory University,2002,2011,scholarly_publications,1,1,0
+Emory University,2002,2011,teaching_materials,0,0,0
+Emory University,2002,2011,biological_materials,1,1,0
+Emory University,2002,2011,tangible_research_property,0,0,0
+Emory University,2002,2011,emerging_technologies,0,0,0
+Emory University,2011,2015,patentable_inventions,1,1,0
+Emory University,2011,2015,software,1,1,0
+Emory University,2011,2015,algorithms,0,0,0
+Emory University,2011,2015,research_datasets,1,1,0
+Emory University,2011,2015,scholarly_publications,1,1,0
+Emory University,2011,2015,teaching_materials,0,0,0
+Emory University,2011,2015,biological_materials,1,1,0
+Emory University,2011,2015,tangible_research_property,0,0,0
+Emory University,2011,2015,emerging_technologies,0,0,0
+Florida Atlantic University,1998,2001,patentable_inventions,1,1,0
+Florida Atlantic University,1998,2001,software,0,1,1
+Florida Atlantic University,1998,2001,algorithms,0,0,0
+Florida Atlantic University,1998,2001,research_datasets,0,1,1
+Florida Atlantic University,1998,2001,scholarly_publications,1,1,0
+Florida Atlantic University,1998,2001,teaching_materials,0,1,1
+Florida Atlantic University,1998,2001,biological_materials,0,1,1
+Florida Atlantic University,1998,2001,tangible_research_property,0,0,0
+Florida Atlantic University,1998,2001,emerging_technologies,0,0,0
+Florida Atlantic University,2001,2011,patentable_inventions,1,1,0
+Florida Atlantic University,2001,2011,software,1,1,0
+Florida Atlantic University,2001,2011,algorithms,0,0,0
+Florida Atlantic University,2001,2011,research_datasets,1,1,0
+Florida Atlantic University,2001,2011,scholarly_publications,1,1,0
+Florida Atlantic University,2001,2011,teaching_materials,1,1,0
+Florida Atlantic University,2001,2011,biological_materials,1,1,0
+Florida Atlantic University,2001,2011,tangible_research_property,0,0,0
+Florida Atlantic University,2001,2011,emerging_technologies,0,0,0
+Florida Atlantic University,2011,2013,patentable_inventions,1,1,0
+Florida Atlantic University,2011,2013,software,1,1,0
+Florida Atlantic University,2011,2013,algorithms,0,0,0
+Florida Atlantic University,2011,2013,research_datasets,1,1,0
+Florida Atlantic University,2011,2013,scholarly_publications,1,1,0
+Florida Atlantic University,2011,2013,teaching_materials,1,1,0
+Florida Atlantic University,2011,2013,biological_materials,1,1,0
+Florida Atlantic University,2011,2013,tangible_research_property,0,0,0
+Florida Atlantic University,2011,2013,emerging_technologies,0,0,0
+Florida Atlantic University,2013,2020,patentable_inventions,1,1,0
+Florida Atlantic University,2013,2020,software,1,1,0
+Florida Atlantic University,2013,2020,algorithms,0,0,0
+Florida Atlantic University,2013,2020,research_datasets,1,1,0
+Florida Atlantic University,2013,2020,scholarly_publications,1,1,0
+Florida Atlantic University,2013,2020,teaching_materials,1,1,0
+Florida Atlantic University,2013,2020,biological_materials,1,1,0
+Florida Atlantic University,2013,2020,tangible_research_property,0,1,1
+Florida Atlantic University,2013,2020,emerging_technologies,0,1,1
+Georgetown University,2006,2019,patentable_inventions,1,1,0
+Georgetown University,2006,2019,software,1,1,0
+Georgetown University,2006,2019,algorithms,0,0,0
+Georgetown University,2006,2019,research_datasets,0,1,1
+Georgetown University,2006,2019,scholarly_publications,1,1,0
+Georgetown University,2006,2019,teaching_materials,1,1,0
+Georgetown University,2006,2019,biological_materials,0,1,1
+Georgetown University,2006,2019,tangible_research_property,0,1,1
+Georgetown University,2006,2019,emerging_technologies,0,0,0
+Georgia Institute of Technology,1996,1997,patentable_inventions,1,1,0
+Georgia Institute of Technology,1996,1997,software,1,1,0
+Georgia Institute of Technology,1996,1997,algorithms,0,0,0
+Georgia Institute of Technology,1996,1997,research_datasets,0,0,0
+Georgia Institute of Technology,1996,1997,scholarly_publications,1,1,0
+Georgia Institute of Technology,1996,1997,teaching_materials,0,1,1
+Georgia Institute of Technology,1996,1997,biological_materials,0,0,0
+Georgia Institute of Technology,1996,1997,tangible_research_property,0,0,0
+Georgia Institute of Technology,1996,1997,emerging_technologies,0,1,1
+Georgia Institute of Technology,1997,2002,patentable_inventions,1,1,0
+Georgia Institute of Technology,1997,2002,software,1,1,0
+Georgia Institute of Technology,1997,2002,algorithms,0,0,0
+Georgia Institute of Technology,1997,2002,research_datasets,0,1,1
+Georgia Institute of Technology,1997,2002,scholarly_publications,1,1,0
+Georgia Institute of Technology,1997,2002,teaching_materials,1,1,0
+Georgia Institute of Technology,1997,2002,biological_materials,0,1,1
+Georgia Institute of Technology,1997,2002,tangible_research_property,0,0,0
+Georgia Institute of Technology,1997,2002,emerging_technologies,1,1,0
+Georgia Institute of Technology,2002,2014,patentable_inventions,1,1,0
+Georgia Institute of Technology,2002,2014,software,1,1,0
+Georgia Institute of Technology,2002,2014,algorithms,0,1,1
+Georgia Institute of Technology,2002,2014,research_datasets,1,0,-1
+Georgia Institute of Technology,2002,2014,scholarly_publications,1,1,0
+Georgia Institute of Technology,2002,2014,teaching_materials,1,1,0
+Georgia Institute of Technology,2002,2014,biological_materials,1,0,-1
+Georgia Institute of Technology,2002,2014,tangible_research_property,0,0,0
+Georgia Institute of Technology,2002,2014,emerging_technologies,1,0,-1
+Harvard University,1998,2008,patentable_inventions,1,1,0
+Harvard University,1998,2008,software,0,1,1
+Harvard University,1998,2008,algorithms,0,0,0
+Harvard University,1998,2008,research_datasets,0,1,1
+Harvard University,1998,2008,scholarly_publications,0,1,1
+Harvard University,1998,2008,teaching_materials,0,0,0
+Harvard University,1998,2008,biological_materials,0,1,1
+Harvard University,1998,2008,tangible_research_property,0,1,1
+Harvard University,1998,2008,emerging_technologies,0,0,0
+Harvard University,2008,2010,patentable_inventions,1,1,0
+Harvard University,2008,2010,software,1,1,0
+Harvard University,2008,2010,algorithms,0,0,0
+Harvard University,2008,2010,research_datasets,1,1,0
+Harvard University,2008,2010,scholarly_publications,1,1,0
+Harvard University,2008,2010,teaching_materials,0,0,0
+Harvard University,2008,2010,biological_materials,1,1,0
+Harvard University,2008,2010,tangible_research_property,1,1,0
+Harvard University,2008,2010,emerging_technologies,0,0,0
+Illinois Institute of Technology,2000,2013,patentable_inventions,1,1,0
+Illinois Institute of Technology,2000,2013,software,1,1,0
+Illinois Institute of Technology,2000,2013,algorithms,0,0,0
+Illinois Institute of Technology,2000,2013,research_datasets,1,1,0
+Illinois Institute of Technology,2000,2013,scholarly_publications,1,1,0
+Illinois Institute of Technology,2000,2013,teaching_materials,0,1,1
+Illinois Institute of Technology,2000,2013,biological_materials,0,0,0
+Illinois Institute of Technology,2000,2013,tangible_research_property,0,0,0
+Illinois Institute of Technology,2000,2013,emerging_technologies,0,0,0
+Illinois Institute of Technology,2013,2021,patentable_inventions,1,1,0
+Illinois Institute of Technology,2013,2021,software,1,1,0
+Illinois Institute of Technology,2013,2021,algorithms,0,0,0
+Illinois Institute of Technology,2013,2021,research_datasets,1,1,0
+Illinois Institute of Technology,2013,2021,scholarly_publications,1,1,0
+Illinois Institute of Technology,2013,2021,teaching_materials,1,1,0
+Illinois Institute of Technology,2013,2021,biological_materials,0,0,0
+Illinois Institute of Technology,2013,2021,tangible_research_property,0,0,0
+Illinois Institute of Technology,2013,2021,emerging_technologies,0,0,0
+Illinois State University,1990,1999,patentable_inventions,1,1,0
+Illinois State University,1990,1999,software,1,1,0
+Illinois State University,1990,1999,algorithms,0,0,0
+Illinois State University,1990,1999,research_datasets,0,0,0
+Illinois State University,1990,1999,scholarly_publications,1,1,0
+Illinois State University,1990,1999,teaching_materials,0,1,1
+Illinois State University,1990,1999,biological_materials,0,1,1
+Illinois State University,1990,1999,tangible_research_property,0,0,0
+Illinois State University,1990,1999,emerging_technologies,0,1,1
+Illinois State University,1999,2016,patentable_inventions,1,1,0
+Illinois State University,1999,2016,software,1,1,0
+Illinois State University,1999,2016,algorithms,0,0,0
+Illinois State University,1999,2016,research_datasets,0,0,0
+Illinois State University,1999,2016,scholarly_publications,1,1,0
+Illinois State University,1999,2016,teaching_materials,1,1,0
+Illinois State University,1999,2016,biological_materials,1,1,0
+Illinois State University,1999,2016,tangible_research_property,0,1,1
+Illinois State University,1999,2016,emerging_technologies,1,1,0
+Illinois State University,2016,2024,patentable_inventions,1,1,0
+Illinois State University,2016,2024,software,1,1,0
+Illinois State University,2016,2024,algorithms,0,0,0
+Illinois State University,2016,2024,research_datasets,0,0,0
+Illinois State University,2016,2024,scholarly_publications,1,1,0
+Illinois State University,2016,2024,teaching_materials,1,1,0
+Illinois State University,2016,2024,biological_materials,1,1,0
+Illinois State University,2016,2024,tangible_research_property,1,1,0
+Illinois State University,2016,2024,emerging_technologies,1,1,0
+Indiana University,1997,2008,patentable_inventions,1,1,0
+Indiana University,1997,2008,software,1,1,0
+Indiana University,1997,2008,algorithms,0,0,0
+Indiana University,1997,2008,research_datasets,0,0,0
+Indiana University,1997,2008,scholarly_publications,1,1,0
+Indiana University,1997,2008,teaching_materials,1,1,0
+Indiana University,1997,2008,biological_materials,0,0,0
+Indiana University,1997,2008,tangible_research_property,0,0,0
+Indiana University,1997,2008,emerging_technologies,0,0,0
+Indiana University,2008,2014,patentable_inventions,1,1,0
+Indiana University,2008,2014,software,1,1,0
+Indiana University,2008,2014,algorithms,0,0,0
+Indiana University,2008,2014,research_datasets,0,0,0
+Indiana University,2008,2014,scholarly_publications,1,1,0
+Indiana University,2008,2014,teaching_materials,1,1,0
+Indiana University,2008,2014,biological_materials,0,0,0
+Indiana University,2008,2014,tangible_research_property,0,0,0
+Indiana University,2008,2014,emerging_technologies,0,0,0
+Indiana University,2014,2020,patentable_inventions,1,1,0
+Indiana University,2014,2020,software,1,1,0
+Indiana University,2014,2020,algorithms,0,0,0
+Indiana University,2014,2020,research_datasets,0,0,0
+Indiana University,2014,2020,scholarly_publications,1,1,0
+Indiana University,2014,2020,teaching_materials,1,1,0
+Indiana University,2014,2020,biological_materials,0,0,0
+Indiana University,2014,2020,tangible_research_property,0,0,0
+Indiana University,2014,2020,emerging_technologies,0,0,0
+Indiana University,2020,2024,patentable_inventions,1,1,0
+Indiana University,2020,2024,software,1,1,0
+Indiana University,2020,2024,algorithms,0,0,0
+Indiana University,2020,2024,research_datasets,0,1,1
+Indiana University,2020,2024,scholarly_publications,1,1,0
+Indiana University,2020,2024,teaching_materials,1,0,-1
+Indiana University,2020,2024,biological_materials,0,1,1
+Indiana University,2020,2024,tangible_research_property,0,1,1
+Indiana University,2020,2024,emerging_technologies,0,0,0
+Iowa State University,1982,2000,patentable_inventions,1,1,0
+Iowa State University,1982,2000,software,0,0,0
+Iowa State University,1982,2000,algorithms,0,0,0
+Iowa State University,1982,2000,research_datasets,0,0,0
+Iowa State University,1982,2000,scholarly_publications,1,0,-1
+Iowa State University,1982,2000,teaching_materials,0,0,0
+Iowa State University,1982,2000,biological_materials,0,0,0
+Iowa State University,1982,2000,tangible_research_property,0,0,0
+Iowa State University,1982,2000,emerging_technologies,0,0,0
+Johns Hopkins University,1992,2001,patentable_inventions,1,1,0
+Johns Hopkins University,1992,2001,software,1,1,0
+Johns Hopkins University,1992,2001,algorithms,0,0,0
+Johns Hopkins University,1992,2001,research_datasets,1,1,0
+Johns Hopkins University,1992,2001,scholarly_publications,1,1,0
+Johns Hopkins University,1992,2001,teaching_materials,0,0,0
+Johns Hopkins University,1992,2001,biological_materials,1,1,0
+Johns Hopkins University,1992,2001,tangible_research_property,1,1,0
+Johns Hopkins University,1992,2001,emerging_technologies,0,0,0
+Johns Hopkins University,2001,2011,patentable_inventions,1,1,0
+Johns Hopkins University,2001,2011,software,1,1,0
+Johns Hopkins University,2001,2011,algorithms,0,0,0
+Johns Hopkins University,2001,2011,research_datasets,1,1,0
+Johns Hopkins University,2001,2011,scholarly_publications,1,1,0
+Johns Hopkins University,2001,2011,teaching_materials,0,0,0
+Johns Hopkins University,2001,2011,biological_materials,1,1,0
+Johns Hopkins University,2001,2011,tangible_research_property,1,1,0
+Johns Hopkins University,2001,2011,emerging_technologies,0,0,0
+Kent State University,2007,2015,patentable_inventions,1,1,0
+Kent State University,2007,2015,software,0,0,0
+Kent State University,2007,2015,algorithms,0,0,0
+Kent State University,2007,2015,research_datasets,0,0,0
+Kent State University,2007,2015,scholarly_publications,1,1,0
+Kent State University,2007,2015,teaching_materials,0,0,0
+Kent State University,2007,2015,biological_materials,0,0,0
+Kent State University,2007,2015,tangible_research_property,0,0,0
+Kent State University,2007,2015,emerging_technologies,0,0,0
+Kent State University,2015,2016,patentable_inventions,1,1,0
+Kent State University,2015,2016,software,0,0,0
+Kent State University,2015,2016,algorithms,0,0,0
+Kent State University,2015,2016,research_datasets,0,0,0
+Kent State University,2015,2016,scholarly_publications,1,1,0
+Kent State University,2015,2016,teaching_materials,0,0,0
+Kent State University,2015,2016,biological_materials,0,0,0
+Kent State University,2015,2016,tangible_research_property,0,0,0
+Kent State University,2015,2016,emerging_technologies,0,0,0
+Lehigh University,2001,2002,patentable_inventions,1,1,0
+Lehigh University,2001,2002,software,1,1,0
+Lehigh University,2001,2002,algorithms,0,0,0
+Lehigh University,2001,2002,research_datasets,1,1,0
+Lehigh University,2001,2002,scholarly_publications,1,1,0
+Lehigh University,2001,2002,teaching_materials,1,1,0
+Lehigh University,2001,2002,biological_materials,0,0,0
+Lehigh University,2001,2002,tangible_research_property,1,1,0
+Lehigh University,2001,2002,emerging_technologies,0,0,0
+Louisiana State University,2008,2014,patentable_inventions,1,1,0
+Louisiana State University,2008,2014,software,1,1,0
+Louisiana State University,2008,2014,algorithms,0,0,0
+Louisiana State University,2008,2014,research_datasets,1,1,0
+Louisiana State University,2008,2014,scholarly_publications,1,1,0
+Louisiana State University,2008,2014,teaching_materials,1,1,0
+Louisiana State University,2008,2014,biological_materials,1,1,0
+Louisiana State University,2008,2014,tangible_research_property,1,1,0
+Louisiana State University,2008,2014,emerging_technologies,1,1,0
+Louisiana State University,2014,2015,patentable_inventions,1,1,0
+Louisiana State University,2014,2015,software,1,1,0
+Louisiana State University,2014,2015,algorithms,0,0,0
+Louisiana State University,2014,2015,research_datasets,1,1,0
+Louisiana State University,2014,2015,scholarly_publications,1,1,0
+Louisiana State University,2014,2015,teaching_materials,1,1,0
+Louisiana State University,2014,2015,biological_materials,1,1,0
+Louisiana State University,2014,2015,tangible_research_property,1,1,0
+Louisiana State University,2014,2015,emerging_technologies,1,1,0
+Louisiana State University,2015,2016,patentable_inventions,1,1,0
+Louisiana State University,2015,2016,software,1,1,0
+Louisiana State University,2015,2016,algorithms,0,0,0
+Louisiana State University,2015,2016,research_datasets,1,1,0
+Louisiana State University,2015,2016,scholarly_publications,1,1,0
+Louisiana State University,2015,2016,teaching_materials,1,1,0
+Louisiana State University,2015,2016,biological_materials,1,1,0
+Louisiana State University,2015,2016,tangible_research_property,1,1,0
+Louisiana State University,2015,2016,emerging_technologies,1,1,0
+Louisiana State University,2016,2018,patentable_inventions,1,1,0
+Louisiana State University,2016,2018,software,1,1,0
+Louisiana State University,2016,2018,algorithms,0,0,0
+Louisiana State University,2016,2018,research_datasets,1,1,0
+Louisiana State University,2016,2018,scholarly_publications,1,1,0
+Louisiana State University,2016,2018,teaching_materials,1,1,0
+Louisiana State University,2016,2018,biological_materials,1,1,0
+Louisiana State University,2016,2018,tangible_research_property,1,1,0
+Louisiana State University,2016,2018,emerging_technologies,1,1,0
+Louisiana State University,2018,2021,patentable_inventions,1,1,0
+Louisiana State University,2018,2021,software,1,1,0
+Louisiana State University,2018,2021,algorithms,0,0,0
+Louisiana State University,2018,2021,research_datasets,1,1,0
+Louisiana State University,2018,2021,scholarly_publications,1,1,0
+Louisiana State University,2018,2021,teaching_materials,1,1,0
+Louisiana State University,2018,2021,biological_materials,1,1,0
+Louisiana State University,2018,2021,tangible_research_property,1,1,0
+Louisiana State University,2018,2021,emerging_technologies,1,1,0
+Louisiana State University,2021,2023,patentable_inventions,1,1,0
+Louisiana State University,2021,2023,software,1,1,0
+Louisiana State University,2021,2023,algorithms,0,0,0
+Louisiana State University,2021,2023,research_datasets,1,1,0
+Louisiana State University,2021,2023,scholarly_publications,1,1,0
+Louisiana State University,2021,2023,teaching_materials,1,1,0
+Louisiana State University,2021,2023,biological_materials,1,1,0
+Louisiana State University,2021,2023,tangible_research_property,1,1,0
+Louisiana State University,2021,2023,emerging_technologies,1,1,0
+Louisiana State University,2023,2024,patentable_inventions,1,1,0
+Louisiana State University,2023,2024,software,1,1,0
+Louisiana State University,2023,2024,algorithms,0,0,0
+Louisiana State University,2023,2024,research_datasets,1,1,0
+Louisiana State University,2023,2024,scholarly_publications,1,1,0
+Louisiana State University,2023,2024,teaching_materials,1,1,0
+Louisiana State University,2023,2024,biological_materials,1,1,0
+Louisiana State University,2023,2024,tangible_research_property,1,1,0
+Louisiana State University,2023,2024,emerging_technologies,1,1,0
+Loyola University Medical Center,2006,2009,patentable_inventions,1,1,0
+Loyola University Medical Center,2006,2009,software,0,0,0
+Loyola University Medical Center,2006,2009,algorithms,0,0,0
+Loyola University Medical Center,2006,2009,research_datasets,0,0,0
+Loyola University Medical Center,2006,2009,scholarly_publications,0,0,0
+Loyola University Medical Center,2006,2009,teaching_materials,0,0,0
+Loyola University Medical Center,2006,2009,biological_materials,0,0,0
+Loyola University Medical Center,2006,2009,tangible_research_property,0,0,0
+Loyola University Medical Center,2006,2009,emerging_technologies,0,0,0
+Medical College of Ohio,2009,2012,patentable_inventions,1,1,0
+Medical College of Ohio,2009,2012,software,0,0,0
+Medical College of Ohio,2009,2012,algorithms,0,0,0
+Medical College of Ohio,2009,2012,research_datasets,0,0,0
+Medical College of Ohio,2009,2012,scholarly_publications,1,0,-1
+Medical College of Ohio,2009,2012,teaching_materials,0,0,0
+Medical College of Ohio,2009,2012,biological_materials,0,0,0
+Medical College of Ohio,2009,2012,tangible_research_property,0,0,0
+Medical College of Ohio,2009,2012,emerging_technologies,0,0,0
+Medical College of Ohio,2012,2017,patentable_inventions,1,1,0
+Medical College of Ohio,2012,2017,software,0,0,0
+Medical College of Ohio,2012,2017,algorithms,0,0,0
+Medical College of Ohio,2012,2017,research_datasets,0,0,0
+Medical College of Ohio,2012,2017,scholarly_publications,0,1,1
+Medical College of Ohio,2012,2017,teaching_materials,0,0,0
+Medical College of Ohio,2012,2017,biological_materials,0,0,0
+Medical College of Ohio,2012,2017,tangible_research_property,0,0,0
+Medical College of Ohio,2012,2017,emerging_technologies,0,0,0
+Medical College of Ohio,2017,2023,patentable_inventions,1,0,-1
+Medical College of Ohio,2017,2023,software,0,0,0
+Medical College of Ohio,2017,2023,algorithms,0,0,0
+Medical College of Ohio,2017,2023,research_datasets,0,0,0
+Medical College of Ohio,2017,2023,scholarly_publications,1,1,0
+Medical College of Ohio,2017,2023,teaching_materials,0,1,1
+Medical College of Ohio,2017,2023,biological_materials,0,0,0
+Medical College of Ohio,2017,2023,tangible_research_property,0,0,0
+Medical College of Ohio,2017,2023,emerging_technologies,0,0,0
+Medical College of Ohio,2023,2024,patentable_inventions,0,1,1
+Medical College of Ohio,2023,2024,software,0,0,0
+Medical College of Ohio,2023,2024,algorithms,0,0,0
+Medical College of Ohio,2023,2024,research_datasets,0,0,0
+Medical College of Ohio,2023,2024,scholarly_publications,1,1,0
+Medical College of Ohio,2023,2024,teaching_materials,1,0,-1
+Medical College of Ohio,2023,2024,biological_materials,0,0,0
+Medical College of Ohio,2023,2024,tangible_research_property,0,0,0
+Medical College of Ohio,2023,2024,emerging_technologies,0,0,0
+Medical University of South Carolina,2005,2008,patentable_inventions,1,1,0
+Medical University of South Carolina,2005,2008,software,1,1,0
+Medical University of South Carolina,2005,2008,algorithms,1,1,0
+Medical University of South Carolina,2005,2008,research_datasets,0,0,0
+Medical University of South Carolina,2005,2008,scholarly_publications,1,1,0
+Medical University of South Carolina,2005,2008,teaching_materials,0,1,1
+Medical University of South Carolina,2005,2008,biological_materials,1,1,0
+Medical University of South Carolina,2005,2008,tangible_research_property,0,0,0
+Medical University of South Carolina,2005,2008,emerging_technologies,0,1,1
+Medical University of South Carolina,2008,2016,patentable_inventions,1,1,0
+Medical University of South Carolina,2008,2016,software,1,1,0
+Medical University of South Carolina,2008,2016,algorithms,1,1,0
+Medical University of South Carolina,2008,2016,research_datasets,0,0,0
+Medical University of South Carolina,2008,2016,scholarly_publications,1,1,0
+Medical University of South Carolina,2008,2016,teaching_materials,1,1,0
+Medical University of South Carolina,2008,2016,biological_materials,1,1,0
+Medical University of South Carolina,2008,2016,tangible_research_property,0,0,0
+Medical University of South Carolina,2008,2016,emerging_technologies,1,1,0
+Miami University,2018,2022,patentable_inventions,1,1,0
+Miami University,2018,2022,software,1,1,0
+Miami University,2018,2022,algorithms,0,0,0
+Miami University,2018,2022,research_datasets,0,0,0
+Miami University,2018,2022,scholarly_publications,1,1,0
+Miami University,2018,2022,teaching_materials,0,0,0
+Miami University,2018,2022,biological_materials,0,0,0
+Miami University,2018,2022,tangible_research_property,0,0,0
+Miami University,2018,2022,emerging_technologies,0,0,0
+Michigan State University,1998,2001,patentable_inventions,1,1,0
+Michigan State University,1998,2001,software,1,0,-1
+Michigan State University,1998,2001,algorithms,0,0,0
+Michigan State University,1998,2001,research_datasets,1,0,-1
+Michigan State University,1998,2001,scholarly_publications,1,1,0
+Michigan State University,1998,2001,teaching_materials,0,0,0
+Michigan State University,1998,2001,biological_materials,1,0,-1
+Michigan State University,1998,2001,tangible_research_property,0,0,0
+Michigan State University,1998,2001,emerging_technologies,0,0,0
+Michigan State University,2001,2017,patentable_inventions,1,1,0
+Michigan State University,2001,2017,software,0,0,0
+Michigan State University,2001,2017,algorithms,0,0,0
+Michigan State University,2001,2017,research_datasets,0,0,0
+Michigan State University,2001,2017,scholarly_publications,1,1,0
+Michigan State University,2001,2017,teaching_materials,0,0,0
+Michigan State University,2001,2017,biological_materials,0,0,0
+Michigan State University,2001,2017,tangible_research_property,0,0,0
+Michigan State University,2001,2017,emerging_technologies,0,0,0
+Michigan Technological University,2010,2011,patentable_inventions,1,1,0
+Michigan Technological University,2010,2011,software,1,1,0
+Michigan Technological University,2010,2011,algorithms,0,0,0
+Michigan Technological University,2010,2011,research_datasets,0,0,0
+Michigan Technological University,2010,2011,scholarly_publications,1,1,0
+Michigan Technological University,2010,2011,teaching_materials,0,0,0
+Michigan Technological University,2010,2011,biological_materials,0,0,0
+Michigan Technological University,2010,2011,tangible_research_property,0,0,0
+Michigan Technological University,2010,2011,emerging_technologies,0,0,0
+Mississippi State University,1994,2001,patentable_inventions,1,1,0
+Mississippi State University,1994,2001,software,1,1,0
+Mississippi State University,1994,2001,algorithms,0,0,0
+Mississippi State University,1994,2001,research_datasets,0,0,0
+Mississippi State University,1994,2001,scholarly_publications,1,1,0
+Mississippi State University,1994,2001,teaching_materials,0,1,1
+Mississippi State University,1994,2001,biological_materials,1,0,-1
+Mississippi State University,1994,2001,tangible_research_property,1,0,-1
+Mississippi State University,1994,2001,emerging_technologies,1,1,0
+Mississippi State University,2001,2003,patentable_inventions,1,1,0
+Mississippi State University,2001,2003,software,1,1,0
+Mississippi State University,2001,2003,algorithms,0,0,0
+Mississippi State University,2001,2003,research_datasets,0,0,0
+Mississippi State University,2001,2003,scholarly_publications,1,1,0
+Mississippi State University,2001,2003,teaching_materials,1,1,0
+Mississippi State University,2001,2003,biological_materials,0,0,0
+Mississippi State University,2001,2003,tangible_research_property,0,0,0
+Mississippi State University,2001,2003,emerging_technologies,1,1,0
+Montana State University,1997,2017,patentable_inventions,1,1,0
+Montana State University,1997,2017,software,1,1,0
+Montana State University,1997,2017,algorithms,0,0,0
+Montana State University,1997,2017,research_datasets,0,0,0
+Montana State University,1997,2017,scholarly_publications,1,1,0
+Montana State University,1997,2017,teaching_materials,0,1,1
+Montana State University,1997,2017,biological_materials,0,0,0
+Montana State University,1997,2017,tangible_research_property,0,0,0
+Montana State University,1997,2017,emerging_technologies,0,0,0
+New Jersey Institute of Technology,1985,2003,patentable_inventions,1,1,0
+New Jersey Institute of Technology,1985,2003,software,1,0,-1
+New Jersey Institute of Technology,1985,2003,algorithms,0,0,0
+New Jersey Institute of Technology,1985,2003,research_datasets,0,0,0
+New Jersey Institute of Technology,1985,2003,scholarly_publications,1,1,0
+New Jersey Institute of Technology,1985,2003,teaching_materials,0,0,0
+New Jersey Institute of Technology,1985,2003,biological_materials,0,0,0
+New Jersey Institute of Technology,1985,2003,tangible_research_property,0,0,0
+New Jersey Institute of Technology,1985,2003,emerging_technologies,0,0,0
+New Jersey Institute of Technology,2003,2024,patentable_inventions,1,1,0
+New Jersey Institute of Technology,2003,2024,software,0,0,0
+New Jersey Institute of Technology,2003,2024,algorithms,0,0,0
+New Jersey Institute of Technology,2003,2024,research_datasets,0,0,0
+New Jersey Institute of Technology,2003,2024,scholarly_publications,1,1,0
+New Jersey Institute of Technology,2003,2024,teaching_materials,0,0,0
+New Jersey Institute of Technology,2003,2024,biological_materials,0,0,0
+New Jersey Institute of Technology,2003,2024,tangible_research_property,0,0,0
+New Jersey Institute of Technology,2003,2024,emerging_technologies,0,0,0
+New Jersey Institute of Technology,2024,2025,patentable_inventions,1,1,0
+New Jersey Institute of Technology,2024,2025,software,0,0,0
+New Jersey Institute of Technology,2024,2025,algorithms,0,0,0
+New Jersey Institute of Technology,2024,2025,research_datasets,0,0,0
+New Jersey Institute of Technology,2024,2025,scholarly_publications,1,1,0
+New Jersey Institute of Technology,2024,2025,teaching_materials,0,0,0
+New Jersey Institute of Technology,2024,2025,biological_materials,0,0,0
+New Jersey Institute of Technology,2024,2025,tangible_research_property,0,0,0
+New Jersey Institute of Technology,2024,2025,emerging_technologies,0,0,0
+New Mexico State University,1993,2013,patentable_inventions,1,1,0
+New Mexico State University,1993,2013,software,1,1,0
+New Mexico State University,1993,2013,algorithms,0,0,0
+New Mexico State University,1993,2013,research_datasets,0,1,1
+New Mexico State University,1993,2013,scholarly_publications,1,1,0
+New Mexico State University,1993,2013,teaching_materials,1,1,0
+New Mexico State University,1993,2013,biological_materials,0,1,1
+New Mexico State University,1993,2013,tangible_research_property,0,0,0
+New Mexico State University,1993,2013,emerging_technologies,0,0,0
+New Mexico State University,2013,2019,patentable_inventions,1,1,0
+New Mexico State University,2013,2019,software,1,1,0
+New Mexico State University,2013,2019,algorithms,0,0,0
+New Mexico State University,2013,2019,research_datasets,1,1,0
+New Mexico State University,2013,2019,scholarly_publications,1,1,0
+New Mexico State University,2013,2019,teaching_materials,1,1,0
+New Mexico State University,2013,2019,biological_materials,1,0,-1
+New Mexico State University,2013,2019,tangible_research_property,0,0,0
+New Mexico State University,2013,2019,emerging_technologies,0,1,1
+New Mexico State University,2019,2024,patentable_inventions,1,1,0
+New Mexico State University,2019,2024,software,1,1,0
+New Mexico State University,2019,2024,algorithms,0,0,0
+New Mexico State University,2019,2024,research_datasets,1,1,0
+New Mexico State University,2019,2024,scholarly_publications,1,1,0
+New Mexico State University,2019,2024,teaching_materials,1,1,0
+New Mexico State University,2019,2024,biological_materials,0,0,0
+New Mexico State University,2019,2024,tangible_research_property,0,0,0
+New Mexico State University,2019,2024,emerging_technologies,1,1,0
+New York University,1983,2012,patentable_inventions,1,1,0
+New York University,1983,2012,software,1,1,0
+New York University,1983,2012,algorithms,0,1,1
+New York University,1983,2012,research_datasets,0,1,1
+New York University,1983,2012,scholarly_publications,1,1,0
+New York University,1983,2012,teaching_materials,1,1,0
+New York University,1983,2012,biological_materials,0,1,1
+New York University,1983,2012,tangible_research_property,0,1,1
+New York University,1983,2012,emerging_technologies,0,1,1
+New York University,2012,2021,patentable_inventions,1,1,0
+New York University,2012,2021,software,1,1,0
+New York University,2012,2021,algorithms,1,1,0
+New York University,2012,2021,research_datasets,1,1,0
+New York University,2012,2021,scholarly_publications,1,1,0
+New York University,2012,2021,teaching_materials,1,1,0
+New York University,2012,2021,biological_materials,1,1,0
+New York University,2012,2021,tangible_research_property,1,1,0
+New York University,2012,2021,emerging_technologies,1,1,0
+North Carolina State University,1997,2002,patentable_inventions,1,1,0
+North Carolina State University,1997,2002,software,1,0,-1
+North Carolina State University,1997,2002,algorithms,0,0,0
+North Carolina State University,1997,2002,research_datasets,0,0,0
+North Carolina State University,1997,2002,scholarly_publications,1,1,0
+North Carolina State University,1997,2002,teaching_materials,0,0,0
+North Carolina State University,1997,2002,biological_materials,0,0,0
+North Carolina State University,1997,2002,tangible_research_property,0,0,0
+North Carolina State University,1997,2002,emerging_technologies,0,0,0
+North Carolina State University,2002,2003,patentable_inventions,1,1,0
+North Carolina State University,2002,2003,software,0,0,0
+North Carolina State University,2002,2003,algorithms,0,0,0
+North Carolina State University,2002,2003,research_datasets,0,1,1
+North Carolina State University,2002,2003,scholarly_publications,1,1,0
+North Carolina State University,2002,2003,teaching_materials,0,0,0
+North Carolina State University,2002,2003,biological_materials,0,0,0
+North Carolina State University,2002,2003,tangible_research_property,0,0,0
+North Carolina State University,2002,2003,emerging_technologies,0,0,0
+North Carolina State University,2003,2011,patentable_inventions,1,1,0
+North Carolina State University,2003,2011,software,0,1,1
+North Carolina State University,2003,2011,algorithms,0,0,0
+North Carolina State University,2003,2011,research_datasets,1,0,-1
+North Carolina State University,2003,2011,scholarly_publications,1,1,0
+North Carolina State University,2003,2011,teaching_materials,0,0,0
+North Carolina State University,2003,2011,biological_materials,0,1,1
+North Carolina State University,2003,2011,tangible_research_property,0,1,1
+North Carolina State University,2003,2011,emerging_technologies,0,0,0
+North Dakota State University,2010,2016,patentable_inventions,1,1,0
+North Dakota State University,2010,2016,software,1,1,0
+North Dakota State University,2010,2016,algorithms,0,0,0
+North Dakota State University,2010,2016,research_datasets,1,1,0
+North Dakota State University,2010,2016,scholarly_publications,1,1,0
+North Dakota State University,2010,2016,teaching_materials,1,1,0
+North Dakota State University,2010,2016,biological_materials,1,1,0
+North Dakota State University,2010,2016,tangible_research_property,1,0,-1
+North Dakota State University,2010,2016,emerging_technologies,0,1,1
+North Dakota State University,2016,2017,patentable_inventions,1,1,0
+North Dakota State University,2016,2017,software,1,1,0
+North Dakota State University,2016,2017,algorithms,0,0,0
+North Dakota State University,2016,2017,research_datasets,1,1,0
+North Dakota State University,2016,2017,scholarly_publications,1,1,0
+North Dakota State University,2016,2017,teaching_materials,1,1,0
+North Dakota State University,2016,2017,biological_materials,1,1,0
+North Dakota State University,2016,2017,tangible_research_property,0,0,0
+North Dakota State University,2016,2017,emerging_technologies,1,1,0
+Northeastern University,1995,2023,patentable_inventions,1,1,0
+Northeastern University,1995,2023,software,1,0,-1
+Northeastern University,1995,2023,algorithms,0,0,0
+Northeastern University,1995,2023,research_datasets,1,0,-1
+Northeastern University,1995,2023,scholarly_publications,1,1,0
+Northeastern University,1995,2023,teaching_materials,1,0,-1
+Northeastern University,1995,2023,biological_materials,0,0,0
+Northeastern University,1995,2023,tangible_research_property,0,0,0
+Northeastern University,1995,2023,emerging_technologies,0,0,0
+Northern Illinois University,1997,2007,patentable_inventions,1,1,0
+Northern Illinois University,1997,2007,software,1,1,0
+Northern Illinois University,1997,2007,algorithms,0,0,0
+Northern Illinois University,1997,2007,research_datasets,1,1,0
+Northern Illinois University,1997,2007,scholarly_publications,1,1,0
+Northern Illinois University,1997,2007,teaching_materials,1,1,0
+Northern Illinois University,1997,2007,biological_materials,1,1,0
+Northern Illinois University,1997,2007,tangible_research_property,1,1,0
+Northern Illinois University,1997,2007,emerging_technologies,0,0,0
+Ohio State University,1989,2018,patentable_inventions,1,1,0
+Ohio State University,1989,2018,software,1,1,0
+Ohio State University,1989,2018,algorithms,0,0,0
+Ohio State University,1989,2018,research_datasets,0,0,0
+Ohio State University,1989,2018,scholarly_publications,1,1,0
+Ohio State University,1989,2018,teaching_materials,0,1,1
+Ohio State University,1989,2018,biological_materials,1,1,0
+Ohio State University,1989,2018,tangible_research_property,0,1,1
+Ohio State University,1989,2018,emerging_technologies,1,0,-1
+Ohio State University,2018,2024,patentable_inventions,1,1,0
+Ohio State University,2018,2024,software,1,1,0
+Ohio State University,2018,2024,algorithms,0,0,0
+Ohio State University,2018,2024,research_datasets,0,0,0
+Ohio State University,2018,2024,scholarly_publications,1,1,0
+Ohio State University,2018,2024,teaching_materials,1,1,0
+Ohio State University,2018,2024,biological_materials,1,1,0
+Ohio State University,2018,2024,tangible_research_property,1,1,0
+Ohio State University,2018,2024,emerging_technologies,0,0,0
+Oklahoma State University,2010,2019,patentable_inventions,1,1,0
+Oklahoma State University,2010,2019,software,0,1,1
+Oklahoma State University,2010,2019,algorithms,0,0,0
+Oklahoma State University,2010,2019,research_datasets,0,1,1
+Oklahoma State University,2010,2019,scholarly_publications,1,1,0
+Oklahoma State University,2010,2019,teaching_materials,0,1,1
+Oklahoma State University,2010,2019,biological_materials,0,0,0
+Oklahoma State University,2010,2019,tangible_research_property,0,0,0
+Oklahoma State University,2010,2019,emerging_technologies,0,1,1
+Oregon Health Sciences University,2013,2024,patentable_inventions,1,0,-1
+Oregon Health Sciences University,2013,2024,software,1,0,-1
+Oregon Health Sciences University,2013,2024,algorithms,1,0,-1
+Oregon Health Sciences University,2013,2024,research_datasets,1,1,0
+Oregon Health Sciences University,2013,2024,scholarly_publications,1,0,-1
+Oregon Health Sciences University,2013,2024,teaching_materials,1,0,-1
+Oregon Health Sciences University,2013,2024,biological_materials,1,0,-1
+Oregon Health Sciences University,2013,2024,tangible_research_property,0,0,0
+Oregon Health Sciences University,2013,2024,emerging_technologies,0,0,0
+Oregon State University,2001,2003,patentable_inventions,1,1,0
+Oregon State University,2001,2003,software,1,1,0
+Oregon State University,2001,2003,algorithms,0,0,0
+Oregon State University,2001,2003,research_datasets,1,0,-1
+Oregon State University,2001,2003,scholarly_publications,1,1,0
+Oregon State University,2001,2003,teaching_materials,1,1,0
+Oregon State University,2001,2003,biological_materials,0,0,0
+Oregon State University,2001,2003,tangible_research_property,0,0,0
+Oregon State University,2001,2003,emerging_technologies,0,0,0
+Oregon State University,2003,2023,patentable_inventions,1,1,0
+Oregon State University,2003,2023,software,1,1,0
+Oregon State University,2003,2023,algorithms,0,0,0
+Oregon State University,2003,2023,research_datasets,0,1,1
+Oregon State University,2003,2023,scholarly_publications,1,1,0
+Oregon State University,2003,2023,teaching_materials,1,1,0
+Oregon State University,2003,2023,biological_materials,0,1,1
+Oregon State University,2003,2023,tangible_research_property,0,1,1
+Oregon State University,2003,2023,emerging_technologies,0,1,1
+Penn State University,1998,2005,patentable_inventions,1,1,0
+Penn State University,1998,2005,software,1,0,-1
+Penn State University,1998,2005,algorithms,0,0,0
+Penn State University,1998,2005,research_datasets,0,0,0
+Penn State University,1998,2005,scholarly_publications,1,1,0
+Penn State University,1998,2005,teaching_materials,1,0,-1
+Penn State University,1998,2005,biological_materials,0,0,0
+Penn State University,1998,2005,tangible_research_property,0,0,0
+Penn State University,1998,2005,emerging_technologies,1,0,-1
+Penn State University,2005,2013,patentable_inventions,1,1,0
+Penn State University,2005,2013,software,0,1,1
+Penn State University,2005,2013,algorithms,0,0,0
+Penn State University,2005,2013,research_datasets,0,0,0
+Penn State University,2005,2013,scholarly_publications,1,1,0
+Penn State University,2005,2013,teaching_materials,0,1,1
+Penn State University,2005,2013,biological_materials,0,0,0
+Penn State University,2005,2013,tangible_research_property,0,0,0
+Penn State University,2005,2013,emerging_technologies,0,0,0
+Portland State University,1997,2015,patentable_inventions,1,1,0
+Portland State University,1997,2015,software,0,0,0
+Portland State University,1997,2015,algorithms,0,0,0
+Portland State University,1997,2015,research_datasets,0,0,0
+Portland State University,1997,2015,scholarly_publications,0,1,1
+Portland State University,1997,2015,teaching_materials,0,0,0
+Portland State University,1997,2015,biological_materials,0,0,0
+Portland State University,1997,2015,tangible_research_property,0,0,0
+Portland State University,1997,2015,emerging_technologies,0,0,0
+Portland State University,2015,2025,patentable_inventions,1,1,0
+Portland State University,2015,2025,software,0,0,0
+Portland State University,2015,2025,algorithms,0,0,0
+Portland State University,2015,2025,research_datasets,0,0,0
+Portland State University,2015,2025,scholarly_publications,1,1,0
+Portland State University,2015,2025,teaching_materials,0,0,0
+Portland State University,2015,2025,biological_materials,0,0,0
+Portland State University,2015,2025,tangible_research_property,0,0,0
+Portland State University,2015,2025,emerging_technologies,0,0,0
+Princeton University,2001,2017,patentable_inventions,1,1,0
+Princeton University,2001,2017,software,1,1,0
+Princeton University,2001,2017,algorithms,0,0,0
+Princeton University,2001,2017,research_datasets,0,0,0
+Princeton University,2001,2017,scholarly_publications,1,1,0
+Princeton University,2001,2017,teaching_materials,1,0,-1
+Princeton University,2001,2017,biological_materials,0,0,0
+Princeton University,2001,2017,tangible_research_property,0,0,0
+Princeton University,2001,2017,emerging_technologies,0,0,0
+Purdue University,2000,2007,patentable_inventions,1,1,0
+Purdue University,2000,2007,software,1,1,0
+Purdue University,2000,2007,algorithms,0,0,0
+Purdue University,2000,2007,research_datasets,1,1,0
+Purdue University,2000,2007,scholarly_publications,1,1,0
+Purdue University,2000,2007,teaching_materials,1,1,0
+Purdue University,2000,2007,biological_materials,1,1,0
+Purdue University,2000,2007,tangible_research_property,1,1,0
+Purdue University,2000,2007,emerging_technologies,0,0,0
+Purdue University,2007,2011,patentable_inventions,1,1,0
+Purdue University,2007,2011,software,1,1,0
+Purdue University,2007,2011,algorithms,0,0,0
+Purdue University,2007,2011,research_datasets,1,1,0
+Purdue University,2007,2011,scholarly_publications,1,1,0
+Purdue University,2007,2011,teaching_materials,1,1,0
+Purdue University,2007,2011,biological_materials,1,1,0
+Purdue University,2007,2011,tangible_research_property,1,1,0
+Purdue University,2007,2011,emerging_technologies,0,0,0
+Purdue University,2011,2013,patentable_inventions,1,1,0
+Purdue University,2011,2013,software,1,1,0
+Purdue University,2011,2013,algorithms,0,0,0
+Purdue University,2011,2013,research_datasets,1,1,0
+Purdue University,2011,2013,scholarly_publications,1,1,0
+Purdue University,2011,2013,teaching_materials,1,1,0
+Purdue University,2011,2013,biological_materials,1,1,0
+Purdue University,2011,2013,tangible_research_property,1,1,0
+Purdue University,2011,2013,emerging_technologies,0,0,0
+Purdue University,2013,2015,patentable_inventions,1,1,0
+Purdue University,2013,2015,software,1,1,0
+Purdue University,2013,2015,algorithms,0,0,0
+Purdue University,2013,2015,research_datasets,1,1,0
+Purdue University,2013,2015,scholarly_publications,1,1,0
+Purdue University,2013,2015,teaching_materials,1,0,-1
+Purdue University,2013,2015,biological_materials,1,1,0
+Purdue University,2013,2015,tangible_research_property,1,1,0
+Purdue University,2013,2015,emerging_technologies,0,0,0
+Purdue University,2015,2016,patentable_inventions,1,1,0
+Purdue University,2015,2016,software,1,1,0
+Purdue University,2015,2016,algorithms,0,0,0
+Purdue University,2015,2016,research_datasets,1,1,0
+Purdue University,2015,2016,scholarly_publications,1,1,0
+Purdue University,2015,2016,teaching_materials,0,0,0
+Purdue University,2015,2016,biological_materials,1,1,0
+Purdue University,2015,2016,tangible_research_property,1,1,0
+Purdue University,2015,2016,emerging_technologies,0,0,0
+Purdue University,2016,2017,patentable_inventions,1,1,0
+Purdue University,2016,2017,software,1,1,0
+Purdue University,2016,2017,algorithms,0,0,0
+Purdue University,2016,2017,research_datasets,1,1,0
+Purdue University,2016,2017,scholarly_publications,1,1,0
+Purdue University,2016,2017,teaching_materials,0,0,0
+Purdue University,2016,2017,biological_materials,1,1,0
+Purdue University,2016,2017,tangible_research_property,1,1,0
+Purdue University,2016,2017,emerging_technologies,0,0,0
+Purdue University,2017,2025,patentable_inventions,1,1,0
+Purdue University,2017,2025,software,1,1,0
+Purdue University,2017,2025,algorithms,0,0,0
+Purdue University,2017,2025,research_datasets,1,1,0
+Purdue University,2017,2025,scholarly_publications,1,1,0
+Purdue University,2017,2025,teaching_materials,0,0,0
+Purdue University,2017,2025,biological_materials,1,1,0
+Purdue University,2017,2025,tangible_research_property,1,1,0
+Purdue University,2017,2025,emerging_technologies,0,0,0
+Rice University,1999,2023,patentable_inventions,1,1,0
+Rice University,1999,2023,software,1,1,0
+Rice University,1999,2023,algorithms,1,0,-1
+Rice University,1999,2023,research_datasets,0,1,1
+Rice University,1999,2023,scholarly_publications,1,1,0
+Rice University,1999,2023,teaching_materials,0,1,1
+Rice University,1999,2023,biological_materials,0,1,1
+Rice University,1999,2023,tangible_research_property,0,1,1
+Rice University,1999,2023,emerging_technologies,0,0,0
+Rutgers the State University of NJ,1996,2000,patentable_inventions,1,1,0
+Rutgers the State University of NJ,1996,2000,software,0,0,0
+Rutgers the State University of NJ,1996,2000,algorithms,0,0,0
+Rutgers the State University of NJ,1996,2000,research_datasets,0,0,0
+Rutgers the State University of NJ,1996,2000,scholarly_publications,1,1,0
+Rutgers the State University of NJ,1996,2000,teaching_materials,0,0,0
+Rutgers the State University of NJ,1996,2000,biological_materials,0,0,0
+Rutgers the State University of NJ,1996,2000,tangible_research_property,0,0,0
+Rutgers the State University of NJ,1996,2000,emerging_technologies,0,0,0
+Rutgers the State University of NJ,2000,2008,patentable_inventions,1,1,0
+Rutgers the State University of NJ,2000,2008,software,0,1,1
+Rutgers the State University of NJ,2000,2008,algorithms,0,0,0
+Rutgers the State University of NJ,2000,2008,research_datasets,0,0,0
+Rutgers the State University of NJ,2000,2008,scholarly_publications,1,1,0
+Rutgers the State University of NJ,2000,2008,teaching_materials,0,0,0
+Rutgers the State University of NJ,2000,2008,biological_materials,0,0,0
+Rutgers the State University of NJ,2000,2008,tangible_research_property,0,0,0
+Rutgers the State University of NJ,2000,2008,emerging_technologies,0,0,0
+Rutgers the State University of NJ,2008,2013,patentable_inventions,1,1,0
+Rutgers the State University of NJ,2008,2013,software,1,1,0
+Rutgers the State University of NJ,2008,2013,algorithms,0,0,0
+Rutgers the State University of NJ,2008,2013,research_datasets,0,0,0
+Rutgers the State University of NJ,2008,2013,scholarly_publications,1,1,0
+Rutgers the State University of NJ,2008,2013,teaching_materials,0,1,1
+Rutgers the State University of NJ,2008,2013,biological_materials,0,0,0
+Rutgers the State University of NJ,2008,2013,tangible_research_property,0,0,0
+Rutgers the State University of NJ,2008,2013,emerging_technologies,0,0,0
+Rutgers the State University of NJ,2013,2021,patentable_inventions,1,1,0
+Rutgers the State University of NJ,2013,2021,software,1,0,-1
+Rutgers the State University of NJ,2013,2021,algorithms,0,0,0
+Rutgers the State University of NJ,2013,2021,research_datasets,0,0,0
+Rutgers the State University of NJ,2013,2021,scholarly_publications,1,1,0
+Rutgers the State University of NJ,2013,2021,teaching_materials,1,0,-1
+Rutgers the State University of NJ,2013,2021,biological_materials,0,0,0
+Rutgers the State University of NJ,2013,2021,tangible_research_property,0,0,0
+Rutgers the State University of NJ,2013,2021,emerging_technologies,0,0,0
+SUNY,1988,2016,patentable_inventions,1,1,0
+SUNY,1988,2016,software,0,1,1
+SUNY,1988,2016,algorithms,0,0,0
+SUNY,1988,2016,research_datasets,0,0,0
+SUNY,1988,2016,scholarly_publications,1,1,0
+SUNY,1988,2016,teaching_materials,0,1,1
+SUNY,1988,2016,biological_materials,0,0,0
+SUNY,1988,2016,tangible_research_property,0,1,1
+SUNY,1988,2016,emerging_technologies,0,0,0
+SUNY,2016,2017,patentable_inventions,1,1,0
+SUNY,2016,2017,software,1,1,0
+SUNY,2016,2017,algorithms,0,0,0
+SUNY,2016,2017,research_datasets,0,0,0
+SUNY,2016,2017,scholarly_publications,1,0,-1
+SUNY,2016,2017,teaching_materials,1,0,-1
+SUNY,2016,2017,biological_materials,0,0,0
+SUNY,2016,2017,tangible_research_property,1,0,-1
+SUNY,2016,2017,emerging_technologies,0,0,0
+SUNY,2017,2021,patentable_inventions,1,1,0
+SUNY,2017,2021,software,1,1,0
+SUNY,2017,2021,algorithms,0,0,0
+SUNY,2017,2021,research_datasets,0,0,0
+SUNY,2017,2021,scholarly_publications,0,1,1
+SUNY,2017,2021,teaching_materials,0,1,1
+SUNY,2017,2021,biological_materials,0,0,0
+SUNY,2017,2021,tangible_research_property,0,1,1
+SUNY,2017,2021,emerging_technologies,0,0,0
+Southern Illinois University,1992,1998,patentable_inventions,1,1,0
+Southern Illinois University,1992,1998,software,1,0,-1
+Southern Illinois University,1992,1998,algorithms,0,0,0
+Southern Illinois University,1992,1998,research_datasets,0,1,1
+Southern Illinois University,1992,1998,scholarly_publications,1,1,0
+Southern Illinois University,1992,1998,teaching_materials,0,0,0
+Southern Illinois University,1992,1998,biological_materials,0,1,1
+Southern Illinois University,1992,1998,tangible_research_property,0,0,0
+Southern Illinois University,1992,1998,emerging_technologies,0,0,0
+Southern Illinois University,1998,2005,patentable_inventions,1,1,0
+Southern Illinois University,1998,2005,software,0,1,1
+Southern Illinois University,1998,2005,algorithms,0,0,0
+Southern Illinois University,1998,2005,research_datasets,1,1,0
+Southern Illinois University,1998,2005,scholarly_publications,1,1,0
+Southern Illinois University,1998,2005,teaching_materials,0,1,1
+Southern Illinois University,1998,2005,biological_materials,1,1,0
+Southern Illinois University,1998,2005,tangible_research_property,0,0,0
+Southern Illinois University,1998,2005,emerging_technologies,0,1,1
+Southern Illinois University,2005,2016,patentable_inventions,1,1,0
+Southern Illinois University,2005,2016,software,1,1,0
+Southern Illinois University,2005,2016,algorithms,0,0,0
+Southern Illinois University,2005,2016,research_datasets,1,1,0
+Southern Illinois University,2005,2016,scholarly_publications,1,1,0
+Southern Illinois University,2005,2016,teaching_materials,1,1,0
+Southern Illinois University,2005,2016,biological_materials,1,0,-1
+Southern Illinois University,2005,2016,tangible_research_property,0,0,0
+Southern Illinois University,2005,2016,emerging_technologies,1,0,-1
+Southern Illinois University,2016,2018,patentable_inventions,1,1,0
+Southern Illinois University,2016,2018,software,1,1,0
+Southern Illinois University,2016,2018,algorithms,0,0,0
+Southern Illinois University,2016,2018,research_datasets,1,0,-1
+Southern Illinois University,2016,2018,scholarly_publications,1,1,0
+Southern Illinois University,2016,2018,teaching_materials,1,1,0
+Southern Illinois University,2016,2018,biological_materials,0,0,0
+Southern Illinois University,2016,2018,tangible_research_property,0,0,0
+Southern Illinois University,2016,2018,emerging_technologies,0,0,0
+Southern Illinois University,2018,2022,patentable_inventions,1,1,0
+Southern Illinois University,2018,2022,software,1,0,-1
+Southern Illinois University,2018,2022,algorithms,0,0,0
+Southern Illinois University,2018,2022,research_datasets,0,1,1
+Southern Illinois University,2018,2022,scholarly_publications,1,1,0
+Southern Illinois University,2018,2022,teaching_materials,1,1,0
+Southern Illinois University,2018,2022,biological_materials,0,0,0
+Southern Illinois University,2018,2022,tangible_research_property,0,0,0
+Southern Illinois University,2018,2022,emerging_technologies,0,0,0
+St. Louis University,1999,2009,patentable_inventions,1,1,0
+St. Louis University,1999,2009,software,0,0,0
+St. Louis University,1999,2009,algorithms,0,0,0
+St. Louis University,1999,2009,research_datasets,1,1,0
+St. Louis University,1999,2009,scholarly_publications,1,1,0
+St. Louis University,1999,2009,teaching_materials,0,0,0
+St. Louis University,1999,2009,biological_materials,1,1,0
+St. Louis University,1999,2009,tangible_research_property,0,0,0
+St. Louis University,1999,2009,emerging_technologies,0,0,0
+St. Louis University,2009,2022,patentable_inventions,1,1,0
+St. Louis University,2009,2022,software,0,1,1
+St. Louis University,2009,2022,algorithms,0,0,0
+St. Louis University,2009,2022,research_datasets,1,1,0
+St. Louis University,2009,2022,scholarly_publications,1,1,0
+St. Louis University,2009,2022,teaching_materials,0,1,1
+St. Louis University,2009,2022,biological_materials,1,1,0
+St. Louis University,2009,2022,tangible_research_property,0,0,0
+St. Louis University,2009,2022,emerging_technologies,0,0,0
+St. Louis University,2022,2024,patentable_inventions,1,1,0
+St. Louis University,2022,2024,software,1,1,0
+St. Louis University,2022,2024,algorithms,0,0,0
+St. Louis University,2022,2024,research_datasets,1,1,0
+St. Louis University,2022,2024,scholarly_publications,1,1,0
+St. Louis University,2022,2024,teaching_materials,1,1,0
+St. Louis University,2022,2024,biological_materials,1,1,0
+St. Louis University,2022,2024,tangible_research_property,0,1,1
+St. Louis University,2022,2024,emerging_technologies,0,0,0
+Stanford University,1980,1989,patentable_inventions,1,1,0
+Stanford University,1980,1989,software,0,0,0
+Stanford University,1980,1989,algorithms,0,0,0
+Stanford University,1980,1989,research_datasets,0,0,0
+Stanford University,1980,1989,scholarly_publications,1,1,0
+Stanford University,1980,1989,teaching_materials,0,0,0
+Stanford University,1980,1989,biological_materials,0,0,0
+Stanford University,1980,1989,tangible_research_property,0,0,0
+Stanford University,1980,1989,emerging_technologies,0,0,0
+Stanford University,1989,1994,patentable_inventions,1,1,0
+Stanford University,1989,1994,software,0,0,0
+Stanford University,1989,1994,algorithms,0,0,0
+Stanford University,1989,1994,research_datasets,0,0,0
+Stanford University,1989,1994,scholarly_publications,1,1,0
+Stanford University,1989,1994,teaching_materials,0,0,0
+Stanford University,1989,1994,biological_materials,0,0,0
+Stanford University,1989,1994,tangible_research_property,0,0,0
+Stanford University,1989,1994,emerging_technologies,0,0,0
+Stanford University,1994,1996,patentable_inventions,1,1,0
+Stanford University,1994,1996,software,0,0,0
+Stanford University,1994,1996,algorithms,0,0,0
+Stanford University,1994,1996,research_datasets,0,0,0
+Stanford University,1994,1996,scholarly_publications,1,1,0
+Stanford University,1994,1996,teaching_materials,0,0,0
+Stanford University,1994,1996,biological_materials,0,0,0
+Stanford University,1994,1996,tangible_research_property,0,0,0
+Stanford University,1994,1996,emerging_technologies,0,0,0
+Stanford University,1996,1998,patentable_inventions,1,1,0
+Stanford University,1996,1998,software,0,0,0
+Stanford University,1996,1998,algorithms,0,0,0
+Stanford University,1996,1998,research_datasets,0,0,0
+Stanford University,1996,1998,scholarly_publications,1,1,0
+Stanford University,1996,1998,teaching_materials,0,0,0
+Stanford University,1996,1998,biological_materials,0,0,0
+Stanford University,1996,1998,tangible_research_property,0,0,0
+Stanford University,1996,1998,emerging_technologies,0,0,0
+Stanford University,1998,1999,patentable_inventions,1,1,0
+Stanford University,1998,1999,software,0,0,0
+Stanford University,1998,1999,algorithms,0,0,0
+Stanford University,1998,1999,research_datasets,0,0,0
+Stanford University,1998,1999,scholarly_publications,1,1,0
+Stanford University,1998,1999,teaching_materials,0,0,0
+Stanford University,1998,1999,biological_materials,0,0,0
+Stanford University,1998,1999,tangible_research_property,0,0,0
+Stanford University,1998,1999,emerging_technologies,0,0,0
+Stanford University,1999,2013,patentable_inventions,1,1,0
+Stanford University,1999,2013,software,0,1,1
+Stanford University,1999,2013,algorithms,0,0,0
+Stanford University,1999,2013,research_datasets,0,0,0
+Stanford University,1999,2013,scholarly_publications,1,1,0
+Stanford University,1999,2013,teaching_materials,0,0,0
+Stanford University,1999,2013,biological_materials,0,0,0
+Stanford University,1999,2013,tangible_research_property,0,0,0
+Stanford University,1999,2013,emerging_technologies,0,0,0
+Stanford University,2013,2023,patentable_inventions,1,1,0
+Stanford University,2013,2023,software,1,0,-1
+Stanford University,2013,2023,algorithms,0,0,0
+Stanford University,2013,2023,research_datasets,0,0,0
+Stanford University,2013,2023,scholarly_publications,1,1,0
+Stanford University,2013,2023,teaching_materials,0,0,0
+Stanford University,2013,2023,biological_materials,0,0,0
+Stanford University,2013,2023,tangible_research_property,0,0,0
+Stanford University,2013,2023,emerging_technologies,0,0,0
+Stevens Institute of Technology,2000,2014,patentable_inventions,1,1,0
+Stevens Institute of Technology,2000,2014,software,1,0,-1
+Stevens Institute of Technology,2000,2014,algorithms,0,0,0
+Stevens Institute of Technology,2000,2014,research_datasets,0,0,0
+Stevens Institute of Technology,2000,2014,scholarly_publications,1,1,0
+Stevens Institute of Technology,2000,2014,teaching_materials,0,0,0
+Stevens Institute of Technology,2000,2014,biological_materials,1,0,-1
+Stevens Institute of Technology,2000,2014,tangible_research_property,1,0,-1
+Stevens Institute of Technology,2000,2014,emerging_technologies,1,0,-1
+Stevens Institute of Technology,2014,2018,patentable_inventions,1,1,0
+Stevens Institute of Technology,2014,2018,software,0,0,0
+Stevens Institute of Technology,2014,2018,algorithms,0,0,0
+Stevens Institute of Technology,2014,2018,research_datasets,0,0,0
+Stevens Institute of Technology,2014,2018,scholarly_publications,1,1,0
+Stevens Institute of Technology,2014,2018,teaching_materials,0,0,0
+Stevens Institute of Technology,2014,2018,biological_materials,0,0,0
+Stevens Institute of Technology,2014,2018,tangible_research_property,0,0,0
+Stevens Institute of Technology,2014,2018,emerging_technologies,0,0,0
+Stevens Institute of Technology,2018,2025,patentable_inventions,1,1,0
+Stevens Institute of Technology,2018,2025,software,0,1,1
+Stevens Institute of Technology,2018,2025,algorithms,0,0,0
+Stevens Institute of Technology,2018,2025,research_datasets,0,1,1
+Stevens Institute of Technology,2018,2025,scholarly_publications,1,1,0
+Stevens Institute of Technology,2018,2025,teaching_materials,0,1,1
+Stevens Institute of Technology,2018,2025,biological_materials,0,0,0
+Stevens Institute of Technology,2018,2025,tangible_research_property,0,0,0
+Stevens Institute of Technology,2018,2025,emerging_technologies,0,0,0
+Syracuse University,1992,2024,patentable_inventions,1,1,0
+Syracuse University,1992,2024,software,1,1,0
+Syracuse University,1992,2024,algorithms,0,0,0
+Syracuse University,1992,2024,research_datasets,0,0,0
+Syracuse University,1992,2024,scholarly_publications,1,1,0
+Syracuse University,1992,2024,teaching_materials,0,0,0
+Syracuse University,1992,2024,biological_materials,0,0,0
+Syracuse University,1992,2024,tangible_research_property,1,1,0
+Syracuse University,1992,2024,emerging_technologies,0,0,0
+Temple University,1985,2011,patentable_inventions,1,1,0
+Temple University,1985,2011,software,1,1,0
+Temple University,1985,2011,algorithms,0,0,0
+Temple University,1985,2011,research_datasets,0,0,0
+Temple University,1985,2011,scholarly_publications,1,1,0
+Temple University,1985,2011,teaching_materials,0,0,0
+Temple University,1985,2011,biological_materials,0,0,0
+Temple University,1985,2011,tangible_research_property,0,0,0
+Temple University,1985,2011,emerging_technologies,0,0,0
+Temple University,2011,2022,patentable_inventions,1,1,0
+Temple University,2011,2022,software,1,1,0
+Temple University,2011,2022,algorithms,0,0,0
+Temple University,2011,2022,research_datasets,0,0,0
+Temple University,2011,2022,scholarly_publications,1,1,0
+Temple University,2011,2022,teaching_materials,0,0,0
+Temple University,2011,2022,biological_materials,0,0,0
+Temple University,2011,2022,tangible_research_property,0,0,0
+Temple University,2011,2022,emerging_technologies,0,0,0
+Texas A&M University System,1991,2001,patentable_inventions,1,1,0
+Texas A&M University System,1991,2001,software,1,0,-1
+Texas A&M University System,1991,2001,algorithms,0,0,0
+Texas A&M University System,1991,2001,research_datasets,0,0,0
+Texas A&M University System,1991,2001,scholarly_publications,1,1,0
+Texas A&M University System,1991,2001,teaching_materials,0,0,0
+Texas A&M University System,1991,2001,biological_materials,1,0,-1
+Texas A&M University System,1991,2001,tangible_research_property,0,0,0
+Texas A&M University System,1991,2001,emerging_technologies,0,0,0
+Texas A&M University System,2001,2006,patentable_inventions,1,1,0
+Texas A&M University System,2001,2006,software,0,1,1
+Texas A&M University System,2001,2006,algorithms,0,0,0
+Texas A&M University System,2001,2006,research_datasets,0,1,1
+Texas A&M University System,2001,2006,scholarly_publications,1,1,0
+Texas A&M University System,2001,2006,teaching_materials,0,1,1
+Texas A&M University System,2001,2006,biological_materials,0,1,1
+Texas A&M University System,2001,2006,tangible_research_property,0,1,1
+Texas A&M University System,2001,2006,emerging_technologies,0,1,1
+Texas A&M University System,2006,2009,patentable_inventions,1,1,0
+Texas A&M University System,2006,2009,software,1,1,0
+Texas A&M University System,2006,2009,algorithms,0,0,0
+Texas A&M University System,2006,2009,research_datasets,1,1,0
+Texas A&M University System,2006,2009,scholarly_publications,1,1,0
+Texas A&M University System,2006,2009,teaching_materials,1,1,0
+Texas A&M University System,2006,2009,biological_materials,1,1,0
+Texas A&M University System,2006,2009,tangible_research_property,1,1,0
+Texas A&M University System,2006,2009,emerging_technologies,1,1,0
+Texas A&M University System,2009,2012,patentable_inventions,1,1,0
+Texas A&M University System,2009,2012,software,1,1,0
+Texas A&M University System,2009,2012,algorithms,0,0,0
+Texas A&M University System,2009,2012,research_datasets,1,1,0
+Texas A&M University System,2009,2012,scholarly_publications,1,1,0
+Texas A&M University System,2009,2012,teaching_materials,1,1,0
+Texas A&M University System,2009,2012,biological_materials,1,1,0
+Texas A&M University System,2009,2012,tangible_research_property,1,1,0
+Texas A&M University System,2009,2012,emerging_technologies,1,1,0
+Texas A&M University System,2012,2019,patentable_inventions,1,1,0
+Texas A&M University System,2012,2019,software,1,1,0
+Texas A&M University System,2012,2019,algorithms,0,0,0
+Texas A&M University System,2012,2019,research_datasets,1,1,0
+Texas A&M University System,2012,2019,scholarly_publications,1,1,0
+Texas A&M University System,2012,2019,teaching_materials,1,1,0
+Texas A&M University System,2012,2019,biological_materials,1,1,0
+Texas A&M University System,2012,2019,tangible_research_property,1,1,0
+Texas A&M University System,2012,2019,emerging_technologies,1,1,0
+Texas A&M University System,2019,2022,patentable_inventions,1,1,0
+Texas A&M University System,2019,2022,software,1,1,0
+Texas A&M University System,2019,2022,algorithms,0,0,0
+Texas A&M University System,2019,2022,research_datasets,1,0,-1
+Texas A&M University System,2019,2022,scholarly_publications,1,1,0
+Texas A&M University System,2019,2022,teaching_materials,1,1,0
+Texas A&M University System,2019,2022,biological_materials,1,0,-1
+Texas A&M University System,2019,2022,tangible_research_property,1,1,0
+Texas A&M University System,2019,2022,emerging_technologies,1,0,-1
+Texas A&M University System,2022,2023,patentable_inventions,1,1,0
+Texas A&M University System,2022,2023,software,1,1,0
+Texas A&M University System,2022,2023,algorithms,0,0,0
+Texas A&M University System,2022,2023,research_datasets,0,1,1
+Texas A&M University System,2022,2023,scholarly_publications,1,1,0
+Texas A&M University System,2022,2023,teaching_materials,1,1,0
+Texas A&M University System,2022,2023,biological_materials,0,1,1
+Texas A&M University System,2022,2023,tangible_research_property,1,1,0
+Texas A&M University System,2022,2023,emerging_technologies,0,1,1
+Texas A&M University System,2023,2025,patentable_inventions,1,1,0
+Texas A&M University System,2023,2025,software,1,1,0
+Texas A&M University System,2023,2025,algorithms,0,0,0
+Texas A&M University System,2023,2025,research_datasets,1,0,-1
+Texas A&M University System,2023,2025,scholarly_publications,1,1,0
+Texas A&M University System,2023,2025,teaching_materials,1,1,0
+Texas A&M University System,2023,2025,biological_materials,1,0,-1
+Texas A&M University System,2023,2025,tangible_research_property,1,1,0
+Texas A&M University System,2023,2025,emerging_technologies,1,0,-1
+Thomas Jefferson University,1998,2000,patentable_inventions,1,1,0
+Thomas Jefferson University,1998,2000,software,1,0,-1
+Thomas Jefferson University,1998,2000,algorithms,0,0,0
+Thomas Jefferson University,1998,2000,research_datasets,1,0,-1
+Thomas Jefferson University,1998,2000,scholarly_publications,1,0,-1
+Thomas Jefferson University,1998,2000,teaching_materials,0,0,0
+Thomas Jefferson University,1998,2000,biological_materials,1,0,-1
+Thomas Jefferson University,1998,2000,tangible_research_property,1,0,-1
+Thomas Jefferson University,1998,2000,emerging_technologies,0,0,0
+Thomas Jefferson University,2000,2006,patentable_inventions,1,1,0
+Thomas Jefferson University,2000,2006,software,0,0,0
+Thomas Jefferson University,2000,2006,algorithms,0,0,0
+Thomas Jefferson University,2000,2006,research_datasets,0,0,0
+Thomas Jefferson University,2000,2006,scholarly_publications,0,1,1
+Thomas Jefferson University,2000,2006,teaching_materials,0,0,0
+Thomas Jefferson University,2000,2006,biological_materials,0,0,0
+Thomas Jefferson University,2000,2006,tangible_research_property,0,1,1
+Thomas Jefferson University,2000,2006,emerging_technologies,0,0,0
+Tulane University,1985,2001,patentable_inventions,1,1,0
+Tulane University,1985,2001,software,1,1,0
+Tulane University,1985,2001,algorithms,0,0,0
+Tulane University,1985,2001,research_datasets,0,0,0
+Tulane University,1985,2001,scholarly_publications,1,1,0
+Tulane University,1985,2001,teaching_materials,0,0,0
+Tulane University,1985,2001,biological_materials,0,1,1
+Tulane University,1985,2001,tangible_research_property,0,1,1
+Tulane University,1985,2001,emerging_technologies,0,1,1
+University of Akron,1996,2002,patentable_inventions,1,1,0
+University of Akron,1996,2002,software,0,0,0
+University of Akron,1996,2002,algorithms,0,0,0
+University of Akron,1996,2002,research_datasets,0,0,0
+University of Akron,1996,2002,scholarly_publications,1,0,-1
+University of Akron,1996,2002,teaching_materials,0,0,0
+University of Akron,1996,2002,biological_materials,0,0,0
+University of Akron,1996,2002,tangible_research_property,0,0,0
+University of Akron,1996,2002,emerging_technologies,0,0,0
+University of Akron,2002,2015,patentable_inventions,1,1,0
+University of Akron,2002,2015,software,0,0,0
+University of Akron,2002,2015,algorithms,0,0,0
+University of Akron,2002,2015,research_datasets,0,0,0
+University of Akron,2002,2015,scholarly_publications,0,1,1
+University of Akron,2002,2015,teaching_materials,0,0,0
+University of Akron,2002,2015,biological_materials,0,0,0
+University of Akron,2002,2015,tangible_research_property,0,0,0
+University of Akron,2002,2015,emerging_technologies,0,0,0
+University of Alabama in Birmingham (UAB),1980,2013,patentable_inventions,1,1,0
+University of Alabama in Birmingham (UAB),1980,2013,software,0,0,0
+University of Alabama in Birmingham (UAB),1980,2013,algorithms,0,0,0
+University of Alabama in Birmingham (UAB),1980,2013,research_datasets,0,0,0
+University of Alabama in Birmingham (UAB),1980,2013,scholarly_publications,0,0,0
+University of Alabama in Birmingham (UAB),1980,2013,teaching_materials,0,0,0
+University of Alabama in Birmingham (UAB),1980,2013,biological_materials,0,0,0
+University of Alabama in Birmingham (UAB),1980,2013,tangible_research_property,0,0,0
+University of Alabama in Birmingham (UAB),1980,2013,emerging_technologies,0,0,0
+University of Alabama in Huntsville (UAH),1991,2018,patentable_inventions,1,1,0
+University of Alabama in Huntsville (UAH),1991,2018,software,0,0,0
+University of Alabama in Huntsville (UAH),1991,2018,algorithms,0,0,0
+University of Alabama in Huntsville (UAH),1991,2018,research_datasets,0,0,0
+University of Alabama in Huntsville (UAH),1991,2018,scholarly_publications,0,0,0
+University of Alabama in Huntsville (UAH),1991,2018,teaching_materials,0,0,0
+University of Alabama in Huntsville (UAH),1991,2018,biological_materials,0,0,0
+University of Alabama in Huntsville (UAH),1991,2018,tangible_research_property,0,0,0
+University of Alabama in Huntsville (UAH),1991,2018,emerging_technologies,0,0,0
+University of Arizona,1983,1985,patentable_inventions,1,1,0
+University of Arizona,1983,1985,software,0,0,0
+University of Arizona,1983,1985,algorithms,0,0,0
+University of Arizona,1983,1985,research_datasets,0,0,0
+University of Arizona,1983,1985,scholarly_publications,0,1,1
+University of Arizona,1983,1985,teaching_materials,0,0,0
+University of Arizona,1983,1985,biological_materials,0,0,0
+University of Arizona,1983,1985,tangible_research_property,0,0,0
+University of Arizona,1983,1985,emerging_technologies,0,0,0
+University of Arizona,1985,1987,patentable_inventions,1,1,0
+University of Arizona,1985,1987,software,0,0,0
+University of Arizona,1985,1987,algorithms,0,0,0
+University of Arizona,1985,1987,research_datasets,0,0,0
+University of Arizona,1985,1987,scholarly_publications,1,1,0
+University of Arizona,1985,1987,teaching_materials,0,0,0
+University of Arizona,1985,1987,biological_materials,0,0,0
+University of Arizona,1985,1987,tangible_research_property,0,0,0
+University of Arizona,1985,1987,emerging_technologies,0,0,0
+University of Arizona,1987,1996,patentable_inventions,1,1,0
+University of Arizona,1987,1996,software,0,0,0
+University of Arizona,1987,1996,algorithms,0,0,0
+University of Arizona,1987,1996,research_datasets,0,0,0
+University of Arizona,1987,1996,scholarly_publications,1,1,0
+University of Arizona,1987,1996,teaching_materials,0,0,0
+University of Arizona,1987,1996,biological_materials,0,0,0
+University of Arizona,1987,1996,tangible_research_property,0,0,0
+University of Arizona,1987,1996,emerging_technologies,0,0,0
+University of Arizona,1996,1999,patentable_inventions,1,1,0
+University of Arizona,1996,1999,software,0,1,1
+University of Arizona,1996,1999,algorithms,0,0,0
+University of Arizona,1996,1999,research_datasets,0,1,1
+University of Arizona,1996,1999,scholarly_publications,1,1,0
+University of Arizona,1996,1999,teaching_materials,0,1,1
+University of Arizona,1996,1999,biological_materials,0,0,0
+University of Arizona,1996,1999,tangible_research_property,0,0,0
+University of Arizona,1996,1999,emerging_technologies,0,1,1
+University of Arizona,1999,2001,patentable_inventions,1,1,0
+University of Arizona,1999,2001,software,1,1,0
+University of Arizona,1999,2001,algorithms,0,0,0
+University of Arizona,1999,2001,research_datasets,1,1,0
+University of Arizona,1999,2001,scholarly_publications,1,1,0
+University of Arizona,1999,2001,teaching_materials,1,1,0
+University of Arizona,1999,2001,biological_materials,0,0,0
+University of Arizona,1999,2001,tangible_research_property,0,0,0
+University of Arizona,1999,2001,emerging_technologies,1,1,0
+University of Arizona,2001,2010,patentable_inventions,1,1,0
+University of Arizona,2001,2010,software,1,1,0
+University of Arizona,2001,2010,algorithms,0,0,0
+University of Arizona,2001,2010,research_datasets,1,0,-1
+University of Arizona,2001,2010,scholarly_publications,1,1,0
+University of Arizona,2001,2010,teaching_materials,1,1,0
+University of Arizona,2001,2010,biological_materials,0,1,1
+University of Arizona,2001,2010,tangible_research_property,0,1,1
+University of Arizona,2001,2010,emerging_technologies,1,0,-1
+University of Arizona,2010,2014,patentable_inventions,1,1,0
+University of Arizona,2010,2014,software,1,1,0
+University of Arizona,2010,2014,algorithms,0,0,0
+University of Arizona,2010,2014,research_datasets,0,0,0
+University of Arizona,2010,2014,scholarly_publications,1,1,0
+University of Arizona,2010,2014,teaching_materials,1,1,0
+University of Arizona,2010,2014,biological_materials,1,1,0
+University of Arizona,2010,2014,tangible_research_property,1,1,0
+University of Arizona,2010,2014,emerging_technologies,0,0,0
+University of Arizona,2014,2017,patentable_inventions,1,1,0
+University of Arizona,2014,2017,software,1,1,0
+University of Arizona,2014,2017,algorithms,0,1,1
+University of Arizona,2014,2017,research_datasets,0,0,0
+University of Arizona,2014,2017,scholarly_publications,1,1,0
+University of Arizona,2014,2017,teaching_materials,1,1,0
+University of Arizona,2014,2017,biological_materials,1,1,0
+University of Arizona,2014,2017,tangible_research_property,1,1,0
+University of Arizona,2014,2017,emerging_technologies,0,1,1
+University of Arizona,2017,2018,patentable_inventions,1,1,0
+University of Arizona,2017,2018,software,1,1,0
+University of Arizona,2017,2018,algorithms,1,1,0
+University of Arizona,2017,2018,research_datasets,0,0,0
+University of Arizona,2017,2018,scholarly_publications,1,1,0
+University of Arizona,2017,2018,teaching_materials,1,1,0
+University of Arizona,2017,2018,biological_materials,1,1,0
+University of Arizona,2017,2018,tangible_research_property,1,1,0
+University of Arizona,2017,2018,emerging_technologies,1,1,0
+University of Arkansas,1945,1967,patentable_inventions,1,1,0
+University of Arkansas,1945,1967,software,0,0,0
+University of Arkansas,1945,1967,algorithms,0,0,0
+University of Arkansas,1945,1967,research_datasets,0,0,0
+University of Arkansas,1945,1967,scholarly_publications,0,0,0
+University of Arkansas,1945,1967,teaching_materials,0,0,0
+University of Arkansas,1945,1967,biological_materials,0,0,0
+University of Arkansas,1945,1967,tangible_research_property,0,0,0
+University of Arkansas,1945,1967,emerging_technologies,0,0,0
+University of Arkansas,1967,1986,patentable_inventions,1,1,0
+University of Arkansas,1967,1986,software,0,1,1
+University of Arkansas,1967,1986,algorithms,0,0,0
+University of Arkansas,1967,1986,research_datasets,0,1,1
+University of Arkansas,1967,1986,scholarly_publications,0,1,1
+University of Arkansas,1967,1986,teaching_materials,0,1,1
+University of Arkansas,1967,1986,biological_materials,0,1,1
+University of Arkansas,1967,1986,tangible_research_property,0,0,0
+University of Arkansas,1967,1986,emerging_technologies,0,0,0
+University of Arkansas,1986,2001,patentable_inventions,1,1,0
+University of Arkansas,1986,2001,software,1,1,0
+University of Arkansas,1986,2001,algorithms,0,0,0
+University of Arkansas,1986,2001,research_datasets,1,1,0
+University of Arkansas,1986,2001,scholarly_publications,1,1,0
+University of Arkansas,1986,2001,teaching_materials,1,1,0
+University of Arkansas,1986,2001,biological_materials,1,1,0
+University of Arkansas,1986,2001,tangible_research_property,0,1,1
+University of Arkansas,1986,2001,emerging_technologies,0,0,0
+University of Arkansas,2001,2011,patentable_inventions,1,1,0
+University of Arkansas,2001,2011,software,1,1,0
+University of Arkansas,2001,2011,algorithms,0,0,0
+University of Arkansas,2001,2011,research_datasets,1,1,0
+University of Arkansas,2001,2011,scholarly_publications,1,1,0
+University of Arkansas,2001,2011,teaching_materials,1,1,0
+University of Arkansas,2001,2011,biological_materials,1,1,0
+University of Arkansas,2001,2011,tangible_research_property,1,1,0
+University of Arkansas,2001,2011,emerging_technologies,0,0,0
+University of Arkansas,2011,2015,patentable_inventions,1,1,0
+University of Arkansas,2011,2015,software,1,1,0
+University of Arkansas,2011,2015,algorithms,0,0,0
+University of Arkansas,2011,2015,research_datasets,1,1,0
+University of Arkansas,2011,2015,scholarly_publications,1,1,0
+University of Arkansas,2011,2015,teaching_materials,1,1,0
+University of Arkansas,2011,2015,biological_materials,1,1,0
+University of Arkansas,2011,2015,tangible_research_property,1,1,0
+University of Arkansas,2011,2015,emerging_technologies,0,0,0
+University of Arkansas,2015,2016,patentable_inventions,1,1,0
+University of Arkansas,2015,2016,software,1,1,0
+University of Arkansas,2015,2016,algorithms,0,0,0
+University of Arkansas,2015,2016,research_datasets,1,1,0
+University of Arkansas,2015,2016,scholarly_publications,1,1,0
+University of Arkansas,2015,2016,teaching_materials,1,1,0
+University of Arkansas,2015,2016,biological_materials,1,1,0
+University of Arkansas,2015,2016,tangible_research_property,1,1,0
+University of Arkansas,2015,2016,emerging_technologies,0,0,0
+University of California System,1985,1990,patentable_inventions,1,1,0
+University of California System,1985,1990,software,0,0,0
+University of California System,1985,1990,algorithms,0,0,0
+University of California System,1985,1990,research_datasets,0,0,0
+University of California System,1985,1990,scholarly_publications,0,0,0
+University of California System,1985,1990,teaching_materials,0,0,0
+University of California System,1985,1990,biological_materials,0,0,0
+University of California System,1985,1990,tangible_research_property,0,0,0
+University of California System,1985,1990,emerging_technologies,0,0,0
+University of California System,1990,1997,patentable_inventions,1,1,0
+University of California System,1990,1997,software,0,0,0
+University of California System,1990,1997,algorithms,0,0,0
+University of California System,1990,1997,research_datasets,0,0,0
+University of California System,1990,1997,scholarly_publications,0,0,0
+University of California System,1990,1997,teaching_materials,0,0,0
+University of California System,1990,1997,biological_materials,0,0,0
+University of California System,1990,1997,tangible_research_property,0,0,0
+University of California System,1990,1997,emerging_technologies,0,0,0
+University of California System,1997,2024,patentable_inventions,1,1,0
+University of California System,1997,2024,software,0,1,1
+University of California System,1997,2024,algorithms,0,0,0
+University of California System,1997,2024,research_datasets,0,0,0
+University of California System,1997,2024,scholarly_publications,0,1,1
+University of California System,1997,2024,teaching_materials,0,1,1
+University of California System,1997,2024,biological_materials,0,1,1
+University of California System,1997,2024,tangible_research_property,0,0,0
+University of California System,1997,2024,emerging_technologies,0,0,0
+University of Central Florida,2013,2024,patentable_inventions,1,1,0
+University of Central Florida,2013,2024,software,0,0,0
+University of Central Florida,2013,2024,algorithms,0,0,0
+University of Central Florida,2013,2024,research_datasets,0,0,0
+University of Central Florida,2013,2024,scholarly_publications,1,1,0
+University of Central Florida,2013,2024,teaching_materials,0,0,0
+University of Central Florida,2013,2024,biological_materials,0,0,0
+University of Central Florida,2013,2024,tangible_research_property,0,0,0
+University of Central Florida,2013,2024,emerging_technologies,0,0,0
+University of Chicago,2002,2018,patentable_inventions,1,1,0
+University of Chicago,2002,2018,software,1,1,0
+University of Chicago,2002,2018,algorithms,0,0,0
+University of Chicago,2002,2018,research_datasets,1,0,-1
+University of Chicago,2002,2018,scholarly_publications,0,1,1
+University of Chicago,2002,2018,teaching_materials,0,0,0
+University of Chicago,2002,2018,biological_materials,1,0,-1
+University of Chicago,2002,2018,tangible_research_property,0,0,0
+University of Chicago,2002,2018,emerging_technologies,0,0,0
+University of Cincinnati,2009,2019,patentable_inventions,1,1,0
+University of Cincinnati,2009,2019,software,0,0,0
+University of Cincinnati,2009,2019,algorithms,0,0,0
+University of Cincinnati,2009,2019,research_datasets,0,0,0
+University of Cincinnati,2009,2019,scholarly_publications,1,1,0
+University of Cincinnati,2009,2019,teaching_materials,0,0,0
+University of Cincinnati,2009,2019,biological_materials,0,0,0
+University of Cincinnati,2009,2019,tangible_research_property,0,0,0
+University of Cincinnati,2009,2019,emerging_technologies,0,0,0
+University of Dayton,1996,2015,patentable_inventions,1,1,0
+University of Dayton,1996,2015,software,1,1,0
+University of Dayton,1996,2015,algorithms,0,0,0
+University of Dayton,1996,2015,research_datasets,1,0,-1
+University of Dayton,1996,2015,scholarly_publications,1,1,0
+University of Dayton,1996,2015,teaching_materials,0,1,1
+University of Dayton,1996,2015,biological_materials,1,0,-1
+University of Dayton,1996,2015,tangible_research_property,1,0,-1
+University of Dayton,1996,2015,emerging_technologies,1,0,-1
+University of Delaware,1993,2008,patentable_inventions,0,0,0
+University of Delaware,1993,2008,software,0,0,0
+University of Delaware,1993,2008,algorithms,0,0,0
+University of Delaware,1993,2008,research_datasets,0,0,0
+University of Delaware,1993,2008,scholarly_publications,1,1,0
+University of Delaware,1993,2008,teaching_materials,0,0,0
+University of Delaware,1993,2008,biological_materials,0,0,0
+University of Delaware,1993,2008,tangible_research_property,0,0,0
+University of Delaware,1993,2008,emerging_technologies,0,0,0
+University of Delaware,2008,2021,patentable_inventions,0,1,1
+University of Delaware,2008,2021,software,0,1,1
+University of Delaware,2008,2021,algorithms,0,1,1
+University of Delaware,2008,2021,research_datasets,0,0,0
+University of Delaware,2008,2021,scholarly_publications,1,1,0
+University of Delaware,2008,2021,teaching_materials,0,0,0
+University of Delaware,2008,2021,biological_materials,0,0,0
+University of Delaware,2008,2021,tangible_research_property,0,1,1
+University of Delaware,2008,2021,emerging_technologies,0,0,0
+University of Denver,2008,2023,patentable_inventions,1,1,0
+University of Denver,2008,2023,software,0,1,1
+University of Denver,2008,2023,algorithms,0,0,0
+University of Denver,2008,2023,research_datasets,0,1,1
+University of Denver,2008,2023,scholarly_publications,1,1,0
+University of Denver,2008,2023,teaching_materials,0,1,1
+University of Denver,2008,2023,biological_materials,0,1,1
+University of Denver,2008,2023,tangible_research_property,0,0,0
+University of Denver,2008,2023,emerging_technologies,0,1,1
+University of Georgia,1982,1995,patentable_inventions,1,1,0
+University of Georgia,1982,1995,software,0,1,1
+University of Georgia,1982,1995,algorithms,0,0,0
+University of Georgia,1982,1995,research_datasets,0,1,1
+University of Georgia,1982,1995,scholarly_publications,1,1,0
+University of Georgia,1982,1995,teaching_materials,0,1,1
+University of Georgia,1982,1995,biological_materials,0,0,0
+University of Georgia,1982,1995,tangible_research_property,0,0,0
+University of Georgia,1982,1995,emerging_technologies,0,1,1
+University of Hawaii,1985,2014,patentable_inventions,1,1,0
+University of Hawaii,1985,2014,software,0,0,0
+University of Hawaii,1985,2014,algorithms,0,0,0
+University of Hawaii,1985,2014,research_datasets,0,0,0
+University of Hawaii,1985,2014,scholarly_publications,1,1,0
+University of Hawaii,1985,2014,teaching_materials,0,0,0
+University of Hawaii,1985,2014,biological_materials,0,0,0
+University of Hawaii,1985,2014,tangible_research_property,0,0,0
+University of Hawaii,1985,2014,emerging_technologies,0,0,0
+University of Hawaii,2014,2020,patentable_inventions,1,1,0
+University of Hawaii,2014,2020,software,0,0,0
+University of Hawaii,2014,2020,algorithms,0,0,0
+University of Hawaii,2014,2020,research_datasets,0,0,0
+University of Hawaii,2014,2020,scholarly_publications,1,1,0
+University of Hawaii,2014,2020,teaching_materials,0,1,1
+University of Hawaii,2014,2020,biological_materials,0,0,0
+University of Hawaii,2014,2020,tangible_research_property,0,0,0
+University of Hawaii,2014,2020,emerging_technologies,0,0,0
+University of Houston,1997,2007,patentable_inventions,1,1,0
+University of Houston,1997,2007,software,1,1,0
+University of Houston,1997,2007,algorithms,0,0,0
+University of Houston,1997,2007,research_datasets,0,0,0
+University of Houston,1997,2007,scholarly_publications,1,1,0
+University of Houston,1997,2007,teaching_materials,0,1,1
+University of Houston,1997,2007,biological_materials,0,0,0
+University of Houston,1997,2007,tangible_research_property,0,0,0
+University of Houston,1997,2007,emerging_technologies,0,0,0
+University of Houston,2007,2015,patentable_inventions,1,1,0
+University of Houston,2007,2015,software,1,1,0
+University of Houston,2007,2015,algorithms,0,0,0
+University of Houston,2007,2015,research_datasets,0,1,1
+University of Houston,2007,2015,scholarly_publications,1,1,0
+University of Houston,2007,2015,teaching_materials,1,1,0
+University of Houston,2007,2015,biological_materials,0,0,0
+University of Houston,2007,2015,tangible_research_property,0,0,0
+University of Houston,2007,2015,emerging_technologies,0,0,0
+University of Houston,2015,2017,patentable_inventions,1,1,0
+University of Houston,2015,2017,software,1,1,0
+University of Houston,2015,2017,algorithms,0,0,0
+University of Houston,2015,2017,research_datasets,1,1,0
+University of Houston,2015,2017,scholarly_publications,1,1,0
+University of Houston,2015,2017,teaching_materials,1,1,0
+University of Houston,2015,2017,biological_materials,0,0,0
+University of Houston,2015,2017,tangible_research_property,0,0,0
+University of Houston,2015,2017,emerging_technologies,0,0,0
+University of Houston,2017,2023,patentable_inventions,1,1,0
+University of Houston,2017,2023,software,1,1,0
+University of Houston,2017,2023,algorithms,0,0,0
+University of Houston,2017,2023,research_datasets,1,1,0
+University of Houston,2017,2023,scholarly_publications,1,1,0
+University of Houston,2017,2023,teaching_materials,1,1,0
+University of Houston,2017,2023,biological_materials,0,0,0
+University of Houston,2017,2023,tangible_research_property,0,0,0
+University of Houston,2017,2023,emerging_technologies,0,0,0
+University of Idaho,1998,2016,patentable_inventions,1,1,0
+University of Idaho,1998,2016,software,1,1,0
+University of Idaho,1998,2016,algorithms,0,0,0
+University of Idaho,1998,2016,research_datasets,1,1,0
+University of Idaho,1998,2016,scholarly_publications,1,1,0
+University of Idaho,1998,2016,teaching_materials,1,1,0
+University of Idaho,1998,2016,biological_materials,0,0,0
+University of Idaho,1998,2016,tangible_research_property,0,0,0
+University of Idaho,1998,2016,emerging_technologies,1,0,-1
+University of Idaho,2016,2022,patentable_inventions,1,1,0
+University of Idaho,2016,2022,software,1,1,0
+University of Idaho,2016,2022,algorithms,0,0,0
+University of Idaho,2016,2022,research_datasets,1,1,0
+University of Idaho,2016,2022,scholarly_publications,1,1,0
+University of Idaho,2016,2022,teaching_materials,1,1,0
+University of Idaho,2016,2022,biological_materials,0,0,0
+University of Idaho,2016,2022,tangible_research_property,0,0,0
+University of Idaho,2016,2022,emerging_technologies,0,1,1
+University of Illinois At Chicago,2017,2018,patentable_inventions,1,1,0
+University of Illinois At Chicago,2017,2018,software,1,1,0
+University of Illinois At Chicago,2017,2018,algorithms,0,0,0
+University of Illinois At Chicago,2017,2018,research_datasets,0,0,0
+University of Illinois At Chicago,2017,2018,scholarly_publications,1,1,0
+University of Illinois At Chicago,2017,2018,teaching_materials,1,1,0
+University of Illinois At Chicago,2017,2018,biological_materials,1,1,0
+University of Illinois At Chicago,2017,2018,tangible_research_property,0,0,0
+University of Illinois At Chicago,2017,2018,emerging_technologies,1,1,0
+University of Illinois At Chicago,2018,2020,patentable_inventions,1,1,0
+University of Illinois At Chicago,2018,2020,software,1,1,0
+University of Illinois At Chicago,2018,2020,algorithms,0,0,0
+University of Illinois At Chicago,2018,2020,research_datasets,0,1,1
+University of Illinois At Chicago,2018,2020,scholarly_publications,1,1,0
+University of Illinois At Chicago,2018,2020,teaching_materials,1,1,0
+University of Illinois At Chicago,2018,2020,biological_materials,1,1,0
+University of Illinois At Chicago,2018,2020,tangible_research_property,0,0,0
+University of Illinois At Chicago,2018,2020,emerging_technologies,1,1,0
+University of Illinois At Chicago,2020,2021,patentable_inventions,1,1,0
+University of Illinois At Chicago,2020,2021,software,1,1,0
+University of Illinois At Chicago,2020,2021,algorithms,0,0,0
+University of Illinois At Chicago,2020,2021,research_datasets,1,1,0
+University of Illinois At Chicago,2020,2021,scholarly_publications,1,1,0
+University of Illinois At Chicago,2020,2021,teaching_materials,1,1,0
+University of Illinois At Chicago,2020,2021,biological_materials,1,1,0
+University of Illinois At Chicago,2020,2021,tangible_research_property,0,0,0
+University of Illinois At Chicago,2020,2021,emerging_technologies,1,1,0
+University of Illinois At Chicago,2021,2023,patentable_inventions,1,1,0
+University of Illinois At Chicago,2021,2023,software,1,1,0
+University of Illinois At Chicago,2021,2023,algorithms,0,0,0
+University of Illinois At Chicago,2021,2023,research_datasets,1,1,0
+University of Illinois At Chicago,2021,2023,scholarly_publications,1,1,0
+University of Illinois At Chicago,2021,2023,teaching_materials,1,1,0
+University of Illinois At Chicago,2021,2023,biological_materials,1,1,0
+University of Illinois At Chicago,2021,2023,tangible_research_property,0,0,0
+University of Illinois At Chicago,2021,2023,emerging_technologies,1,1,0
+University of Illinois Urbana Champaign,2006,2023,patentable_inventions,1,1,0
+University of Illinois Urbana Champaign,2006,2023,software,1,1,0
+University of Illinois Urbana Champaign,2006,2023,algorithms,0,0,0
+University of Illinois Urbana Champaign,2006,2023,research_datasets,0,1,1
+University of Illinois Urbana Champaign,2006,2023,scholarly_publications,1,1,0
+University of Illinois Urbana Champaign,2006,2023,teaching_materials,1,1,0
+University of Illinois Urbana Champaign,2006,2023,biological_materials,0,1,1
+University of Illinois Urbana Champaign,2006,2023,tangible_research_property,0,0,0
+University of Illinois Urbana Champaign,2006,2023,emerging_technologies,0,1,1
+University of Iowa,2015,2016,patentable_inventions,1,1,0
+University of Iowa,2015,2016,software,1,1,0
+University of Iowa,2015,2016,algorithms,0,0,0
+University of Iowa,2015,2016,research_datasets,0,0,0
+University of Iowa,2015,2016,scholarly_publications,1,1,0
+University of Iowa,2015,2016,teaching_materials,1,1,0
+University of Iowa,2015,2016,biological_materials,1,1,0
+University of Iowa,2015,2016,tangible_research_property,0,0,0
+University of Iowa,2015,2016,emerging_technologies,0,0,0
+University of Iowa,2016,2017,patentable_inventions,1,1,0
+University of Iowa,2016,2017,software,1,1,0
+University of Iowa,2016,2017,algorithms,0,0,0
+University of Iowa,2016,2017,research_datasets,0,0,0
+University of Iowa,2016,2017,scholarly_publications,1,1,0
+University of Iowa,2016,2017,teaching_materials,1,1,0
+University of Iowa,2016,2017,biological_materials,1,0,-1
+University of Iowa,2016,2017,tangible_research_property,0,0,0
+University of Iowa,2016,2017,emerging_technologies,0,0,0
+University of Iowa,2017,2018,patentable_inventions,1,1,0
+University of Iowa,2017,2018,software,1,1,0
+University of Iowa,2017,2018,algorithms,0,0,0
+University of Iowa,2017,2018,research_datasets,0,0,0
+University of Iowa,2017,2018,scholarly_publications,1,1,0
+University of Iowa,2017,2018,teaching_materials,1,1,0
+University of Iowa,2017,2018,biological_materials,0,0,0
+University of Iowa,2017,2018,tangible_research_property,0,0,0
+University of Iowa,2017,2018,emerging_technologies,0,0,0
+University of Iowa,2018,2019,patentable_inventions,1,1,0
+University of Iowa,2018,2019,software,1,1,0
+University of Iowa,2018,2019,algorithms,0,0,0
+University of Iowa,2018,2019,research_datasets,0,0,0
+University of Iowa,2018,2019,scholarly_publications,1,1,0
+University of Iowa,2018,2019,teaching_materials,1,1,0
+University of Iowa,2018,2019,biological_materials,0,0,0
+University of Iowa,2018,2019,tangible_research_property,0,0,0
+University of Iowa,2018,2019,emerging_technologies,0,0,0
+University of Iowa,2019,2020,patentable_inventions,1,1,0
+University of Iowa,2019,2020,software,1,1,0
+University of Iowa,2019,2020,algorithms,0,0,0
+University of Iowa,2019,2020,research_datasets,0,0,0
+University of Iowa,2019,2020,scholarly_publications,1,1,0
+University of Iowa,2019,2020,teaching_materials,1,1,0
+University of Iowa,2019,2020,biological_materials,0,0,0
+University of Iowa,2019,2020,tangible_research_property,0,0,0
+University of Iowa,2019,2020,emerging_technologies,0,0,0
+University of Iowa,2020,2021,patentable_inventions,1,1,0
+University of Iowa,2020,2021,software,1,1,0
+University of Iowa,2020,2021,algorithms,0,0,0
+University of Iowa,2020,2021,research_datasets,0,0,0
+University of Iowa,2020,2021,scholarly_publications,1,1,0
+University of Iowa,2020,2021,teaching_materials,1,1,0
+University of Iowa,2020,2021,biological_materials,0,0,0
+University of Iowa,2020,2021,tangible_research_property,0,0,0
+University of Iowa,2020,2021,emerging_technologies,0,0,0
+University of Iowa,2021,2022,patentable_inventions,1,1,0
+University of Iowa,2021,2022,software,1,1,0
+University of Iowa,2021,2022,algorithms,0,0,0
+University of Iowa,2021,2022,research_datasets,0,0,0
+University of Iowa,2021,2022,scholarly_publications,1,1,0
+University of Iowa,2021,2022,teaching_materials,1,1,0
+University of Iowa,2021,2022,biological_materials,0,0,0
+University of Iowa,2021,2022,tangible_research_property,0,0,0
+University of Iowa,2021,2022,emerging_technologies,0,0,0
+University of Iowa,2022,2023,patentable_inventions,1,1,0
+University of Iowa,2022,2023,software,1,1,0
+University of Iowa,2022,2023,algorithms,0,0,0
+University of Iowa,2022,2023,research_datasets,0,0,0
+University of Iowa,2022,2023,scholarly_publications,1,1,0
+University of Iowa,2022,2023,teaching_materials,1,1,0
+University of Iowa,2022,2023,biological_materials,0,0,0
+University of Iowa,2022,2023,tangible_research_property,0,0,0
+University of Iowa,2022,2023,emerging_technologies,0,0,0
+University of Kansas,1998,2001,patentable_inventions,1,1,0
+University of Kansas,1998,2001,software,1,1,0
+University of Kansas,1998,2001,algorithms,0,0,0
+University of Kansas,1998,2001,research_datasets,0,1,1
+University of Kansas,1998,2001,scholarly_publications,1,1,0
+University of Kansas,1998,2001,teaching_materials,1,1,0
+University of Kansas,1998,2001,biological_materials,0,1,1
+University of Kansas,1998,2001,tangible_research_property,0,1,1
+University of Kansas,1998,2001,emerging_technologies,0,0,0
+University of Kentucky,1988,1993,patentable_inventions,1,1,0
+University of Kentucky,1988,1993,software,1,1,0
+University of Kentucky,1988,1993,algorithms,0,0,0
+University of Kentucky,1988,1993,research_datasets,1,1,0
+University of Kentucky,1988,1993,scholarly_publications,1,1,0
+University of Kentucky,1988,1993,teaching_materials,1,1,0
+University of Kentucky,1988,1993,biological_materials,1,1,0
+University of Kentucky,1988,1993,tangible_research_property,1,1,0
+University of Kentucky,1988,1993,emerging_technologies,0,0,0
+University of Kentucky,1993,2005,patentable_inventions,1,1,0
+University of Kentucky,1993,2005,software,1,1,0
+University of Kentucky,1993,2005,algorithms,0,0,0
+University of Kentucky,1993,2005,research_datasets,1,0,-1
+University of Kentucky,1993,2005,scholarly_publications,1,1,0
+University of Kentucky,1993,2005,teaching_materials,1,1,0
+University of Kentucky,1993,2005,biological_materials,1,1,0
+University of Kentucky,1993,2005,tangible_research_property,1,0,-1
+University of Kentucky,1993,2005,emerging_technologies,0,1,1
+University of Louisville,1998,2005,patentable_inventions,1,1,0
+University of Louisville,1998,2005,software,1,1,0
+University of Louisville,1998,2005,algorithms,0,0,0
+University of Louisville,1998,2005,research_datasets,1,0,-1
+University of Louisville,1998,2005,scholarly_publications,1,1,0
+University of Louisville,1998,2005,teaching_materials,0,1,1
+University of Louisville,1998,2005,biological_materials,1,1,0
+University of Louisville,1998,2005,tangible_research_property,0,0,0
+University of Louisville,1998,2005,emerging_technologies,1,1,0
+University of Maryland Baltimore,1990,2005,patentable_inventions,1,1,0
+University of Maryland Baltimore,1990,2005,software,0,1,1
+University of Maryland Baltimore,1990,2005,algorithms,0,0,0
+University of Maryland Baltimore,1990,2005,research_datasets,0,1,1
+University of Maryland Baltimore,1990,2005,scholarly_publications,1,1,0
+University of Maryland Baltimore,1990,2005,teaching_materials,0,1,1
+University of Maryland Baltimore,1990,2005,biological_materials,0,1,1
+University of Maryland Baltimore,1990,2005,tangible_research_property,0,1,1
+University of Maryland Baltimore,1990,2005,emerging_technologies,0,1,1
+University of Maryland Baltimore,2005,2006,patentable_inventions,1,1,0
+University of Maryland Baltimore,2005,2006,software,1,1,0
+University of Maryland Baltimore,2005,2006,algorithms,0,0,0
+University of Maryland Baltimore,2005,2006,research_datasets,1,0,-1
+University of Maryland Baltimore,2005,2006,scholarly_publications,1,1,0
+University of Maryland Baltimore,2005,2006,teaching_materials,1,1,0
+University of Maryland Baltimore,2005,2006,biological_materials,1,1,0
+University of Maryland Baltimore,2005,2006,tangible_research_property,1,1,0
+University of Maryland Baltimore,2005,2006,emerging_technologies,1,1,0
+University of Maryland Baltimore,2006,2016,patentable_inventions,1,1,0
+University of Maryland Baltimore,2006,2016,software,1,1,0
+University of Maryland Baltimore,2006,2016,algorithms,0,0,0
+University of Maryland Baltimore,2006,2016,research_datasets,0,0,0
+University of Maryland Baltimore,2006,2016,scholarly_publications,1,1,0
+University of Maryland Baltimore,2006,2016,teaching_materials,1,1,0
+University of Maryland Baltimore,2006,2016,biological_materials,1,1,0
+University of Maryland Baltimore,2006,2016,tangible_research_property,1,1,0
+University of Maryland Baltimore,2006,2016,emerging_technologies,1,1,0
+University of Maryland Baltimore,2016,2019,patentable_inventions,1,1,0
+University of Maryland Baltimore,2016,2019,software,1,1,0
+University of Maryland Baltimore,2016,2019,algorithms,0,0,0
+University of Maryland Baltimore,2016,2019,research_datasets,0,0,0
+University of Maryland Baltimore,2016,2019,scholarly_publications,1,1,0
+University of Maryland Baltimore,2016,2019,teaching_materials,1,1,0
+University of Maryland Baltimore,2016,2019,biological_materials,1,1,0
+University of Maryland Baltimore,2016,2019,tangible_research_property,1,1,0
+University of Maryland Baltimore,2016,2019,emerging_technologies,1,1,0
+University of Maryland Baltimore County,2002,2022,patentable_inventions,1,1,0
+University of Maryland Baltimore County,2002,2022,software,1,1,0
+University of Maryland Baltimore County,2002,2022,algorithms,0,1,1
+University of Maryland Baltimore County,2002,2022,research_datasets,1,1,0
+University of Maryland Baltimore County,2002,2022,scholarly_publications,1,1,0
+University of Maryland Baltimore County,2002,2022,teaching_materials,1,1,0
+University of Maryland Baltimore County,2002,2022,biological_materials,1,1,0
+University of Maryland Baltimore County,2002,2022,tangible_research_property,1,1,0
+University of Maryland Baltimore County,2002,2022,emerging_technologies,1,0,-1
+University of Massachusetts Amherst,1997,2004,patentable_inventions,1,1,0
+University of Massachusetts Amherst,1997,2004,software,1,1,0
+University of Massachusetts Amherst,1997,2004,algorithms,0,0,0
+University of Massachusetts Amherst,1997,2004,research_datasets,0,0,0
+University of Massachusetts Amherst,1997,2004,scholarly_publications,1,1,0
+University of Massachusetts Amherst,1997,2004,teaching_materials,1,1,0
+University of Massachusetts Amherst,1997,2004,biological_materials,1,1,0
+University of Massachusetts Amherst,1997,2004,tangible_research_property,1,1,0
+University of Massachusetts Amherst,1997,2004,emerging_technologies,0,0,0
+University of Massachusetts Medical Center,1997,2004,patentable_inventions,1,1,0
+University of Massachusetts Medical Center,1997,2004,software,1,1,0
+University of Massachusetts Medical Center,1997,2004,algorithms,0,0,0
+University of Massachusetts Medical Center,1997,2004,research_datasets,0,0,0
+University of Massachusetts Medical Center,1997,2004,scholarly_publications,1,1,0
+University of Massachusetts Medical Center,1997,2004,teaching_materials,1,1,0
+University of Massachusetts Medical Center,1997,2004,biological_materials,1,1,0
+University of Massachusetts Medical Center,1997,2004,tangible_research_property,1,1,0
+University of Massachusetts Medical Center,1997,2004,emerging_technologies,0,0,0
+University of Miami,2014,2016,patentable_inventions,1,1,0
+University of Miami,2014,2016,software,1,1,0
+University of Miami,2014,2016,algorithms,0,0,0
+University of Miami,2014,2016,research_datasets,1,1,0
+University of Miami,2014,2016,scholarly_publications,1,1,0
+University of Miami,2014,2016,teaching_materials,1,1,0
+University of Miami,2014,2016,biological_materials,0,1,1
+University of Miami,2014,2016,tangible_research_property,0,0,0
+University of Miami,2014,2016,emerging_technologies,0,0,0
+University of Michigan,2007,2021,patentable_inventions,1,1,0
+University of Michigan,2007,2021,software,1,1,0
+University of Michigan,2007,2021,algorithms,0,0,0
+University of Michigan,2007,2021,research_datasets,0,0,0
+University of Michigan,2007,2021,scholarly_publications,1,1,0
+University of Michigan,2007,2021,teaching_materials,0,0,0
+University of Michigan,2007,2021,biological_materials,1,1,0
+University of Michigan,2007,2021,tangible_research_property,0,0,0
+University of Michigan,2007,2021,emerging_technologies,1,1,0
+University of Minnesota,2010,2015,patentable_inventions,1,1,0
+University of Minnesota,2010,2015,software,1,1,0
+University of Minnesota,2010,2015,algorithms,0,0,0
+University of Minnesota,2010,2015,research_datasets,0,0,0
+University of Minnesota,2010,2015,scholarly_publications,1,1,0
+University of Minnesota,2010,2015,teaching_materials,0,0,0
+University of Minnesota,2010,2015,biological_materials,0,0,0
+University of Minnesota,2010,2015,tangible_research_property,0,0,0
+University of Minnesota,2010,2015,emerging_technologies,0,0,0
+University of Minnesota,2015,2022,patentable_inventions,1,1,0
+University of Minnesota,2015,2022,software,1,1,0
+University of Minnesota,2015,2022,algorithms,0,0,0
+University of Minnesota,2015,2022,research_datasets,0,1,1
+University of Minnesota,2015,2022,scholarly_publications,1,1,0
+University of Minnesota,2015,2022,teaching_materials,0,0,0
+University of Minnesota,2015,2022,biological_materials,0,0,0
+University of Minnesota,2015,2022,tangible_research_property,0,0,0
+University of Minnesota,2015,2022,emerging_technologies,0,0,0
+University of Missouri System,1996,2010,patentable_inventions,1,1,0
+University of Missouri System,1996,2010,software,0,1,1
+University of Missouri System,1996,2010,algorithms,0,0,0
+University of Missouri System,1996,2010,research_datasets,0,0,0
+University of Missouri System,1996,2010,scholarly_publications,1,1,0
+University of Missouri System,1996,2010,teaching_materials,0,0,0
+University of Missouri System,1996,2010,biological_materials,0,0,0
+University of Missouri System,1996,2010,tangible_research_property,0,0,0
+University of Missouri System,1996,2010,emerging_technologies,0,0,0
+University of Missouri System,2010,2019,patentable_inventions,1,1,0
+University of Missouri System,2010,2019,software,1,1,0
+University of Missouri System,2010,2019,algorithms,0,0,0
+University of Missouri System,2010,2019,research_datasets,0,0,0
+University of Missouri System,2010,2019,scholarly_publications,1,1,0
+University of Missouri System,2010,2019,teaching_materials,0,0,0
+University of Missouri System,2010,2019,biological_materials,0,0,0
+University of Missouri System,2010,2019,tangible_research_property,0,0,0
+University of Missouri System,2010,2019,emerging_technologies,0,0,0
+University of Missouri System,2019,2021,patentable_inventions,1,1,0
+University of Missouri System,2019,2021,software,1,1,0
+University of Missouri System,2019,2021,algorithms,0,0,0
+University of Missouri System,2019,2021,research_datasets,0,0,0
+University of Missouri System,2019,2021,scholarly_publications,1,1,0
+University of Missouri System,2019,2021,teaching_materials,0,0,0
+University of Missouri System,2019,2021,biological_materials,0,1,1
+University of Missouri System,2019,2021,tangible_research_property,0,1,1
+University of Missouri System,2019,2021,emerging_technologies,0,0,0
+University of Missouri System,2021,2025,patentable_inventions,1,1,0
+University of Missouri System,2021,2025,software,1,1,0
+University of Missouri System,2021,2025,algorithms,0,0,0
+University of Missouri System,2021,2025,research_datasets,0,0,0
+University of Missouri System,2021,2025,scholarly_publications,1,1,0
+University of Missouri System,2021,2025,teaching_materials,0,0,0
+University of Missouri System,2021,2025,biological_materials,1,0,-1
+University of Missouri System,2021,2025,tangible_research_property,1,1,0
+University of Missouri System,2021,2025,emerging_technologies,0,0,0
+University of Montana,1999,2007,patentable_inventions,1,1,0
+University of Montana,1999,2007,software,0,0,0
+University of Montana,1999,2007,algorithms,0,0,0
+University of Montana,1999,2007,research_datasets,0,0,0
+University of Montana,1999,2007,scholarly_publications,1,1,0
+University of Montana,1999,2007,teaching_materials,0,0,0
+University of Montana,1999,2007,biological_materials,0,0,0
+University of Montana,1999,2007,tangible_research_property,0,0,0
+University of Montana,1999,2007,emerging_technologies,0,0,0
+University of Nebraska,2003,2018,patentable_inventions,1,1,0
+University of Nebraska,2003,2018,software,1,0,-1
+University of Nebraska,2003,2018,algorithms,0,0,0
+University of Nebraska,2003,2018,research_datasets,0,0,0
+University of Nebraska,2003,2018,scholarly_publications,1,1,0
+University of Nebraska,2003,2018,teaching_materials,1,0,-1
+University of Nebraska,2003,2018,biological_materials,0,0,0
+University of Nebraska,2003,2018,tangible_research_property,1,0,-1
+University of Nebraska,2003,2018,emerging_technologies,1,0,-1
+University of Nebraska,2018,2019,patentable_inventions,1,1,0
+University of Nebraska,2018,2019,software,0,0,0
+University of Nebraska,2018,2019,algorithms,0,0,0
+University of Nebraska,2018,2019,research_datasets,0,0,0
+University of Nebraska,2018,2019,scholarly_publications,1,0,-1
+University of Nebraska,2018,2019,teaching_materials,0,0,0
+University of Nebraska,2018,2019,biological_materials,0,0,0
+University of Nebraska,2018,2019,tangible_research_property,0,0,0
+University of Nebraska,2018,2019,emerging_technologies,0,0,0
+University of Nebraska,2019,2025,patentable_inventions,1,1,0
+University of Nebraska,2019,2025,software,0,1,1
+University of Nebraska,2019,2025,algorithms,0,0,0
+University of Nebraska,2019,2025,research_datasets,0,1,1
+University of Nebraska,2019,2025,scholarly_publications,0,1,1
+University of Nebraska,2019,2025,teaching_materials,0,1,1
+University of Nebraska,2019,2025,biological_materials,0,0,0
+University of Nebraska,2019,2025,tangible_research_property,0,1,1
+University of Nebraska,2019,2025,emerging_technologies,0,1,1
+University of New Hampshire,2007,2014,patentable_inventions,1,1,0
+University of New Hampshire,2007,2014,software,1,1,0
+University of New Hampshire,2007,2014,algorithms,1,1,0
+University of New Hampshire,2007,2014,research_datasets,1,1,0
+University of New Hampshire,2007,2014,scholarly_publications,1,1,0
+University of New Hampshire,2007,2014,teaching_materials,1,1,0
+University of New Hampshire,2007,2014,biological_materials,1,1,0
+University of New Hampshire,2007,2014,tangible_research_property,1,1,0
+University of New Hampshire,2007,2014,emerging_technologies,1,1,0
+University of New Mexico,1999,2010,patentable_inventions,1,1,0
+University of New Mexico,1999,2010,software,1,1,0
+University of New Mexico,1999,2010,algorithms,0,0,0
+University of New Mexico,1999,2010,research_datasets,1,1,0
+University of New Mexico,1999,2010,scholarly_publications,1,1,0
+University of New Mexico,1999,2010,teaching_materials,0,0,0
+University of New Mexico,1999,2010,biological_materials,0,0,0
+University of New Mexico,1999,2010,tangible_research_property,0,0,0
+University of New Mexico,1999,2010,emerging_technologies,1,1,0
+University of New Mexico,2010,2022,patentable_inventions,1,1,0
+University of New Mexico,2010,2022,software,1,1,0
+University of New Mexico,2010,2022,algorithms,0,0,0
+University of New Mexico,2010,2022,research_datasets,1,1,0
+University of New Mexico,2010,2022,scholarly_publications,1,1,0
+University of New Mexico,2010,2022,teaching_materials,0,0,0
+University of New Mexico,2010,2022,biological_materials,0,0,0
+University of New Mexico,2010,2022,tangible_research_property,0,0,0
+University of New Mexico,2010,2022,emerging_technologies,1,1,0
+University of New Orleans,2012,2014,patentable_inventions,1,1,0
+University of New Orleans,2012,2014,software,1,1,0
+University of New Orleans,2012,2014,algorithms,0,0,0
+University of New Orleans,2012,2014,research_datasets,1,0,-1
+University of New Orleans,2012,2014,scholarly_publications,1,1,0
+University of New Orleans,2012,2014,teaching_materials,1,1,0
+University of New Orleans,2012,2014,biological_materials,1,1,0
+University of New Orleans,2012,2014,tangible_research_property,0,0,0
+University of New Orleans,2012,2014,emerging_technologies,1,1,0
+University of New Orleans,2014,2023,patentable_inventions,1,1,0
+University of New Orleans,2014,2023,software,1,1,0
+University of New Orleans,2014,2023,algorithms,0,0,0
+University of New Orleans,2014,2023,research_datasets,0,1,1
+University of New Orleans,2014,2023,scholarly_publications,1,1,0
+University of New Orleans,2014,2023,teaching_materials,1,1,0
+University of New Orleans,2014,2023,biological_materials,1,1,0
+University of New Orleans,2014,2023,tangible_research_property,0,0,0
+University of New Orleans,2014,2023,emerging_technologies,1,1,0
+University of North Dakota,1992,2005,patentable_inventions,1,1,0
+University of North Dakota,1992,2005,software,0,1,1
+University of North Dakota,1992,2005,algorithms,0,0,0
+University of North Dakota,1992,2005,research_datasets,0,1,1
+University of North Dakota,1992,2005,scholarly_publications,1,1,0
+University of North Dakota,1992,2005,teaching_materials,0,1,1
+University of North Dakota,1992,2005,biological_materials,0,1,1
+University of North Dakota,1992,2005,tangible_research_property,0,1,1
+University of North Dakota,1992,2005,emerging_technologies,0,0,0
+University of North Dakota,2005,2013,patentable_inventions,1,1,0
+University of North Dakota,2005,2013,software,1,0,-1
+University of North Dakota,2005,2013,algorithms,0,0,0
+University of North Dakota,2005,2013,research_datasets,1,0,-1
+University of North Dakota,2005,2013,scholarly_publications,1,1,0
+University of North Dakota,2005,2013,teaching_materials,1,0,-1
+University of North Dakota,2005,2013,biological_materials,1,0,-1
+University of North Dakota,2005,2013,tangible_research_property,1,0,-1
+University of North Dakota,2005,2013,emerging_technologies,0,0,0
+University of North Texas,2001,2005,patentable_inventions,1,1,0
+University of North Texas,2001,2005,software,0,1,1
+University of North Texas,2001,2005,algorithms,0,0,0
+University of North Texas,2001,2005,research_datasets,0,0,0
+University of North Texas,2001,2005,scholarly_publications,0,1,1
+University of North Texas,2001,2005,teaching_materials,0,1,1
+University of North Texas,2001,2005,biological_materials,0,1,1
+University of North Texas,2001,2005,tangible_research_property,0,0,0
+University of North Texas,2001,2005,emerging_technologies,0,0,0
+University of North Texas,2005,2015,patentable_inventions,1,1,0
+University of North Texas,2005,2015,software,1,1,0
+University of North Texas,2005,2015,algorithms,0,0,0
+University of North Texas,2005,2015,research_datasets,0,1,1
+University of North Texas,2005,2015,scholarly_publications,1,1,0
+University of North Texas,2005,2015,teaching_materials,1,1,0
+University of North Texas,2005,2015,biological_materials,1,1,0
+University of North Texas,2005,2015,tangible_research_property,0,0,0
+University of North Texas,2005,2015,emerging_technologies,0,0,0
+University of North Texas,2015,2018,patentable_inventions,1,1,0
+University of North Texas,2015,2018,software,1,1,0
+University of North Texas,2015,2018,algorithms,0,0,0
+University of North Texas,2015,2018,research_datasets,1,1,0
+University of North Texas,2015,2018,scholarly_publications,1,1,0
+University of North Texas,2015,2018,teaching_materials,1,1,0
+University of North Texas,2015,2018,biological_materials,1,1,0
+University of North Texas,2015,2018,tangible_research_property,0,0,0
+University of North Texas,2015,2018,emerging_technologies,0,0,0
+University of Notre Dame,2003,2015,patentable_inventions,1,1,0
+University of Notre Dame,2003,2015,software,1,1,0
+University of Notre Dame,2003,2015,algorithms,0,0,0
+University of Notre Dame,2003,2015,research_datasets,0,0,0
+University of Notre Dame,2003,2015,scholarly_publications,1,1,0
+University of Notre Dame,2003,2015,teaching_materials,0,0,0
+University of Notre Dame,2003,2015,biological_materials,0,0,0
+University of Notre Dame,2003,2015,tangible_research_property,0,0,0
+University of Notre Dame,2003,2015,emerging_technologies,0,0,0
+University of Notre Dame,2015,2021,patentable_inventions,1,1,0
+University of Notre Dame,2015,2021,software,1,1,0
+University of Notre Dame,2015,2021,algorithms,0,0,0
+University of Notre Dame,2015,2021,research_datasets,0,0,0
+University of Notre Dame,2015,2021,scholarly_publications,1,1,0
+University of Notre Dame,2015,2021,teaching_materials,0,0,0
+University of Notre Dame,2015,2021,biological_materials,0,0,0
+University of Notre Dame,2015,2021,tangible_research_property,0,0,0
+University of Notre Dame,2015,2021,emerging_technologies,0,0,0
+University of Oklahoma,1999,2004,patentable_inventions,1,1,0
+University of Oklahoma,1999,2004,software,1,1,0
+University of Oklahoma,1999,2004,algorithms,0,0,0
+University of Oklahoma,1999,2004,research_datasets,0,0,0
+University of Oklahoma,1999,2004,scholarly_publications,1,1,0
+University of Oklahoma,1999,2004,teaching_materials,1,1,0
+University of Oklahoma,1999,2004,biological_materials,0,0,0
+University of Oklahoma,1999,2004,tangible_research_property,0,0,0
+University of Oklahoma,1999,2004,emerging_technologies,0,0,0
+University of Oklahoma,2004,2017,patentable_inventions,1,1,0
+University of Oklahoma,2004,2017,software,1,1,0
+University of Oklahoma,2004,2017,algorithms,0,0,0
+University of Oklahoma,2004,2017,research_datasets,0,0,0
+University of Oklahoma,2004,2017,scholarly_publications,1,1,0
+University of Oklahoma,2004,2017,teaching_materials,1,1,0
+University of Oklahoma,2004,2017,biological_materials,0,0,0
+University of Oklahoma,2004,2017,tangible_research_property,0,0,0
+University of Oklahoma,2004,2017,emerging_technologies,0,0,0
+University of Pennsylvania,1993,2005,patentable_inventions,1,1,0
+University of Pennsylvania,1993,2005,software,1,0,-1
+University of Pennsylvania,1993,2005,algorithms,0,0,0
+University of Pennsylvania,1993,2005,research_datasets,0,0,0
+University of Pennsylvania,1993,2005,scholarly_publications,1,1,0
+University of Pennsylvania,1993,2005,teaching_materials,0,0,0
+University of Pennsylvania,1993,2005,biological_materials,1,1,0
+University of Pennsylvania,1993,2005,tangible_research_property,1,1,0
+University of Pennsylvania,1993,2005,emerging_technologies,0,0,0
+University of Pennsylvania,2005,2015,patentable_inventions,1,1,0
+University of Pennsylvania,2005,2015,software,0,0,0
+University of Pennsylvania,2005,2015,algorithms,0,0,0
+University of Pennsylvania,2005,2015,research_datasets,0,0,0
+University of Pennsylvania,2005,2015,scholarly_publications,1,1,0
+University of Pennsylvania,2005,2015,teaching_materials,0,0,0
+University of Pennsylvania,2005,2015,biological_materials,1,1,0
+University of Pennsylvania,2005,2015,tangible_research_property,1,1,0
+University of Pennsylvania,2005,2015,emerging_technologies,0,0,0
+University of Pennsylvania,2015,2023,patentable_inventions,1,1,0
+University of Pennsylvania,2015,2023,software,0,0,0
+University of Pennsylvania,2015,2023,algorithms,0,0,0
+University of Pennsylvania,2015,2023,research_datasets,0,0,0
+University of Pennsylvania,2015,2023,scholarly_publications,1,1,0
+University of Pennsylvania,2015,2023,teaching_materials,0,0,0
+University of Pennsylvania,2015,2023,biological_materials,1,1,0
+University of Pennsylvania,2015,2023,tangible_research_property,1,1,0
+University of Pennsylvania,2015,2023,emerging_technologies,0,0,0
+University of Pittsburgh,1978,2005,patentable_inventions,1,1,0
+University of Pittsburgh,1978,2005,software,0,0,0
+University of Pittsburgh,1978,2005,algorithms,0,0,0
+University of Pittsburgh,1978,2005,research_datasets,0,0,0
+University of Pittsburgh,1978,2005,scholarly_publications,1,1,0
+University of Pittsburgh,1978,2005,teaching_materials,0,0,0
+University of Pittsburgh,1978,2005,biological_materials,0,0,0
+University of Pittsburgh,1978,2005,tangible_research_property,0,0,0
+University of Pittsburgh,1978,2005,emerging_technologies,0,0,0
+University of Pittsburgh,2005,2021,patentable_inventions,1,1,0
+University of Pittsburgh,2005,2021,software,0,1,1
+University of Pittsburgh,2005,2021,algorithms,0,0,0
+University of Pittsburgh,2005,2021,research_datasets,0,1,1
+University of Pittsburgh,2005,2021,scholarly_publications,1,1,0
+University of Pittsburgh,2005,2021,teaching_materials,0,1,1
+University of Pittsburgh,2005,2021,biological_materials,0,0,0
+University of Pittsburgh,2005,2021,tangible_research_property,0,0,0
+University of Pittsburgh,2005,2021,emerging_technologies,0,0,0
+University of Rhode Island,1986,2013,patentable_inventions,1,1,0
+University of Rhode Island,1986,2013,software,1,1,0
+University of Rhode Island,1986,2013,algorithms,0,0,0
+University of Rhode Island,1986,2013,research_datasets,1,1,0
+University of Rhode Island,1986,2013,scholarly_publications,1,1,0
+University of Rhode Island,1986,2013,teaching_materials,1,1,0
+University of Rhode Island,1986,2013,biological_materials,1,1,0
+University of Rhode Island,1986,2013,tangible_research_property,0,1,1
+University of Rhode Island,1986,2013,emerging_technologies,1,0,-1
+University of Rhode Island,2013,2021,patentable_inventions,1,1,0
+University of Rhode Island,2013,2021,software,1,1,0
+University of Rhode Island,2013,2021,algorithms,0,0,0
+University of Rhode Island,2013,2021,research_datasets,1,1,0
+University of Rhode Island,2013,2021,scholarly_publications,1,1,0
+University of Rhode Island,2013,2021,teaching_materials,1,1,0
+University of Rhode Island,2013,2021,biological_materials,1,1,0
+University of Rhode Island,2013,2021,tangible_research_property,1,1,0
+University of Rhode Island,2013,2021,emerging_technologies,0,0,0
+University of Rochester,1997,2013,patentable_inventions,1,1,0
+University of Rochester,1997,2013,software,1,1,0
+University of Rochester,1997,2013,algorithms,0,0,0
+University of Rochester,1997,2013,research_datasets,0,0,0
+University of Rochester,1997,2013,scholarly_publications,1,1,0
+University of Rochester,1997,2013,teaching_materials,0,0,0
+University of Rochester,1997,2013,biological_materials,1,1,0
+University of Rochester,1997,2013,tangible_research_property,1,1,0
+University of Rochester,1997,2013,emerging_technologies,1,1,0
+University of South Alabama,1984,2005,patentable_inventions,1,1,0
+University of South Alabama,1984,2005,software,0,1,1
+University of South Alabama,1984,2005,algorithms,0,0,0
+University of South Alabama,1984,2005,research_datasets,0,1,1
+University of South Alabama,1984,2005,scholarly_publications,1,1,0
+University of South Alabama,1984,2005,teaching_materials,0,0,0
+University of South Alabama,1984,2005,biological_materials,0,0,0
+University of South Alabama,1984,2005,tangible_research_property,0,1,1
+University of South Alabama,1984,2005,emerging_technologies,0,0,0
+University of South Alabama,2005,2020,patentable_inventions,1,1,0
+University of South Alabama,2005,2020,software,1,1,0
+University of South Alabama,2005,2020,algorithms,0,0,0
+University of South Alabama,2005,2020,research_datasets,1,1,0
+University of South Alabama,2005,2020,scholarly_publications,1,1,0
+University of South Alabama,2005,2020,teaching_materials,0,1,1
+University of South Alabama,2005,2020,biological_materials,0,0,0
+University of South Alabama,2005,2020,tangible_research_property,1,1,0
+University of South Alabama,2005,2020,emerging_technologies,0,0,0
+University of South Alabama,2020,2022,patentable_inventions,1,1,0
+University of South Alabama,2020,2022,software,1,1,0
+University of South Alabama,2020,2022,algorithms,0,0,0
+University of South Alabama,2020,2022,research_datasets,1,1,0
+University of South Alabama,2020,2022,scholarly_publications,1,1,0
+University of South Alabama,2020,2022,teaching_materials,1,0,-1
+University of South Alabama,2020,2022,biological_materials,0,0,0
+University of South Alabama,2020,2022,tangible_research_property,1,1,0
+University of South Alabama,2020,2022,emerging_technologies,0,0,0
+University of South Carolina,1994,2005,patentable_inventions,1,1,0
+University of South Carolina,1994,2005,software,1,1,0
+University of South Carolina,1994,2005,algorithms,0,0,0
+University of South Carolina,1994,2005,research_datasets,0,0,0
+University of South Carolina,1994,2005,scholarly_publications,1,1,0
+University of South Carolina,1994,2005,teaching_materials,1,0,-1
+University of South Carolina,1994,2005,biological_materials,0,1,1
+University of South Carolina,1994,2005,tangible_research_property,0,0,0
+University of South Carolina,1994,2005,emerging_technologies,0,1,1
+University of South Carolina,2005,2021,patentable_inventions,1,1,0
+University of South Carolina,2005,2021,software,1,1,0
+University of South Carolina,2005,2021,algorithms,0,0,0
+University of South Carolina,2005,2021,research_datasets,0,0,0
+University of South Carolina,2005,2021,scholarly_publications,1,1,0
+University of South Carolina,2005,2021,teaching_materials,0,0,0
+University of South Carolina,2005,2021,biological_materials,1,0,-1
+University of South Carolina,2005,2021,tangible_research_property,0,0,0
+University of South Carolina,2005,2021,emerging_technologies,1,0,-1
+University of South Carolina,2021,2025,patentable_inventions,1,1,0
+University of South Carolina,2021,2025,software,1,1,0
+University of South Carolina,2021,2025,algorithms,0,0,0
+University of South Carolina,2021,2025,research_datasets,0,0,0
+University of South Carolina,2021,2025,scholarly_publications,1,1,0
+University of South Carolina,2021,2025,teaching_materials,0,0,0
+University of South Carolina,2021,2025,biological_materials,0,0,0
+University of South Carolina,2021,2025,tangible_research_property,0,0,0
+University of South Carolina,2021,2025,emerging_technologies,0,0,0
+University of South Florida,2012,2020,patentable_inventions,1,1,0
+University of South Florida,2012,2020,software,1,1,0
+University of South Florida,2012,2020,algorithms,0,1,1
+University of South Florida,2012,2020,research_datasets,1,1,0
+University of South Florida,2012,2020,scholarly_publications,1,1,0
+University of South Florida,2012,2020,teaching_materials,0,0,0
+University of South Florida,2012,2020,biological_materials,1,1,0
+University of South Florida,2012,2020,tangible_research_property,0,0,0
+University of South Florida,2012,2020,emerging_technologies,0,0,0
+University of South Florida,2020,2023,patentable_inventions,1,1,0
+University of South Florida,2020,2023,software,1,1,0
+University of South Florida,2020,2023,algorithms,1,1,0
+University of South Florida,2020,2023,research_datasets,1,1,0
+University of South Florida,2020,2023,scholarly_publications,1,1,0
+University of South Florida,2020,2023,teaching_materials,0,0,0
+University of South Florida,2020,2023,biological_materials,1,1,0
+University of South Florida,2020,2023,tangible_research_property,0,0,0
+University of South Florida,2020,2023,emerging_technologies,0,0,0
+University of South Florida,2023,2025,patentable_inventions,1,1,0
+University of South Florida,2023,2025,software,1,1,0
+University of South Florida,2023,2025,algorithms,1,1,0
+University of South Florida,2023,2025,research_datasets,1,1,0
+University of South Florida,2023,2025,scholarly_publications,1,1,0
+University of South Florida,2023,2025,teaching_materials,0,0,0
+University of South Florida,2023,2025,biological_materials,1,1,0
+University of South Florida,2023,2025,tangible_research_property,0,0,0
+University of South Florida,2023,2025,emerging_technologies,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,patentable_inventions,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,software,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,algorithms,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,research_datasets,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,scholarly_publications,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,teaching_materials,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,biological_materials,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,tangible_research_property,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,emerging_technologies,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,patentable_inventions,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,software,0,1,1
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,algorithms,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,research_datasets,0,1,1
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,scholarly_publications,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,teaching_materials,0,1,1
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,biological_materials,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,tangible_research_property,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,emerging_technologies,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,patentable_inventions,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,software,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,algorithms,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,research_datasets,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,scholarly_publications,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,teaching_materials,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,biological_materials,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,tangible_research_property,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,emerging_technologies,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,patentable_inventions,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,software,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,algorithms,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,research_datasets,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,scholarly_publications,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,teaching_materials,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,biological_materials,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,tangible_research_property,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,emerging_technologies,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,patentable_inventions,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,software,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,algorithms,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,research_datasets,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,scholarly_publications,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,teaching_materials,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,biological_materials,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,tangible_research_property,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,emerging_technologies,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,patentable_inventions,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,software,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,algorithms,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,research_datasets,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,scholarly_publications,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,teaching_materials,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,biological_materials,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,tangible_research_property,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,emerging_technologies,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,patentable_inventions,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,software,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,algorithms,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,research_datasets,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,scholarly_publications,1,1,0
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,teaching_materials,1,0,-1
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,biological_materials,0,1,1
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,tangible_research_property,0,0,0
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,emerging_technologies,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,patentable_inventions,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,software,0,1,1
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,algorithms,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,research_datasets,0,1,1
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,scholarly_publications,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,teaching_materials,0,1,1
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,biological_materials,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,tangible_research_property,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,emerging_technologies,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,patentable_inventions,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,software,1,0,-1
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,algorithms,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,research_datasets,1,0,-1
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,scholarly_publications,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,teaching_materials,1,0,-1
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,biological_materials,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,tangible_research_property,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,emerging_technologies,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,patentable_inventions,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,software,0,1,1
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,algorithms,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,research_datasets,0,1,1
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,scholarly_publications,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,teaching_materials,0,1,1
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,biological_materials,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,tangible_research_property,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,emerging_technologies,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,patentable_inventions,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,software,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,algorithms,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,research_datasets,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,scholarly_publications,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,teaching_materials,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,biological_materials,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,tangible_research_property,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,emerging_technologies,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,patentable_inventions,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,software,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,algorithms,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,research_datasets,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,scholarly_publications,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,teaching_materials,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,biological_materials,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,tangible_research_property,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,emerging_technologies,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,patentable_inventions,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,software,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,algorithms,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,research_datasets,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,scholarly_publications,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,teaching_materials,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,biological_materials,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,tangible_research_property,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,emerging_technologies,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,patentable_inventions,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,software,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,algorithms,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,research_datasets,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,scholarly_publications,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,teaching_materials,1,1,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,biological_materials,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,tangible_research_property,0,0,0
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,emerging_technologies,0,0,0
+University of Texas Medical Branch (Galveston),1978,2012,patentable_inventions,1,1,0
+University of Texas Medical Branch (Galveston),1978,2012,software,0,1,1
+University of Texas Medical Branch (Galveston),1978,2012,algorithms,0,0,0
+University of Texas Medical Branch (Galveston),1978,2012,research_datasets,0,1,1
+University of Texas Medical Branch (Galveston),1978,2012,scholarly_publications,1,1,0
+University of Texas Medical Branch (Galveston),1978,2012,teaching_materials,0,1,1
+University of Texas Medical Branch (Galveston),1978,2012,biological_materials,0,0,0
+University of Texas Medical Branch (Galveston),1978,2012,tangible_research_property,0,0,0
+University of Texas Medical Branch (Galveston),1978,2012,emerging_technologies,0,0,0
+University of Texas Medical Branch (Galveston),2012,2013,patentable_inventions,1,1,0
+University of Texas Medical Branch (Galveston),2012,2013,software,1,0,-1
+University of Texas Medical Branch (Galveston),2012,2013,algorithms,0,0,0
+University of Texas Medical Branch (Galveston),2012,2013,research_datasets,1,0,-1
+University of Texas Medical Branch (Galveston),2012,2013,scholarly_publications,1,1,0
+University of Texas Medical Branch (Galveston),2012,2013,teaching_materials,1,0,-1
+University of Texas Medical Branch (Galveston),2012,2013,biological_materials,0,0,0
+University of Texas Medical Branch (Galveston),2012,2013,tangible_research_property,0,0,0
+University of Texas Medical Branch (Galveston),2012,2013,emerging_technologies,0,0,0
+University of Texas Medical Branch (Galveston),2013,2014,patentable_inventions,1,1,0
+University of Texas Medical Branch (Galveston),2013,2014,software,0,1,1
+University of Texas Medical Branch (Galveston),2013,2014,algorithms,0,0,0
+University of Texas Medical Branch (Galveston),2013,2014,research_datasets,0,1,1
+University of Texas Medical Branch (Galveston),2013,2014,scholarly_publications,1,1,0
+University of Texas Medical Branch (Galveston),2013,2014,teaching_materials,0,1,1
+University of Texas Medical Branch (Galveston),2013,2014,biological_materials,0,0,0
+University of Texas Medical Branch (Galveston),2013,2014,tangible_research_property,0,0,0
+University of Texas Medical Branch (Galveston),2013,2014,emerging_technologies,0,0,0
+University of Texas Medical Branch (Galveston),2014,2015,patentable_inventions,1,1,0
+University of Texas Medical Branch (Galveston),2014,2015,software,1,1,0
+University of Texas Medical Branch (Galveston),2014,2015,algorithms,0,0,0
+University of Texas Medical Branch (Galveston),2014,2015,research_datasets,1,1,0
+University of Texas Medical Branch (Galveston),2014,2015,scholarly_publications,1,1,0
+University of Texas Medical Branch (Galveston),2014,2015,teaching_materials,1,1,0
+University of Texas Medical Branch (Galveston),2014,2015,biological_materials,0,0,0
+University of Texas Medical Branch (Galveston),2014,2015,tangible_research_property,0,0,0
+University of Texas Medical Branch (Galveston),2014,2015,emerging_technologies,0,0,0
+University of Texas Medical Branch (Galveston),2015,2016,patentable_inventions,1,1,0
+University of Texas Medical Branch (Galveston),2015,2016,software,1,1,0
+University of Texas Medical Branch (Galveston),2015,2016,algorithms,0,0,0
+University of Texas Medical Branch (Galveston),2015,2016,research_datasets,1,1,0
+University of Texas Medical Branch (Galveston),2015,2016,scholarly_publications,1,1,0
+University of Texas Medical Branch (Galveston),2015,2016,teaching_materials,1,1,0
+University of Texas Medical Branch (Galveston),2015,2016,biological_materials,0,0,0
+University of Texas Medical Branch (Galveston),2015,2016,tangible_research_property,0,0,0
+University of Texas Medical Branch (Galveston),2015,2016,emerging_technologies,0,0,0
+University of Texas Medical Branch (Galveston),2016,2017,patentable_inventions,1,1,0
+University of Texas Medical Branch (Galveston),2016,2017,software,1,1,0
+University of Texas Medical Branch (Galveston),2016,2017,algorithms,0,0,0
+University of Texas Medical Branch (Galveston),2016,2017,research_datasets,1,1,0
+University of Texas Medical Branch (Galveston),2016,2017,scholarly_publications,1,1,0
+University of Texas Medical Branch (Galveston),2016,2017,teaching_materials,1,1,0
+University of Texas Medical Branch (Galveston),2016,2017,biological_materials,0,0,0
+University of Texas Medical Branch (Galveston),2016,2017,tangible_research_property,0,0,0
+University of Texas Medical Branch (Galveston),2016,2017,emerging_technologies,0,0,0
+University of Texas Medical Branch (Galveston),2017,2018,patentable_inventions,1,1,0
+University of Texas Medical Branch (Galveston),2017,2018,software,1,1,0
+University of Texas Medical Branch (Galveston),2017,2018,algorithms,0,0,0
+University of Texas Medical Branch (Galveston),2017,2018,research_datasets,1,1,0
+University of Texas Medical Branch (Galveston),2017,2018,scholarly_publications,1,1,0
+University of Texas Medical Branch (Galveston),2017,2018,teaching_materials,1,1,0
+University of Texas Medical Branch (Galveston),2017,2018,biological_materials,0,0,0
+University of Texas Medical Branch (Galveston),2017,2018,tangible_research_property,0,0,0
+University of Texas Medical Branch (Galveston),2017,2018,emerging_technologies,0,0,0
+University of Texas Medical Branch (Galveston),2018,2019,patentable_inventions,1,1,0
+University of Texas Medical Branch (Galveston),2018,2019,software,1,1,0
+University of Texas Medical Branch (Galveston),2018,2019,algorithms,0,0,0
+University of Texas Medical Branch (Galveston),2018,2019,research_datasets,1,1,0
+University of Texas Medical Branch (Galveston),2018,2019,scholarly_publications,1,1,0
+University of Texas Medical Branch (Galveston),2018,2019,teaching_materials,1,1,0
+University of Texas Medical Branch (Galveston),2018,2019,biological_materials,0,0,0
+University of Texas Medical Branch (Galveston),2018,2019,tangible_research_property,0,0,0
+University of Texas Medical Branch (Galveston),2018,2019,emerging_technologies,0,0,0
+University of Texas Southwestern Med. Ctr_,1978,2013,patentable_inventions,1,1,0
+University of Texas Southwestern Med. Ctr_,1978,2013,software,0,0,0
+University of Texas Southwestern Med. Ctr_,1978,2013,algorithms,0,0,0
+University of Texas Southwestern Med. Ctr_,1978,2013,research_datasets,0,0,0
+University of Texas Southwestern Med. Ctr_,1978,2013,scholarly_publications,1,1,0
+University of Texas Southwestern Med. Ctr_,1978,2013,teaching_materials,0,0,0
+University of Texas Southwestern Med. Ctr_,1978,2013,biological_materials,0,0,0
+University of Texas Southwestern Med. Ctr_,1978,2013,tangible_research_property,0,0,0
+University of Texas Southwestern Med. Ctr_,1978,2013,emerging_technologies,0,0,0
+University of Texas Southwestern Med. Ctr_,2013,2014,patentable_inventions,1,1,0
+University of Texas Southwestern Med. Ctr_,2013,2014,software,0,1,1
+University of Texas Southwestern Med. Ctr_,2013,2014,algorithms,0,0,0
+University of Texas Southwestern Med. Ctr_,2013,2014,research_datasets,0,1,1
+University of Texas Southwestern Med. Ctr_,2013,2014,scholarly_publications,1,1,0
+University of Texas Southwestern Med. Ctr_,2013,2014,teaching_materials,0,1,1
+University of Texas Southwestern Med. Ctr_,2013,2014,biological_materials,0,0,0
+University of Texas Southwestern Med. Ctr_,2013,2014,tangible_research_property,0,0,0
+University of Texas Southwestern Med. Ctr_,2013,2014,emerging_technologies,0,0,0
+University of Texas Southwestern Med. Ctr_,2014,2015,patentable_inventions,1,1,0
+University of Texas Southwestern Med. Ctr_,2014,2015,software,1,1,0
+University of Texas Southwestern Med. Ctr_,2014,2015,algorithms,0,0,0
+University of Texas Southwestern Med. Ctr_,2014,2015,research_datasets,1,1,0
+University of Texas Southwestern Med. Ctr_,2014,2015,scholarly_publications,1,1,0
+University of Texas Southwestern Med. Ctr_,2014,2015,teaching_materials,1,1,0
+University of Texas Southwestern Med. Ctr_,2014,2015,biological_materials,0,0,0
+University of Texas Southwestern Med. Ctr_,2014,2015,tangible_research_property,0,0,0
+University of Texas Southwestern Med. Ctr_,2014,2015,emerging_technologies,0,0,0
+University of Texas Southwestern Med. Ctr_,2015,2016,patentable_inventions,1,1,0
+University of Texas Southwestern Med. Ctr_,2015,2016,software,1,1,0
+University of Texas Southwestern Med. Ctr_,2015,2016,algorithms,0,0,0
+University of Texas Southwestern Med. Ctr_,2015,2016,research_datasets,1,1,0
+University of Texas Southwestern Med. Ctr_,2015,2016,scholarly_publications,1,1,0
+University of Texas Southwestern Med. Ctr_,2015,2016,teaching_materials,1,1,0
+University of Texas Southwestern Med. Ctr_,2015,2016,biological_materials,0,1,1
+University of Texas Southwestern Med. Ctr_,2015,2016,tangible_research_property,0,0,0
+University of Texas Southwestern Med. Ctr_,2015,2016,emerging_technologies,0,0,0
+University of Texas Southwestern Med. Ctr_,2016,2017,patentable_inventions,1,1,0
+University of Texas Southwestern Med. Ctr_,2016,2017,software,1,1,0
+University of Texas Southwestern Med. Ctr_,2016,2017,algorithms,0,0,0
+University of Texas Southwestern Med. Ctr_,2016,2017,research_datasets,1,1,0
+University of Texas Southwestern Med. Ctr_,2016,2017,scholarly_publications,1,1,0
+University of Texas Southwestern Med. Ctr_,2016,2017,teaching_materials,1,1,0
+University of Texas Southwestern Med. Ctr_,2016,2017,biological_materials,1,0,-1
+University of Texas Southwestern Med. Ctr_,2016,2017,tangible_research_property,0,0,0
+University of Texas Southwestern Med. Ctr_,2016,2017,emerging_technologies,0,0,0
+University of Texas Southwestern Med. Ctr_,2017,2018,patentable_inventions,1,1,0
+University of Texas Southwestern Med. Ctr_,2017,2018,software,1,1,0
+University of Texas Southwestern Med. Ctr_,2017,2018,algorithms,0,0,0
+University of Texas Southwestern Med. Ctr_,2017,2018,research_datasets,1,1,0
+University of Texas Southwestern Med. Ctr_,2017,2018,scholarly_publications,1,1,0
+University of Texas Southwestern Med. Ctr_,2017,2018,teaching_materials,1,1,0
+University of Texas Southwestern Med. Ctr_,2017,2018,biological_materials,0,0,0
+University of Texas Southwestern Med. Ctr_,2017,2018,tangible_research_property,0,0,0
+University of Texas Southwestern Med. Ctr_,2017,2018,emerging_technologies,0,0,0
+University of Texas Southwestern Med. Ctr_,2018,2022,patentable_inventions,1,1,0
+University of Texas Southwestern Med. Ctr_,2018,2022,software,1,1,0
+University of Texas Southwestern Med. Ctr_,2018,2022,algorithms,0,0,0
+University of Texas Southwestern Med. Ctr_,2018,2022,research_datasets,1,1,0
+University of Texas Southwestern Med. Ctr_,2018,2022,scholarly_publications,1,1,0
+University of Texas Southwestern Med. Ctr_,2018,2022,teaching_materials,1,0,-1
+University of Texas Southwestern Med. Ctr_,2018,2022,biological_materials,0,1,1
+University of Texas Southwestern Med. Ctr_,2018,2022,tangible_research_property,0,0,0
+University of Texas Southwestern Med. Ctr_,2018,2022,emerging_technologies,0,0,0
+University of Texas Southwestern Med. Ctr_,2022,2025,patentable_inventions,1,1,0
+University of Texas Southwestern Med. Ctr_,2022,2025,software,1,1,0
+University of Texas Southwestern Med. Ctr_,2022,2025,algorithms,0,0,0
+University of Texas Southwestern Med. Ctr_,2022,2025,research_datasets,1,1,0
+University of Texas Southwestern Med. Ctr_,2022,2025,scholarly_publications,1,1,0
+University of Texas Southwestern Med. Ctr_,2022,2025,teaching_materials,0,0,0
+University of Texas Southwestern Med. Ctr_,2022,2025,biological_materials,1,1,0
+University of Texas Southwestern Med. Ctr_,2022,2025,tangible_research_property,0,0,0
+University of Texas Southwestern Med. Ctr_,2022,2025,emerging_technologies,0,0,0
+University of Texas at Austin,1978,2011,patentable_inventions,1,1,0
+University of Texas at Austin,1978,2011,software,0,1,1
+University of Texas at Austin,1978,2011,algorithms,0,0,0
+University of Texas at Austin,1978,2011,research_datasets,0,1,1
+University of Texas at Austin,1978,2011,scholarly_publications,1,1,0
+University of Texas at Austin,1978,2011,teaching_materials,1,1,0
+University of Texas at Austin,1978,2011,biological_materials,0,0,0
+University of Texas at Austin,1978,2011,tangible_research_property,0,0,0
+University of Texas at Austin,1978,2011,emerging_technologies,0,0,0
+University of Texas at Austin,2011,2013,patentable_inventions,1,1,0
+University of Texas at Austin,2011,2013,software,1,0,-1
+University of Texas at Austin,2011,2013,algorithms,0,0,0
+University of Texas at Austin,2011,2013,research_datasets,1,0,-1
+University of Texas at Austin,2011,2013,scholarly_publications,1,1,0
+University of Texas at Austin,2011,2013,teaching_materials,1,0,-1
+University of Texas at Austin,2011,2013,biological_materials,0,0,0
+University of Texas at Austin,2011,2013,tangible_research_property,0,0,0
+University of Texas at Austin,2011,2013,emerging_technologies,0,0,0
+University of Texas at Austin,2013,2015,patentable_inventions,1,1,0
+University of Texas at Austin,2013,2015,software,0,1,1
+University of Texas at Austin,2013,2015,algorithms,0,0,0
+University of Texas at Austin,2013,2015,research_datasets,0,1,1
+University of Texas at Austin,2013,2015,scholarly_publications,1,1,0
+University of Texas at Austin,2013,2015,teaching_materials,0,1,1
+University of Texas at Austin,2013,2015,biological_materials,0,0,0
+University of Texas at Austin,2013,2015,tangible_research_property,0,0,0
+University of Texas at Austin,2013,2015,emerging_technologies,0,0,0
+University of Texas at Austin,2015,2016,patentable_inventions,1,1,0
+University of Texas at Austin,2015,2016,software,1,1,0
+University of Texas at Austin,2015,2016,algorithms,0,0,0
+University of Texas at Austin,2015,2016,research_datasets,1,1,0
+University of Texas at Austin,2015,2016,scholarly_publications,1,1,0
+University of Texas at Austin,2015,2016,teaching_materials,1,1,0
+University of Texas at Austin,2015,2016,biological_materials,0,0,0
+University of Texas at Austin,2015,2016,tangible_research_property,0,0,0
+University of Texas at Austin,2015,2016,emerging_technologies,0,0,0
+University of Texas at Austin,2016,2017,patentable_inventions,1,1,0
+University of Texas at Austin,2016,2017,software,1,1,0
+University of Texas at Austin,2016,2017,algorithms,0,0,0
+University of Texas at Austin,2016,2017,research_datasets,1,1,0
+University of Texas at Austin,2016,2017,scholarly_publications,1,1,0
+University of Texas at Austin,2016,2017,teaching_materials,1,1,0
+University of Texas at Austin,2016,2017,biological_materials,0,0,0
+University of Texas at Austin,2016,2017,tangible_research_property,0,0,0
+University of Texas at Austin,2016,2017,emerging_technologies,0,0,0
+University of Texas at Austin,2017,2018,patentable_inventions,1,1,0
+University of Texas at Austin,2017,2018,software,1,1,0
+University of Texas at Austin,2017,2018,algorithms,0,0,0
+University of Texas at Austin,2017,2018,research_datasets,1,1,0
+University of Texas at Austin,2017,2018,scholarly_publications,1,1,0
+University of Texas at Austin,2017,2018,teaching_materials,1,1,0
+University of Texas at Austin,2017,2018,biological_materials,0,0,0
+University of Texas at Austin,2017,2018,tangible_research_property,0,0,0
+University of Texas at Austin,2017,2018,emerging_technologies,0,0,0
+University of Texas at Austin,2018,2021,patentable_inventions,1,1,0
+University of Texas at Austin,2018,2021,software,1,1,0
+University of Texas at Austin,2018,2021,algorithms,0,0,0
+University of Texas at Austin,2018,2021,research_datasets,1,1,0
+University of Texas at Austin,2018,2021,scholarly_publications,1,1,0
+University of Texas at Austin,2018,2021,teaching_materials,1,0,-1
+University of Texas at Austin,2018,2021,biological_materials,0,1,1
+University of Texas at Austin,2018,2021,tangible_research_property,0,0,0
+University of Texas at Austin,2018,2021,emerging_technologies,0,0,0
+University of Tulsa,2003,2017,patentable_inventions,1,1,0
+University of Tulsa,2003,2017,software,1,1,0
+University of Tulsa,2003,2017,algorithms,1,1,0
+University of Tulsa,2003,2017,research_datasets,0,0,0
+University of Tulsa,2003,2017,scholarly_publications,1,1,0
+University of Tulsa,2003,2017,teaching_materials,1,1,0
+University of Tulsa,2003,2017,biological_materials,0,0,0
+University of Tulsa,2003,2017,tangible_research_property,0,0,0
+University of Tulsa,2003,2017,emerging_technologies,0,0,0
+University of Utah,1999,2013,patentable_inventions,1,1,0
+University of Utah,1999,2013,software,1,1,0
+University of Utah,1999,2013,algorithms,0,0,0
+University of Utah,1999,2013,research_datasets,0,0,0
+University of Utah,1999,2013,scholarly_publications,0,0,0
+University of Utah,1999,2013,teaching_materials,0,0,0
+University of Utah,1999,2013,biological_materials,0,1,1
+University of Utah,1999,2013,tangible_research_property,0,0,0
+University of Utah,1999,2013,emerging_technologies,0,1,1
+University of Virginia,1993,2000,patentable_inventions,1,1,0
+University of Virginia,1993,2000,software,0,0,0
+University of Virginia,1993,2000,algorithms,0,0,0
+University of Virginia,1993,2000,research_datasets,0,0,0
+University of Virginia,1993,2000,scholarly_publications,1,1,0
+University of Virginia,1993,2000,teaching_materials,0,0,0
+University of Virginia,1993,2000,biological_materials,0,0,0
+University of Virginia,1993,2000,tangible_research_property,0,0,0
+University of Virginia,1993,2000,emerging_technologies,0,0,0
+University of Virginia,2000,2016,patentable_inventions,1,1,0
+University of Virginia,2000,2016,software,0,0,0
+University of Virginia,2000,2016,algorithms,0,0,0
+University of Virginia,2000,2016,research_datasets,0,1,1
+University of Virginia,2000,2016,scholarly_publications,1,1,0
+University of Virginia,2000,2016,teaching_materials,0,0,0
+University of Virginia,2000,2016,biological_materials,0,0,0
+University of Virginia,2000,2016,tangible_research_property,0,0,0
+University of Virginia,2000,2016,emerging_technologies,0,0,0
+University of Virginia,2016,2021,patentable_inventions,1,1,0
+University of Virginia,2016,2021,software,0,0,0
+University of Virginia,2016,2021,algorithms,0,0,0
+University of Virginia,2016,2021,research_datasets,1,0,-1
+University of Virginia,2016,2021,scholarly_publications,1,0,-1
+University of Virginia,2016,2021,teaching_materials,0,0,0
+University of Virginia,2016,2021,biological_materials,0,0,0
+University of Virginia,2016,2021,tangible_research_property,0,0,0
+University of Virginia,2016,2021,emerging_technologies,0,0,0
+University of Washington,2003,2015,patentable_inventions,1,1,0
+University of Washington,2003,2015,software,1,1,0
+University of Washington,2003,2015,algorithms,0,0,0
+University of Washington,2003,2015,research_datasets,0,1,1
+University of Washington,2003,2015,scholarly_publications,1,1,0
+University of Washington,2003,2015,teaching_materials,0,0,0
+University of Washington,2003,2015,biological_materials,0,0,0
+University of Washington,2003,2015,tangible_research_property,0,0,0
+University of Washington,2003,2015,emerging_technologies,0,0,0
+University of Washington,2015,2025,patentable_inventions,1,1,0
+University of Washington,2015,2025,software,1,1,0
+University of Washington,2015,2025,algorithms,0,0,0
+University of Washington,2015,2025,research_datasets,1,1,0
+University of Washington,2015,2025,scholarly_publications,1,1,0
+University of Washington,2015,2025,teaching_materials,0,0,0
+University of Washington,2015,2025,biological_materials,0,0,0
+University of Washington,2015,2025,tangible_research_property,0,0,0
+University of Washington,2015,2025,emerging_technologies,0,1,1
+University of Wisconsin-Madison,2005,2008,patentable_inventions,1,1,0
+University of Wisconsin-Madison,2005,2008,software,1,1,0
+University of Wisconsin-Madison,2005,2008,algorithms,0,0,0
+University of Wisconsin-Madison,2005,2008,research_datasets,0,0,0
+University of Wisconsin-Madison,2005,2008,scholarly_publications,1,0,-1
+University of Wisconsin-Madison,2005,2008,teaching_materials,0,0,0
+University of Wisconsin-Madison,2005,2008,biological_materials,1,0,-1
+University of Wisconsin-Madison,2005,2008,tangible_research_property,0,0,0
+University of Wisconsin-Madison,2005,2008,emerging_technologies,1,0,-1
+University of Wisconsin-Madison,2008,2022,patentable_inventions,1,1,0
+University of Wisconsin-Madison,2008,2022,software,1,1,0
+University of Wisconsin-Madison,2008,2022,algorithms,0,0,0
+University of Wisconsin-Madison,2008,2022,research_datasets,0,0,0
+University of Wisconsin-Madison,2008,2022,scholarly_publications,0,0,0
+University of Wisconsin-Madison,2008,2022,teaching_materials,0,0,0
+University of Wisconsin-Madison,2008,2022,biological_materials,0,0,0
+University of Wisconsin-Madison,2008,2022,tangible_research_property,0,0,0
+University of Wisconsin-Madison,2008,2022,emerging_technologies,0,0,0
+Utah State University,1999,2002,patentable_inventions,1,1,0
+Utah State University,1999,2002,software,0,0,0
+Utah State University,1999,2002,algorithms,0,0,0
+Utah State University,1999,2002,research_datasets,0,0,0
+Utah State University,1999,2002,scholarly_publications,1,1,0
+Utah State University,1999,2002,teaching_materials,1,1,0
+Utah State University,1999,2002,biological_materials,0,0,0
+Utah State University,1999,2002,tangible_research_property,0,0,0
+Utah State University,1999,2002,emerging_technologies,0,0,0
+Utah State University,2002,2016,patentable_inventions,1,1,0
+Utah State University,2002,2016,software,0,1,1
+Utah State University,2002,2016,algorithms,0,0,0
+Utah State University,2002,2016,research_datasets,0,1,1
+Utah State University,2002,2016,scholarly_publications,1,1,0
+Utah State University,2002,2016,teaching_materials,1,1,0
+Utah State University,2002,2016,biological_materials,0,1,1
+Utah State University,2002,2016,tangible_research_property,0,1,1
+Utah State University,2002,2016,emerging_technologies,0,0,0
+Vanderbilt University,2011,2016,patentable_inventions,1,1,0
+Vanderbilt University,2011,2016,software,1,1,0
+Vanderbilt University,2011,2016,algorithms,0,0,0
+Vanderbilt University,2011,2016,research_datasets,1,1,0
+Vanderbilt University,2011,2016,scholarly_publications,1,1,0
+Vanderbilt University,2011,2016,teaching_materials,0,0,0
+Vanderbilt University,2011,2016,biological_materials,0,1,1
+Vanderbilt University,2011,2016,tangible_research_property,0,0,0
+Vanderbilt University,2011,2016,emerging_technologies,0,0,0
+Virginia Commonwealth University,1999,2003,patentable_inventions,1,1,0
+Virginia Commonwealth University,1999,2003,software,1,1,0
+Virginia Commonwealth University,1999,2003,algorithms,0,0,0
+Virginia Commonwealth University,1999,2003,research_datasets,0,1,1
+Virginia Commonwealth University,1999,2003,scholarly_publications,1,1,0
+Virginia Commonwealth University,1999,2003,teaching_materials,0,1,1
+Virginia Commonwealth University,1999,2003,biological_materials,0,0,0
+Virginia Commonwealth University,1999,2003,tangible_research_property,0,0,0
+Virginia Commonwealth University,1999,2003,emerging_technologies,0,0,0
+Virginia Commonwealth University,2003,2021,patentable_inventions,1,1,0
+Virginia Commonwealth University,2003,2021,software,1,1,0
+Virginia Commonwealth University,2003,2021,algorithms,0,0,0
+Virginia Commonwealth University,2003,2021,research_datasets,1,1,0
+Virginia Commonwealth University,2003,2021,scholarly_publications,1,1,0
+Virginia Commonwealth University,2003,2021,teaching_materials,1,1,0
+Virginia Commonwealth University,2003,2021,biological_materials,0,0,0
+Virginia Commonwealth University,2003,2021,tangible_research_property,0,0,0
+Virginia Commonwealth University,2003,2021,emerging_technologies,0,0,0
+Virginia Tech,1990,2008,patentable_inventions,1,1,0
+Virginia Tech,1990,2008,software,1,1,0
+Virginia Tech,1990,2008,algorithms,0,0,0
+Virginia Tech,1990,2008,research_datasets,0,0,0
+Virginia Tech,1990,2008,scholarly_publications,1,1,0
+Virginia Tech,1990,2008,teaching_materials,1,0,-1
+Virginia Tech,1990,2008,biological_materials,0,0,0
+Virginia Tech,1990,2008,tangible_research_property,0,0,0
+Virginia Tech,1990,2008,emerging_technologies,0,0,0
+Virginia Tech,2008,2013,patentable_inventions,1,1,0
+Virginia Tech,2008,2013,software,1,1,0
+Virginia Tech,2008,2013,algorithms,0,0,0
+Virginia Tech,2008,2013,research_datasets,0,0,0
+Virginia Tech,2008,2013,scholarly_publications,1,1,0
+Virginia Tech,2008,2013,teaching_materials,0,0,0
+Virginia Tech,2008,2013,biological_materials,0,0,0
+Virginia Tech,2008,2013,tangible_research_property,0,0,0
+Virginia Tech,2008,2013,emerging_technologies,0,0,0
+Virginia Tech,2013,2015,patentable_inventions,1,1,0
+Virginia Tech,2013,2015,software,1,1,0
+Virginia Tech,2013,2015,algorithms,0,0,0
+Virginia Tech,2013,2015,research_datasets,0,0,0
+Virginia Tech,2013,2015,scholarly_publications,1,1,0
+Virginia Tech,2013,2015,teaching_materials,0,0,0
+Virginia Tech,2013,2015,biological_materials,0,0,0
+Virginia Tech,2013,2015,tangible_research_property,0,0,0
+Virginia Tech,2013,2015,emerging_technologies,0,0,0
+Virginia Tech,2015,2021,patentable_inventions,1,1,0
+Virginia Tech,2015,2021,software,1,1,0
+Virginia Tech,2015,2021,algorithms,0,0,0
+Virginia Tech,2015,2021,research_datasets,0,1,1
+Virginia Tech,2015,2021,scholarly_publications,1,1,0
+Virginia Tech,2015,2021,teaching_materials,0,0,0
+Virginia Tech,2015,2021,biological_materials,0,0,0
+Virginia Tech,2015,2021,tangible_research_property,0,0,0
+Virginia Tech,2015,2021,emerging_technologies,0,0,0
+Wake Forest University,1993,1999,patentable_inventions,1,1,0
+Wake Forest University,1993,1999,software,0,1,1
+Wake Forest University,1993,1999,algorithms,0,0,0
+Wake Forest University,1993,1999,research_datasets,0,0,0
+Wake Forest University,1993,1999,scholarly_publications,0,0,0
+Wake Forest University,1993,1999,teaching_materials,0,0,0
+Wake Forest University,1993,1999,biological_materials,0,0,0
+Wake Forest University,1993,1999,tangible_research_property,0,0,0
+Wake Forest University,1993,1999,emerging_technologies,0,0,0
+Wake Forest University,1999,2017,patentable_inventions,1,1,0
+Wake Forest University,1999,2017,software,1,1,0
+Wake Forest University,1999,2017,algorithms,0,0,0
+Wake Forest University,1999,2017,research_datasets,0,0,0
+Wake Forest University,1999,2017,scholarly_publications,0,1,1
+Wake Forest University,1999,2017,teaching_materials,0,1,1
+Wake Forest University,1999,2017,biological_materials,0,1,1
+Wake Forest University,1999,2017,tangible_research_property,0,1,1
+Wake Forest University,1999,2017,emerging_technologies,0,0,0
+Wake Forest University,2017,2021,patentable_inventions,1,1,0
+Wake Forest University,2017,2021,software,1,1,0
+Wake Forest University,2017,2021,algorithms,0,0,0
+Wake Forest University,2017,2021,research_datasets,0,0,0
+Wake Forest University,2017,2021,scholarly_publications,1,1,0
+Wake Forest University,2017,2021,teaching_materials,1,0,-1
+Wake Forest University,2017,2021,biological_materials,1,0,-1
+Wake Forest University,2017,2021,tangible_research_property,1,0,-1
+Wake Forest University,2017,2021,emerging_technologies,0,0,0
+Wake Forest University,2021,2025,patentable_inventions,1,1,0
+Wake Forest University,2021,2025,software,1,0,-1
+Wake Forest University,2021,2025,algorithms,0,0,0
+Wake Forest University,2021,2025,research_datasets,0,0,0
+Wake Forest University,2021,2025,scholarly_publications,1,1,0
+Wake Forest University,2021,2025,teaching_materials,0,1,1
+Wake Forest University,2021,2025,biological_materials,0,1,1
+Wake Forest University,2021,2025,tangible_research_property,0,1,1
+Wake Forest University,2021,2025,emerging_technologies,0,0,0
+Washington State University,2014,2016,patentable_inventions,1,1,0
+Washington State University,2014,2016,software,1,1,0
+Washington State University,2014,2016,algorithms,0,0,0
+Washington State University,2014,2016,research_datasets,0,0,0
+Washington State University,2014,2016,scholarly_publications,1,1,0
+Washington State University,2014,2016,teaching_materials,1,1,0
+Washington State University,2014,2016,biological_materials,1,1,0
+Washington State University,2014,2016,tangible_research_property,1,1,0
+Washington State University,2014,2016,emerging_technologies,0,0,0
+Washington State University,2016,2023,patentable_inventions,1,1,0
+Washington State University,2016,2023,software,1,1,0
+Washington State University,2016,2023,algorithms,0,0,0
+Washington State University,2016,2023,research_datasets,0,0,0
+Washington State University,2016,2023,scholarly_publications,1,1,0
+Washington State University,2016,2023,teaching_materials,1,1,0
+Washington State University,2016,2023,biological_materials,1,1,0
+Washington State University,2016,2023,tangible_research_property,1,0,-1
+Washington State University,2016,2023,emerging_technologies,0,0,0
+Washington University in St. Louis,2014,2023,patentable_inventions,1,1,0
+Washington University in St. Louis,2014,2023,software,1,1,0
+Washington University in St. Louis,2014,2023,algorithms,0,0,0
+Washington University in St. Louis,2014,2023,research_datasets,0,0,0
+Washington University in St. Louis,2014,2023,scholarly_publications,1,1,0
+Washington University in St. Louis,2014,2023,teaching_materials,0,0,0
+Washington University in St. Louis,2014,2023,biological_materials,1,1,0
+Washington University in St. Louis,2014,2023,tangible_research_property,1,1,0
+Washington University in St. Louis,2014,2023,emerging_technologies,1,1,0
+West Virginia University,1999,2006,patentable_inventions,1,1,0
+West Virginia University,1999,2006,software,1,1,0
+West Virginia University,1999,2006,algorithms,0,0,0
+West Virginia University,1999,2006,research_datasets,0,0,0
+West Virginia University,1999,2006,scholarly_publications,0,1,1
+West Virginia University,1999,2006,teaching_materials,0,0,0
+West Virginia University,1999,2006,biological_materials,0,0,0
+West Virginia University,1999,2006,tangible_research_property,0,0,0
+West Virginia University,1999,2006,emerging_technologies,0,0,0
+West Virginia University,2006,2016,patentable_inventions,1,1,0
+West Virginia University,2006,2016,software,1,1,0
+West Virginia University,2006,2016,algorithms,0,0,0
+West Virginia University,2006,2016,research_datasets,0,0,0
+West Virginia University,2006,2016,scholarly_publications,1,1,0
+West Virginia University,2006,2016,teaching_materials,0,0,0
+West Virginia University,2006,2016,biological_materials,0,0,0
+West Virginia University,2006,2016,tangible_research_property,0,0,0
+West Virginia University,2006,2016,emerging_technologies,0,0,0
+West Virginia University,2016,2019,patentable_inventions,1,1,0
+West Virginia University,2016,2019,software,1,1,0
+West Virginia University,2016,2019,algorithms,0,1,1
+West Virginia University,2016,2019,research_datasets,0,1,1
+West Virginia University,2016,2019,scholarly_publications,1,1,0
+West Virginia University,2016,2019,teaching_materials,0,1,1
+West Virginia University,2016,2019,biological_materials,0,0,0
+West Virginia University,2016,2019,tangible_research_property,0,1,1
+West Virginia University,2016,2019,emerging_technologies,0,0,0
+Yale University,1998,2023,patentable_inventions,1,1,0
+Yale University,1998,2023,software,0,1,1
+Yale University,1998,2023,algorithms,0,0,0
+Yale University,1998,2023,research_datasets,0,0,0
+Yale University,1998,2023,scholarly_publications,0,0,0
+Yale University,1998,2023,teaching_materials,0,0,0
+Yale University,1998,2023,biological_materials,0,1,1
+Yale University,1998,2023,tangible_research_property,0,0,0
+Yale University,1998,2023,emerging_technologies,0,0,0

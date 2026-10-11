@@ -1,0 +1,212 @@
+[
+  {
+    "DOI": "10.1126/science.1115813",
+    "title": [
+      "View from the Bench: Patents and Material Transfers"
+    ],
+    "author": [
+      {
+        "given": "John P.",
+        "family": "Walsh",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Sociology, University of Illinois at Chicago, Chicago, IL 60607 USA."
+          },
+          {
+            "name": "University of Tokyo, Tokyo, Japan."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Charlene",
+        "family": "Cho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Sociology, University of Illinois at Chicago, Chicago, IL 60607 USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wesley M.",
+        "family": "Cohen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Duke University, Durham, NC 27708, and the National Bureau of Economic Research, Cambridge, MA 02138, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          9,
+          23
+        ]
+      ]
+    },
+    "volume": "309",
+    "issue": "5743",
+    "page": "2002-2003"
+  },
+  {
+    "DOI": "10.15208/ati.2014.05",
+    "title": [
+      "Experience with material and social technology transfers in a field of spent nuclear fuel final geological disposal (from a point of view of structuration theory)"
+    ],
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Mihok",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Applied Technologies and Innovations"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          22
+        ]
+      ]
+    },
+    "volume": "10",
+    "issue": "1",
+    "page": "26-37"
+  },
+  {
+    "DOI": "10.1093/acprof:oso/9780198714514.003.0002",
+    "title": [
+      "1 The View from the Bench: Where the Comparative Judicial Imagination Travels"
+    ],
+    "author": [
+      {
+        "given": "Hirschl",
+        "family": "Ran",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Comparative Matters"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          14
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.1007/978-3-319-64155-3_13",
+    "title": [
+      "Patents and Intellectual Property"
+    ],
+    "author": [
+      {
+        "given": "Clifford L.",
+        "family": "Spiro",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "From Bench to Boardroom"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          29
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "147-155"
+  },
+  {
+    "DOI": "10.2139/ssrn.2278907",
+    "title": [
+      "E-Jurors: A View from the Bench"
+    ],
+    "author": [
+      {
+        "given": "Antoinette",
+        "family": "Plogstedt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  }
+]

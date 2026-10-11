@@ -1,0 +1,67 @@
+{
+  "DOI": "10.1002/asi.22634",
+  "title": [
+    "The conundrum of sharing research data"
+  ],
+  "author": [
+    {
+      "given": "Christine L.",
+      "family": "Borgman",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "UCLA Department of Information Studies GSEIS Bldg  Rm. 235, Box 951520 Los Angeles California 90095‐1520"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Journal of the American Society for Information Science and Technology"
+  ],
+  "publisher": "Wiley",
+  "published": {
+    "date-parts": [
+      [
+        2012,
+        4,
+        5
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2012,
+        6
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2012,
+        4,
+        5
+      ]
+    ]
+  },
+  "volume": "63",
+  "issue": "6",
+  "page": "1059-1078",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1002/asi.22634",
+  "resource": {
+    "primary": {
+      "URL": "https://onlinelibrary.wiley.com/doi/10.1002/asi.22634"
+    }
+  }
+}

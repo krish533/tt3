@@ -1,90 +1,195 @@
-\documentclass[11pt]{article}
+\documentclass[12pt]{article}
 \usepackage[margin=1in]{geometry}
-\usepackage[T1]{fontenc}
-\usepackage{amsmath,booktabs,hyperref}
+\usepackage{newtxtext,newtxmath}
+\usepackage{booktabs,tabularx,graphicx}
+\usepackage[round,authoryear]{natbib}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xurl}
+\urlstyle{same}
+\usepackage{setspace}
+\usepackage{microtype}
+\setstretch{1.25}
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\input{numbers.tex}
 \title{Who Owns Academic Knowledge?\\The Evolution of Intellectual Property Rights in American Universities}
-\author{Krishna Sharma\\Working-paper research design}
-\date{October 10, 2026}
+\author{Anonymous research manuscript}
+\date{10 October 2026}
 \begin{document}
 \maketitle
+\begin{center}
+Historical policy evidence, legal distinctions, and limits of identification
+
+Approximate total word count: 6,500, including tables and references
+\end{center}
+\vfill
+\noindent Research status: the archive and lexical analyses are reproducible. Selected provisions have been checked against accessible source context using AI-assisted close reading. Independent legal annotation and comprehensive historical source authentication remain incomplete. This manuscript is not designated submission-ready.
+\newpage
 \begin{abstract}
-We propose a clause-level longitudinal analysis of intellectual-property policies at U.S. universities, distinguishing changes in the vocabulary of academic knowledge from changes in substantive ownership claims and protections for creators. The canonical Paper 1 institutional panel spans 1944--2025 with 150 universities and 480 directly observed policy records; unlike the larger institution-year panel, these observations are actual policy records rather than carried-forward values. We specify reproducible extraction, source-document verification, legal coding, and historical within-institution comparisons. The first complete corpus screen identifies 2,779 candidate sentences in 449 of 480 observed policy records. These are screening counts, not verified ownership claims.
+University intellectual property policies define knowledge and allocate rights through different provisions. Treating broader definitions as broader ownership can therefore misidentify institutional change. We audit 480 observed policy vintages from 150 American universities, 1944--2025, distinguishing them from carried-forward panel years. The original screen reproduces 2,779 candidate sentences in 449 records. Across 330 within-university comparisons, research-data terminology appears in 57 previously unmentioned cases and disappears in 24; these are lexical transitions, not verified transfers of rights. Contextual readings reveal conditional claims, academic-work exceptions, reciprocal licenses, and assignment language that sentence-level screening misses. Historical reprints and campus-specific documents complicate comparisons further. The evidence establishes heterogeneous textual arrangements and the inadequacy of vocabulary alone as an ownership measure. It does not identify the prevalence or direction of legal expansion. We provide a reproducible archive audit, a multidimensional coding protocol, and a source-linked record of the remaining identification problems.
 \end{abstract}
-\noindent\textbf{Keywords:} University intellectual property; property rights; ownership; legal text analysis; institutional change.\\
-\noindent\textbf{JEL:} K11, O34, I23, D23.
+\noindent\textit{Keywords:} university intellectual property; ownership; assignment; institutional change; academic knowledge; legal text.
 
 \section{Introduction}
-What does a university claim to own when its researchers produce inventions, software, scholarly works, data, or course materials? A reference to a new type of asset in an intellectual-property policy does not necessarily establish ownership. Broad ownership language can coexist with specific exceptions, and detailed definitions can clarify already existing rights rather than enlarge them. This paper distinguishes definitional change from the allocation of property and control rights.
+A university can add software to its definition of intellectual property while continuing to leave educational software with its creator. It can also replace a promise to assign an invention with language purporting to make the assignment immediately, without adding any new category of knowledge. The first change enlarges a vocabulary; the second changes the stated mechanism by which rights are transferred. Neither can be understood from a count of asset names alone. The distinction matters because university policies help organize decisions about research, publication, licensing and collaboration, yet the document that describes those decisions is not itself conclusive evidence of legal title.
 
-The unit of analysis is a legally operative clause read in the context of its full source document. This question is distinct from the companion papers on policy communication and technology-transfer performance: we neither construct another communication index nor regress patents or licensing outcomes on one.
+This article asks how American universities have described the boundaries of ownership over academic knowledge and what evidence is needed to establish that those boundaries changed. Its empirical starting point is an existing historical policy corpus covering \Universities{} universities. Rather than presume an expansion of institutional control, we separate the objects named in a policy from the actors, operations and conditions through which rights are allocated. A claim to an invention made within employment, a nonexclusive license to a course resource, and a requirement to disclose a discovery describe different relationships. They should not be collapsed into an index of institutional ownership.
 
-\section{Legal and Conceptual Framework}
-A university policy operates alongside relevant intellectual-property law, contracts, employment relationships and sponsored-research agreements. Bayh--Dole does not amount to statutory assignment of all academic outputs to universities. We classify five features separately: the knowledge category named; the presumptive rights-holder; whether rights require assignment; any institutional funding or resource-use triggers; and explicit exclusions or retained creator rights.
+The archive permits a reproducible examination of language across directly observed policy vintages. It does not yet permit a validated national history of changes in legal ownership. That is an empirical conclusion about the available evidence, not an assumption that policy has remained stable. We reproduce the established population, diagnose its documentary structure, and compare adjacent observed vintages within universities. We then use accessible original policies and a historical survey to examine why a lexical transition may or may not correspond to a change in rights. The statistical results are deliberately restricted to quantities that the underlying data identify.
 
-A policy's stated claim is not necessarily enforceable in every factual setting. Accordingly, our descriptive outcome is the written allocation proposed by the institution, not an adjudication of legal validity.
+There is substantial prior work on ownership regimes. Comparative studies distinguish institutional and inventor ownership, and some already separate ownership from control and revenue rights \citep{kenney2011,halilem2017}. Policy content has also been coded directly: \citet{jamali2024} examines staff, student and other ownership arrangements across Australian public universities. We do not claim to introduce the study of university IP rules or the distinction among different rights. The intended contribution is a historical American analysis that follows the chain from a dated source to a specific legal relationship, and from that relationship to a comparable earlier rule. The present evidence supports the archive audit and selected textual comparisons; completing the broader contribution requires contextual validation across the historical sample.
 
-\section{Data}
-The canonical source is the Paper 1 cleaned sentence dataset at \url{https://github.com/krish533/Tech-transfer-1}, file \texttt{P1\_replication\_package/data/raw/policy\_sentences\_cleaned\_combined.csv}. The primary panel's verified construction asserts 150 institutions, 4,277 institution-year observations, and 480 directly observed policy records, over 1944--2025. Many panel years are carried forward and are not separate policies. This paper excludes 1925. Source-document counts and coverage must be independently checked after the full file is ingested. Earlier WP3 draft totals cannot be assumed to hold in this harmonized sample.
+The question is also distinct from research on how clearly policies communicate governance arrangements and from research relating policy communication to commercialization outcomes. We use the original policy sentences and institution identifiers, but do not reconstruct a communication index or estimate licensing and patent-output regressions. The object of interest is the allocation of rights. An institution can communicate a narrow claim clearly, or express a broad claim ambiguously. Those are separate dimensions of institutional organization.
 
-\section{Reproducible Measurement}
-The accompanying script screens policy sentences for intersections of asset terminology (inventions, software, data, scholarly works, teaching materials, biological materials, and AI-related products) and rule terminology (ownership, assignment, exceptions, creator retention, resource triggers and open-ended claims). These are \emph{candidate passages}, not validated ownership claims.
+\section{Property rights, scientific work and institutional rules}
+Ownership matters in incomplete-contracting accounts because a contract cannot specify every future use of an asset. Residual authority affects the parties' incentives and their positions when unforeseen circumstances arise \citep{grossman1986,hartmoore1990,hart1995}. Applied to academic knowledge, this perspective suggests asking who may authorize a license, refuse a transfer, release an invention, or continue using a work after title is assigned. It does not imply that the broadest university claim is efficient. The relevant investments include research effort, disclosure, development and access by other researchers; different allocations may favor different investments.
 
-Human coders must examine the surrounding paragraphs in source PDFs and classify rights-holder, the type and conditionality of a claim, creator rights, scope of exceptions, and any ambiguity. The codebook will track each clause's institution, date, document and quoted provision. A random positive and negative review sample and independent double coding are necessary before substantive tabulations.
+Knowledge also differs from the physical assets that motivate many property-rights models. Information can be used by multiple researchers, legal protection may attach to only part of a research output, and publication can coexist with restrictions on materials or commercial exploitation. The economics of open science emphasizes priority, disclosure and reputation as organizing institutions \citep{dasgupta1994}. Academic freedom can have value precisely because researchers retain discretion over lines of inquiry that a commercial principal would not immediately pursue \citep{aghion2008}. A policy that reserves educational use to a creator while assigning commercialization authority to the university therefore creates a divided arrangement, not an all-or-nothing transfer of control.
 
-\section{Descriptive Estimands}
-Let $R_{ivk}$ denote a verified university ownership claim for asset class $k$ at institution $i$ in observed policy vintage $v$, and $E_{ivk}$ an explicit creator-right exception. We seek empirical frequencies and within-university changes in these provisions. A revision measure is
-\[
-\Delta R_{ik}=R_{i,v_2,k}-R_{i,v_1,k}, \qquad v_2>v_1.
-\]
-We will distinguish cases where a policy adds new definitional vocabulary without changing $R$ or $E$. Descriptive trends should report their archival denominators, institution weights, and composition sensitivity. No simple pre/post trend will be described as a causal effect of Bayh--Dole.
+Institutional rules mediate these choices, but written rules are only one part of institutional change \citep{north1990}. Administrators may formalize an existing practice, respond to a funding condition, consolidate several policies, or alter the people to whom a rule applies. A longer definition could resolve uncertainty without changing an operative allocation. Conversely, deleting a student exception could alter the scope of a claim even if every category name remains unchanged. These possibilities motivate observable distinctions rather than a single formal prediction of expansion.
 
-\section{Hypotheses}
-\noindent\textbf{H1:} The range of named IP categories can expand without a corresponding expansion of university ownership claims.
+The historical literature cautions against treating 1980 as the origin of university patent governance. \citet{palmer1962} collected university patent policies well before Bayh--Dole. Studies of twentieth-century patenting locate the legislation within earlier administrative developments and changing research opportunities \citep{mowery2001,sampat2006}. Organizational accounts likewise trace institution-building and the normalization of technology-transfer practices before the statute \citep{berman2008,colyvas2007}. A before-and-after difference at 1980 would confound those developments with legal change, archival availability and changes in research composition. We do not use Bayh--Dole as a natural experiment.
 
-\noindent\textbf{H2:} University claims and creator-right exceptions may evolve asymmetrically.
+Normative arguments are contested. \citet{kenney2009} criticize the institutional invention-ownership model, while the National Research Council frames technology transfer as an institutional responsibility that should serve broader public purposes \citep{nrc2011}. Comparative European evidence shows that ownership reforms occur alongside other organizational changes \citep{geuna2011}; the Italian experience similarly links policy development and university patenting without establishing that the same mechanism applies to American institutions \citep{baldini2006}. These sources support competing interpretations of institutional claims, not a presumption that more claims are either beneficial or harmful.
 
-\noindent\textbf{H3:} General prospective ownership clauses may cover later technologies without their explicit enumeration.
+The incentive literature also gives reason to distinguish allocation from outcomes. \citet{lach2008} report a relationship between royalty incentives and university invention, whereas \citet{ouellette2020} identify coding problems and challenge the robustness of the earlier evidence. Even a reliable description of royalty shares would not establish who initially owns a work. Nor would an association between a policy and patents identify the effect of its assignment clause. Our choice to analyze rights directly avoids using commercialization as a substitute for legal measurement.
 
-\noindent\textbf{H4:} Ownership triggers and exceptions differ by institution and knowledge category.
+The scientific-commons literature identifies another set of competing mechanisms. Fragmented exclusion rights may obstruct subsequent research \citep{heller1998}, and policy scholarship questions whether privatization always advances publicly funded research \citep{eisenberg1996,rai2003,nelson2004}. Yet a patent can sometimes facilitate the search for a developer \citep{hellmann2007}. Empirical studies distinguish citation effects, material-transfer barriers and changes in research access \citep{murray2007,walsh2005,murray2016}. Those outcomes are not interchangeable. A license to use a material, title to a patent, and authority over a database can affect scientific activity through different channels. Scientific norms may further qualify how formal rights are exercised \citep{rai1999}.
 
-\section{Screening Findings and Contextual Validation}
-The full upstream database contains 480 directly observed institution--year policy groups at 150 institutions (1944--2025). Automated screening yields 2,779 candidate ownership-related sentences in 449 groups. These are lexical retrieval counts rather than legally validated ownership claims.
+For data, the distinction is especially consequential. Research-data sharing involves heterogeneous objects, responsibilities and incentives \citep{borgman2012}. Contractual arrangements can support a research commons even where proprietary claims are available \citep{reichman2003}. FAIR principles address the management and reuse of data; they do not by themselves allocate ownership \citep{wilkinson2016}. An increase in references to databases could therefore reflect stewardship, disclosure requirements, licensing, or ownership. Only the surrounding rule establishes which interpretation is supported.
 
-\begin{table}[ht]\centering
-\caption{Observed candidate screening by decade; rates are not ownership measures}
-\begin{tabular}{rrrrr}\toprule
-Decade & Groups & Institutions & Candidates & Per 1,000 sentences \\ \midrule
-1940s & 4 & 2 & 16 & 170.2 \\
-1960s & 3 & 2 & 7 & 94.6 \\
-1970s & 6 & 6 & 3 & 1.3 \\
-1980s & 24 & 21 & 99 & 47.8 \\
-1990s & 76 & 66 & 368 & 43.3 \\
-2000s & 105 & 86 & 598 & 32.1 \\
-2010s & 172 & 100 & 1,056 & 28.9 \\
-2020s & 90 & 70 & 632 & 33.1 \\ \bottomrule
-\end{tabular}\end{table}
+\section{What a policy can establish legally}
+A university policy is an institutional statement of a claimed rule. Its legal effect depends on the underlying right and on matters that a text corpus usually does not observe: applicable law, the employment or student relationship, assent, executed agreements, competing assignments, and the facts of creation. We separate an institutional ownership presumption from an assignment obligation and from wording that purports to make a present assignment. We also separate each of these from a judicial determination of title.
 
-Among the universities, 129 have multiple observed policy years. Coverage in the 1940s--1970s is very thin and institutional composition changes across decades.
+The distinction is visible in patent law. The Bayh--Dole framework addresses rights in inventions made with federal assistance, including a contractor's election to retain title to qualifying subject inventions \citep{bayhdole2024}. In \textit{Stanford v. Roche}, the Supreme Court held that the Act does not automatically vest title in federal contractors or authorize them unilaterally to take an inventor's rights \citep[pp. 785--789]{roche2011}. The Court did not review the lower court's construction of the competing assignment language. We therefore do not treat the decision as establishing that every occurrence of a particular verb formula guarantees an effective transfer. Earlier employee-invention doctrine also distinguishes obligations arising from being hired to invent from other employment relationships and from an employer's shop rights \citep[pp. 187--189]{dubilier1933}. Historical scholarship documents changes in how employee-inventor interests were understood \citep{fisk1998}.
 
-\subsection{Concrete contextual examples}
-A Wake Forest 1999 clause conditions university ownership of employee and student inventions on work-related circumstances. A Creighton 2019 clause claims university ownership of specified trade secrets developed in university work, whereas an Illinois State 2024 clause lists academic works owned by creators. These are illustrative examples, not representative legal classifications.
+Copyright has a different structure. Initial ownership, work made for hire, and transfers are addressed in distinct statutory provisions. Ownership of a physical object is separate from ownership of the copyright embodied in it, and a transfer of copyright ownership generally requires a signed writing \citep[sections 101, 201, 202 and 204]{copyrightact}. The agency inquiry used to determine employee status under work-made-for-hire doctrine cannot be replaced by a university's preferred label \citep{reid1989}. The position of academic and other creative employees raises additional questions about the relationship between employment and creative autonomy \citep{dreyfuss1987}. We code what a policy reserves or claims, without resolving these external legal questions from its language alone.
 
-Lexical false positives include Georgia Tech 2002 language about conditions on old examinations, Purdue 2000 sponsor-reporting provisions, and a Texas institution 2014 clause on licensing costs; all contain open-ended phrases without establishing future ownership. An NYU 2012 reference to patents not owned by NYU also does not establish creator retention.
+A broad definition also cannot create an intellectual property right that applicable law does not recognize. Facts are not protected by copyright, although an original selection or arrangement may qualify \citep{feist1991}. A statement that an institution owns research data could concern records, access, contractual obligations, a protected compilation, or several of these at once. It does not establish an exclusive copyright in every underlying fact. Similarly, the Copyright Office's analysis of artificial intelligence emphasizes human authorship and the nature of the human contribution \citep{usco2025}. That report is agency analysis, not a new ownership statute. Mentioning AI in a policy cannot settle copyrightability or eliminate the need to identify the relevant object.
 
-\subsection{Validation remaining}
-Automated retrieval does not adjudicate ownership or legal enforceability. Complete surrounding paragraphs, historical amendments, independent positive/negative sample coding, reliability checks, and within-institution legal comparisons are required before any claim about shifts in ownership boundaries. The code and source checksum are in the replication repository.
-\section{Discussion}
-The main interpretive distinction is between the scope of named objects and the allocation of control. More verbose definitions need not mean stronger institutional claims. Conversely, short, open-ended clauses may have potentially broad application. Identifying the actual direction of change requires contextual legal interpretation and historical comparisons of properly dated policy versions.
+These distinctions generate a practical classification scheme. Each relationship has a rights-holder, a legal operation, a knowledge category, a trigger and a set of qualifications. The same provision may assign a university title while reserving a creator's noncommercial license. A broad resource-based presumption may coexist with an academic-work exception. Mixed and indeterminate cases are retained. The scheme is designed to test whether a change in definition reaches an operative rule, rather than assume that it does.
 
-\section{Conclusion}
-This project establishes an auditable approach to studying the changing boundaries of university IP ownership, on the original Paper 1 institutional population but with a legally independent research question. Substantive conclusions await validated document coding.
+\section{Archive construction and research design}
+The analysis begins with the original cleaned-sentence file from the Paper 1 replication repository. We pin its Git commit and SHA-256 checksum, together with the institution-year panel used only to distinguish direct observations from carried-forward records. The primary population remains 1944--2025. A single 1925 row is excluded; no other population repair is silently applied. The included file contains \Sentences{} cleaned sentences, \Observed{} institution-year records and \DocKeys{} institution-year-filename groups. The larger panel contains \Panel{} rows, of which \Carried{} are carried forward. These are not additional policy documents.
 
-\begin{thebibliography}{9}
-\bibitem{mowery} Mowery, D. C., Nelson, R. R., Sampat, B. N., and Ziedonis, A. A. (2001). The growth of patenting and licensing by U.S. universities. \emph{Research Policy} 30, 99--119.
-\bibitem{sampat} Sampat, B. N. (2006). Patenting and U.S. academic research in the 20th century. \emph{Research Policy} 35, 772--789.
-\bibitem{lach} Lach, S. and Schankerman, M. (2008). Incentives and invention in universities. \emph{RAND Journal of Economics} 39, 403--433.
-\bibitem{nrc} National Research Council (2011). \emph{Managing University Intellectual Property in the Public Interest}. National Academies Press.
-\bibitem{hart} Hart, O. (1995). \emph{Firms, Contracts, and Financial Structure}. Oxford University Press.
-\bibitem{grimmer} Grimmer, J. and Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. \emph{Political Analysis} 21, 267--297.
-\end{thebibliography}
+\begin{table}[htbp]
+\centering\caption{Frozen analytical population}\label{tab:population}
+\input{tables/population.tex}
+\par\smallskip\footnotesize\raggedright Notes: The primary population is unchanged from the established 1944--2025 sample. A filename group is an archival unit, not a verified unique policy or revision. Panel identifiers are used only for population reconciliation.
+\end{table}
+
+The audit assigns each sentence an identifier based on its immutable source row, rather than rely on sentence numbers being unique. It retains raw-text and normalized-text hashes and records institution, vintage label, filename and sentence number. Normalization is limited to case and whitespace for duplicate diagnostics. It does not modify the primary analysis population. Reconstructed context files preserve the available cleaned sentences, including collisions, but are explicitly labeled as reconstructions: missing headings, original paragraphs and external cross-references cannot be recovered merely by joining them.
+
+Documentary structure is consequential. There are \MultiFiles{} institution-years with more than one filename. A university-year can combine a substantive policy with forms or contain documents for different campuses. The Wake Forest 2017 record, for example, includes both medical-center and Reynolda-campus files. Treating the pooled record as one unified legal instrument would obscure the population to which each rule applies. The audit also finds \CollisionRows{} rows involved in repeated sentence-number keys, concentrated in Georgia Tech, and 2,703 repeated normalized sentences within filename groups. Fifteen document groups participate in exact normalized-text duplication. Such repetition is retained in the primary corpus and examined in sensitivity analysis, rather than interpreted as independent legal evidence.
+
+Historical coverage is highly uneven (Figure~\ref{fig:coverage}). The earliest decades contain very few observed institution-years and no observations occur in the 1950s. Absence from the archive does not establish absence of a policy. Nor does a vintage label prove when a provision became effective. One filename contains a year inconsistent with its upstream record, and a pair of Delaware vintages has the same normalized sentence set. The database therefore supports comparisons between observed textual endpoints, not a continuous census of policy revisions.
+
+\begin{figure}[htbp]
+\centering\includegraphics[width=.88\linewidth]{figures/archival_coverage.pdf}
+\caption{Observed institution-years by decade of upstream vintage label}\label{fig:coverage}
+\end{figure}
+
+We first reproduce the original sentence screen without changing its expressions. A sentence is a candidate when it contains both a named knowledge category and one of the specified rule patterns. These include exceptions and resource conditions as well as ownership and assignment language. A candidate is consequently not a positive classification of university ownership. The screen yields \Candidates{} sentences in \CandidateRecords{} records. The remaining records cannot be classified as lacking ownership rules: they may use terms omitted by the screen or distribute an operative rule across sentences.
+
+A second set of transparent expressions provides a broader review queue. It searches operations without requiring an asset term in the same sentence and records separate flags for nine knowledge categories, assignment wording, licenses, exceptions, procedures and triggers. Every output is marked as a machine-generated review aid and legally unadjudicated. We do not infer a rights-holder from the presence of an institution's name. The broader queue improves retrieval coverage for some inspected examples but has not been shown to improve precision or recall against a reference standard.
+
+For historical description, we compare adjacent observed vintages within each university. This yields \Pairs{} pairs from \PairUniversities{} universities. For each category, the measure is whether any included sentence contains its specified terminology. The transition matrix records absence or presence at each endpoint. It is a matrix of mentions, not ownership. A separate estimate averages the adjacent-pair change within each university and then gives each university equal weight. Percentile intervals resample those university means using 5,000 draws and a fixed seed. These intervals describe variation within the observed archive; they do not account for nonrandom archival selection, legal misclassification or date uncertainty.
+
+No annual interpolation enters these comparisons. The intervals between observed vintages vary, and their endpoints do not locate the timing of an intervening change. Thirty-five pairs change the number of constituent files. Even where file counts are unchanged, document authority or campus scope may differ. The within-university design reduces compositional differences across institutions but cannot solve these documentary problems. For that reason, we do not estimate a time trend in legal expansion or attach causal meaning to the lexical transitions.
+
+\section{Results: language changes and legal relationships}
+Table~\ref{tab:decades} reproduces the original screen by decade. Its rate changes markedly across the observed archive, but it is not a monotonic measure of institutional control. The denominator is the number of included cleaned sentences, which depends on document length, segmentation and coverage. Early estimates are based on very few institutions; later periods combine a broader collection of policy types. These pooled figures are useful for locating review work and diagnosing corpus composition. They are not estimates of the share of universities claiming ownership.
+
+\begin{table}[htbp]
+\centering\caption{Original screening results by decade}\label{tab:decades}
+\small\input{tables/decades.tex}
+\par\smallskip\footnotesize\raggedright Notes: Matches require an asset expression and a rule expression in the same sentence. A match may concern a creator exception. No 1950s records are observed. Decades refer to upstream labels, not authenticated enactment dates.
+\end{table}
+
+The within-university results show both appearances and disappearances of category terminology (Table~\ref{tab:transitions}). Research-data and database terminology changes from absent to present in 57 pairs and from present to absent in 24. Software terminology appears in 48 pairs and disappears in 27. Invention or patent terminology is already present at both endpoints of most comparisons. These results indicate that the recorded vocabulary is not static. They do not establish that newly named objects were previously outside an institutional claim. An earlier umbrella definition may already have covered them; a later mention may instead identify an exception.
+
+\begin{table}[htbp]
+\centering\caption{Within-university transitions in category mentions}\label{tab:transitions}
+\small\input{tables/transitions.tex}
+\par\smallskip\footnotesize\raggedright Notes: Each row describes the same 330 adjacent observed-vintage pairs. Zero and one denote absence and presence of a lexical flag anywhere in the institution-year bundle. Categories overlap. The last category combines AI, mask-work and semiconductor expressions and is not a measure of when a technology was novel.
+\end{table}
+
+Equal university weighting leaves a positive average change in research-data terminology (Table~\ref{tab:weighted}). The software estimate is also positive, but its rounded lower interval endpoint is close to zero. These are descriptive changes in indicators, not percentage-point estimates of ownership. Universities with several observed revisions otherwise contribute more pairs than universities with only two vintages. The weighted results address that particular imbalance; they do not make the archive representative of American higher education or give equal weight to calendar years.
+
+\begin{table}[htbp]
+\centering\caption{Average lexical change under alternative weighting}\label{tab:weighted}
+\small\input{tables/weighted.tex}
+\par\smallskip\footnotesize\raggedright Notes: Change equals the later mention indicator minus the earlier indicator. University means average each university's adjacent pairs before averaging across the 129 universities. Intervals are 95 percent percentile intervals from resampling university means, conditional on this archive. Rounded endpoints are not tests of legal expansion.
+\end{table}
+
+Restricting comparisons by their archival structure also matters. Equal-university changes in data and software terminology remain positive when file counts are unchanged or both endpoints are from 1980 onward. Restricting gaps to at most ten years leaves \ShortPairs{} pairs from \ShortUniversities{} universities; the software mean becomes \ShortSoftware{}, while the data mean is \ShortData{}. The software pattern is therefore sensitive to which observed intervals enter the comparison. These restrictions do not authenticate policy scope, and shorter gaps select a different set of universities. The sensitivity outputs are retained in the replication package.
+
+Screening results are not driven entirely by the identified sentence anomalies. Removing within-file repeated normalized sentences or excluding Georgia Tech changes the number of matches and the per-sentence rate but leaves the basic finding that the screen locates only a subset of potentially relevant text (Table~\ref{tab:sensitivity}). Restricting to observations from 1980 onward is another descriptive sensitivity check, not a test of the statute. These exercises establish robustness of a retrieval count to specific corpus choices. They do not validate the legal content of those matches.
+
+\begin{table}[htbp]
+\centering\caption{Sensitivity of the original screen}\label{tab:sensitivity}
+\small\input{tables/sensitivity.tex}
+\par\smallskip\footnotesize\raggedright Notes: The primary population remains unchanged. Alternative rows are diagnostics, not replacement samples. Duplicate removal is within institution, year and filename after case/whitespace normalization.
+\end{table}
+
+Accessible source context explains why the legal question cannot be answered by those matrices. Creighton's 2019 policy conditions its institutional claim on more than incidental university resources and expressly subjects it to exclusions. It separately provides a reciprocal nonexclusive license, protects specified academic works subject to work-for-hire and direct-funding qualifications, and includes an assignment form \citep[sections C, D.2 and Appendix I]{creighton2019}. These are different legal operations in one document. Several are missed by the original screen because the operative sentence uses an umbrella term or refers to an adjacent list. A form's assignment language also does not show that a particular researcher executed it.
+
+Illinois State's 2024 policy illustrates how categories cross allocation boundaries. Its academic-work provision includes educational software among creator-owned examples, while its patentable-research provision states a normal university ownership rule tied to employment and separately addresses substantial resource use. Its student-coursework provision protects work made with ordinary course resources, subject to additional arrangements for relevant sponsored projects \citep[sections 2.9, 2.12 and 3.1--3.2]{isu2024}. Some numbered cross-references do not align with the displayed definitions, a further reason to retain interpretive uncertainty. Neither a software mention nor a student mention provides a complete ownership classification.
+
+Wake Forest's 2017 Reynolda policy connects an introductory ownership and assignment statement to separate conditions for faculty, other employees, nonemployee students and other participants. Individual innovations outside the specified conditions remain with their innovators. Traditional scholarship is addressed through a separate copyright policy, which has not been authenticated here for that vintage \citep[sections 3.1--3.4]{wfu2017}. The retrieved earlier patent policy already includes device-like software, but the copy bears a 2006 amendment date despite its 1999 adoption history \citep{wfu2006}. We can compare the accessible wording; we cannot certify a 1999-to-2017 legal transition or interpret the change as newly claiming software. The later pooled institution-year also includes a different campus's document.
+
+The historical material presents a similar challenge. Palmer's account of Caltech reports a 1945 adoption history, describes assignment linked to duties or facilities, and preserves an own-time, no-facilities inventor category \citep[pp. 55--57]{palmer1962}. This corroborates the historical existence of a conditional allocation architecture. It is not an exact authentication of the cleaned 1945 sentences: the modal wording differs. Substituting the later reproduction for the missing original would erase precisely the distinction between a recommendation and an obligation that the research seeks to measure.
+
+\begin{table}[htbp]
+\centering\caption{Selected source-linked readings and unresolved comparisons}\label{tab:readings}
+\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{.20\linewidth}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+\toprule
+Source & Supported textual reading & Limit on inference \\
+\midrule
+Creighton 2019 & Resource-conditioned claim, reciprocal license, academic exclusions, assignment form & Neither full population coding nor evidence of executed assignment \\
+Illinois State 2024 & Distinct patent, academic-work and student-coursework rules & Exceptions and misaligned cross-references require separate treatment \\
+Wake Forest earlier reprint / 2017 & Ownership wording versus express assignment; differentiated student conditions & Earlier vintage, campus comparability and companion policy unresolved \\
+Caltech in Palmer 1962 & Historical resource/duty conditions and inventor exception & Reproduction does not authenticate exact 1945 wording \\
+Delaware 1993 / 2008 corpus & Identical normalized sentence sets & Archival textual stability is not proof of unchanged operative law \\
+\bottomrule
+\end{tabularx}
+\par\smallskip\footnotesize\raggedright Notes: These are selected AI-assisted close readings and textual comparisons, not independently validated legal transitions. The evidence ledger supplies stable sentence IDs, sections, source URLs, hashes, qualifications and interpretation status. No frequency or direction of ownership expansion is inferred from this purposive selection.
+\end{table}
+
+The examples establish that conditional claims, retained rights and assignment mechanisms coexist in the accessible documents. They also demonstrate specific ways a sentence screen misses legally relevant relationships. They cannot establish how common those relationships are across the archive or how they changed over time. No institution-year has completed exhaustive contextual adjudication in this release. Consequently, the prevalence of institution-wide ownership presumptions, assignment obligations and creator or student exceptions remains unidentified; the unconstrained bounds on each binary population proportion are zero to one. A confirmed positive clause in a selected source does not resolve the completeness and scope of an institution-year bundle.
+
+\section{Validation, competing explanations and limits}
+Automated text analysis requires validation for the quantity being measured \citep{grimmer2013,gentzkow2019}. Agreement between two keyword systems would not validate a legal interpretation, and agreement among repeated AI outputs would not constitute independent human annotation. We provide a stratified sample of \ValidationN{} sentences, including both screen-positive and screen-negative cases. It covers decades and 68 institutions, with known inclusion probabilities. Category coverage is reported separately because rare categories are not guaranteed adequate representation. The annotation template remains unfilled pending a credible contextual reference standard.
+
+The selected source readings are a different exercise. They were chosen to investigate apparent assignment, exception, license and historical-context problems, and their interpretations are explicitly AI-assisted. They show actual failures of the original retrieval logic: a defined term can replace an asset name, operative conditions can occur in the next sentence, and a retained license can matter without transferring title. They do not supply a probability sample of errors. We therefore report no precision, recall, kappa or category accuracy. Agreement statistics require appropriate annotation data and assumptions; they are not a substitute for correctness \citep{artstein2008}.
+
+A complete validation would link each sampled provision to an authenticated version, have independent qualified readers identify its relationships and qualifications, retain disagreements, and adjudicate them transparently. Negative screen cases are essential to recall estimation. Rare categories require additional sampling with recorded probabilities, rather than an unweighted collection of convenient examples. Context-unverified provisions should remain unknown, including when a sentence appears linguistically unambiguous. The released codebook specifies these rules so that later validation can change labels without changing the frozen population.
+
+Several explanations compete with ownership expansion. New terminology may clarify an old umbrella claim; a consolidated policy may add previously separate documents; a new exception may introduce the very category it protects. Longer policies create more opportunities for a lexical match. Changes in digitization or sentence cleaning may alter what survives in the corpus. System-wide policies repeated across campuses can give one legal instrument several apparent institutional observations. These mechanisms are consistent with some of the observed lexical changes and cannot be distinguished by their direction alone.
+
+Within-university comparisons address one concern but leave others intact. They avoid interpreting a later sample of different universities as institutional change, yet still require comparable documents at both endpoints. A university may separate its medical and general-campus rules, replace a policy with guidance, or publish a form alongside a substantive instrument. The evidence required to call a transition is therefore more demanding than institution identity plus chronological ordering. A common actor and fact pattern must face a different rule under two authenticated versions. Where that comparison cannot be made, an unresolved transition is the accurate observation.
+
+The source recovery undertaken here is necessarily partial. Accessible institutional sources were obtained for selected contemporary provisions, an earlier reprint and a historical survey. They are not a recovered archive of all underlying policies. The cleaned corpus lacks a complete source-URL manifest, some links fail, and official current pages cannot establish their earlier contents merely because they are authoritative today. We preserve successful retrieval hashes and failed attempts. Reconstructed sentence context is useful for review but is never presented as original paragraph context.
+
+Finally, neither this archive nor the selected policies establish enforceability. We do not observe all signed agreements, sponsored-research contracts, state-law restrictions or disputes. A university may announce a claim that would fail in a particular case, or possess a contractual right not fully expressed in a public policy. The article concerns stated institutional allocation and the evidence required to measure its evolution. It does not equate those statements with the legal rights ultimately recognized by a court.
+
+\section{Discussion and conclusion}
+The evidence supports a restrained answer to the research question. The observed language changes within universities, and the accessible provisions express heterogeneous combinations of ownership, assignment, retained use and exceptions. Broader terminology does not by itself establish broader institutional ownership. The present archive cannot determine whether American universities generally expanded or contracted their claims over the period studied. That proposition remains open rather than confirmed by a proxy.
+
+For institutional economics, this matters because a nominal ownership indicator can conceal the decision rights that affect behavior. An institution that owns a work but grants its creator a durable research license differs from one that restricts continued use. An assignment form can alter the stated transfer mechanism without enlarging the category of covered works. An academic-work exception can preserve creative discretion within a broader administrative framework. Studying these arrangements requires keeping their constituent rights separate long enough to see how they interact.
+
+For empirical legal research, the archive demonstrates the importance of documentary comparability. Dates, campus scope and cross-references are part of the measurement problem, not ancillary bibliographic details. A later reprint can be valuable historical evidence without authenticating every word of an earlier policy. Repeated text can reveal common institutional rules while failing to supply independent observations. Those distinctions are especially important when a historical corpus was originally constructed for a different research question.
+
+The replication materials make the positive findings and the unresolved work inspectable. They freeze the original population, reproduce the screening counts, generate historical lexical comparisons, document selected source readings and expose the absence of a legal reference standard. The next evidentiary step is contextual adjudication of comparable provisions, not additional regressions on unvalidated ownership proxies. Until that step is completed, the defensible contribution is a historical archive audit and a legally grounded account of why definitions and ownership must be measured separately.
+
+\section*{Data, code and research transparency}
+The repository contains immutable source identifiers and checksums, construction and analysis scripts, deterministic sampling, derived results, a legal codebook, an annotation template and a source-linked evidence ledger. Raw text and downloaded policy documents are retrieved locally rather than newly redistributed in this package; third-party rights have not been comprehensively assessed. Each table and figure is linked to its generating output. The canonical manuscript is synchronized into a self-contained Overleaf export. Author identity, affiliations, funding and conflict declarations must be supplied and confirmed before submission.
+
+AI assistance was used in programming, source discovery, bibliographic comparison, close reading and drafting. The interpretations attributed to that process have not been independently validated by human legal coders. The authors must review and assume responsibility for the manuscript before submission. No human coding, legal review or endorsement is represented as completed by this statement.
+
+\begingroup\setstretch{1}\small
+\input{references/references.tex}
+\endgroup
 \end{document}

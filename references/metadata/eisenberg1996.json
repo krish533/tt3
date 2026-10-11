@@ -1,0 +1,54 @@
+{
+  "DOI": "10.2307/1073686",
+  "title": [
+    "Public Research and Private Development: Patents and Technology Transfer in Government-Sponsored Research"
+  ],
+  "author": [
+    {
+      "given": "Rebecca S.",
+      "family": "Eisenberg",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Virginia Law Review"
+  ],
+  "publisher": "JSTOR",
+  "published": {
+    "date-parts": [
+      [
+        1996,
+        11
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        1996,
+        11
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "82",
+  "issue": "8",
+  "page": "1663",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.2307/1073686",
+  "resource": {
+    "primary": {
+      "URL": "https://www.jstor.org/stable/1073686?origin=crossref"
+    }
+  }
+}

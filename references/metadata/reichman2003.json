@@ -1,0 +1,46 @@
+{
+  "DOI": "10.1017/cbo9781139128957.009",
+  "title": [
+    "Fully Exploiting Data-Intensive Research Opportunities in the Networked Environment"
+  ],
+  "author": null,
+  "editor": null,
+  "container-title": [
+    "Governing Digitally Integrated Genetic Resources, Data, and Literature"
+  ],
+  "publisher": "Cambridge University Press",
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        19
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        5,
+        19
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": null,
+  "issue": null,
+  "page": "406-470",
+  "article-number": null,
+  "type": "book-chapter",
+  "ISBN": [
+    "9781139128957",
+    "9781107021747"
+  ],
+  "URL": "https://doi.org/10.1017/cbo9781139128957.009",
+  "resource": {
+    "primary": {
+      "URL": "https://www.cambridge.org/core/product/identifier/9781139128957%23CN-bp-8/type/book_part"
+    }
+  }
+}

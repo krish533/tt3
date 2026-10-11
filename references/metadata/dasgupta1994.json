@@ -1,0 +1,66 @@
+{
+  "DOI": "10.1016/0048-7333(94)01002-1",
+  "title": [
+    "Toward a new economics of science"
+  ],
+  "author": [
+    {
+      "given": "Dasgupta",
+      "family": "Partha",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Paul A.",
+      "family": "David",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Research Policy"
+  ],
+  "publisher": "Elsevier BV",
+  "published": {
+    "date-parts": [
+      [
+        1994,
+        9
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        1994,
+        9
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "23",
+  "issue": "5",
+  "page": "487-521",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1016/0048-7333(94)01002-1",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/0048733394010021"
+    }
+  }
+}

@@ -1,0 +1,331 @@
+Institution,from_year,to_year,gap,from_source_files,to_source_files,sentence_jaccard,same_sentence_set,source_bundle_changed,candidate_change,legal_transition_status
+Albert Einstein/Yeshiva,1985,2015,30,1,1,0.03278688524590164,False,False,2,not_adjudicated
+Albert Einstein/Yeshiva,2015,2018,3,1,1,0.3277310924369748,False,False,0,not_adjudicated
+Arizona State University,2001,2003,2,1,1,0.10344827586206896,False,False,0,not_adjudicated
+Arizona State University,2003,2007,4,1,1,0.06015037593984962,False,False,0,not_adjudicated
+Arizona State University,2007,2018,11,1,1,0.0,False,False,7,not_adjudicated
+Arizona State University,2018,2025,7,1,1,0.0,False,False,-5,not_adjudicated
+Ball State University,2008,2013,5,1,1,0.0,False,False,16,not_adjudicated
+Baylor College of Medicine,1995,2001,6,1,1,0.0,False,False,9,not_adjudicated
+Boston University,2000,2017,17,1,1,0.0,False,False,2,not_adjudicated
+Brandeis University,1990,2004,14,1,1,0.006211180124223602,False,False,-3,not_adjudicated
+Brandeis University,2004,2020,16,1,1,0.022026431718061675,False,False,6,not_adjudicated
+Brigham Young University,1991,2019,28,1,1,0.0,False,False,-5,not_adjudicated
+Brown University,1981,2005,24,1,1,0.0,False,False,1,not_adjudicated
+Brown University,2005,2021,16,1,1,0.0,False,False,3,not_adjudicated
+California Institute of Technology,1944,1945,1,2,1,0.0,False,True,-3,not_adjudicated
+California Institute of Technology,1945,1947,2,1,1,0.0,False,False,1,not_adjudicated
+California Institute of Technology,1947,1962,15,1,1,0.0,False,False,-3,not_adjudicated
+California Institute of Technology,1962,1968,6,1,1,0.0,False,False,3,not_adjudicated
+California Institute of Technology,1968,1998,30,1,3,0.0,False,True,4,not_adjudicated
+California Institute of Technology,1998,2003,5,3,3,0.18085106382978725,False,False,-3,not_adjudicated
+California Institute of Technology,2003,2007,4,3,3,0.3372093023255814,False,False,-1,not_adjudicated
+California Institute of Technology,2007,2023,16,3,3,0.0196078431372549,False,False,-1,not_adjudicated
+Clemson University,1991,2009,18,1,1,0.037209302325581395,False,False,0,not_adjudicated
+Clemson University,2009,2016,7,1,1,0.5480769230769231,False,False,1,not_adjudicated
+Clemson University,2016,2025,9,1,1,0.3739495798319328,False,False,0,not_adjudicated
+Colorado State University,2000,2007,7,1,1,0.0,False,False,-5,not_adjudicated
+Creighton University,2002,2019,17,1,1,0.1286549707602339,False,False,-1,not_adjudicated
+Dartmouth College,1996,2009,13,1,1,0.3404255319148936,False,False,0,not_adjudicated
+Dartmouth College,2009,2016,7,1,1,0.0,False,False,16,not_adjudicated
+Dartmouth College,2016,2019,3,1,1,0.3129251700680272,False,False,1,not_adjudicated
+Drexel University,2004,2005,1,1,1,0.5,False,False,0,not_adjudicated
+Drexel University,2005,2018,13,1,1,0.0,False,False,1,not_adjudicated
+Duke University,1990,1997,7,1,1,0.055865921787709494,False,False,-1,not_adjudicated
+Duke University,1997,2016,19,1,1,0.046511627906976744,False,False,-2,not_adjudicated
+Duke University,2016,2022,6,1,1,0.17672413793103448,False,False,0,not_adjudicated
+East Carolina University,2012,2013,1,1,1,0.27007299270072993,False,False,1,not_adjudicated
+East Carolina University,2013,2021,8,1,1,0.02247191011235955,False,False,2,not_adjudicated
+Emory University,1990,2002,12,1,1,0.0,False,False,4,not_adjudicated
+Emory University,2002,2011,9,1,1,0.1902834008097166,False,False,0,not_adjudicated
+Emory University,2011,2015,4,1,1,0.7297297297297297,False,False,0,not_adjudicated
+Florida Atlantic University,1998,2001,3,1,1,0.0,False,False,11,not_adjudicated
+Florida Atlantic University,2001,2011,10,1,1,0.24196018376722817,False,False,-1,not_adjudicated
+Florida Atlantic University,2011,2013,2,1,1,0.3712686567164179,False,False,0,not_adjudicated
+Florida Atlantic University,2013,2020,7,1,1,0.37341772151898733,False,False,1,not_adjudicated
+Georgetown University,2006,2019,13,1,1,0.016574585635359115,False,False,-3,not_adjudicated
+Georgia Institute of Technology,1996,1997,1,1,1,0.03184713375796178,False,False,-4,not_adjudicated
+Georgia Institute of Technology,1997,2002,5,1,1,0.007311129163281885,False,False,3,not_adjudicated
+Georgia Institute of Technology,2002,2014,12,1,1,0.00040290088638195,False,False,2,not_adjudicated
+Harvard University,1998,2008,10,1,1,0.0,False,False,9,not_adjudicated
+Harvard University,2008,2010,2,1,1,0.6948051948051948,False,False,-1,not_adjudicated
+Illinois Institute of Technology,2000,2013,13,1,1,0.23376623376623376,False,False,3,not_adjudicated
+Illinois Institute of Technology,2013,2021,8,1,1,0.4726027397260274,False,False,-2,not_adjudicated
+Illinois State University,1990,1999,9,1,1,0.09375,False,False,3,not_adjudicated
+Illinois State University,1999,2016,17,1,1,0.004830917874396135,False,False,1,not_adjudicated
+Illinois State University,2016,2024,8,1,1,0.3828125,False,False,-1,not_adjudicated
+Indiana University,1997,2008,11,1,1,0.0,False,False,-1,not_adjudicated
+Indiana University,2008,2014,6,1,1,0.2972972972972973,False,False,1,not_adjudicated
+Indiana University,2014,2020,6,1,1,0.7394957983193278,False,False,0,not_adjudicated
+Indiana University,2020,2024,4,1,1,0.0,False,False,0,not_adjudicated
+Iowa State University,1982,2000,18,1,1,0.0,False,False,-3,not_adjudicated
+Johns Hopkins University,1992,2001,9,1,1,0.3924731182795699,False,False,0,not_adjudicated
+Johns Hopkins University,2001,2011,10,1,1,0.46524064171123,False,False,0,not_adjudicated
+Kent State University,2007,2015,8,2,2,0.7837837837837838,False,False,0,not_adjudicated
+Kent State University,2015,2016,1,2,2,0.41818181818181815,False,False,0,not_adjudicated
+Lehigh University,2001,2002,1,1,2,0.943089430894309,False,True,4,not_adjudicated
+Louisiana State University,2008,2014,6,1,1,0.9316239316239316,False,False,0,not_adjudicated
+Louisiana State University,2014,2015,1,1,1,0.07563025210084033,False,False,2,not_adjudicated
+Louisiana State University,2015,2016,1,1,2,0.7724550898203593,False,True,10,not_adjudicated
+Louisiana State University,2016,2018,2,2,1,0.4786729857819905,False,True,-10,not_adjudicated
+Louisiana State University,2018,2021,3,1,2,0.5412844036697247,False,True,10,not_adjudicated
+Louisiana State University,2021,2023,2,2,1,0.7704918032786885,False,True,-10,not_adjudicated
+Louisiana State University,2023,2024,1,1,1,0.8662420382165605,False,False,0,not_adjudicated
+Loyola University Medical Center,2006,2009,3,1,1,0.017241379310344827,False,False,-2,not_adjudicated
+Medical College of Ohio,2009,2012,3,1,1,0.01639344262295082,False,False,2,not_adjudicated
+Medical College of Ohio,2012,2017,5,1,1,0.01639344262295082,False,False,-2,not_adjudicated
+Medical College of Ohio,2017,2023,6,1,1,0.0,False,False,-1,not_adjudicated
+Medical College of Ohio,2023,2024,1,1,1,0.0,False,False,3,not_adjudicated
+Medical University of South Carolina,2005,2008,3,1,1,0.005780346820809248,False,False,4,not_adjudicated
+Medical University of South Carolina,2008,2016,8,1,1,0.31496062992125984,False,False,-1,not_adjudicated
+Miami University,2018,2022,4,1,1,0.7333333333333333,False,False,0,not_adjudicated
+Michigan State University,1998,2001,3,1,1,0.0,False,False,-7,not_adjudicated
+Michigan State University,2001,2017,16,1,1,0.045454545454545456,False,False,3,not_adjudicated
+Michigan Technological University,2010,2011,1,1,1,0.6956521739130435,False,False,0,not_adjudicated
+Mississippi State University,1994,2001,7,1,1,0.0,False,False,-8,not_adjudicated
+Mississippi State University,2001,2003,2,1,1,0.5517241379310345,False,False,0,not_adjudicated
+Montana State University,1997,2017,20,1,1,0.028846153846153848,False,False,16,not_adjudicated
+New Jersey Institute of Technology,1985,2003,18,1,1,0.0,False,False,13,not_adjudicated
+New Jersey Institute of Technology,2003,2024,21,1,1,0.19101123595505617,False,False,2,not_adjudicated
+New Jersey Institute of Technology,2024,2025,1,1,1,0.0,False,False,-15,not_adjudicated
+New Mexico State University,1993,2013,20,1,1,0.00423728813559322,False,False,1,not_adjudicated
+New Mexico State University,2013,2019,6,1,1,0.0003180661577608143,False,False,5,not_adjudicated
+New Mexico State University,2019,2024,5,1,1,0.24013157894736842,False,False,2,not_adjudicated
+New York University,1983,2012,29,1,1,0.0,False,False,25,not_adjudicated
+New York University,2012,2021,9,1,1,0.32742440041710114,False,False,15,not_adjudicated
+North Carolina State University,1997,2002,5,1,1,0.8135593220338984,False,False,-1,not_adjudicated
+North Carolina State University,2002,2003,1,1,1,0.08056872037914692,False,False,2,not_adjudicated
+North Carolina State University,2003,2011,8,1,1,0.0,False,False,6,not_adjudicated
+North Dakota State University,2010,2016,6,1,1,0.03333333333333333,False,False,-4,not_adjudicated
+North Dakota State University,2016,2017,1,1,1,0.0970873786407767,False,False,1,not_adjudicated
+Northeastern University,1995,2023,28,1,1,0.0,False,False,1,not_adjudicated
+Northern Illinois University,1997,2007,10,1,1,0.010830324909747292,False,False,-4,not_adjudicated
+Ohio State University,1989,2018,29,1,1,0.0,False,False,4,not_adjudicated
+Ohio State University,2018,2024,6,1,1,0.44680851063829785,False,False,0,not_adjudicated
+Oklahoma State University,2010,2019,9,1,1,0.06884057971014493,False,False,9,not_adjudicated
+Oregon Health Sciences University,2013,2024,11,1,1,0.0,False,False,-8,not_adjudicated
+Oregon State University,2001,2003,2,1,1,0.0,False,False,0,not_adjudicated
+Oregon State University,2003,2023,20,1,1,0.0,False,False,5,not_adjudicated
+Penn State University,1998,2005,7,2,1,0.21428571428571427,False,True,-1,not_adjudicated
+Penn State University,2005,2013,8,1,1,0.0,False,False,0,not_adjudicated
+Portland State University,1997,2015,18,1,1,0.0,False,False,2,not_adjudicated
+Portland State University,2015,2025,10,1,7,0.0,False,True,1,not_adjudicated
+Princeton University,2001,2017,16,1,1,0.02608695652173913,False,False,-1,not_adjudicated
+Purdue University,2000,2007,7,1,1,0.034934497816593885,False,False,-12,not_adjudicated
+Purdue University,2007,2011,4,1,1,0.4715447154471545,False,False,0,not_adjudicated
+Purdue University,2011,2013,2,1,1,0.3333333333333333,False,False,2,not_adjudicated
+Purdue University,2013,2015,2,1,1,0.006756756756756757,False,False,-4,not_adjudicated
+Purdue University,2015,2016,1,1,1,0.75,False,False,0,not_adjudicated
+Purdue University,2016,2017,1,1,1,0.37333333333333335,False,False,0,not_adjudicated
+Purdue University,2017,2025,8,1,2,0.38613861386138615,False,True,2,not_adjudicated
+Rice University,1999,2023,24,1,1,0.0,False,False,-5,not_adjudicated
+Rutgers the State University of NJ,1996,2000,4,1,1,0.004149377593360996,False,False,-4,not_adjudicated
+Rutgers the State University of NJ,2000,2008,8,1,1,0.0,False,False,0,not_adjudicated
+Rutgers the State University of NJ,2008,2013,5,1,2,0.0,False,True,5,not_adjudicated
+Rutgers the State University of NJ,2013,2021,8,2,1,0.03896103896103896,False,True,2,not_adjudicated
+SUNY,1988,2016,28,1,2,0.09157509157509157,False,True,11,not_adjudicated
+SUNY,2016,2017,1,2,1,0.0,False,True,-15,not_adjudicated
+SUNY,2017,2021,4,1,1,0.0,False,False,1,not_adjudicated
+Southern Illinois University,1992,1998,6,1,1,0.0,False,False,6,not_adjudicated
+Southern Illinois University,1998,2005,7,1,1,0.0,False,False,-5,not_adjudicated
+Southern Illinois University,2005,2016,11,1,1,0.0,False,False,-3,not_adjudicated
+Southern Illinois University,2016,2018,2,1,1,0.0,False,False,1,not_adjudicated
+Southern Illinois University,2018,2022,4,1,1,0.014406358668653751,False,False,1,not_adjudicated
+St. Louis University,1999,2009,10,1,1,0.24260355029585798,False,False,0,not_adjudicated
+St. Louis University,2009,2022,13,1,1,0.0,False,False,-4,not_adjudicated
+St. Louis University,2022,2024,2,1,1,0.051470588235294115,False,False,-1,not_adjudicated
+Stanford University,1980,1989,9,1,1,0.004807692307692308,False,False,0,not_adjudicated
+Stanford University,1989,1994,5,1,1,0.0,False,False,3,not_adjudicated
+Stanford University,1994,1996,2,1,1,0.7384615384615385,False,False,0,not_adjudicated
+Stanford University,1996,1998,2,1,1,0.7722772277227723,False,False,-1,not_adjudicated
+Stanford University,1998,1999,1,1,1,0.4090909090909091,False,False,1,not_adjudicated
+Stanford University,1999,2013,14,1,1,0.0125,False,False,2,not_adjudicated
+Stanford University,2013,2023,10,1,1,0.23412698412698413,False,False,2,not_adjudicated
+Stevens Institute of Technology,2000,2014,14,1,1,0.0,False,False,5,not_adjudicated
+Stevens Institute of Technology,2014,2018,4,1,1,0.4567901234567901,False,False,0,not_adjudicated
+Stevens Institute of Technology,2018,2025,7,1,1,0.0,False,False,-14,not_adjudicated
+Syracuse University,1992,2024,32,1,1,0.35384615384615387,False,False,0,not_adjudicated
+Temple University,1985,2011,26,1,1,0.6,False,False,0,not_adjudicated
+Temple University,2011,2022,11,1,1,0.38666666666666666,False,False,0,not_adjudicated
+Texas A&M University System,1991,2001,10,1,1,0.0,False,False,-2,not_adjudicated
+Texas A&M University System,2001,2006,5,1,1,0.0,False,False,4,not_adjudicated
+Texas A&M University System,2006,2009,3,1,1,0.34146341463414637,False,False,1,not_adjudicated
+Texas A&M University System,2009,2012,3,1,1,0.22070844686648503,False,False,3,not_adjudicated
+Texas A&M University System,2012,2019,7,1,2,0.014124293785310734,False,True,0,not_adjudicated
+Texas A&M University System,2019,2022,3,2,1,0.24025974025974026,False,True,-5,not_adjudicated
+Texas A&M University System,2022,2023,1,1,2,0.168,False,True,5,not_adjudicated
+Texas A&M University System,2023,2025,2,2,1,0.1746031746031746,False,True,-5,not_adjudicated
+Thomas Jefferson University,1998,2000,2,2,1,0.014705882352941176,False,True,-10,not_adjudicated
+Thomas Jefferson University,2000,2006,6,1,1,0.0,False,False,8,not_adjudicated
+Tulane University,1985,2001,16,1,1,0.06486486486486487,False,False,0,not_adjudicated
+University of Akron,1996,2002,6,1,1,0.0,False,False,-2,not_adjudicated
+University of Akron,2002,2015,13,1,1,0.0,False,False,2,not_adjudicated
+University of Alabama in Birmingham (UAB),1980,2013,33,1,1,0.08196721311475409,False,False,1,not_adjudicated
+University of Alabama in Huntsville (UAH),1991,2018,27,1,1,0.0,False,False,3,not_adjudicated
+University of Arizona,1983,1985,2,1,1,0.12962962962962962,False,False,1,not_adjudicated
+University of Arizona,1985,1987,2,1,2,0.1891891891891892,False,True,8,not_adjudicated
+University of Arizona,1987,1996,9,2,1,0.2871287128712871,False,True,-6,not_adjudicated
+University of Arizona,1996,1999,3,1,1,0.0,False,False,-2,not_adjudicated
+University of Arizona,1999,2001,2,1,1,0.40397350993377484,False,False,1,not_adjudicated
+University of Arizona,2001,2010,9,1,2,0.03153153153153153,False,True,1,not_adjudicated
+University of Arizona,2010,2014,4,2,1,0.0043859649122807015,False,True,2,not_adjudicated
+University of Arizona,2014,2017,3,1,1,0.0,False,False,0,not_adjudicated
+University of Arizona,2017,2018,1,1,2,0.6422764227642277,False,True,7,not_adjudicated
+University of Arkansas,1945,1967,22,1,1,0.14035087719298245,False,False,-2,not_adjudicated
+University of Arkansas,1967,1986,19,1,1,0.0,False,False,1,not_adjudicated
+University of Arkansas,1986,2001,15,1,1,0.0975609756097561,False,False,2,not_adjudicated
+University of Arkansas,2001,2011,10,1,1,0.4380165289256198,False,False,1,not_adjudicated
+University of Arkansas,2011,2015,4,1,1,0.7346938775510204,False,False,0,not_adjudicated
+University of Arkansas,2015,2016,1,1,1,0.3798449612403101,False,False,0,not_adjudicated
+University of California System,1985,1990,5,1,1,0.11627906976744186,False,False,0,not_adjudicated
+University of California System,1990,1997,7,1,1,0.0,False,False,-2,not_adjudicated
+University of California System,1997,2024,27,1,1,0.0,False,False,0,not_adjudicated
+University of Central Florida,2013,2024,11,1,1,0.0,False,False,1,not_adjudicated
+University of Chicago,2002,2018,16,1,1,0.0,False,False,-2,not_adjudicated
+University of Cincinnati,2009,2019,10,1,1,0.2073170731707317,False,False,0,not_adjudicated
+University of Dayton,1996,2015,19,1,1,0.10294117647058823,False,False,-3,not_adjudicated
+University of Delaware,1993,2008,15,1,1,1.0,True,False,0,not_adjudicated
+University of Delaware,2008,2021,13,1,1,0.0,False,False,3,not_adjudicated
+University of Denver,2008,2023,15,1,1,0.0,False,False,2,not_adjudicated
+University of Georgia,1982,1995,13,1,1,0.0,False,False,0,not_adjudicated
+University of Hawaii,1985,2014,29,1,1,0.2465753424657534,False,False,0,not_adjudicated
+University of Hawaii,2014,2020,6,1,1,0.017094017094017096,False,False,-3,not_adjudicated
+University of Houston,1997,2007,10,1,1,0.09883720930232558,False,False,1,not_adjudicated
+University of Houston,2007,2015,8,1,1,0.08798646362098139,False,False,1,not_adjudicated
+University of Houston,2015,2017,2,1,1,0.3436385255648038,False,False,-1,not_adjudicated
+University of Houston,2017,2023,6,1,1,0.1890359168241966,False,False,0,not_adjudicated
+University of Idaho,1998,2016,18,1,1,0.026881720430107527,False,False,-3,not_adjudicated
+University of Idaho,2016,2022,6,1,1,0.3313253012048193,False,False,0,not_adjudicated
+University of Illinois At Chicago,2017,2018,1,1,1,0.7755102040816326,False,False,0,not_adjudicated
+University of Illinois At Chicago,2018,2020,2,1,1,0.12802275960170698,False,False,-1,not_adjudicated
+University of Illinois At Chicago,2020,2021,1,1,1,0.4706994328922495,False,False,0,not_adjudicated
+University of Illinois At Chicago,2021,2023,2,1,1,0.4364326375711575,False,False,0,not_adjudicated
+University of Illinois Urbana Champaign,2006,2023,17,1,1,0.0,False,False,-1,not_adjudicated
+University of Iowa,2015,2016,1,1,1,0.8827838827838828,False,False,0,not_adjudicated
+University of Iowa,2016,2017,1,1,1,0.34120734908136485,False,False,7,not_adjudicated
+University of Iowa,2017,2018,1,1,1,0.8442028985507246,False,False,1,not_adjudicated
+University of Iowa,2018,2019,1,1,1,0.47058823529411764,False,False,-1,not_adjudicated
+University of Iowa,2019,2020,1,1,1,0.9424460431654677,False,False,0,not_adjudicated
+University of Iowa,2020,2021,1,1,1,0.8916083916083916,False,False,0,not_adjudicated
+University of Iowa,2021,2022,1,1,1,0.8655172413793103,False,False,0,not_adjudicated
+University of Iowa,2022,2023,1,1,1,0.8372881355932204,False,False,0,not_adjudicated
+University of Kansas,1998,2001,3,1,1,0.00641025641025641,False,False,8,not_adjudicated
+University of Kentucky,1988,1993,5,1,1,0.43373493975903615,False,False,0,not_adjudicated
+University of Kentucky,1993,2005,12,1,1,0.0,False,False,0,not_adjudicated
+University of Louisville,1998,2005,7,1,1,0.08602150537634409,False,False,0,not_adjudicated
+University of Maryland Baltimore,1990,2005,15,1,1,0.0,False,False,16,not_adjudicated
+University of Maryland Baltimore,2005,2006,1,1,1,0.010460251046025104,False,False,-3,not_adjudicated
+University of Maryland Baltimore,2006,2016,10,1,1,0.7451737451737451,False,False,0,not_adjudicated
+University of Maryland Baltimore,2016,2019,3,1,1,0.3924050632911392,False,False,-2,not_adjudicated
+University of Maryland Baltimore County,2002,2022,20,1,1,0.004166666666666667,False,False,-15,not_adjudicated
+University of Massachusetts Amherst,1997,2004,7,1,1,0.3282442748091603,False,False,-1,not_adjudicated
+University of Massachusetts Medical Center,1997,2004,7,1,1,0.2103448275862069,False,False,0,not_adjudicated
+University of Miami,2014,2016,2,1,1,0.0,False,False,-11,not_adjudicated
+University of Michigan,2007,2021,14,1,1,0.07567567567567568,False,False,0,not_adjudicated
+University of Minnesota,2010,2015,5,1,1,0.4090909090909091,False,False,1,not_adjudicated
+University of Minnesota,2015,2022,7,1,2,0.4056603773584906,False,True,4,not_adjudicated
+University of Missouri System,1996,2010,14,1,1,0.2057142857142857,False,False,2,not_adjudicated
+University of Missouri System,2010,2019,9,1,1,0.3959731543624161,False,False,-1,not_adjudicated
+University of Missouri System,2019,2021,2,1,1,0.0,False,False,11,not_adjudicated
+University of Missouri System,2021,2025,4,1,1,0.4860557768924303,False,False,0,not_adjudicated
+University of Montana,1999,2007,8,1,1,0.2558139534883721,False,False,2,not_adjudicated
+University of Nebraska,2003,2018,15,1,1,0.0021390374331550803,False,False,-10,not_adjudicated
+University of Nebraska,2018,2019,1,1,1,0.0,False,False,-4,not_adjudicated
+University of Nebraska,2019,2025,6,1,2,0.0,False,True,18,not_adjudicated
+University of New Hampshire,2007,2014,7,1,1,0.1085972850678733,False,False,0,not_adjudicated
+University of New Mexico,1999,2010,11,1,1,0.10150375939849623,False,False,0,not_adjudicated
+University of New Mexico,2010,2022,12,1,1,0.1308016877637131,False,False,-1,not_adjudicated
+University of New Orleans,2012,2014,2,1,1,0.2411764705882353,False,False,-2,not_adjudicated
+University of New Orleans,2014,2023,9,1,1,0.1676300578034682,False,False,1,not_adjudicated
+University of North Dakota,1992,2005,13,1,1,0.0,False,False,10,not_adjudicated
+University of North Dakota,2005,2013,8,1,1,0.0,False,False,-10,not_adjudicated
+University of North Texas,2001,2005,4,1,1,0.0,False,False,1,not_adjudicated
+University of North Texas,2005,2015,10,1,1,0.017391304347826087,False,False,-3,not_adjudicated
+University of North Texas,2015,2018,3,1,1,0.06857142857142857,False,False,3,not_adjudicated
+University of Notre Dame,2003,2015,12,1,1,0.05238095238095238,False,False,-1,not_adjudicated
+University of Notre Dame,2015,2021,6,1,1,0.3825136612021858,False,False,0,not_adjudicated
+University of Oklahoma,1999,2004,5,1,1,0.3333333333333333,False,False,-1,not_adjudicated
+University of Oklahoma,2004,2017,13,1,1,0.48205128205128206,False,False,0,not_adjudicated
+University of Pennsylvania,1993,2005,12,1,1,0.08502906976744186,False,False,-2,not_adjudicated
+University of Pennsylvania,2005,2015,10,1,1,0.025076765609007165,False,False,5,not_adjudicated
+University of Pennsylvania,2015,2023,8,1,1,0.0007122507122507123,False,False,22,not_adjudicated
+University of Pittsburgh,1978,2005,27,1,1,0.08045977011494253,False,False,1,not_adjudicated
+University of Pittsburgh,2005,2021,16,1,1,0.0,False,False,-3,not_adjudicated
+University of Rhode Island,1986,2013,27,1,1,0.02330779054916986,False,False,4,not_adjudicated
+University of Rhode Island,2013,2021,8,1,1,0.004934210526315789,False,False,-4,not_adjudicated
+University of Rochester,1997,2013,16,1,1,0.34104046242774566,False,False,0,not_adjudicated
+University of South Alabama,1984,2005,21,1,1,0.0,False,False,4,not_adjudicated
+University of South Alabama,2005,2020,15,1,2,0.19796954314720813,False,True,3,not_adjudicated
+University of South Alabama,2020,2022,2,2,1,0.2755102040816326,False,True,-2,not_adjudicated
+University of South Carolina,1994,2005,11,1,1,0.0,False,False,2,not_adjudicated
+University of South Carolina,2005,2021,16,1,1,0.00966183574879227,False,False,3,not_adjudicated
+University of South Carolina,2021,2025,4,1,1,0.32450331125827814,False,False,-6,not_adjudicated
+University of South Florida,2012,2020,8,1,1,0.1111111111111111,False,False,0,not_adjudicated
+University of South Florida,2020,2023,3,1,1,0.30601092896174864,False,False,0,not_adjudicated
+University of South Florida,2023,2025,2,1,1,0.3172043010752688,False,False,-1,not_adjudicated
+University of Texas Hlth Sci Ctr San Antonio,1978,2013,35,1,1,0.0,False,False,1,not_adjudicated
+University of Texas Hlth Sci Ctr San Antonio,2013,2014,1,1,1,0.2898550724637681,False,False,5,not_adjudicated
+University of Texas Hlth Sci Ctr San Antonio,2014,2015,1,1,2,0.047619047619047616,False,True,-2,not_adjudicated
+University of Texas Hlth Sci Ctr San Antonio,2015,2016,1,2,1,0.42924528301886794,False,True,-2,not_adjudicated
+University of Texas Hlth Sci Ctr San Antonio,2016,2017,1,1,1,0.6066666666666667,False,False,0,not_adjudicated
+University of Texas Hlth Sci Ctr San Antonio,2017,2018,1,1,1,0.7253521126760564,False,False,0,not_adjudicated
+University of Texas Hlth Sci Ctr San Antonio,2018,2021,3,1,1,0.0,False,False,-1,not_adjudicated
+University of Texas Houston Hlth. Sci. Ctr_,1978,2012,34,1,1,0.0,False,False,1,not_adjudicated
+University of Texas Houston Hlth. Sci. Ctr_,2012,2013,1,1,1,0.0,False,False,0,not_adjudicated
+University of Texas Houston Hlth. Sci. Ctr_,2013,2014,1,1,1,0.2949640287769784,False,False,5,not_adjudicated
+University of Texas Houston Hlth. Sci. Ctr_,2014,2015,1,1,1,0.059574468085106386,False,False,-4,not_adjudicated
+University of Texas Houston Hlth. Sci. Ctr_,2015,2016,1,1,1,0.5125,False,False,0,not_adjudicated
+University of Texas Houston Hlth. Sci. Ctr_,2016,2017,1,1,1,0.535031847133758,False,False,0,not_adjudicated
+University of Texas Houston Hlth. Sci. Ctr_,2017,2021,4,1,1,0.0,False,False,0,not_adjudicated
+University of Texas Medical Branch (Galveston),1978,2012,34,1,1,0.0,False,False,2,not_adjudicated
+University of Texas Medical Branch (Galveston),2012,2013,1,1,1,0.025477707006369428,False,False,-1,not_adjudicated
+University of Texas Medical Branch (Galveston),2013,2014,1,1,1,0.3014705882352941,False,False,5,not_adjudicated
+University of Texas Medical Branch (Galveston),2014,2015,1,1,1,0.05063291139240506,False,False,-4,not_adjudicated
+University of Texas Medical Branch (Galveston),2015,2016,1,1,1,0.5909090909090909,False,False,0,not_adjudicated
+University of Texas Medical Branch (Galveston),2016,2017,1,1,1,0.5855263157894737,False,False,0,not_adjudicated
+University of Texas Medical Branch (Galveston),2017,2018,1,1,1,0.7132867132867133,False,False,0,not_adjudicated
+University of Texas Medical Branch (Galveston),2018,2019,1,1,1,0.013043478260869565,False,False,-1,not_adjudicated
+University of Texas Southwestern Med. Ctr_,1978,2013,35,1,1,0.0,False,False,1,not_adjudicated
+University of Texas Southwestern Med. Ctr_,2013,2014,1,1,1,0.28776978417266186,False,False,5,not_adjudicated
+University of Texas Southwestern Med. Ctr_,2014,2015,1,1,1,0.05485232067510549,False,False,-4,not_adjudicated
+University of Texas Southwestern Med. Ctr_,2015,2016,1,1,2,0.3048327137546468,False,True,0,not_adjudicated
+University of Texas Southwestern Med. Ctr_,2016,2017,1,2,1,0.30943396226415093,False,True,0,not_adjudicated
+University of Texas Southwestern Med. Ctr_,2017,2018,1,1,1,0.7132867132867133,False,False,0,not_adjudicated
+University of Texas Southwestern Med. Ctr_,2018,2022,4,1,1,0.0,False,False,-1,not_adjudicated
+University of Texas Southwestern Med. Ctr_,2022,2025,3,1,1,0.5869565217391305,False,False,0,not_adjudicated
+University of Texas at Austin,1978,2011,33,1,1,0.0,False,False,5,not_adjudicated
+University of Texas at Austin,2011,2013,2,1,1,0.1794871794871795,False,False,-4,not_adjudicated
+University of Texas at Austin,2013,2015,2,1,1,0.008333333333333333,False,False,1,not_adjudicated
+University of Texas at Austin,2015,2016,1,1,1,0.46788990825688076,False,False,0,not_adjudicated
+University of Texas at Austin,2016,2017,1,1,1,0.5384615384615384,False,False,0,not_adjudicated
+University of Texas at Austin,2017,2018,1,1,1,0.5,False,False,0,not_adjudicated
+University of Texas at Austin,2018,2021,3,1,1,0.0,False,False,-2,not_adjudicated
+University of Tulsa,2003,2017,14,1,1,0.22916666666666666,False,False,1,not_adjudicated
+University of Utah,1999,2013,14,1,1,0.05925925925925926,False,False,9,not_adjudicated
+University of Virginia,1993,2000,7,1,1,0.2625,False,False,0,not_adjudicated
+University of Virginia,2000,2016,16,1,1,0.0,False,False,-2,not_adjudicated
+University of Virginia,2016,2021,5,1,1,0.0,False,False,1,not_adjudicated
+University of Washington,2003,2015,12,1,1,0.0026666666666666666,False,False,4,not_adjudicated
+University of Washington,2015,2025,10,1,2,0.04288939051918736,False,True,-2,not_adjudicated
+University of Wisconsin-Madison,2005,2008,3,1,1,0.0,False,False,-5,not_adjudicated
+University of Wisconsin-Madison,2008,2022,14,1,1,0.0,False,False,0,not_adjudicated
+Utah State University,1999,2002,3,1,1,0.11764705882352941,False,False,3,not_adjudicated
+Utah State University,2002,2016,14,1,1,0.0,False,False,-2,not_adjudicated
+Vanderbilt University,2011,2016,5,1,1,0.07333333333333333,False,False,2,not_adjudicated
+Virginia Commonwealth University,1999,2003,4,1,1,0.15428571428571428,False,False,3,not_adjudicated
+Virginia Commonwealth University,2003,2021,18,1,1,0.0,False,False,12,not_adjudicated
+Virginia Tech,1990,2008,18,1,1,0.0,False,False,-3,not_adjudicated
+Virginia Tech,2008,2013,5,1,1,0.1693548387096774,False,False,0,not_adjudicated
+Virginia Tech,2013,2015,2,1,1,0.18181818181818182,False,False,1,not_adjudicated
+Virginia Tech,2015,2021,6,1,1,0.35714285714285715,False,False,2,not_adjudicated
+Wake Forest University,1993,1999,6,1,1,0.1724137931034483,False,False,0,not_adjudicated
+Wake Forest University,1999,2017,18,1,2,0.0,False,True,-2,not_adjudicated
+Wake Forest University,2017,2021,4,2,1,0.0,False,True,0,not_adjudicated
+Wake Forest University,2021,2025,4,1,1,0.0,False,False,0,not_adjudicated
+Washington State University,2014,2016,2,1,1,0.22946175637393768,False,False,2,not_adjudicated
+Washington State University,2016,2023,7,1,1,0.011516314779270634,False,False,-1,not_adjudicated
+Washington University in St. Louis,2014,2023,9,1,1,0.42290748898678415,False,False,2,not_adjudicated
+West Virginia University,1999,2006,7,1,1,0.0,False,False,-2,not_adjudicated
+West Virginia University,2006,2016,10,1,1,0.19387755102040816,False,False,0,not_adjudicated
+West Virginia University,2016,2019,3,1,1,0.0,False,False,3,not_adjudicated
+Yale University,1998,2023,25,1,1,0.09022556390977443,False,False,2,not_adjudicated

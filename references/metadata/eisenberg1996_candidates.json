@@ -1,0 +1,173 @@
+[
+  {
+    "DOI": "10.2307/1073686",
+    "title": [
+      "Public Research and Private Development: Patents and Technology Transfer in Government-Sponsored Research"
+    ],
+    "author": [
+      {
+        "given": "Rebecca S.",
+        "family": "Eisenberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Virginia Law Review"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1996,
+          11
+        ]
+      ]
+    },
+    "volume": "82",
+    "issue": "8",
+    "page": "1663"
+  },
+  {
+    "DOI": "10.2139/ssrn.2165156",
+    "title": [
+      "Indian Sponsored Research and Development Support Program: A Model for Promoting University-Industry-Government Technology Collaboration"
+    ],
+    "author": [
+      {
+        "given": "Ganesh",
+        "family": "Prabhu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.4337/9781783476930.00022",
+    "title": [
+      "Private Investor Participation and Commercialization Rates for Government-sponsored Research and Development: Would a Prediction Market Improve the Performance of the SBIR Programme?"
+    ],
+    "author": [
+      {
+        "given": "Albert N.",
+        "family": "Link",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John T.",
+        "family": "Scott",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Public Support of Innovation in Entrepreneurial Firms"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          27
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.22215/etd/1964-00006",
+    "title": [
+      "The administration of government sponsored aeronautical research and development in Canada."
+    ],
+    "author": [
+      {
+        "given": "Dalton",
+        "family": "Cross",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": null,
+    "published": null,
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.55248/gengpi.6.0625.2201",
+    "title": [
+      "Analyzing The Price Differences Between Government-Sponsored  Generic Medicines And Private Brands"
+    ],
+    "author": [
+      {
+        "given": "Hisham",
+        "family": "Khan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "International Journal of Research Publication and Reviews"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "volume": "6",
+    "issue": "6",
+    "page": "5923-5925"
+  }
+]

@@ -1,0 +1,179 @@
+sentence_id,document_id,Institution,Year,File,Sentence_Number,decade,candidate,stratum_population,stratum_sample,inclusion_probability
+p1r000036,835da9c6f973f5728b9f,Albert Einstein/Yeshiva,1985,120v_AlbertEinsteinYeshiva_IPPolicy_1985.txt,36,1980,True,99,12,0.12121212121212122
+p1r000192,1c620bc77a323e2ec2da,Albert Einstein/Yeshiva,2015,120v_AlbertEinsteinYeshiva_IPPolicy_2015.txt,65,2010,True,1056,12,0.011363636363636364
+p1r000779,9e82e3b3bfa1de1e20d6,Ball State University,2013,120v_BallStateUniversity_IPPolicy_2013.txt,61,2010,True,1056,12,0.011363636363636364
+p1r001727,1edf50caf195c2fac2eb,Brigham Young University,1991,120v_BrighamYoungUniversity_IPPolicy_1991.txt,116,1990,False,8133,12,0.0014754703061600886
+p1r002022,bf4e8d9b65e583ee64e7,Clemson University,2016,120v_ClemsonUniversity_IPPolicy_2016.txt,16,2010,True,1056,12,0.011363636363636364
+p1r002483,a8a0bf469f27d6289a9a,Clemson University,2025,120v_ClemsonUniversity_IPPolicy_2025.txt,22,2020,True,632,12,0.0189873417721519
+p1r003400,6fe99eabc87ed3481c26,Drexel University,2018,120v_DrexelUniversity_IPPolicy_2018.txt,28,2010,True,1056,12,0.011363636363636364
+p1r003403,6fe99eabc87ed3481c26,Drexel University,2018,120v_DrexelUniversity_IPPolicy_2018.txt,31,2010,True,1056,12,0.011363636363636364
+p1r003427,6fe99eabc87ed3481c26,Drexel University,2018,120v_DrexelUniversity_IPPolicy_2018.txt,62,2010,True,1056,12,0.011363636363636364
+p1r004706,41b188d3602ae7b9edac,Florida Atlantic University,2013,120v_FloridaAtlanticUniversity_IPPolicy_2013.txt,61,2010,True,1056,12,0.011363636363636364
+p1r004853,41b188d3602ae7b9edac,Florida Atlantic University,2013,120v_FloridaAtlanticUniversity_IPPolicy_2013.txt,208,2010,False,35427,12,0.0003387247014988568
+p1r005111,4ec353ff1c8acd1582cd,Florida State University,1991,120v_FloridaStateUniversity_IPPolicy_1991.txt,129,1990,True,368,12,0.03260869565217391
+p1r005365,0023d515577e1a0f5026,Florida Atlantic University,2020,120v_FloridaAtlanticUniversity_IPPolicy_2020.txt,129,2020,False,18462,12,0.0006499837504062399
+p1r006752,8dbbd919a8f14fd6150b,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,783,2000,False,18011,12,0.0006662595080783965
+p1r007998,8dbbd919a8f14fd6150b,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,2086,2000,True,598,12,0.020066889632107024
+p1r009398,8dbbd919a8f14fd6150b,Georgia Institute of Technology,2002,120v_GeorgiaInstituteofTechnology_IPPolicy_2002.txt,1337,2000,False,18011,12,0.0006662595080783965
+p1r010722,81433294e288f3e01c42,Iowa State University,1982,120v_IowaStateUniversity_IPPolicy_1982.txt,14,1980,True,99,12,0.12121212121212122
+p1r011553,230672e99ea0636b89f0,Louisiana State University,2008,120v_LouisianaStateUniversity_IPPolicy_2008.txt,11,2000,True,598,12,0.020066889632107024
+p1r012112,c694f9b96e12b6eaf817,Louisiana State University,2016,120v_LouisianaStateUniversity_IPPolicy_2016_1.txt,86,2010,True,1056,12,0.011363636363636364
+p1r012879,5545218e371fd0effee2,Louisiana State University,2023,120v_LouisianaStateUniversity_IPPolicy_2023.txt,36,2020,True,632,12,0.0189873417721519
+p1r013552,ab376bca98d57cd4b893,Michigan State University,2001,120v_MichiganStateUniversity_IPPolicy_2001.txt,14,2000,False,18011,12,0.0006662595080783965
+p1r013813,fc0083c4d930690521a6,Mississippi State University,1994,120v_MississippiStateUniversity_IPPolicy_1994_ocr.txt,19,1990,False,8133,12,0.0014754703061600886
+p1r014308,82124991bfd6ee97c140,Michigan State University,1998,120v_MichiganStateUniversity_IPPolicy_1998.txt,385,1990,False,8133,12,0.0014754703061600886
+p1r014655,82124991bfd6ee97c140,Michigan State University,1998,120v_MichiganStateUniversity_IPPolicy_1998.txt,735,1990,False,8133,12,0.0014754703061600886
+p1r015249,1671d4b24346abf76911,New Jersey Institute of Technology,1985,120v_NewJerseyInstituteofTechnology_IPPolicy_1985_ocr.txt,69,1980,False,1970,12,0.006091370558375634
+p1r015289,1597e7284a29a12e8218,New Jersey Institute of Technology,2003,120v_NewJerseyInstituteofTechnology_IPPolicy_2003.txt,20,2000,True,598,12,0.020066889632107024
+p1r015434,bfcaf466756e584965d9,New Jersey Institute of Technology,2024,120v_NewJerseyInstituteofTechnology_IPPolicy_2024.txt,72,2020,True,632,12,0.0189873417721519
+p1r015496,5762d26e7e5b44972b4e,New Jersey Institute of Technology,2025,120v_NewJerseyInstituteofTechnology_PatentRegulation_2025_ocr.txt,16,2020,False,18462,12,0.0006499837504062399
+p1r015499,5762d26e7e5b44972b4e,New Jersey Institute of Technology,2025,120v_NewJerseyInstituteofTechnology_PatentRegulation_2025_ocr.txt,19,2020,False,18462,12,0.0006499837504062399
+p1r015799,9f6bcc6c43c1091512c8,New Mexico State University,2024,120v_NewMexicoStateUniversity_IPPolicy_2024.txt,37,2020,True,632,12,0.0189873417721519
+p1r017115,ed1d9958e904fae0be47,Northern Illinois University,1997,120v_NorthernIllinoisUniversity_1997.txt,169,1990,False,8133,12,0.0014754703061600886
+p1r017144,30c56a69e24def24839d,Ohio State University,1989,120v_OhioStateUniversity_IPPolicy_1989_ocr.txt,10,1980,True,99,12,0.12121212121212122
+p1r017176,30c56a69e24def24839d,Ohio State University,1989,120v_OhioStateUniversity_IPPolicy_1989_ocr.txt,47,1980,False,1970,12,0.006091370558375634
+p1r017180,30c56a69e24def24839d,Ohio State University,1989,120v_OhioStateUniversity_IPPolicy_1989_ocr.txt,52,1980,True,99,12,0.12121212121212122
+p1r017712,bbd59d442846bb51c9e0,Ohio State University,2024,120v_OhioStateUniversity_IPPolicy_2024_ocr.txt,129,2020,True,632,12,0.0189873417721519
+p1r020492,881e036daa02283dde51,New Mexico State University,2013,120v_NewMexicoStateUniversity_PolicyManual_2013.txt,863,2010,False,35427,12,0.0003387247014988568
+p1r024797,881e036daa02283dde51,New Mexico State University,2013,120v_NewMexicoStateUniversity_PolicyManual_2013.txt,5523,2010,False,35427,12,0.0003387247014988568
+p1r026145,7bda434a0bbbd5ad1945,Purdue University,2000,120v_PurdueUniversity_IPPolicy_2000_ocr.txt,52,2000,True,598,12,0.020066889632107024
+p1r027077,762844e59f416eb67e6d,Rutgers the State University of NJ,2021,120v_Rutgers_IPPolicy_2021_ocr.txt,82,2020,False,18462,12,0.0006499837504062399
+p1r027135,a2001bd058a8877356a0,Rutgers the State University of NJ,2008,120v_Rutgers_PolicyGuide_2008_ocr.txt,20,2000,True,598,12,0.020066889632107024
+p1r027537,fba2e8caacbab9a3728a,St. Louis University,1999,120v_St.LouisUniversity_IPPolicy_1999.txt,49,1990,True,368,12,0.03260869565217391
+p1r027772,23a8e0c77d09f1a1fcff,Southern Illinois University,2018,120v_SouthernIllinoisUnivrsity_PolicyBargain_2018_ocr.txt,263,2010,False,35427,12,0.0003387247014988568
+p1r028485,23a8e0c77d09f1a1fcff,Southern Illinois University,2018,120v_SouthernIllinoisUnivrsity_PolicyBargain_2018_ocr.txt,1109,2010,False,35427,12,0.0003387247014988568
+p1r030664,eaaba83b09f8513b1c9b,Stevens Institute of Technology,2025,120v_StevensInstituteofTechnology_FacultyHandbook_2025_ocr.txt,162,2020,False,18462,12,0.0006499837504062399
+p1r032347,c880d08aae230994eff8,Temple University,1985,120v_TempleUniversity_IPPolicy_1985_ocr.txt,44,1980,False,1970,12,0.006091370558375634
+p1r032632,f8e01262a53c9881d495,Texas A&M University System,2009,120v_TexasA&M_IPPolicy_2009_ocr.txt,133,2000,False,18011,12,0.0006662595080783965
+p1r033695,c43fe54d37602c15f63a,Thomas Jefferson University,2006,120v_ThomasJeffersonUniversity_IPPolicy_2006_ocr.txt,49,2000,True,598,12,0.020066889632107024
+p1r033805,57037879a7b4ca336232,Thomas Jefferson University,1998,120v_ThomasJeffersonUniversity_IPPolicy_1998_ocr.txt,49,1990,True,368,12,0.03260869565217391
+p1r033854,57037879a7b4ca336232,Thomas Jefferson University,1998,120v_ThomasJeffersonUniversity_IPPolicy_1998_ocr.txt,98,1990,True,368,12,0.03260869565217391
+p1r033896,1b738bbdc262053d6f54,Tulane University,1985,120v_TulaneUniversity_IPPolicy_1985.txt,40,1980,True,99,12,0.12121212121212122
+p1r033987,816442be0acfaa86f9c3,University of Akron,2002,120v_UniversityofAkron_IPPolicy_2002.txt,47,2000,False,18011,12,0.0006662595080783965
+p1r034299,65c9fc6edad844998f32,University of Akron,1996,120v_UniversityofAkron_IPPolicy_1996.txt,65,1990,True,368,12,0.03260869565217391
+p1r034342,5c45f104dc0844f4ec0a,University of Alabama in Birmingham (UAB),1980,120v_UniversityofAlabamainBirmingham_IPPolicy_1980.txt,15,1980,True,99,12,0.12121212121212122
+p1r034345,5c45f104dc0844f4ec0a,University of Alabama in Birmingham (UAB),1980,120v_UniversityofAlabamainBirmingham_IPPolicy_1980.txt,18,1980,True,99,12,0.12121212121212122
+p1r034492,053194565125811f2219,University of Arizona,1987,120v_UniversityofArizona_IPPolicy_1987_ocr.txt,29,1980,True,99,12,0.12121212121212122
+p1r034507,053194565125811f2219,University of Arizona,1987,120v_UniversityofArizona_IPPolicy_1987_ocr.txt,51,1980,False,1970,12,0.006091370558375634
+p1r034567,66e56da2306bd6ca1f28,University of Arizona,1996,120v_UniversityofArizona_IPPolicy_1996_ocr.txt,39,1990,True,368,12,0.03260869565217391
+p1r034611,701ff6fbf60a1b17ef28,University of Arizona,1985,120v_UniversityofArizona_IPPolicy_1985_ocr.txt,42,1980,True,99,12,0.12121212121212122
+p1r034811,c0df1229a7c5bda55645,University of Arizona,1999,120v_UniversityofArizona_IPPolicy_1999_ocr.txt,75,1990,True,368,12,0.03260869565217391
+p1r035767,f2e041a9d0947eacd0f7,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,16,1960,True,7,7,1.0
+p1r035769,f2e041a9d0947eacd0f7,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,18,1960,False,67,12,0.1791044776119403
+p1r035773,f2e041a9d0947eacd0f7,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,22,1960,False,67,12,0.1791044776119403
+p1r035776,f2e041a9d0947eacd0f7,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,25,1960,False,67,12,0.1791044776119403
+p1r035777,f2e041a9d0947eacd0f7,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,26,1960,True,7,7,1.0
+p1r035778,f2e041a9d0947eacd0f7,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,27,1960,True,7,7,1.0
+p1r035781,f2e041a9d0947eacd0f7,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,30,1960,False,67,12,0.1791044776119403
+p1r035783,f2e041a9d0947eacd0f7,University of Arkansas,1967,120v_UniversityofArkansas_IPPolicy_1967.txt,32,1960,True,7,7,1.0
+p1r035787,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,3,1940,False,78,12,0.15384615384615385
+p1r035789,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,5,1940,True,16,12,0.75
+p1r035792,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,8,1940,True,16,12,0.75
+p1r035798,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,14,1940,False,78,12,0.15384615384615385
+p1r035799,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,15,1940,False,78,12,0.15384615384615385
+p1r035802,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,18,1940,True,16,12,0.75
+p1r035803,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,19,1940,True,16,12,0.75
+p1r035808,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,24,1940,True,16,12,0.75
+p1r035810,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,26,1940,False,78,12,0.15384615384615385
+p1r035814,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,30,1940,False,78,12,0.15384615384615385
+p1r035817,dc858626ca1bb5533a8b,University of Arkansas,1945,120v_UniversityofArkansas_IPPolicy_1945.txt,33,1940,True,16,12,0.75
+p1r035987,51007c8edd3ee3b94354,University of Cincinnati,2019,120v_UniversityofCincinnati_IPPolicy_2019.txt,4,2010,False,35427,12,0.0003387247014988568
+p1r036539,b6ef3a7840778e0b6c7e,University of Dayton,2015,120v_UniversityofDayton_IPPolicy_2015_ocr.txt,20,2010,True,1056,12,0.011363636363636364
+p1r037017,45e0e69316e6cdfc3ecd,University of Georgia,1982,120v_UniversityofGeorgia_IPPolicy_1982.txt,30,1980,False,1970,12,0.006091370558375634
+p1r037276,b64bc0ff5abc7823a6ad,University of Hawaii,1985,120v_UniversityofHawaii_IPpolicy_1985_ocr.txt,29,1980,True,99,12,0.12121212121212122
+p1r041753,4db584bfef42d243b897,University of Illinois Urbana Champaign,2023,120v_UniversityofIllinoisUrbanaChampaign_IPPolicy_2023.txt,212,2020,False,18462,12,0.0006499837504062399
+p1r044742,159745c0582f3ea9b59e,University of Louisville,1998,120v_UniversityofLouisville_IPPolicy_1998.txt,16,1990,False,8133,12,0.0014754703061600886
+p1r044833,e182d5d1ed30012a6b1f,University of Kentucky,1988,120v_UniversityofKentucky_IPPolicy_1988.txt,39,1980,True,99,12,0.12121212121212122
+p1r044844,e182d5d1ed30012a6b1f,University of Kentucky,1988,120v_UniversityofKentucky_IPPolicy_1988.txt,50,1980,False,1970,12,0.006091370558375634
+p1r044898,e182d5d1ed30012a6b1f,University of Kentucky,1988,120v_UniversityofKentucky_IPPolicy_1988.txt,107,1980,False,1970,12,0.006091370558375634
+p1r045453,30bdc618d54715915940,University of Maryland Baltimore,1990,120v_UniversityofMarylandBaltimore_IPPolicy_1990.txt,15,1990,True,368,12,0.03260869565217391
+p1r045576,feb61699ba6899c07bbc,University of Maryland Baltimore,2006,120v_UniversityofMarylandBaltimore_IPPolicy_2006_ocr.txt,155,2000,True,598,12,0.020066889632107024
+p1r046068,17ba1df37814a8085ee3,University of Maryland Baltimore,2005,120v_UniversityofMarylandBaltimore_IPPolicy_2005.txt,107,2000,False,18011,12,0.0006662595080783965
+p1r046102,17ba1df37814a8085ee3,University of Maryland Baltimore,2005,120v_UniversityofMarylandBaltimore_IPPolicy_2005.txt,141,2000,True,598,12,0.020066889632107024
+p1r046226,17ba1df37814a8085ee3,University of Maryland Baltimore,2005,120v_UniversityofMarylandBaltimore_IPPolicy_2005.txt,281,2000,True,598,12,0.020066889632107024
+p1r047269,c9d313d1eb5f8ff45813,University of Massachusetts Amherst,1997,120v_UniversityofMassachusettsSystem_IPPolicy_1997_ocr.txt,52,1990,True,368,12,0.03260869565217391
+p1r047333,c9d313d1eb5f8ff45813,University of Massachusetts Amherst,1997,120v_UniversityofMassachusettsSystem_IPPolicy_1997_ocr.txt,116,1990,False,8133,12,0.0014754703061600886
+p1r048401,5aa8cc2cee7180b52526,University of Missouri System,2010,120v_UniversityofMissouriSystem_IPPolicy_2010.txt,52,2010,True,1056,12,0.011363636363636364
+p1r048761,cfb5fe644d80907bf763,University of Miami,2014,120v_UniversityofMiami_FacultyManual_2014.txt,29,2010,False,35427,12,0.0003387247014988568
+p1r050693,cfb5fe644d80907bf763,University of Miami,2014,120v_UniversityofMiami_FacultyManual_2014.txt,2032,2010,False,35427,12,0.0003387247014988568
+p1r051853,92263e29e90332e7fd6c,University of Nebraska,2025,120v_UniversityofNebraska_IPPolicy_2025_ocr.txt,130,2020,False,18462,12,0.0006499837504062399
+p1r051886,92263e29e90332e7fd6c,University of Nebraska,2025,120v_UniversityofNebraska_IPPolicy_2025_ocr.txt,167,2020,False,18462,12,0.0006499837504062399
+p1r052769,c58c1b72402a2173ff6f,University of New Mexico,1999,120v_UniversityofNewMexico_IPPolicy_1999.txt,96,1990,False,8133,12,0.0014754703061600886
+p1r053458,5c16e821caa116f357d0,University of Nebraska,2003,120v_UniversityofNebraska_IPPolicy_2003.txt,737,2000,False,18011,12,0.0006662595080783965
+p1r054504,5c16e821caa116f357d0,University of Nebraska,2003,120v_UniversityofNebraska_IPPolicy_2003.txt,1887,2000,False,18011,12,0.0006662595080783965
+p1r057298,7d605164182588eb9699,University of Nebraska,2025,120v_UniversityofNebraska_BoardofRegents_2025_ocr.txt,2006,2020,True,632,12,0.0189873417721519
+p1r058560,0b94e7efe936f45b33b0,University of North Dakota,2005,120s_UniversityofNorthDakota_IPPolicy_2005.txt,21,2000,True,598,12,0.020066889632107024
+p1r059387,2a23f0f5dc4aae32fa42,University of Pittsburgh,1978,120v_UniversityofPittsburgh_IPPolicy_1978.txt,12,1970,True,3,3,1.0
+p1r059402,2a23f0f5dc4aae32fa42,University of Pittsburgh,1978,120v_UniversityofPittsburgh_IPPolicy_1978.txt,27,1970,True,3,3,1.0
+p1r059531,3128fe1041957fca5b44,University of Pittsburgh,2005,120v_UniversityofPittsburgh_IPPolicy_2005.txt,14,2000,True,598,12,0.020066889632107024
+p1r059588,705e522e8493bcfb0891,University of Rhode Island,2021,120v_UniversityofRhodeIsland_IPPolicy_2021_ocr.txt,26,2020,True,632,12,0.0189873417721519
+p1r059725,8cb0d92c00a9e68dacf2,University of Rhode Island,1986,120v_UniversityofRhodeIsland_IPPolicy_1986.txt,36,1980,False,1970,12,0.006091370558375634
+p1r059746,8cb0d92c00a9e68dacf2,University of Rhode Island,1986,120v_UniversityofRhodeIsland_IPPolicy_1986.txt,62,1980,False,1970,12,0.006091370558375634
+p1r060316,da9529a2c5c504e63582,University of South Alabama,2020,120v_UniversityofSouthAlabama_PatentPolicy_2020_ocr.txt,19,2020,True,632,12,0.0189873417721519
+p1r060663,e9f2e220746c085c5b36,University of South Carolina,1994,120v_UniversityofSouthCarolina_IPPolicy_1994.txt,113,1990,False,8133,12,0.0014754703061600886
+p1r061171,35d61496dbac0fb417e6,University of South Florida,2020,120v_UniversityofSouthFlorida_IPPolicy_2020_ocr.txt,106,2020,True,632,12,0.0189873417721519
+p1r062841,f25bc03ab9ce79708eb0,University of Rhode Island,2013,120v_UniversityofRhodeIsland_IPPolicy_2013_ocr.txt,1739,2010,False,35427,12,0.0003387247014988568
+p1r064360,dab4fc74887c30cf07e2,University of South Florida,2023,120v_UniversityofSouthFlorida_IPPolicy_2023_ocr.txt,143,2020,False,18462,12,0.0006499837504062399
+p1r064362,dab4fc74887c30cf07e2,University of South Florida,2023,120v_UniversityofSouthFlorida_IPPolicy_2023_ocr.txt,152,2020,False,18462,12,0.0006499837504062399
+p1r064710,a5fa5f0f4af62284eba0,University of Texas Hlth Sci Ctr San Antonio,2015,120v_UniversityofTexasHealthScienceCenterSanAntonio_IPPolicy_2015(1)_ocr.txt,35,2010,False,35427,12,0.0003387247014988568
+p1r065606,aa1a29d22fe5fc25ebd7,University of Texas Houston Hlth. Sci. Ctr_,2013,120v_UniversityofTexasHoustonHealth.Sci.Ctr._IPPolicy_2013_ocr.txt,131,2010,False,35427,12,0.0003387247014988568
+p1r068316,fe0627d267c051c516cc,University of Texas Southwestern Med. Ctr_,1978,120v_UniversityofTexasSouthwesternMed.Ctr_PatentPolicy_1978_ocr.txt,25,1970,False,2232,12,0.005376344086021506
+p1r068679,e4fa6b914c56a748c2ed,University of Washington,2003,120v_UniversityofWashington_IPPolicy_2003.txt,13,2000,True,598,12,0.020066889632107024
+p1r069442,cd18c3ab9deada294e94,University of Wisconsin-Madison,2008,120v_UniversityofWisconsin-Madison_RoyaltyShare_2008.txt,6,2000,False,18011,12,0.0006662595080783965
+p1r069533,b3201a35f5d998a40063,Utah State University,2002,120v_UtahStateUniversity_IPPolicy_2002.txt,18,2000,False,18011,12,0.0006662595080783965
+p1r069680,1a59af1c2a35e4f9db41,Virginia Commonwealth University,1999,120v_VirginiaCommonwealthUniversity_IPPolicy_1999.txt,26,1990,False,8133,12,0.0014754703061600886
+p1r071292,786e7c373ebe9e7e99b3,Washington State University,2016,120v_WashingtonStateUniversity_IPPolicy_2016_ocr.txt,137,2010,True,1056,12,0.011363636363636364
+p1r071665,4aaa1fcd237c8a16782b,Washington State University,2023,120v_WashingtonStateUniversity_IPPolicy_2023.txt,253,2020,False,18462,12,0.0006499837504062399
+p1r071823,c041634a217530ab3326,Wayne State University,1998,120v_WayneStateUniversity_IPPolicy_1998_ocr.txt,114,1990,True,368,12,0.03260869565217391
+p1r072488,65bf951eb8659ca2903d,California Institute of Technology,1944,32_CaliforniaInstituteofTechnology_PatentAgreement,9,1940,False,78,12,0.15384615384615385
+p1r072490,65bf951eb8659ca2903d,California Institute of Technology,1944,32_CaliforniaInstituteofTechnology_PatentAgreement,11,1940,False,78,12,0.15384615384615385
+p1r072495,65bf951eb8659ca2903d,California Institute of Technology,1944,32_CaliforniaInstituteofTechnology_PatentAgreement,16,1940,True,16,12,0.75
+p1r072496,65bf951eb8659ca2903d,California Institute of Technology,1944,32_CaliforniaInstituteofTechnology_PatentAgreement,17,1940,True,16,12,0.75
+p1r072497,65bf951eb8659ca2903d,California Institute of Technology,1944,32_CaliforniaInstituteofTechnology_PatentAgreement,18,1940,False,78,12,0.15384615384615385
+p1r072498,7e718130d69e6a8d8657,California Institute of Technology,1944,32_CaliforniaInstituteofTechnology_PatentAgreemnt,1,1940,False,78,12,0.15384615384615385
+p1r072499,7e718130d69e6a8d8657,California Institute of Technology,1944,32_CaliforniaInstituteofTechnology_PatentAgreemnt,2,1940,True,16,12,0.75
+p1r072502,7e718130d69e6a8d8657,California Institute of Technology,1944,32_CaliforniaInstituteofTechnology_PatentAgreemnt,5,1940,True,16,12,0.75
+p1r072505,095e57c02418c25df94f,California Institute of Technology,1947,32_CaliforniaInstituteofTechnology_PatentAgreemnt,3,1940,False,78,12,0.15384615384615385
+p1r072511,095e57c02418c25df94f,California Institute of Technology,1947,32_CaliforniaInstituteofTechnology_PatentAgreemnt,9,1940,True,16,12,0.75
+p1r072548,e8b022568f0b03f251b6,California Institute of Technology,1945,32_CaliforniaInstituteofTechnology_PatentPolicy,9,1940,False,78,12,0.15384615384615385
+p1r072553,e8b022568f0b03f251b6,California Institute of Technology,1945,32_CaliforniaInstituteofTechnology_PatentPolicy,14,1940,False,78,12,0.15384615384615385
+p1r072559,e8b022568f0b03f251b6,California Institute of Technology,1945,32_CaliforniaInstituteofTechnology_PatentPolicy,20,1940,True,16,12,0.75
+p1r072568,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,3,1960,True,7,7,1.0
+p1r072570,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,5,1960,False,67,12,0.1791044776119403
+p1r072572,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,7,1960,False,67,12,0.1791044776119403
+p1r072573,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,8,1960,False,67,12,0.1791044776119403
+p1r072578,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,13,1960,False,67,12,0.1791044776119403
+p1r072582,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,17,1960,False,67,12,0.1791044776119403
+p1r072583,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,18,1960,False,67,12,0.1791044776119403
+p1r072584,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,19,1960,False,67,12,0.1791044776119403
+p1r072587,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,22,1960,False,67,12,0.1791044776119403
+p1r072596,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,31,1960,True,7,7,1.0
+p1r072597,8dc0664db0917921568f,California Institute of Technology,1968,32_CaliforniaInstituteofTechnology_PatentPolicy,32,1960,True,7,7,1.0
+p1r073004,ecc2d4fbc656348c433f,Columbia University,1989,32s_ColumbiaUniversity,106,1980,False,1970,12,0.006091370558375634
+p1r073449,8bcbda04dc0c4fb7d257,Dartmouth College,2019,32s_DartmouthCollege_IPPolicy,152,2010,True,1056,12,0.011363636363636364
+p1r073528,5e9875602198cb0b38ef,Duke University,1997,32s_Duke_University,35,1990,True,368,12,0.03260869565217391
+p1r076806,51c763298f2ccbcfefa7,New York University,2021,32s_NewYorkUniversity_IPPolicy,601,2020,True,632,12,0.0189873417721519
+p1r076998,51c763298f2ccbcfefa7,New York University,2021,32s_NewYorkUniversity_IPPolicy,793,2020,True,632,12,0.0189873417721519
+p1r077341,5a9dd12169d5b72cb562,University of California System,1985,32s_UniversityofCaliforniaSystem_IPPolicy,7,1980,False,1970,12,0.006091370558375634
+p1r077413,240789630a5ba5225699,University of California System,1997,32s_UniversityofCaliforniaSystem_IPPolicy,31,1990,False,8133,12,0.0014754703061600886
+p1r078887,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,134,1970,False,2232,12,0.005376344086021506
+p1r078909,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,156,1970,False,2232,12,0.005376344086021506
+p1r079153,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,400,1970,False,2232,12,0.005376344086021506
+p1r079775,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1022,1970,True,3,3,1.0
+p1r079880,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1127,1970,False,2232,12,0.005376344086021506
+p1r079921,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1168,1970,False,2232,12,0.005376344086021506
+p1r080035,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1282,1970,False,2232,12,0.005376344086021506
+p1r080069,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1316,1970,False,2232,12,0.005376344086021506
+p1r080367,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1614,1970,False,2232,12,0.005376344086021506
+p1r080546,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1793,1970,False,2232,12,0.005376344086021506
+p1r080578,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1825,1970,False,2232,12,0.005376344086021506
+p1r080654,fb89bcd730db56200fb7,University of Texas at Austin,1978,32s_UniversityofTexasAtAustin_IPPolicy,1901,1970,False,2232,12,0.005376344086021506
+p1r082275,173936bbe89f4d166005,Washington University in St. Louis,2023,32s_WashingtonUniversityinSt.Louis_IPPolicy,319,2020,False,18462,12,0.0006499837504062399
+p1r084134,8ccc101db20612777fc7,University of Pennsylvania,2015,UniversityofPennsylvania_IPPolicy_2015.txt,148,2010,False,35427,12,0.0003387247014988568
+p1r085371,8e85ba6c8cfb18d83efa,University of Pennsylvania,2023,UniversityofPennsylvania_IPPolicy_2023.txt,107,2020,True,632,12,0.0189873417721519
+p1r085866,331948db347acc3bcc98,Stanford University,1996,32v_Stanford_IPPolicy_1996_ocr.txt,64,1990,True,368,12,0.03260869565217391
+p1r086243,5c5622b3198025bc4fb0,Stanford University,1999,32v_Stanford_IPPolicy_1999_ocr.txt,71,1990,False,8133,12,0.0014754703061600886
+p1r086797,67def74f47c6b7cb216f,Stanford University,1989,32v_Stanford_PolicyHandbook_1989_ocr.txt,117,1980,False,1970,12,0.006091370558375634
+p1r086859,67def74f47c6b7cb216f,Stanford University,1989,32v_Stanford_PolicyHandbook_1989_ocr.txt,179,1980,True,99,12,0.12121212121212122
+p1r087034,c81ab194c3863930035c,University of Southern California,2001,32s_UniversityofSouthernCalifornia_IPPolicy_2001.txt,160,2000,False,18011,12,0.0006662595080783965
+p1r087113,c81ab194c3863930035c,University of Southern California,2001,32s_UniversityofSouthernCalifornia_IPPolicy_2001.txt,239,2000,False,18011,12,0.0006662595080783965

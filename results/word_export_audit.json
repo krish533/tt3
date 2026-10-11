@@ -1,0 +1,10 @@
+{
+  "format": "rtf",
+  "source": "manuscript/main.tex",
+  "tables": 6,
+  "figures": 1,
+  "bibliography_entries": 48,
+  "unsupported_latex_commands": 0,
+  "visual_render_verified": false,
+  "limitation": "No bundled document runtime/LibreOffice renderer exposed. RTF is Word-compatible; final Word pagination must be inspected externally."
+}

@@ -1,0 +1,80 @@
+{
+  "DOI": "10.1162/coli.07-034-r2",
+  "title": [
+    "Inter-Coder Agreement for Computational Linguistics"
+  ],
+  "author": [
+    {
+      "given": "Ron",
+      "family": "Artstein",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "* Now at the Institute for Creative Technologies, University of Southern California, 13274 Fiji Way, Marina Del Rey, CA 90292."
+        },
+        {
+          "name": "** At the University of Essex: Department of Computing and Electronic Systems, University of Essex, Wivenhoe Park, Colchester, CO4 3SQ, UK.. At the University of Trento: CIMeC, Università degli Studi di Trento, Palazzo Fedrigotti, Corso Bettini, 31, 38068 Rovereto (TN), Italy.."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Massimo",
+      "family": "Poesio",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "* Now at the Institute for Creative Technologies, University of Southern California, 13274 Fiji Way, Marina Del Rey, CA 90292."
+        },
+        {
+          "name": "** At the University of Essex: Department of Computing and Electronic Systems, University of Essex, Wivenhoe Park, Colchester, CO4 3SQ, UK.. At the University of Trento: CIMeC, Università degli Studi di Trento, Palazzo Fedrigotti, Corso Bettini, 31, 38068 Rovereto (TN), Italy.."
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "editor": null,
+  "container-title": [
+    "Computational Linguistics"
+  ],
+  "publisher": "MIT Press",
+  "published": {
+    "date-parts": [
+      [
+        2008,
+        12
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2008,
+        12
+      ]
+    ]
+  },
+  "published-online": null,
+  "volume": "34",
+  "issue": "4",
+  "page": "555-596",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1162/coli.07-034-r2",
+  "resource": {
+    "primary": {
+      "URL": "https://direct.mit.edu/coli/article/34/4/555-596/1999"
+    }
+  }
+}

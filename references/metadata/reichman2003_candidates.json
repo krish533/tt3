@@ -1,0 +1,125 @@
+[
+  {
+    "DOI": "10.4337/9781847201522.00007",
+    "title": [
+      "The Market Economy and the Scientific Commons"
+    ],
+    "author": [
+      {
+        "given": "Richard R.",
+        "family": "Nelson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Intellectual Property Rights"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          7,
+          27
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "DOI": "10.1017/cbo9781139128957.009",
+    "title": [
+      "Fully Exploiting Data-Intensive Research Opportunities in the Networked Environment"
+    ],
+    "author": null,
+    "container-title": [
+      "Governing Digitally Integrated Genetic Resources, Data, and Literature"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          19
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "406-470"
+  },
+  {
+    "DOI": "10.1017/cbo9781139128957.010",
+    "title": [
+      "Institutional Models for a Transnational Research Commons"
+    ],
+    "author": null,
+    "container-title": [
+      "Governing Digitally Integrated Genetic Resources, Data, and Literature"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          19
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "473-567"
+  },
+  {
+    "DOI": "10.1017/cbo9781139128957.005",
+    "title": [
+      "The Existing Microbial Research Commons Confronts Proprietary Obstacles"
+    ],
+    "author": null,
+    "container-title": [
+      "Governing Digitally Integrated Genetic Resources, Data, and Literature"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          19
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "167-249"
+  },
+  {
+    "DOI": "10.1017/cbo9781139128957.007",
+    "title": [
+      "Legal and Institutional Obstacles Impeding Access to and Use of Scientific Literature and Data"
+    ],
+    "author": null,
+    "container-title": [
+      "Governing Digitally Integrated Genetic Resources, Data, and Literature"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          19
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "319-372"
+  }
+]

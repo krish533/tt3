@@ -1,0 +1,71 @@
+{
+  "DOI": "10.1371/journal.pone.0304647",
+  "title": [
+    "Navigating intellectual property (IP): A comparative analysis of Australian universities’ IP policies"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-1232-6473",
+      "authenticated-orcid": true,
+      "given": "Hamid R.",
+      "family": "Jamali",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "editor": [
+    {
+      "given": "Narcyz",
+      "family": "Ghinea",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "editor",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "PLOS ONE"
+  ],
+  "publisher": "Public Library of Science (PLoS)",
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        30
+      ]
+    ]
+  },
+  "published-print": null,
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        30
+      ]
+    ]
+  },
+  "volume": "19",
+  "issue": "5",
+  "page": "e0304647",
+  "article-number": null,
+  "type": "journal-article",
+  "ISBN": null,
+  "URL": "https://doi.org/10.1371/journal.pone.0304647",
+  "resource": {
+    "primary": {
+      "URL": "https://dx.plos.org/10.1371/journal.pone.0304647"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "probability_sample_sentences": 178,
+  "sample_institutions": 68,
+  "purposive_readings": 12,
+  "purposive_sentence_links": 15,
+  "independent_human_annotators": 0,
+  "reference_standard_labels": 0,
+  "precision": null,
+  "recall": null,
+  "agreement": null,
+  "reason": "No independent reference standard; purposive AI-assisted readings diagnose errors without estimating accuracy."
+}

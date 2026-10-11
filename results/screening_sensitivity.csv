@@ -1,0 +1,5 @@
+sensitivity,sentences,candidates,per_1000,observed_records,institutions
+primary_unchanged,87159,2779,31.884257506396356,480,150
+deduplicate_normalized_sentences_within_file,84456,2768,32.77446244198162,480,150
+exclude_sentence_identifier_collision_institution,82858,2767,33.394482126046974,476,149
+observed_1980_onward,84756,2753,32.48147623767049,467,150
