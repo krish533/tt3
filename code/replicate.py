@@ -12,7 +12,7 @@ def main():
  run('code/fetch_sources.py')
  run('code/extract_ownership.py','input/policy_sentences_cleaned_combined.csv')
  run('code/analyze_screening.py')
- for name in ['audit_corpus','classify_provisions','analyze_history','recover_embedded_sources','build_evidence','build_references','build_tables','audit_manuscript','sync_overleaf','export_word_rtf']:
+ for name in ['audit_corpus','classify_provisions','analyze_history','recover_embedded_sources','build_evidence','analyze_substantive_transitions','build_references','build_tables','audit_manuscript','sync_overleaf','export_word_rtf']:
   run('code/'+name+'.py')
  run('-m','unittest','discover','-s','tests','-v')
  (ROOT/'build').mkdir(exist_ok=True)

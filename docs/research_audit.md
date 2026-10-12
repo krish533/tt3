@@ -1,3 +1,7 @@
+# Current revision
+
+The 11 October substantive revision supersedes the manuscript and artifact status below. See [substantive revision audit](substantive_revision_audit.md) for the new comparisons, 54-source bibliography, four tables, 20-page manuscript and current limitations. Original corpus findings below are unchanged.
+
 # Paper 3 research audit — 10 October 2026
 
 ## What this release establishes

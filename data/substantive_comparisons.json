@@ -1,0 +1,389 @@
+{
+  "coding_status": "AI-assisted contextual interpretation; not independent human validation",
+  "pairs": [
+    {
+      "pair_id": "UT1999_2013",
+      "institution": "University of Utah",
+      "from_year": 1999,
+      "to_year": 2013,
+      "adjacent_in_frozen_corpus": true,
+      "earlier_source": "utah_r3",
+      "later_source": "utah_r4",
+      "context_sources": [
+        "utah_history"
+      ],
+      "authentication": "Official 1999 revision 3 under former number 6-4; official revision history confirms renumbering and 2013 revision 4. Later PDF incorporates listed 2021-2023 editorial changes; selected operative comparisons corroborated against frozen 2013 sentences and contemporaneous May 2013 memorandum. Not a byte-identical 2013 original.",
+      "scope": "Selected invention-policy relationships for the same university; not exhaustive copyright, consulting, sponsor or executed-contract adjudication.",
+      "definition_change": "Explicitly enumerated inventions definition adds research outputs and places software under the invention policy; earlier policy already mentions software in commercialization.",
+      "classification": "mixed_definition_and_rule_changes",
+      "net_institutional_expansion": "indeterminate",
+      "selection": "Purposive official-archive search, not probability sampling."
+    },
+    {
+      "pair_id": "HI1985_2020",
+      "institution": "University of Hawaii",
+      "from_year": 1985,
+      "to_year": 2020,
+      "adjacent_in_frozen_corpus": false,
+      "earlier_source": "hawaii1985",
+      "later_source": "hawaii2020",
+      "context_sources": [
+        "hawaii_cba2003"
+      ],
+      "authentication": "Official March 1985 executive policy and December 2020 amended policy; 2020 header retains October 2014 effective date. Selected clauses match frozen endpoint records. Intervening 2014 corpus version not independently authenticated.",
+      "scope": "System-wide executive-policy endpoints; 2003-2009 agreement applies to covered faculty, not all employees. No inference about exact dates of intermediate change or current contractual enforceability.",
+      "definition_change": "Later policy expressly states no unique definitions; additional enumeration of syllabi and distance-learning arrangements is not a formal expansion of the IP definition.",
+      "classification": "naming_with_creator_protection_and_mixed_control_changes",
+      "net_institutional_expansion": "indeterminate",
+      "selection": "Purposive long-interval endpoint comparison; not an additional adjacent revision in the 330-pair denominator."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "UT01",
+      "pair_id": "UT1999_2013",
+      "dimension": "Assignment mechanism",
+      "category": "inventions; defined umbrella",
+      "holder": "institution",
+      "operation": "ownership claim; assignment obligation; purported present assignment",
+      "before_ids": [
+        68345,
+        68346
+      ],
+      "after_ids": [
+        68409,
+        68410
+      ],
+      "before_locator": "III.B.1, p.1",
+      "after_locator": "III.B.1, p.5",
+      "before": "Claim of title plus assignment on request.",
+      "after": "Express present-assignment wording plus confirmatory assignment on request.",
+      "change": "changed_transfer_mechanism",
+      "direction": "stronger_formal_institutional_claim",
+      "qualification": "No executed agreement or enforceability adjudicated. Existing title assertion is not coded as absence of institutional ownership.",
+      "before_quote": "acquires and retains title",
+      "after_quote": "agrees to assign and does assign",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "UT02",
+      "pair_id": "UT1999_2013",
+      "dimension": "Resource threshold",
+      "category": "inventions; defined umbrella",
+      "holder": "institution; creator",
+      "operation": "conditional ownership; exception",
+      "before_ids": [
+        68345
+      ],
+      "after_ids": [
+        68395,
+        68396,
+        68409
+      ],
+      "before_locator": "III.B.1, p.1",
+      "after_locator": "II.C, pp.3-4; III.B.1, p.5",
+      "before": "Resource trigger excludes facilities and materials available to the public.",
+      "after": "Non-incidental trigger also excludes ordinary departmental resources; paid inventor time counts.",
+      "change": "resource_branch_narrowed_and_defined",
+      "direction": "creator_protection_conditional",
+      "qualification": "Compare an invention outside expertise and university research, on unpaid private time, using only ordinary departmental equipment unavailable to the public. Other triggers can preserve a claim.",
+      "before_quote": "available to the general public",
+      "after_quote": "non-incidental use of University resources",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "UT03",
+      "pair_id": "UT1999_2013",
+      "dimension": "Employee trigger",
+      "category": "inventions",
+      "holder": "institution",
+      "operation": "conditional ownership",
+      "before_ids": [
+        68345
+      ],
+      "after_ids": [
+        68388,
+        68389,
+        68409
+      ],
+      "before_locator": "III.B.1, p.1",
+      "after_locator": "II.A, p.2; III.B.1, p.5",
+      "before": "Result of employment or research, or specified resource use.",
+      "after": "Expertise, university research, or non-incidental resources are separate grounds.",
+      "change": "trigger_reformulated",
+      "direction": "indeterminate",
+      "qualification": "Earlier employment relationship can encompass some expertise-related activity; do not assume all off-campus work was formerly excluded.",
+      "before_quote": "University employment or research",
+      "after_quote": "within his or her area of expertise",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "UT04",
+      "pair_id": "UT1999_2013",
+      "dimension": "Student exception",
+      "category": "inventions",
+      "holder": "student; institution",
+      "operation": "exception; conditional assignment",
+      "before_ids": [
+        68345,
+        68346,
+        68354
+      ],
+      "after_ids": [
+        68402,
+        68403,
+        68404,
+        68409,
+        68422
+      ],
+      "before_locator": "III.B.1 and III.B.6, pp.1-2",
+      "after_locator": "II.D, p.4; III.B.1 and III.B.6, pp.5,7",
+      "before": "Exception for students outside organized or sponsored research; interaction with general resource claim requires interpretation.",
+      "after": "Nonemployee student exception requires no relevant university research and only incidental resources; mere advising is excluded from university research.",
+      "change": "exception_and_research_trigger_reformulated",
+      "direction": "mixed_or_indeterminate",
+      "qualification": "Neither general student dispossession nor an unconditional new student right follows. Preserve employee/nonemployee distinction and earlier internal tension.",
+      "before_quote": "organized or sponsored research",
+      "after_quote": "excluding student-employees",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "UT05",
+      "pair_id": "UT1999_2013",
+      "dimension": "Release after inactivity",
+      "category": "inventions",
+      "holder": "creator; institution",
+      "operation": "release; retained creator claim",
+      "before_ids": [
+        68350,
+        68351
+      ],
+      "after_ids": [
+        68418,
+        68419
+      ],
+      "before_locator": "III.B.5, p.2",
+      "after_locator": "III.B.5(a), p.7",
+      "before": "Creator claim honored after three years without active promotion or development.",
+      "after": "Creator claim honored after a reasonable time without active promotion or development.",
+      "change": "release_timing_changed",
+      "direction": "indeterminate",
+      "qualification": "Reasonableness can be shorter or longer than three years. Do not code a new release right: an earlier right existed.",
+      "before_quote": "three-year period",
+      "after_quote": "reasonable amount of time",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "UT06",
+      "pair_id": "UT1999_2013",
+      "dimension": "Mixed-activity presumption",
+      "category": "inventions",
+      "holder": "institution; creator",
+      "operation": "ownership presumption",
+      "before_ids": [
+        68348
+      ],
+      "after_ids": [
+        68414
+      ],
+      "before_locator": "III.B.3, pp.1-2",
+      "after_locator": "III.B.3, p.6",
+      "before": "Presumption in mixed university/nonuniversity research covers faculty, staff and students.",
+      "after": "Corresponding presumption expressly addresses students.",
+      "change": "presumption_population_narrowed",
+      "direction": "creator_protection_for_removed_actors",
+      "qualification": "Employee ownership grounds remain; removing this presumption is not automatic creator title.",
+      "before_quote": "faculty, staff or students",
+      "after_quote": "research conducted by a student",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "UT07",
+      "pair_id": "UT1999_2013",
+      "dimension": "Named research outputs",
+      "category": "software; research datasets; biological materials",
+      "holder": "institution; faculty custodian",
+      "operation": "operative definition; custody; retained copy",
+      "before_ids": [
+        68345,
+        68381
+      ],
+      "after_ids": [
+        68392,
+        68393,
+        68394,
+        68409
+      ],
+      "before_locator": "III.B.1, p.1; IV.C, p.4",
+      "after_locator": "II.B, pp.2-3; III.B.1, p.5",
+      "before": "General inventions/discoveries claim; software mentioned in commercialization provision.",
+      "after": "Definition expressly includes software and research outputs; notebook custody includes delivery and retained-copy terms.",
+      "change": "definition_expanded_with_linked_control_terms",
+      "direction": "broader_explicit_enumeration_net_title_indeterminate",
+      "qualification": "New enumeration is verified, but prior umbrella coverage and companion copyright rules preclude counting every newly listed asset as newly acquired university property.",
+      "before_quote": "University-owned software programs",
+      "after_quote": "data, lab notebooks, charts, biological materials",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "HI01",
+      "pair_id": "HI1985_2020",
+      "dimension": "Academic-work ownership",
+      "category": "scholarly publications; teaching materials",
+      "holder": "creator",
+      "operation": "retained creator rights; exception",
+      "before_ids": [
+        37290,
+        37291,
+        37292
+      ],
+      "after_ids": [
+        37223,
+        37224,
+        37226
+      ],
+      "before_locator": "V.1-3, p.9",
+      "after_locator": "III.D.1-3, p.7",
+      "before": "Qualified faculty/staff copyright baseline and own-initiative educational materials belong to creators.",
+      "after": "Qualified employee copyright baseline and own-initiative educational materials remain creator-owned.",
+      "change": "core_allocation_stable",
+      "direction": "unchanged_selected_baseline",
+      "qualification": "Work-for-hire and sponsorship qualifications remain. This does not establish stability of every exception or all employee populations.",
+      "before_quote": "prepared on their own initiative",
+      "after_quote": "prepared on their own initiative",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "HI02",
+      "pair_id": "HI1985_2020",
+      "dimension": "Syllabi and reuse",
+      "category": "teaching materials",
+      "holder": "creator; institution limited access",
+      "operation": "creator protection; limited access; consent condition",
+      "before_ids": [
+        37292
+      ],
+      "after_ids": [
+        37229,
+        37230,
+        37231
+      ],
+      "before_locator": "V.3, p.9",
+      "after_locator": "III.D.3(b), p.8",
+      "before": "General own-initiative educational-materials protection.",
+      "after": "Syllabi classified as own-initiative materials; required accreditation copies confer no publication/reuse entitlement without consent.",
+      "change": "specific_category_and_use_protection_added_to_policy",
+      "direction": "creator_protective_specification",
+      "qualification": "Absence of explicit earlier reuse terms is not proof that reuse was legally unrestricted. Not a demonstrated first creation of creator ownership.",
+      "before_quote": "classroom, educational or professional purposes",
+      "after_quote": "written consent",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "HI03",
+      "pair_id": "HI1985_2020",
+      "dimension": "Distance-learning control",
+      "category": "teaching materials; recorded instruction",
+      "holder": "creator; institution limited use",
+      "operation": "limited use authorization; retained control; agreement condition",
+      "before_ids": [
+        37292,
+        37293
+      ],
+      "after_ids": [
+        37232,
+        37233,
+        37234,
+        37235
+      ],
+      "before_locator": "V.3-5, pp.9-10; contextual CBA Article XI.B, printed pp.18-19",
+      "after_locator": "III.D.3(c)-4, pp.8-9",
+      "before": "General educational-materials and commissioned-work provisions; faculty recording arrangement already appears in 2003-2009 CBA.",
+      "after": "Compensated/release-time distance instruction may be recorded; later sale or retransmission requires written agreement.",
+      "change": "new_policy_enumeration_with_earlier_contractual_precedent",
+      "direction": "divided_control_not_blanket_title_transfer",
+      "qualification": "CBA covers faculty only, and its 50/50 net-profit condition differs from 2020 policy. Evidence supports earlier precedent, not exact equivalence or uninterrupted application.",
+      "before_quote": "specifically to produce such work",
+      "after_quote": "mutually agreeable terms",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "HI04",
+      "pair_id": "HI1985_2020",
+      "dimension": "Work-for-hire boundary",
+      "category": "scholarly publications; teaching materials",
+      "holder": "institution; creator subject to agreements",
+      "operation": "institutional ownership exception",
+      "before_ids": [
+        37293,
+        37294
+      ],
+      "after_ids": [
+        37234,
+        37235
+      ],
+      "before_locator": "V.4-5, pp.9-10",
+      "after_locator": "III.D.4, pp.8-9",
+      "before": "Commissioned work by employee specifically hired or assigned to produce it; commissioned nonemployee written agreement.",
+      "after": "Employee wording also expressly covers release from other work; CBA and employment agreement qualifications retained.",
+      "change": "institutional_exception_explicitly_extended_or_clarified",
+      "direction": "indeterminate_incremental_scope",
+      "qualification": "Release-time production could already have been an assignment under earlier language; cannot count all such works as newly institution-owned. Copyright law remains external.",
+      "before_quote": "specifically to produce such work",
+      "after_quote": "released from other work",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "HI05",
+      "pair_id": "HI1985_2020",
+      "dimension": "Private invention exception",
+      "category": "inventions",
+      "holder": "creator; institution",
+      "operation": "conditional ownership; exception",
+      "before_ids": [
+        37271,
+        37272
+      ],
+      "after_ids": [
+        37202,
+        37203
+      ],
+      "before_locator": "IV.1-2, pp.4-5",
+      "after_locator": "III.C.4(a)-(b), p.4",
+      "before": "Independent invention exception requires no contractual obligation or specified university/sponsor resources.",
+      "after": "Comparable independent-invention branch additionally specifies personal private time.",
+      "change": "explicit_exception_condition_added",
+      "direction": "narrower_stated_creator_exception",
+      "qualification": "Whether an invention made at other times was already contractually obligated is unobserved. Textual narrowing is not an estimated transfer of actual inventions.",
+      "before_quote": "independently of any contractual obligations",
+      "after_quote": "personal, private time",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    },
+    {
+      "id": "HI06",
+      "pair_id": "HI1985_2020",
+      "dimension": "Sponsored publication delay",
+      "category": "scholarly publications; inventions",
+      "holder": "researcher; institution; sponsor",
+      "operation": "retained publication right; temporary delay",
+      "before_ids": [
+        37286,
+        37287
+      ],
+      "after_ids": [
+        37219,
+        37220
+      ],
+      "before_locator": "IV.8.1, p.8",
+      "after_locator": "III.C.8(a)(1), pp.6-7",
+      "before": "Patent-filing delay ceiling of six months from notice.",
+      "after": "Patent-filing delay ceiling of two months from notice.",
+      "change": "sponsor_delay_ceiling_shortened",
+      "direction": "stronger_publication_protection",
+      "qualification": "Stated contracting constraint, not measured publication behavior; exact intervening change date not established.",
+      "before_quote": "SIX (6) months",
+      "after_quote": "two months",
+      "quote_source": "Frozen cleaned corpus; original-policy context checked separately"
+    }
+  ]
+}

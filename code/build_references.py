@@ -74,6 +74,8 @@ def main():
       ('creighton2019','','Creighton University',2019,'Intellectual Property Policy','Policy 4.2.3, revised 22 April 2019','https://www.creighton.edu/sites/default/files/2022-01/4-2-3-Intellectual-Property-rev-4-22-19.pdf','Sections C, D.2 and Appendix I: conditional ownership, reciprocal license, exclusions and assignment form.')]
     for k,g,f,y,t,p,u,c in manual:
         records.append(dict(key=k,type='book' if k=='palmer1962' else 'misc',title=t,authors=[dict(family=f,given=g)],year=y,journal='',publisher=p,volume='',issue='',pages='',doi='',url=u,claim=c,verification='primary_source_relevant_passages_checked',content_scope='Named provisions/passages inspected; no independent human legal review.',corrections='No DOI applicable or located.'))
+    for r in json.loads((ROOT/'references/additional_primary_sources.json').read_text()):
+        records.append(dict(type='misc',journal='',volume='',issue='',pages='',doi='',verification='official_document_selected_passages_checked',content_scope='Source-linked historical comparisons; AI-assisted, not independent human review.',corrections='No DOI applicable; version and scope qualifications retained.',**r))
     records.sort(key=lambda r:(tuple(a['family'].lower() for a in r['authors']),r['year'],r['key']))
     bib=[]; rendered=[]; audit=[]
     for r in records:
@@ -96,7 +98,7 @@ def main():
         else:details=r'\emph{'+tex(r['title'])+'}. '+tex(r['publisher'])+'.'
         link='https://doi.org/'+r['doi'] if r['doi'] else r['url']
         rendered.append(r'\bibitem['+tex(label)+'('+str(r['year'])+')]{'+r['key']+'} '+tex(display)+' ('+str(r['year'])+'). '+details+r' \url{'+link+'}.')
-        audit.append({k:r[k] for k in ['key','title','year','journal','publisher','volume','issue','pages','doi','url','claim','verification','content_scope','corrections']}|{'authors':'; '.join((a['given']+' '+a['family']).strip() for a in authors),'checked_on':DATE,'checker':'AI-assisted source comparison; no independent human verifier','metadata_cache':f"references/metadata/{r['key']}.json" if (ROOT/f"references/metadata/{r['key']}.json").exists() else 'primary source linked','issue_pages_status':'article fields checked; book/statute/report/case fields not journal-applicable'})
+        audit.append({k:r[k] for k in ['key','title','year','journal','publisher','volume','issue','pages','doi','url','claim','verification','content_scope','corrections']}|{'authors':'; '.join((a['given']+' '+a['family']).strip() for a in authors),'checked_on':r.get('checked_on',DATE),'checker':'AI-assisted source comparison; no independent human verifier','metadata_cache':f"references/metadata/{r['key']}.json" if (ROOT/f"references/metadata/{r['key']}.json").exists() else 'primary source linked','issue_pages_status':'article fields checked; book/statute/report/case fields not journal-applicable'})
     (ROOT/'references/references.bib').write_text('\n\n'.join(bib)+'\n')
     (ROOT/'references/references.tex').write_text('\\begin{thebibliography}{99}\n'+ '\n\n'.join(rendered)+'\n\\end{thebibliography}\n')
     with (ROOT/'references/reference_audit.csv').open('w') as f:

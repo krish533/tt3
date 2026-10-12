@@ -103,5 +103,27 @@ class TestFrozenResearchPackage(unittest.TestCase):
     def test_overleaf_mirror(self):
         from sync_overleaf import sync
         sync(check=True)
+    def test_substantive_units_and_unknowns(self):
+        import json
+        a=json.loads((self.root/'results/substantive_analysis_summary.json').read_text())
+        self.assertEqual((a['selected_adjacent_comparisons'],a['additional_nonadjacent_endpoint_comparisons']),(1,1))
+        self.assertEqual(a['relationship_comparisons'],13)
+        self.assertEqual(a['unreviewed_adjacent_pairs']+a['selected_adjacent_comparisons'],330)
+        self.assertEqual(a['fully_adjudicated_pairs'],0)
+        p=pd.read_csv(self.root/'results/substantive_pair_classification.csv')
+        self.assertTrue(p.net_institutional_expansion.eq('indeterminate').all())
+        self.assertFalse(a['population_transition_frequencies_estimated'])
+    def test_substantive_evidence_links(self):
+        import hashlib
+        links=pd.read_csv(self.root/'results/substantive_evidence_links.csv')
+        corpus=pd.read_csv(self.root/'input/policy_sentences_cleaned_combined.csv')
+        for r in links.itertuples():
+            row=corpus.iloc[int(r.sentence_id[3:])-1]
+            self.assertEqual((row.Institution,int(row.Year),row.File),(r.Institution,r.Year,r.File))
+            self.assertEqual(hashlib.sha256(row.Sentence_Cleaned.encode()).hexdigest(),r.text_sha256)
+        changes=pd.read_csv(self.root/'results/substantive_relationship_changes.csv')
+        self.assertTrue(changes.id.is_unique)
+        self.assertFalse(changes.independent_human_validation.any())
+        self.assertTrue(changes.enforceability.eq('not_adjudicated').all())
 
 if __name__=="__main__": unittest.main()

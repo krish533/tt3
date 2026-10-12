@@ -1,13 +1,15 @@
 {
   "figures/archival_coverage.pdf": "493bd5194c808f2eda0955a93df70e2b7dbac1981fba79e2ebec957519b8d0dd",
   "figures/archival_coverage.png": "5e277df041830ff56af5f050494444e81e3177e5721d63934e5edcf089408c26",
-  "main.tex": "894d1ab2f370a53c07ce6a89dd42dd7c9ca05a32060b1e662207015c9d3bc2ff",
+  "main.tex": "a7c4cf24e979f01ae1b9e47f43b9b3a5d9382fbfdc1f03f188d5b580bb7a7671",
   "numbers.tex": "e4c2b7c81f92bdaeb8d49e540682f66eb46141aca1ade20d9c0d5e06a360a1db",
-  "references/references.bib": "eda3e07e348a49aa8864331230705696cb5ff7ac9a2a0c486cdabf1b10ad6934",
-  "references/references.tex": "bb70616c3e5bf296c5dcedb8cecc9b201983337a864b4c5bbaab9a8b0114c58f",
+  "references/references.bib": "ad575f190ad0279b7812fc02d5199f7a94e3e62e243a465e84ba876adf993b6a",
+  "references/references.tex": "f4c45c6f61c717e5cf469cafefddce22e4b7cf9f341de069e320b57f00756627",
   "tables/decades.tex": "23529e978b796e453f62e6921d408a7789345e4c698245234c187eebffd7b2d6",
+  "tables/definition_rights.tex": "f3c8bb2d202a0e50350411c289384beb2387cf2687d0a49eabaf87ce7e8eadc8",
   "tables/population.tex": "bf04069ebae947241de17080755697ae286a09497eb884fddc91bfd503f71e30",
   "tables/sensitivity.tex": "ab57e162ff2c3f1b2539fc6dd07d06f23caff0ced9e9765df2b209def46e3d03",
+  "tables/substantive_rules.tex": "b8838b9fe28e006d1c80108cdef56eff4617d9c966fe47b4d24af83f3fa71494",
   "tables/transitions.tex": "cbcfde39ef81a5daebeff24d508255a157f2edf4339a42f76ddf89eade5a067e",
   "tables/weighted.tex": "abe4c56beaced46a30099007e736d0ff0c660636e3605959c8158e8b7352bce8"
 }

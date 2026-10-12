@@ -27,3 +27,12 @@ Knowledge flags may overlap. `emerging_technologies` includes AI and older mask-
 Missing legal labels mean unknown, never no ownership. No source text is changed to repair duplicates or date discrepancies. Sensitivity files identify alternative populations explicitly. Each analysis uses direct observations; the carried-forward panel is read only to reconcile identifiers and counts.
 
 `validation_supplement_manifest.csv` is a separate category/operation enrichment sample. Rows are sentence–stratum memberships, may overlap, and report within-stratum probabilities only; do not pool them unweighted with the main probability sample.
+
+## Substantive comparison extension
+
+- `substantive_relationship_changes.csv`: 13 curated relationship rows; before/after interpretation, excerpt, section, row IDs, URLs, source hashes, direction and qualifications. Excerpts are from the frozen cleaned corpus.
+- `substantive_evidence_links.csv`: one relationship/endpoint/sentence link, preserving original institution, year, filename and text hash.
+- `substantive_pair_classification.csv`: two selected endpoint pairs; adjacency, authentication, scope, definition/enumeration and mixed conclusions.
+- `substantive_comparability_register.csv`: all 330 adjacent pairs; unreviewed cases remain unknown.
+- `substantive_analysis_summary.json`: distinct counts of relationships, institutions, adjacent and nonadjacent comparisons; zero independently validated pairs.
+- `revision_source_snapshot.json` under `data/`: frozen metadata for six reviewed context sources; raw documents stay local.

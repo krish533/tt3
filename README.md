@@ -4,7 +4,7 @@ Paper 3 studies university property-right allocations, separately from Paper 1's
 
 The original counts reproduce: 150 universities, 480 directly observed institution-years (1944–2025), 4,277 panel rows including 3,797 carried-forward rows, and 2,779 screening matches in 449 observed records. The audit distinguishes 518 institution-year-filename groups. It preserves the established population, excludes the single 1925 row, and identifies repeated text, sentence-key collisions and multi-file records.
 
-Across 330 adjacent observed-vintage pairs from 129 universities, data terminology appears in 57 pairs and disappears in 24; software appears in 48 and disappears in 27. These are **mentions, not ownership transitions**. Software results are sensitive to restricting the gaps between vintages. Twelve selected AI-assisted legal readings illustrate conditional claims, exceptions, licenses and assignment language. There are no independent human annotations or fully adjudicated institution-year outcomes.
+Across 330 adjacent observed-vintage pairs from 129 universities, data terminology appears in 57 pairs and disappears in 24; software appears in 48 and disappears in 27. These are **mentions, not ownership transitions**. Software results are sensitive to restricting the gaps between vintages. The substantive revision adds 13 source-linked relationship comparisons at Utah and Hawaiʻi, alongside the earlier illustrative readings. Utah combines changed assignment wording with a narrower resource branch; Hawaiʻi preserves a qualified creator baseline while specifying use rights, with an earlier contractual precedent. These are purposive comparisons, not national frequencies. See [the substantive scientific audit](docs/substantive_revision_audit.md). There are no independent human annotations or fully adjudicated institution-year outcomes.
 
 ## Read the paper and audit
 
@@ -12,7 +12,7 @@ Across 330 adjacent observed-vintage pairs from 129 universities, data terminolo
 - [Overleaf import ZIP](deliverables/paper3-overleaf.zip); no online project was created
 - [Research audit](docs/research_audit.md), [adversarial review](docs/adversarial_review.md), [submission readiness](docs/submission_readiness.md)
 - [Legal codebook](docs/legal_coding_protocol.md), [data dictionary](docs/data_dictionary.md)
-- [48-entry reference audit](references/reference_audit.csv), [BibTeX](references/references.bib), [verification limits](docs/reference_verification_notes.md)
+- [54-entry reference audit](references/reference_audit.csv), [BibTeX](references/references.bib), [verification limits](docs/reference_verification_notes.md)
 
 ## Reproduce
 

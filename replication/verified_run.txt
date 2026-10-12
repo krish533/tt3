@@ -59,12 +59,6 @@ Institutions with multiple observed vintages: 129
   }
 }
 {'expanded_review_sentences': 25168, 'original_candidates': 2779, 'additional_review_sentences': 22722, 'legal_accuracy_estimated': False}
-
-Fontconfig error: No writable cache directories
-	/opt/homebrew/var/cache/fontconfig
-	/Users/krishnasharma/.cache/fontconfig
-	/Users/krishnasharma/.fontconfig
-Matplotlib is building the font cache; this may take a moment.
                                       sensitivity  sentences  candidates  per_1000  observed_records  institutions
                                 primary_unchanged      87159        2779 31.884258               480           150
      deduplicate_normalized_sentences_within_file      84456        2768 32.774462               480           150
@@ -72,10 +66,11 @@ exclude_sentence_identifier_collision_institution      82858        2767 33.3944
                              observed_1980_onward      84756        2753 32.481476               467           150
 Embedded URL occurrences 295 unique 212 policy-link candidates 39
 {'probability_sample_sentences': 178, 'sample_institutions': 68, 'purposive_readings': 12, 'purposive_sentence_links': 15, 'independent_human_annotators': 0, 'reference_standard_labels': 0, 'precision': None, 'recall': None, 'agreement': None, 'reason': 'No independent reference standard; purposive AI-assisted readings diagnose errors without estimating accuracy.', 'supplement_stratum_draws': 240, 'supplement_unique_sentences': 236, 'supplement_institutions': 80, 'supplement_strata': 20}
-Bibliography records: 48
-{'bibliography_entries': 48, 'cited_entries': 48, 'unresolved_citations': [], 'uncited_entries': [], 'abstract_words': 147, 'tables': 6, 'figures': 1, 'legal_population_accuracy_estimated': False, 'submission_ready': False}
+{'frozen_adjacent_pairs': 330, 'selected_adjacent_comparisons': 1, 'additional_nonadjacent_endpoint_comparisons': 1, 'selected_institutions': 2, 'relationship_comparisons': 13, 'unreviewed_adjacent_pairs': 329, 'fully_adjudicated_pairs': 0, 'independently_validated_pairs': 0, 'population_transition_frequencies_estimated': False, 'note': 'Do not count relationship rows as independent policy revisions. Mixed outcomes cannot be collapsed into a scalar expansion score.'}
+Bibliography records: 54
+{'bibliography_entries': 54, 'cited_entries': 54, 'unresolved_citations': [], 'uncited_entries': [], 'abstract_words': 143, 'tables': 4, 'figures': 1, 'legal_population_accuracy_estimated': False, 'submission_ready': False}
 Overleaf mirror and ZIP generated
-<clean-checkout>/deliverables/paper3-word.rtf
+<checkout>/deliverables/paper3-word.rtf
 test_actual_missed_provisions_remain_visible (test_pipeline.TestFrozenResearchPackage.test_actual_missed_provisions_remain_visible) ... ok
 test_all_category_transitions_reconcile (test_pipeline.TestFrozenResearchPackage.test_all_category_transitions_reconcile) ... ok
 test_bibliography_corrections_and_resolution (test_pipeline.TestFrozenResearchPackage.test_bibliography_corrections_and_resolution) ... ok
@@ -86,12 +81,14 @@ test_population_denominators (test_pipeline.TestFrozenResearchPackage.test_popul
 test_rare_category_enrichment (test_pipeline.TestFrozenResearchPackage.test_rare_category_enrichment) ... ok
 test_sampling_weights_and_negative_cases (test_pipeline.TestFrozenResearchPackage.test_sampling_weights_and_negative_cases) ... ok
 test_source_checksums (test_pipeline.TestFrozenResearchPackage.test_source_checksums) ... ok
+test_substantive_evidence_links (test_pipeline.TestFrozenResearchPackage.test_substantive_evidence_links) ... ok
+test_substantive_units_and_unknowns (test_pipeline.TestFrozenResearchPackage.test_substantive_units_and_unknowns) ... ok
 test_unique_row_ids_despite_sentence_collisions (test_pipeline.TestFrozenResearchPackage.test_unique_row_ids_despite_sentence_collisions) ... ok
 test_validation_not_fabricated (test_pipeline.TestFrozenResearchPackage.test_validation_not_fabricated) ... ok
 test_historical_filter_and_candidates (test_pipeline.TestPipeline.test_historical_filter_and_candidates) ... ok
 
 ----------------------------------------------------------------------
-Ran 13 tests in 0.158s
+Ran 15 tests in 0.298s
 
 OK
 Overleaf mirror verified

@@ -29,6 +29,14 @@ Edit only `manuscript/main.tex`, generated-table code, or the accepted reference
 
 The package redistributes derived identifiers, flags, counts and short analytical paraphrases, not the upstream full corpus or downloaded policies. Public accessibility does not establish unrestricted republication rights. Original-text validation samples and reconstructed context are rebuilt locally. `results/table_figure_audit.csv` and `results/manuscript_claim_audit.csv` connect manuscript claims to outputs. `docs/data_dictionary.md` distinguishes the units. `docs/submission_readiness.md` and `docs/adversarial_review.md` record unresolved research and publication requirements.
 
-## Verified execution
+## Previous release verification (superseded for current artifact hashes)
 
 A fresh Git checkout at `d2cb7f1` downloaded the pinned inputs and completed the pipeline with 13 tests passing. All 37 recorded deterministic output hashes matched, and the checkout remained clean. This used the existing pinned Python environment, not a newly provisioned virtual environment. The exported Overleaf ZIP also compiled independently using only the cached TeX bundle. See `verified_run.txt`, `execution_environment.json`, and `results/release_verification.json`. Run `python3 code/package_release.py --check` to check recorded output hashes; `python3 code/package_release.py` refreshes the replication ZIP after approved changes.
+
+## Substantive revision extension (11 October 2026)
+
+`python3 code/replicate.py` now also runs `analyze_substantive_transitions.py`. This regenerates curated relationship comparisons and their evidence links from `data/substantive_comparisons.json`, validates original row identities/excerpts and generates the complete adjacent-pair comparability register. Interpretive labels are research inputs, not algorithmically proven legal findings. Six contextual source hashes are frozen in `data/revision_source_snapshot.json`; any available cached file must match. The deterministic pipeline does not require redistribution or renewed download of those documents.
+
+`python3 code/retrieve_revision_sources.py` optionally retrieves the official context documents into ignored `input/revisions/`, with TLS verification, hashes and failures logged. Poppler is required for PDF extraction. The legislative-history DOCX is read as XML for research context, not converted into a submission artifact. A changed source hash requires renewed review before changing the snapshot. The 2009 agreement URL currently fails; the separately listed 2003 agreement supplies the reviewed contractual precedent.
+
+The 13 relationship entries are nested in two institutional comparisons, not 13 independent revisions. Only Utah belongs to the original adjacent-pair register. Hawaiʻi spans an intermediate unverified vintage and must not be pooled into the 330-pair denominator. Independent human legal validation remains absent.

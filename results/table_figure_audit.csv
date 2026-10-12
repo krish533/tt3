@@ -1,8 +1,6 @@
 item,file,source,meaning
 Table 1,manuscript/tables/population.tex,results/corpus_audit.json,Corpus accounting
-Table 2,manuscript/tables/decades.tex,results/screening_by_decade.csv,"Lexical retrieval rate, not ownership"
-Table 3,manuscript/tables/transitions.tex,results/lexical_transition_matrix.csv,"Category mentions, not rules"
-Table 4,manuscript/tables/weighted.tex,results/lexical_institution_weighted_changes.csv,Archive-conditioned lexical changes
-Table 5,manuscript/tables/sensitivity.tex,results/screening_sensitivity.csv,Sensitivity of screen only
-Table 6,manuscript/main.tex,results/illustrative_legal_evidence.csv; results/ownership_transition_review.csv,Selected textual relationships and nonvalidated transition status
+Table 2,manuscript/tables/substantive_rules.tex,results/substantive_relationship_changes.csv,Seven selected dimensions from two comparisons; not independent revisions
+Table 3,manuscript/tables/definition_rights.tex,results/substantive_pair_classification.csv,Case-level naming and allocation; no population frequencies
+Table 4,manuscript/tables/transitions.tex,results/lexical_transition_matrix.csv,"Category mentions, not rules"
 Figure 1,manuscript/figures/archival_coverage.pdf,results/frozen_observed_population.csv,Observed vintage counts

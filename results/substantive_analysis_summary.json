@@ -1,0 +1,12 @@
+{
+  "frozen_adjacent_pairs": 330,
+  "selected_adjacent_comparisons": 1,
+  "additional_nonadjacent_endpoint_comparisons": 1,
+  "selected_institutions": 2,
+  "relationship_comparisons": 13,
+  "unreviewed_adjacent_pairs": 329,
+  "fully_adjudicated_pairs": 0,
+  "independently_validated_pairs": 0,
+  "population_transition_frequencies_estimated": false,
+  "note": "Do not count relationship rows as independent policy revisions. Mixed outcomes cannot be collapsed into a scalar expansion score."
+}

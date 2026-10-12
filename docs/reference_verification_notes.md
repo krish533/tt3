@@ -1,6 +1,10 @@
+# 11 October update
+
+Six primary sources in `references/additional_primary_sources.json` bring the bibliography to 54 entries. These are Utah’s 1999 and 2013 policies, its May 2013 committee memorandum, Hawaiʻi’s 1985 and 2020 policies and the 2003–2009 faculty agreement. Selected source passages and version qualifications are logged in `data/revision_source_snapshot.json` and the substantive ledger. Jamali’s primary article was rechecked; renewed Halilem publisher access returned 403. The prior scholarly verification limits below remain in force.
+
 # Reference verification and limits
 
-The bibliography contains 48 relevant entries: 36 scholarly works, a historical policy survey, seven statutory/judicial/agency sources, and four university policy sources. All are cited. The audit records author names, title, date, publication, volume/issue/page or article number, DOI where applicable, primary link, claim supported, verification scope and correction history. Book and legal-source fields that do not apply are left empty rather than fabricated.
+The 10 October bibliography contained 48 relevant entries: 36 scholarly works, a historical policy survey, seven statutory/judicial/agency sources, and four university policy sources. All are cited. The audit records author names, title, date, publication, volume/issue/page or article number, DOI where applicable, primary link, claim supported, verification scope and correction history. Book and legal-source fields that do not apply are left empty rather than fabricated.
 
 Crossref is a metadata aid, not a substantive reference standard. Original metadata are retained under `references/metadata/`; ambiguous title-search results and rejected versions are preserved. Corrections include a reversed given/family name for Partha Dasgupta, incomplete page ranges, later reprints or working papers returned instead of original articles, a misleading NRC publication date, HTML entities and an Oxford publisher-field concatenation. DOI-bearing working papers are not silently substituted for the cited journal version. The official original versions of Rai (1999), Rai and Eisenberg (2003), and Reichman and Uhlir (2003) are cited without invented original-journal DOIs.
 

@@ -1,0 +1,62 @@
+[
+  {
+    "source_id": "utah_history",
+    "url": "https://regulations.utah.edu/research/revisions_7/7-002R4-background.docx",
+    "retrieved_at": "2026-10-11T20:28:33.360989+00:00",
+    "status": 200,
+    "resolved_url": "https://regulations.utah.edu/research/revisions_7/7-002R4-background.docx",
+    "sha256": "f56eaf04385976638ed37559b6bda05259ec55c406813393db319f2fbc42e834",
+    "local_path": "input/revisions/utah_history.docx",
+    "interpretation_status": "selected_passages_AI_checked_2026-10-11; no independent human validation"
+  },
+  {
+    "source_id": "utah_r3",
+    "url": "https://regulations.utah.edu/_resources/documents/ppm-archive/6/6-4.pdf",
+    "retrieved_at": "2026-10-11T20:28:33.505845+00:00",
+    "status": 200,
+    "resolved_url": "https://regulations.utah.edu/_resources/documents/ppm-archive/6/6-4.pdf",
+    "sha256": "ad2cc999e883aa268ed17fcf53269066bebaf626122af511168b14d90d6cfe81",
+    "local_path": "input/revisions/utah_r3.pdf",
+    "interpretation_status": "selected_passages_AI_checked_2026-10-11; no independent human validation"
+  },
+  {
+    "source_id": "utah_r4",
+    "url": "https://regulations.utah.edu/research/revisions_7/7-002.r4.pdf",
+    "retrieved_at": "2026-10-11T20:28:34.015726+00:00",
+    "status": 200,
+    "resolved_url": "https://regulations.utah.edu/research/revisions_7/7-002.r4.pdf",
+    "sha256": "afad74d541a2bce4b3508008a341152a2605e6666629dea58dd7875b62d2d75e",
+    "local_path": "input/revisions/utah_r4.pdf",
+    "interpretation_status": "selected_passages_AI_checked_2026-10-11; no independent human validation"
+  },
+  {
+    "source_id": "hawaii1985",
+    "url": "https://www.hawaii.edu/policy/archives/ep/e5/e5500.pdf",
+    "retrieved_at": "2026-10-11T20:28:34.391388+00:00",
+    "status": 200,
+    "resolved_url": "https://www.hawaii.edu/policy/archives/ep/e5/e5500.pdf",
+    "sha256": "744ae8e932d9126ce74a58ed2b3cd226a98712848fdad38d214ffd9cc3fd284e",
+    "local_path": "input/revisions/hawaii1985.pdf",
+    "interpretation_status": "selected_passages_AI_checked_2026-10-11; no independent human validation"
+  },
+  {
+    "source_id": "hawaii2020",
+    "url": "https://www.hawaii.edu/policy/ep/12/205/ep12.205.pdf",
+    "retrieved_at": "2026-10-11T20:28:35.106790+00:00",
+    "status": 200,
+    "resolved_url": "https://www.hawaii.edu/policy/docs/temp/ep12.205.pdf",
+    "sha256": "cd094877178a800d42a5b09c3287b1e347ae89ff72ba61cd820f1ef03812144e",
+    "local_path": "input/revisions/hawaii2020.pdf",
+    "interpretation_status": "selected_passages_AI_checked_2026-10-11; no independent human validation"
+  },
+  {
+    "source_id": "hawaii_cba2003",
+    "url": "https://hilo.hawaii.edu/uhh/accreditation/documents/2003-2009BU7AGREEMENT_2.pdf",
+    "retrieved_at": "2026-10-11T20:28:36.884158+00:00",
+    "status": 200,
+    "resolved_url": "https://hilo.hawaii.edu/uhh/accreditation/documents/2003-2009BU7AGREEMENT_2.pdf",
+    "sha256": "cac58ad5690ab92aab1c771fade83e785c64dd6dbbfb5453c01d598f24aaa6c5",
+    "local_path": "input/revisions/hawaii_cba2003.pdf",
+    "interpretation_status": "selected_passages_AI_checked_2026-10-11; no independent human validation"
+  }
+]

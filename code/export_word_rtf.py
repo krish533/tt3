@@ -9,7 +9,7 @@ from build_references import page_range
 ROOT=Path(__file__).resolve().parents[1]
 REFS={r['key']:r for r in json.loads((ROOT/'references/accepted_records.json').read_text())}
 MACROS=dict(re.findall(r'\\newcommand\{\\(\w+)\}\{([^}]+)\}',(ROOT/'manuscript/numbers.tex').read_text()))
-LABELS={'tab:population':'1','tab:decades':'2','tab:transitions':'3','tab:weighted':'4','tab:sensitivity':'5','tab:readings':'6','fig:coverage':'1'}
+LABELS={'tab:population':'1','tab:rules':'2','tab:definitionrights':'3','tab:transitions':'4','fig:coverage':'1'}
 def citation(m):
  kind,extra,keys=m.groups();values=[]
  for key in keys.split(','):
@@ -52,7 +52,7 @@ def main():
  body=text.split('\\begin{abstract}',1)[1].split('\\begingroup',1)[0]
  body='\\section*{Abstract}\n'+body.replace('\\end{abstract}','')
  blocks=re.split(r'(\\begin\{table\}.*?\\end\{table\}|\\begin\{figure\}.*?\\end\{figure\}|\\section\*?\{[^}]+\})',body,flags=re.S)
- output=[r'{\rtf1\ansi\deff0{\fonttbl{\f0 Times New Roman;}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\f0',para('Who Owns Academic Knowledge?',True,32,True),para('The Evolution of Intellectual Property Rights in American Universities',True,30,True),para('Anonymous research manuscript',center=True),para('10 October 2026',center=True),para('Historical policy evidence, legal distinctions, and limits of identification',center=True),para('Approximate total word count: 6,500, including tables and references',center=True),para(status),r'\page']
+ output=[r'{\rtf1\ansi\deff0{\fonttbl{\f0 Times New Roman;}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\f0',para('Who Owns Academic Knowledge?',True,32,True),para('The Evolution of Intellectual Property Rights in American Universities',True,30,True),para('Anonymous research manuscript',center=True),para('11 October 2026',center=True),para('Definitions, assignment and creator protections in historical policy comparisons',center=True),para('Approximate total word count: 7,500, including tables and references',center=True),para(status),r'\page']
  table_no=0;section_no=0
  for b in blocks:
   if not b.strip():continue
