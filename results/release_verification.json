@@ -14,6 +14,10 @@
   "online_overleaf_updated": false,
   "independent_human_legal_validation": false,
   "submission_ready": false,
-  "clean_checkout_current_revision": "pending",
-  "remote_ci_current_revision": "pending"
+  "clean_checkout_current_revision": "passed at 4e5693929de12c5a75cb0ccb104de08c402a29f4; 15 tests; 43 output hashes; clean working tree",
+  "remote_ci_current_revision": "success",
+  "clean_checkout_inputs": "Copied read-only pinned upstream files with SHA-256 verification; installed pinned environment reused",
+  "word_decoded_whitespace_words": 7462,
+  "remote_ci_tested_commit": "4e5693929de12c5a75cb0ccb104de08c402a29f4",
+  "remote_ci_url": "https://github.com/krish533/tt3/actions/runs/38212890923"
 }

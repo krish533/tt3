@@ -59,6 +59,12 @@ Institutions with multiple observed vintages: 129
   }
 }
 {'expanded_review_sentences': 25168, 'original_candidates': 2779, 'additional_review_sentences': 22722, 'legal_accuracy_estimated': False}
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/krishnasharma/.cache/fontconfig
+	/Users/krishnasharma/.fontconfig
+Matplotlib is building the font cache; this may take a moment.
                                       sensitivity  sentences  candidates  per_1000  observed_records  institutions
                                 primary_unchanged      87159        2779 31.884258               480           150
      deduplicate_normalized_sentences_within_file      84456        2768 32.774462               480           150
@@ -70,7 +76,7 @@ Embedded URL occurrences 295 unique 212 policy-link candidates 39
 Bibliography records: 54
 {'bibliography_entries': 54, 'cited_entries': 54, 'unresolved_citations': [], 'uncited_entries': [], 'abstract_words': 143, 'tables': 4, 'figures': 1, 'legal_population_accuracy_estimated': False, 'submission_ready': False}
 Overleaf mirror and ZIP generated
-<checkout>/deliverables/paper3-word.rtf
+<clean-checkout>/deliverables/paper3-word.rtf
 test_actual_missed_provisions_remain_visible (test_pipeline.TestFrozenResearchPackage.test_actual_missed_provisions_remain_visible) ... ok
 test_all_category_transitions_reconcile (test_pipeline.TestFrozenResearchPackage.test_all_category_transitions_reconcile) ... ok
 test_bibliography_corrections_and_resolution (test_pipeline.TestFrozenResearchPackage.test_bibliography_corrections_and_resolution) ... ok
@@ -88,7 +94,7 @@ test_validation_not_fabricated (test_pipeline.TestFrozenResearchPackage.test_val
 test_historical_filter_and_candidates (test_pipeline.TestPipeline.test_historical_filter_and_candidates) ... ok
 
 ----------------------------------------------------------------------
-Ran 15 tests in 0.298s
+Ran 15 tests in 0.307s
 
 OK
 Overleaf mirror verified
